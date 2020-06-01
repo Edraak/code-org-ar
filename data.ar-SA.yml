@@ -26,7 +26,7 @@ ar:
         Unplug11: الجلسة الختامية
         MazeEC: المتاهة
         Bounce: الارتداد
-        Flappy: الطائر المرفرف
+        Flappy: الطائر فلابي
         Jigsaw: بانوراما
         MazeStep: وضع خطوة المتاهة
         Wordsearch: البحث عن كلمة
@@ -449,7 +449,7 @@ ar:
         maze_intro: مقدمة حول المتاهة
         artist_intro: مقدمة حول الرسام
         farmer_intro: داخل المزارع
-        flappy_intro: مقدمة flappy
+        flappy_intro: الطائر فلابي
         loop_times: قطعة أكرر بعدد
         loop_until: قطعة أكرر حتى
         if: قطعة اذا كان
