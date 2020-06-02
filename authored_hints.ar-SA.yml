@@ -115,6 +115,137 @@ ar-SA:
 
           **360 / 12 = 30**
 
+      #Lesson 3: Programming with Angry Birds Hints
+      #Start of courseA_maze_seq Hints
+      courseA_maze_seq1_authored_hint:
+      courseA_maze_seq1_a: |-
+        اذا لم تستطع تحريك تيري، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تنفيذ" مجددا <xml>
+          <block type="when_run"/>
+        </xml>
+      courseA_maze_seq1_b: |-
+        يجب أن تحرك تيري ثلاث خطوات باتجاه الغرب (اليسار) حتى يصل الى بيغو. استخدم هذه القطعة البرمجية:
+
+        <xml><block type="maze_moveWest"/></xml>
+      courseA_maze_seq10_authored_hint:
+        courseA_maze_seq10_a: حاول كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!.
+        courseA_maze_seq10_b: يجب أن تتحرك في 3 اتجاهات لإنجاز هذه المرحلة.
+      courseA_maze_seq10_2018_authored_hint:
+        courseA_maze_seq10_a: حاول كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!.
+        courseA_maze_seq10_b: عليك استخدام 3 قطع برمجية ذات اتجاهات مختلفة لحل هذه المرحلة.
+      courseA_maze_seq10_2019_authored_hint:
+        courseA_maze_seq10_a: حاول كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!.
+        courseA_maze_seq10_b: عليك استخدام 3 قطع برمجية ذات اتجاهات مختلفة لحل هذه المرحلة.
+      courseA_maze_seq11_authored_hint: {}
+      courseA_maze_seq11_2018_authored_hint: {}
+      courseA_maze_seq11_2019_authored_hint: {}
+      courseA_maze_seq12_authored_hint: {}
+      courseA_maze_seq12_2018_authored_hint: {}
+      courseA_maze_seq12_2019_authored_hint: {}
+      courseA_maze_seq12_predict2_authored_hint: {}
+      courseA_maze_seq13_authored_hint:
+        courseA_maze_seq13_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq13_b: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseA_maze_seq13_c: هاتان القطعتان <xml><block type="maze_moveNorth"/></xml><xml><block type="maze_moveEast"/></xml>  ستساعدانك في الاقتراب من بيغو.
+      courseA_maze_seq13_2018_authored_hint:
+        courseA_maze_seq13_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq13_b: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseA_maze_seq13_c: هاتان القطعتان <xml><block type="maze_moveNorth"/></xml><xml><block type="maze_moveEast"/></xml>  ستساعدانك في الاقتراب من بيغو.
+      courseA_maze_seq13_2019_authored_hint:
+        courseA_maze_seq13_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq13_b: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseA_maze_seq13_c: |-
+          هاتان القطعتان <xml><block type="maze_moveNorth"/></xml><xml><block type="maze_moveEast"/></xml>  ستساعدانك في الاقتراب من بيغو.
+      courseA_maze_seq1_2018_authored_hint:
+        courseA_maze_seq1_a: |-
+          اذا لم تستطع تحريك تيري، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تنفيذ" مجددا <xml>
+            <block type="when_run"/>
+          </xml>
+        courseA_maze_seq1_b: |-
+          يجب أن تحرك تيري ثلاث خطوات باتجاه الغرب (اليسار) حتى يصل الى بيغو. استخدم هذه القطعة البرمجية:
+
+          <xml><block type="maze_moveWest"/></xml>
+      courseA_maze_seq1_2019_authored_hint:
+        courseA_maze_seq1_a: |-
+          اذا لم تستطع تحريك تيري، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تنفيذ" مجددا <xml>
+            <block type="when_run"/>
+          </xml>
+        courseA_maze_seq1_b: |-
+          يجب أن تحرك تيري ثلاث خطوات باتجاه الغرب (اليسار) حتى يصل الى بيغو. استخدم هذه القطعة البرمجية:
+
+          <xml><block type="maze_moveWest"/></xml>
+      courseA_maze_seq2_authored_hint:
+        courseA_maze_seq2_a: هذا الكود تنقصه قطعة برمجية واحدة. هل تستطيع معرفتها؟
+        courseA_maze_seq2_b: جرب الكود اولا لتعرف اين يصل الطائر. الى اين تريد أن تذهب من هناك؟
+      courseA_maze_seq2_2018_authored_hint:
+        courseA_maze_seq2_a: هذا الكود تنقصه قطعة برمجية واحدة. هل تستطيع معرفتها؟
+        courseA_maze_seq2_b: جرب الكود اولا لتعرف اين يصل الطائر. الى اين تريد أن تذهب من هناك؟
+      courseA_maze_seq2_predict1_authored_hint: {}
+      courseA_maze_seq3_authored_hint:
+        courseA_maze_seq3_a: احدى القطع البرمجية تحرك الطائر في اتجاه خاطئ. هل يمكنك معرفتها وتعديلها؟
+        courseA_maze_seq3_b: جرب استخدام زر "جرب الكود" لمعرفة الخطأ في البرنامج. هل هي الخطوة الأولى ام الثانية؟
+        courseA_maze_seq3_c: لا تحرك الطائر في الاتجاه الصحيح. هل يمكنك تعديلها؟<x<xml><block type="maze_moveNorth"/></xml يبدو أن هذه القطعة
+      courseA_maze_seq3_2018_authored_hint:
+        courseA_maze_seq3_a: احدى القطع البرمجية تحرك الطائر في اتجاه خاطئ. هل يمكنك معرفتها وتعديلها؟
+        courseA_maze_seq3_b: جرب استخدام زر "جرب الكود" لمعرفة الخطأ في البرنامج. هل هي الخطوة الأولى ام الثانية؟
+        courseA_maze_seq3_c:  لا تحرك الطائر في الاتجاه الصحيح. هل يمكنك تعديلها؟<x<xml><block type="maze_moveNorth"/></xml يبدو أن هذه القطعة
+        courseA_maze_seq4_a: هل لديك مشكلة؟حاول أن تعرف الطريق الصحيح ثم أزل القطع البرمجية التي لا تحتاجها.
+        courseA_maze_seq4_b: جرب الكود الموجود في مساحة العمل. هل هناك مشكلة؟ أي قطعة برمجية يمكن أن تزيلها لتحل المشكلة؟
+      courseA_maze_seq4_2018_authored_hint:
+        courseA_maze_seq4_a: هل لديك مشكلة؟حاول أن تعرف الطريق الصحيح ثم أزل القطع البرمجية التي لا تحتاجها.
+        courseA_maze_seq4_b: جرب الكود الموجود في مساحة العمل. هل هناك مشكلة؟ أي قطعة برمجية يمكن أن تزيلها لتحل المشكلة؟
+      courseA_maze_seq4a_authored_hint:
+        courseA_maze_seq4_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة
+      courseA_maze_seq5_authored_hint:
+        courseA_maze_seq5_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!!
+        courseA_maze_seq5_b: تحتاج قطعتين برمجيتيين لتتحرك في اتجاهين مختلفين.
+      courseA_maze_seq5_2018_authored_hint:
+        '1': جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!!
+        '2': |-
+          عليك استخدام هذه القطعة البرمجية:
+
+          <xml><block type="maze_moveSouth"/></xml>
+      courseA_maze_seq5_2019_authored_hint:
+        '1': جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!!
+        '2': |-
+          عليك استخدام هذه القطعة البرمجية:
+
+          <xml><block type="maze_moveSouth"/></xml>
+      courseA_maze_seq5a_2018_authored_hint:
+        '1': حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في ايجاد الحل!
+      courseA_maze_seq5a_2019_authored_hint:
+        '1': حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في ايجاد الحل!
+      courseA_maze_seq6_authored_hint:
+        courseA_maze_seq6_a: عليك أن تستخدم 3 قطع برمجية لتحل هذه المرحلة.
+        courseA_maze_seq6_b: حاول أن تجزئ المرحلة الى جزئين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!.
+      courseA_maze_seq6_2018_authored_hint:
+        courseA_maze_seq6_a: عليك أن تستخدم 3 قطع برمجية لتحل هذه المرحلة.
+        courseA_maze_seq6_b: حاول أن تجزئ المرحلة الى جزئين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!.
+      courseA_maze_seq6_2019_authored_hint:
+        courseA_maze_seq6_a: عليك أن تستخدم 3 قطع برمجية لتحل هذه المرحلة.
+        courseA_maze_seq6_b: حاول أن تجزئ المرحلة الى جزئين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!.
+      courseA_maze_seq7_authored_hint:
+        courseA_maze_seq7_a: يجب ان تضيف قطعة برمجية واحدة لتحرك الطائر باتجاه بيغو.
+        courseA_maze_seq7_b: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!.
+      courseA_maze_seq7_2018_authored_hint:
+        courseA_maze_seq7_a: يجب ان تضيف قطعة برمجية واحدة لتحرك الطائر باتجاه بيغو.
+        courseA_maze_seq7_b: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في ايجاد الحل!.
+      courseA_maze_seq8_authored_hint:
+        courseA_maze_seq8_a: حاول أن ترسم الخطوات على ورقة حتى تعرف كيف يجب أن يتحرك تيري...
+      courseA_maze_seq8_2018_authored_hint:
+        courseA_maze_seq8_a: حاول أن ترسم الخطوات على ورقة حتى تعرف كيف يجب أن يتحرك تيري...
+      courseA_maze_seq8_2019_authored_hint:
+        courseA_maze_seq8_a: حاول أن ترسم الخطوات على ورقة حتى تعرف كيف يجب أن يتحرك تيري...
+      courseA_maze_seq9_authored_hint:
+        courseA_maze_seq9_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq9_b: اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
+        courseA_maze_seq9_c: يجب أن تتحرك في 3 اتجاهات لإنجاز هذه المرحلة.
+      courseA_maze_seq9_2018_authored_hint:
+        courseA_maze_seq9_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq9_b: اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
+        اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
+        courseA_maze_seq9_c: يجب أن تتحرك في 3 اتجاهات لإنجاز هذه المرحلة.
+      #End of courseA_maze_seq Hints
+
 
       #Lesson 9: Ocean Scene with Loops Hints
       #Start of Gradek Artist Loops Hints

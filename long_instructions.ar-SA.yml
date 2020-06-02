@@ -635,10 +635,8 @@ ar-SA:
       courseA_collector_loops2_2019: 'اجمع الأكوام الثلاثة! حرّك لوريل إلى كل قطعة
         من الكنز، ثم استخدم [0] قطعة التجميع البرمجية. '
       #courseA_harvester_seq1_2019: video
-      courseA_harvester_seq2_2019: 'استخدم ثلاث [0] قطع لجعل آلة الحصاد الحصول على
-        الذرة! '
-      courseA_harvester_seq3_2019: استخدم ثلاث [0] قطع لجعل آلة الحصاد الحصول على
-        الذرة! لا تنسى التقاط الذرة في نهاية المطاف.
+      courseA_harvester_seq2_2019: ساعد الحصَادة في الحصول على الذرة.
+      courseA_harvester_seq3_2019: ساعد الحصَادة في الوصول الى الذرة. استخدم القطعة الرمجية (تحرك الى الغرب) ثلاث مرات.
       courseA_harvester_seq4_2019: ساعد الحصَادة في الوصول الى الذرة وحصدها. استخدم القطعة الرمجية (تحرك الى الشمال) ثلاث مرات.
       #courseA_harvester_seq5_2019: video
       courseA_harvester_seq6_2019: أضف قطعة برمجية واحدة الى مساحة العمل لتساعد الحصَادة في حصد الذرة.
@@ -648,6 +646,117 @@ ar-SA:
       courseA_harvester_seq10_2019: لقد دعا الحصَادة صديقتها لتشاركها الذرة اللذيذة. ساعدها في الحصول على حبتين من الذرة!
       courseA_harvester_seq11_2019: يزداد محصول الذرة يوما بعد يوم في مزرعة الحصَادة وهذا أمر رائع! أضف قطعتين برمجييتين الى مساحة العمل لتساعدها في الحصول على كل الذرة.
       courseA_harvester_seq12_2019: تحدي الأذكياء، ساعد الحصَادة في الحصول على كل الذرة، قد تدعوك لتناول بعضها لاحقا!
+
+      #Lesson 3: Programming with Angry Birds
+      #Start of courseA_maze_seq
+      courseA_maze_seq1: '*"ساعد تيري (الطائر الأحمر) للوصول الى بيغو (المخلوق الأخضر). اسحب القطع البرمجية المناسبة الى مساحة العمل ثم انقر زر "نفذ"!"*'
+      courseA_maze_seq10: |-
+        " تحدي الأذكياء: جنّب تيري المتفجرات حتى يصل الى بيغو بسلام ..!"
+
+        ![expandable](https://images.code.org/a656e421bc90e530a7e1ce636e507752-image-1497996976195.gif)
+      courseA_maze_seq10_2018: " تحدي الأذكياء: جنّب تيري المتفجرات حتى يصل الى بيغو بسلام ..!"
+      courseA_maze_seq10_2019: " تحدي الأذكياء: جنّب تيري المتفجرات حتى يصل الى بيغو بسلام ..!"
+      courseA_maze_seq11: |-
+        "سأصل اليك سريعا هذه المرة يا بيغو؟!"
+        ما هي القطع البرمجية التي ستستخدمها يا ترى؟!".
+
+        ![expandable](https://images.code.org/bb4571384fc56702704a0c9395ee3695-image-1497996380902.gif)
+      courseA_maze_seq11_2018: "سأصل اليك سريعا هذه المرة يا بيغو؟!"
+          ما هي القطع البرمجية التي ستستخدمها يا ترى؟!.
+      courseA_maze_seq11_2019: "سأصل اليك سريعا هذه المرة يا بيغو؟!"
+          ما هي القطع البرمجية التي ستستخدمها يا ترى؟!
+      courseA_maze_seq12: |-
+        "ألا تتعب من الهرب يا بيغو؟!"
+        "يبدو أن تيري بدأ يشعر بالتعب من ملاحقة بيغو، لكنني لا أظن أنك  ستتعب بسهولة فهل تستطيع مساعدته مجددا؟"
+
+        ![expandable](https://images.code.org/c6ae5024441e2305db82d06679e5a281-image-1497997160569.gif)
+      courseA_maze_seq12_2018: """ألا تتعب من الهرب يا بيغو؟!""
+        يبدو أن تيري بدأ يشعر بالتعب من ملاحقة بيغو، لكنني لا أظن أنك  ستتعب بسهولة فهل تستطيع مساعدته مجددا؟"
+      courseA_maze_seq12_2019: """ألا تتعب من الهرب يا بيغو؟!""
+        يبدو أن تيري بدأ يشعر بالتعب من ملاحقة بيغو، لكنني لا أظن أنك  ستتعب بسهولة فهل تستطيع مساعدته مجددا؟"
+      courseA_maze_seq1_2018: '*"ساعد تيري (الطائر الأحمر) للوصول الى بيغو (المخلوق الأخضر). اسحب القطع البرمجية المناسبة الى مساحة العمل ثم انقر زر "نفذ"!"*'
+      courseA_maze_seq1_2019: '*"ساعد تيري (الطائر الأحمر) للوصول الى بيغو (المخلوق الأخضر). اسحب القطع البرمجية المناسبة الى مساحة العمل ثم انقر زر "نفذ"!"*'
+
+      #comment:Angry Birds-Those levels do not exist in the game anymore
+      courseA_maze_seq2: |-
+        *"A bug! Fix the code to get me to the pig."*
+
+
+        ![expandable](https://images.code.org/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)
+      courseA_maze_seq2_2018: |-
+        *"A bug! Fix the code to get me to the pig."*
+
+
+        ![expandable](https://images.code.org/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)
+      courseA_maze_seq3: |-
+        *"Fix the code to get me to the pig!"*
+
+        ![expandable](https://images.code.org/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)
+      courseA_maze_seq3_2018: |-
+        *"Fix the code to get me to the pig!"*
+
+        ![expandable](https://images.code.org/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)
+      courseA_maze_seq4: "*\"Something is not quite right.\"* \n\nREMOVE a block to get the bird to the pig!\n\n![expandable](https://images.code.org/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
+      courseA_maze_seq4_2018: "*\"Something is not quite right.\"* \n\nREMOVE a block to get the bird to the pig!\n\n![expandable](https://images.code.org/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
+      courseA_maze_seq5: |-
+        Try this one yourself from the beginning.
+
+        ![expandable](https://images.code.org/e4ef591b4580db478330c298d1af756f-image-1497997080163.gif)
+      #End of comment:Angry Birds
+      courseA_maze_seq5_2018: سهلة أم صعبة؟ حاول أن تساعد تيري في الوصول الى بيغو بمفردك.
+      courseA_maze_seq5_2019: سهلة أم صعبة؟ حاول أن تساعد تيري في الوصول الى بيغو بمفردك.
+      courseA_maze_seq5a_2018: |-
+        "بيغو! أنا قادم"
+        ماذا يمكنك أن تضيف إلى القطع البرمجية في مساحة العمل حتى يصل تيري الى بيغو؟
+        "
+      courseA_maze_seq5a_2019: |-
+        بيغو! أنا قادم" "
+        ماذا يمكنك أن تضيف إلى القطع البرمجية في مساحة العمل حتى يصل تيري الى بيغو؟
+        "
+      courseA_maze_seq6: |-
+        "أين ذهب بيغو هذه المرة؟!"
+        ما هي القطع البرمجية التي ستستخدمها حتى تساعد تيري في الوصول الى بيغو؟
+        "
+
+        ![expandable](https://images.code.org/8f71c406afa60c6898937d950c670205-image-1497996506419.gif)
+      courseA_maze_seq6_2018: "أين ذهب بيغو هذه المرة؟!"
+        ما هي القطع البرمجية التي ستستخدمها حتى تساعد تيري في الوصول الى بيغو؟
+        "
+      courseA_maze_seq6_2019: "أين ذهب بيغو هذه المرة؟!"
+        ما هي القطع البرمجية التي ستستخدمها حتى تساعد تيري في الوصول الى بيغو؟
+        "
+      courseA_maze_seq7: |-
+        Figure out what is missing and then add blocks to get the bird to the pig!
+
+        ![expandable](https://images.code.org/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)
+      courseA_maze_seq7_2018: |-
+        Figure out what is missing and then add blocks to get the bird to the pig!
+
+        ![expandable](https://images.code.org/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)
+      courseA_maze_seq8: |-
+        "يا لك من مشاغب يا بيغو؟!"
+        ساعد تيري في الوصول الى بيغو مرة اخرى، ما هي القطع البرمجية التي ستستخدمها الآن؟
+        "!
+
+        ![expandable](https://images.code.org/fb4735244f74a4e001d1fa7b5c6028f9-image-1497998330218.gif)
+      courseA_maze_seq8_2018: "يا لك من مشاغب يا بيغو؟!"
+        ساعد تيري في الوصول الى بيغو مرة اخرى، ما هي القطع البرمجية التي ستستخدمها الآن؟
+        "!
+      courseA_maze_seq8_2019: "يا لك من مشاغب يا بيغو؟!"
+          ساعد تيري في الوصول الى بيغو مرة اخرى، ما هي القطع البرمجية التي ستستخدمها الآن؟
+          "!
+      courseA_maze_seq9: |-
+        **Challenge:** Debug this level by adding blocks to get the bird to the pig!
+
+        ![expandable](https://images.code.org/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)
+      courseA_maze_seq9_2018: |-
+        **Challenge:** Debug this level by adding blocks to get the bird to the pig!
+
+        ![expandable](https://images.code.org/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)
+      courseA_maze_seq_challenge1: Debug this level. Remove the extra blocks, and add the missing blocks. Get the bird to the pig!
+      courseA_maze_seq_challenge1_2018: Debug this level. Remove the extra blocks, and add the missing blocks. Get the bird to the pig!
+      courseA_maze_seq_challenge1_2019: Debug this level. Remove the extra blocks, and add the missing blocks. Get
+
 
       #Lesson 7: Ice Age Loops
       #Start of iceage_loops
@@ -689,9 +798,11 @@ ar-SA:
         [1] لإنهاء الكود، ثم انقر فوق 'تشغيل'.
       courseA_maze_ramp3a_2019: امسك القطعة البرمجية [0] من صندوق الأدوات وأضفها أسفل
         القطع الأخرى لأنهاء الكود البرمجي، ثم انقر فوق ▶ نفذ.
-      courseA_playLab_events1_2019: هذا مستوى مختبر اللعب، انقل القطع البرمجية إلى
+
+      #Part of Lesson 11: On the Move with Events
+      courseA_playLab_events1_2019: هذا هو مستوى "مختبر الألعاب"، اسحب القطع البرمجية إلى
         مساحة العمل وشاهد ما سيحدث!
-      courseA_playLab_events2_2019: خورخي الكلب يريد أن يقول "مرحبا." هل تستطيع مساعدته؟
+      courseA_playLab_events2_2019: الكلب خورخي يريد أن يقول "مرحبا". هل تستطيع مساعدته؟
       courseA_playLab_events4: أضف حدثا آخر الى مساحة العمل حتى تجعل خورخي يتجه الى اليمين عند نقر السهم الأيمن على لوحة المفاتيح
 
 
