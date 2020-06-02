@@ -330,7 +330,7 @@ ar-SA:
         courseA_playLab_events3_b: تذكر أن تستخدم السهم الأيسر على لوحة المفاتيح لتحريك خورخي حتى يصل العلم. عندما يتحول العلم الى اللون الأخضر، تكون قد أنجزت المرحلة!
       courseA_playLab_events4_authored_hint:
         courseA_playLab_events4_a: |-
-          هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين:
+          هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
 
           <xml><block type="studio_move">
               <title name="SPRITE">1</title>
@@ -348,7 +348,7 @@ ar-SA:
             </block></next></block></xml>
       courseA_playLab_events4_2018_authored_hint:
         courseA_playLab_events4_a: |-
-        هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
+          هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
 
           <xml><block type="studio_move">
               <title name="SPRITE">1</title>
@@ -366,7 +366,7 @@ ar-SA:
             </block></next></block></xml>
       courseA_playLab_events4_2019_authored_hint:
         courseA_playLab_events4_a: |-
-        هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
+          هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
 
           <xml><block type="studio_move">
               <title name="SPRITE">1</title>
@@ -383,15 +383,16 @@ ar-SA:
               <title name="DIR">2</title>
             </block></next></block></xml>
       courseA_playLab_events5_authored_hint:
-        courseA_playLab_events5_a: "هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل:"
-        ":\n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">up</title>\n  </block></xml>\n\nand \n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">down</title>\n  </block></xml>"
+        courseA_playLab_events5_a: |-
+          "هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل:"
+          ":\n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">up</title>\n  </block></xml>\n\nand \n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">down</title>\n  </block></xml>"
         courseA_playLab_events5_b: |-
           اذا أردت تغيير اتجاه السهم الموجود على الحدث البرمجي، فما عليك الا نقر صورة السهم واختيار الاتجاه الذي تريده
           ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events5_2018_authored_hint:
-        courseA_playLab_events5_a:
-        "هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل:"
-        ":\n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">up</title>\n  </block></xml>\n\nand \n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">down</title>\n  </block></xml>"
+        courseA_playLab_events5_a: |-
+          "هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل:"
+          ":\n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">up</title>\n  </block></xml>\n\nand \n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">down</title>\n  </block></xml>"
         courseA_playLab_events5_b: |-
           Did you know that you can change the key for  the event arrow by clicking on the picture in the block and choosing a new key?
 
@@ -5953,11 +5954,11 @@ ar-SA:
       courseB_collector_loops3_2018:
         courseB_collector_prog3_a: استخدم القطعة البرمجية  <xml><block type="controls_repeat_simplified_dropdown"><title
           name="TIMES" config="3-10">5</title></block></xml> لتحصل على الكنز عندما تقف عنده.
-          courseB_collector_prog3_b: تذكر أنه يمكنك وضع أكثر من قطعة برمجية واحد داخل حلقة التكرار.
+        courseB_collector_prog3_b:  تذكر أنه يمكنك وضع أكثر من قطعة برمجية واحد داخل حلقة التكرار.
       courseB_collector_loops3_2019:
         courseB_collector_prog3_a: استخدم القطعة البرمجية  <xml><block type="controls_repeat_simplified_dropdown"><title
           name="TIMES" config="3-10">5</title></block></xml> لتحصل على الكنز عندما تقف عنده.
-          courseB_collector_prog3_b: تذكر أنه يمكنك وضع أكثر من قطعة برمجية واحد داخل حلقة التكرار.
+        courseB_collector_prog3_b: تذكر أنه يمكنك وضع أكثر من قطعة برمجية واحد داخل حلقة التكرار.
       courseB_collector_loops4:
         courseB_collector_loops4_a: انقر الزر "جرِب الكود" لمعرفة أين يكمن الخلل البرمجي.
         courseB_collector_loops4_b: لتتحكم بالمسافة التي ستقطعها لوريل، عدل الرقم الموجود في حلقة التكرار!
@@ -6626,8 +6627,7 @@ ar-SA:
       courseB_starWars_prog5_2018:
         courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
         courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية
-        .
+        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية.
         courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
           :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog5_2019:
