@@ -108,7 +108,7 @@ ar:
           description_short: الدورة 3 تعتبر تكملة لدورة 2.
           description_audience: الأعمار 8-18
           stages:
-           الفنان:
+            Artist:
               name: الرسام
             'Artist: Functions':
               name: 'الرسام : المهام'
@@ -157,12 +157,12 @@ ar:
           stages:
             Play Lab:
               name: مختبر اللعب
-       الفنان:
+        artist:
           title: الرسام
           description: ارسم صور رائعة و صمم مع الرسام !
           description_short: ارسم صور رائعة و صمم مع الرسام !
           stages:
-           الفنان:
+            Artist:
               name: الرسام
         hourofcode:
           title: المتاهة الكلاسيكية
@@ -182,7 +182,7 @@ ar:
           description_short: هيا نستخدم التعليمات البرمجية للانضمام إلى آنا و إلسا
             في رحلتهم لاستكشاف سحر وجمال الجليد.
           stages:
-           الفنان:
+            Artist:
               name: الرسام
         course4:
           title: الدورة 4
@@ -195,9 +195,9 @@ ar:
             4.
           description_audience: الذين تتراوح أعمارهم بين 10-13
           stages:
-           الفنان:
+            Artist:
               name: الرسام
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             'Artist: For Loops':
               name: 'الفنان: للحلقات'
@@ -328,15 +328,15 @@ ar:
               name: برمجة السباق
             Song Writing:
               name: كتابة الاغنية
-            Theالفنان:
+            The Artist:
               name: الاعب
-            Theالفنان 2:
+            The Artist 2:
               name: الرسام 2
-            Theالفنان 3:
+            The Artist 3:
               name: الرسام 3
-            Theالفنان 4:
+            The Artist 4:
               name: الرسام 4
-            Theالفنان 5:
+            The Artist 5:
               name: الرسام 5
             The Farmer:
               name: المزارع
@@ -359,7 +359,7 @@ ar:
               name: معمل التطبيقات
             Play Lab:
               name: مختبر اللعب
-            Theالفنان:
+            The Artist:
               name: الاعب
             The Maze:
               name: المتاهة
@@ -469,7 +469,7 @@ ar:
               name: وصفه التصميم
         allthethings:
           stages:
-           الفنان:
+            Artist:
               name: الرسام
             Bee:
               name: نحلة
@@ -727,9 +727,9 @@ ar:
               name: إرسال رسائل بالنظام الثنائي
         MikeTest:
           stages:
-           الفنان Functions:
+            Artist Functions:
               name: وظائف الرسام
-       الفنانExemplar:
+        artistExemplar:
           description_audience: الأعمار 8-18
         kinderTest:
           stages:
@@ -916,7 +916,7 @@ ar:
               name: المواطنة الرقمية
             'Unplugged: Binary':
               name: 'موصول: ثنائي'
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Nested Loops:
               name: الحلقات المتداخلة
@@ -1056,7 +1056,7 @@ ar:
           stages:
             Introduction:
               name: مقدمة
-       الفنان-and-bb8:
+        artist-and-bb8:
           stages:
             Bounce:
               name: الارتداد
@@ -1163,7 +1163,7 @@ ar:
               name: المواطنة الرقمية
             'Unplugged: Binary':
               name: 'موصول: ثنائي'
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Building a Foundation:
               name: بناء قاعدة
@@ -1305,7 +1305,7 @@ ar:
               name: أساور الثنائية
             'Unplugged: Binary':
               name: صور ثنائية
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Internet:
               name: الانترنت
@@ -1349,7 +1349,7 @@ ar:
               name: المواطنة الرقمية
             'Unplugged: Binary':
               name: صور ثنائية
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Loops in Ice Age:
               name: الحلقات في العصر الجليدي
@@ -1441,11 +1441,11 @@ ar:
               name: البصمة الرقمية الخاصة بك
         frozen-2018:
           stages:
-           الفنان:
+            Artist:
               name: الرسام
         frozen-2018-test:
           stages:
-           الفنان:
+            Artist:
               name: الرسام
         dance:
           stages:
@@ -1457,7 +1457,7 @@ ar:
           description: برمِج حفلة الرقص الخاصة بك لمشاركتها مع أصدقائك.
         frozen-2018-test-b:
           stages:
-           الفنان:
+            Artist:
               name: الرسام
         aquatic:
           stages:
@@ -1486,7 +1486,7 @@ ar:
               name: المتغيرات المغلف
             For Loop Fun:
               name: حلقة فور، مرح
-            Theالفنان:
+            The Artist:
               name: الاعب
             Internet:
               name: الانترنت
@@ -1510,7 +1510,7 @@ ar:
               name: المواطنة الرقمية
             'Unplugged: Binary':
               name: صور ثنائية
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Dance Party:
               name: حفلة الرقص
@@ -1544,7 +1544,7 @@ ar:
               name: أساور الثنائية
             'Unplugged: Binary':
               name: 'موصول: ثنائي'
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Internet:
               name: الإنترنت
@@ -1791,7 +1791,7 @@ ar:
               name: الشرطية مع بطاقات
             'Unplugged: Binary':
               name: صور ثنائية
-           الفنان Binary:
+            Artist Binary:
               name: ثنائي الفنان
             Digital Citizenship:
               name: المواطنة الرقمية

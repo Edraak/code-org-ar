@@ -560,7 +560,7 @@ ar-SA:
       courseA_artist_loops9_authored_hint:
         courseA_artist_loops9_a: 'أضف قطعة برمجية واحدة إلى الكود الموجود في مساحة العمل لتتمكن من رسم بقية السلالم.'
         courseA_artist_loops9_b: يجب أن تضع القطعة البرمجية داخل حلقة التكرار
-        <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">5</title></block>
+          <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">5</title></block>
           </xml>
         courseA_artist_loops9_c: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
       courseA_artist_loops9_2018_authored_hint:
@@ -572,7 +572,7 @@ ar-SA:
       courseA_artist_loops9_2019_authored_hint:
         courseA_artist_loops9_a: 'أضف قطعة برمجية واحدة إلى الكود الموجود في مساحة العمل لتتمكن من رسم بقية السلالم.'
         courseA_artist_loops9_b: يجب أن تضع القطعة البرمجية داخل حلقة التكرار
-        <xml><block type=\"controls_repeat_simplified_dropdown\"><title name=\"TIMES\" config=\"3-10\">5</title></block>\n</xml>
+               <xml><block type=\"controls_repeat_simplified_dropdown\"><title name=\"TIMES\" config=\"3-10\">5</title></block>\n</xml>
         courseA_artist_loops9_c: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
       courseA_artist_loops_challenge1_authored_hint: {}
       courseA_artist_loops_challenge1_2018_authored_hint: {}
@@ -765,37 +765,35 @@ ar-SA:
             </block></xml> وأضفها الى نهاية <xml><block type="studio_whenArrow">
               <title name="VALUE">اليسار</title>
             </block></xml>
-        courseA_playLab_events3_b: تذكر أن تستخدم السهم الأيسر على لوحة المفاتيح لتحريك خورخي حتى يصل العلم. عندما يتحول العلم الى اللون الأخضر، تكون قد أنجزت المرحلة!
+        courseA_playLab_events3_b: |-
+          تذكر أن تستخدم السهم الأيسر على لوحة المفاتيح لتحريك خورخي حتى يصل العلم.
+          عندما يتحول العلم الى اللون الأخضر، تكون قد أنجزت المرحلة!
       courseA_playLab_events4_authored_hint:
         courseA_playLab_events4_a: |-
           هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
-
-          <xml><block type="studio_move">
+                       <xml><block type="studio_move">
               <title name="SPRITE">1</title>
               <title name="DIR">2</title>
             </block></xml>
         courseA_playLab_events4_b: |-
-        هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
-
-          <xml><block type="studio_whenArrow">
+           هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
+           <xml><block type="studio_whenArrow">
               <title name="VALUE">right</title>
               <next>
             <block type="studio_move">
               <title name="SPRITE">1</title>
-              <title name="DIR">2</title>
-            </block></next></block></xml>
+             <title name="DIR">2</title>
+           </block></next></block></xml>
       courseA_playLab_events4_2018_authored_hint:
         courseA_playLab_events4_a: |-
-          هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين
-
-          <xml><block type="studio_move">
-              <title name="SPRITE">1</title>
-              <title name="DIR">2</title>
-            </block></xml>
+             هذه هي قطعة الحدث البرمجي التي تحتاجها لتحرك خورخي الى اليمين    <xml><block type="studio_move">
+                                                                                         <title name="SPRITE">1</title>
+                                                                                         <title name="DIR">2</title>
+                                                                                       </block></xml>
         courseA_playLab_events4_b: |-
-        هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
+           هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
 
-          <xml><block type="studio_whenArrow">
+           <xml><block type="studio_whenArrow">
               <title name="VALUE">right</title>
               <next>
             <block type="studio_move">
@@ -811,7 +809,7 @@ ar-SA:
               <title name="DIR">2</title>
             </block></xml>
         courseA_playLab_events4_b: |-
-        هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
+          هذا هو الكود الذي تحتاجه لإنجاز هذه المرحلة
 
           <xml><block type="studio_whenArrow">
               <title name="VALUE">right</title>
@@ -5033,10 +5031,11 @@ ar-SA:
               </block></xml> loops to solve this puzzle.
           courseB_collector_loops6_d: If you're confused, try breaking this puzzle into 3 pieces.
         courseB_collector_loops6_2019_authored_hint:
-          courseB_collector_loops6_a: Can't figure out where things start going wrong? Use the "Step" button to run through your program one block at a time.
+          courseB_collector_loops6_a: |-
+             Can't figure out where things start going wrong? Use the "Step" button to run through your program one block at a time.
           courseB_collector_loops6_b: You can change the number of times the repeat loop runs by clicking on the "3" and choosing a different number.
           courseB_collector_loops6_c: |-
-            You will want to use 3 `repeat` <xml><block type="controls_repeat_simplified">
+             You will want to use 3 `repeat` <xml><block type="controls_repeat_simplified">
                 <title name="TIMES">???</title>
               </block></xml> loops to solve this puzzle.
           courseB_collector_loops6_d: If you're confused, try breaking this puzzle into 3 pieces.
@@ -5056,19 +5055,13 @@ ar-SA:
         courseB_collector_loops8_2019_authored_hint:
           courseB_collector_loops8_challenge_a: If you can't figure out where to put the repeat loops, write out the code step-by-step and look for a pattern.
         courseB_collector_loops9_authored_hint:
-          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.
-
-      '
+          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.'
           courseB_collector_loops9_b: You will need 3 repeat loops, one after the other, for this solution.
         courseB_collector_loops9_2018_authored_hint:
-          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.
-
-      '
+          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.'
           courseB_collector_loops9_b: You will need 3 repeat loops, one after the other, for this solution.
         courseB_collector_loops9_2019_authored_hint:
-          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.
-
-      '
+          courseB_collector_loops9_a: 'Does this seem too hard?  Break it up into 3 little problems to make it feel easier.'
           courseB_collector_loops9_b: You will need 3 repeat loops, one after the other, for this solution.
         courseB_collector_loops_challenge1_authored_hint:
           courseB_collector_loops_challenge1_b: |
@@ -6247,9 +6240,6 @@ ar-SA:
 
       #Lesson 10: Drawing Gardens with Loops Hints
       #Start of courseB_artist_loops Hints
-      courseB_artist_loops10_authored_hint: {}
-        courseB_artist_loops10_2018_authored_hint: {}
-        courseB_artist_loops10_2019_authored_hint: {}
       courseB_artist_loops2:
         courseB_artist_loops2_a: اذا أردت أن تعمل حلقة التكرار أكثر من 4 مرات، غير الرقم الموجود في المربع
         courseB_artist_loops2_b: جرب تشغيل الكود أولا لمعرفة أين يذهب الفنان.
