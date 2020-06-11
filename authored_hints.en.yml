@@ -7134,14 +7134,14 @@ en:
         courseA_playlab_events_challenge1_e: "Finally, make Wendel the Wizard show when you click on Spiff!\n\n<xml> \n  <block type=\"studio_whenSpriteClicked\">\n    <title name=\"SPRITE\">6</title>\n    <next>\n      <block type=\"studio_setSprite\">\n        <title name=\"VALUE\">\"visible\"</title>\n        <title name=\"SPRITE\">7</title>\n      </block>\n    </next>\n  </block></xml>"
       courseA_toMakeLoopsVideo_Collector_authored_hint: {}
       courseB_Scrat_ramp1_2018_authored_hint:
-        '1': If Scrat isn't doing what you want, make sure both of the blocks have been fully clicked together, then click "Run" again.
-        '2': Don't be afraid to make a mistake! Try something, and if it doesn't work, try something else!
+        '1': اذا لم يستطع **ابن بطوطة** الوصول الى **السوسنة السوداء**، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تنفيذ" مجددا
+        '2': لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد
       courseB_Scrat_ramp1_2019_authored_hint:
-        '1': If Scrat isn't doing what you want, make sure both of the blocks have been fully clicked together, then click "Run" again.
-        '2': Don't be afraid to make a mistake! Try something, and if it doesn't work, try something else!
+        '1': اذا لم يستطع **ابن بطوطة** الوصول الى **السوسنة السوداء**، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تنفيذ" مجددا
+        '2': لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد
       courseB_Scrat_ramp2_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7157,7 +7157,7 @@ en:
           </xml>
       courseB_Scrat_ramp2_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7173,7 +7173,7 @@ en:
           </xml>
       courseB_Scrat_ramp3a_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7192,7 +7192,7 @@ en:
           </xml>
       courseB_Scrat_ramp3a_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7211,7 +7211,7 @@ en:
           </xml>
       courseB_Scrat_ramp3b_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7230,7 +7230,7 @@ en:
           </xml>
       courseB_Scrat_ramp3b_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7249,7 +7249,7 @@ en:
           </xml>
       courseB_Scrat_ramp4a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7268,7 +7268,7 @@ en:
           </xml>
       courseB_Scrat_ramp4a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7287,7 +7287,7 @@ en:
           </xml>
       courseB_Scrat_ramp5a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7303,7 +7303,7 @@ en:
           </xml>
       courseB_Scrat_ramp5a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7317,6 +7317,9 @@ en:
               </next>
             </block>
           </xml>
+
+
+
       courseB_artist_loops10_authored_hint: {}
       courseB_artist_loops10_2018_authored_hint: {}
       courseB_artist_loops10_2019_authored_hint: {}
