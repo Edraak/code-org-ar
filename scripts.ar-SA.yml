@@ -18,15 +18,15 @@ ar:
           description_audience: الأعمار 4-6
           stages:
             'Artist: Loops':
-              name: 'الرسام : الحلقات'
+              name: 'الفنان : حلقات التكرار'
             'Artist: Sequence':
-              name: 'الرسام : التسلسل'
+              name: 'الفنان : التتابع'
             'Artist: Shapes':
               name: 'الفنان: الأشكال'
             'Bee: Loops':
-              name: 'النحلة : الحلقات'
+              name: 'النحلة : حلقات التكرار'
             'Bee: Sequence':
-              name: 'التهجئة: التسلسل'
+              name: 'التهجئة: التتابع'
             Building a Foundation:
               name: بناء قاعدة
             Getting Loopy:
@@ -50,7 +50,7 @@ ar:
             Spelling Bee:
               name: مسابقة التهجئة
             'Studio: Create a Story':
-              name: 'مختبر اللعب: إنشاء قصة'
+              name: 'مختبر الألعاب: إنشاء قصة'
             The Big Event:
               name: الحدث الكبير
         course2:
@@ -62,19 +62,19 @@ ar:
           description_audience: Ages 6+ (reading required)
           stages:
             'Artist: Debugging':
-              name: 'الرسام : تصحيح الأخطاء'
+              name: 'الفنان : تصحيح الخلل البرمجي'
             'Artist: Loops':
-              name: 'الرسام : الحلقات'
+              name: 'الفنان : حلقات التكرار'
             'Artist: Nested Loops':
-              name: 'الرسام : الحلقات المتداخلة'
+              name: 'الفنان : الحلقات المتداخلة'
             'Artist: Sequence':
-              name: 'الرسام : التسلسل'
+              name: 'الفنان : التتابع'
             'Bee: Conditionals':
               name: 'النحلة: الجمل الشرطية'
             'Bee: Debugging':
-              name: 'النحلة: تصحيح الأخطاء'
+              name: 'النحلة: تصحيح الخلل البرمجي'
             'Bee: Loops':
-              name: 'النحلة : الحلقات'
+              name: 'النحلة : حلقات التكرار'
             Binary Bracelets:
               name: أساور الثنائية
             Conditionals:
@@ -109,11 +109,11 @@ ar:
           description_audience: الأعمار 8-18
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
             'Artist: Functions':
-              name: 'الرسام : المهام'
+              name: 'الفنان : المهام'
             'Artist: Nested Loops':
-              name: 'الرسام : الحلقات المتداخلة'
+              name: 'الفنان : الحلقات المتداخلة'
             'Artist: Patterns':
               name: 'الفنان: أنماط'
             'Bee: Conditionals':
@@ -158,12 +158,12 @@ ar:
             Play Lab:
               name: مختبر اللعب
         artist:
-          title: الرسام
-          description: ارسم صور رائعة و صمم مع الرسام !
-          description_short: ارسم صور رائعة و صمم مع الرسام !
+          title: الفنان
+          description: ارسم صور رائعة و صمم مع الفنان !
+          description_short: ارسم صور رائعة و صمم مع الفنان !
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
         hourofcode:
           title: المتاهة الكلاسيكية
           description: جرب تعلم مبادئ الحاسب الآلي من خلال شخصيات لعبة الطيور الغاضبة
@@ -183,7 +183,7 @@ ar:
             في رحلتهم لاستكشاف سحر وجمال الجليد.
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
         course4:
           title: الدورة 4
           description: تم تصميم الدورة 4 للطلاب الذين أخذوا دورات 2 و 3. سوف يتعلم
@@ -196,15 +196,15 @@ ar:
           description_audience: الذين تتراوح أعمارهم بين 10-13
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
             Artist Binary:
               name: ثنائي الفنان
             'Artist: For Loops':
               name: 'الفنان: للحلقات'
             'Artist: Functions':
-              name: 'الرسام : المهام'
+              name: 'الفنان : المهام'
             'Artist: Functions with Parameters':
-              name: مهام الرسام مع المعلمات
+              name: مهام الفنان مع المعلمات
             'Artist: Variables':
               name: 'الفنان: المتغيرات'
             'Bee: For Loops':
@@ -246,13 +246,13 @@ ar:
             و 3.
           stages:
             'Artist: Functions':
-              name: 'الرسام : المهام'
+              name: 'الفنان : المهام'
             'Artist: Loops':
-              name: 'الرسام : الحلقات'
+              name: 'الفنان : الحلقات'
             'Artist: Nested Loops':
-              name: 'الرسام : الحلقات المتداخلة'
+              name: 'الفنان : الحلقات المتداخلة'
             'Artist: Sequence':
-              name: 'الرسام : التسلسل'
+              name: 'الفنان : التسلسل'
             'Bee: Conditionals':
               name: 'النحلة: الجمل الشرطية'
             'Bee: Debugging':
@@ -331,13 +331,13 @@ ar:
             The Artist:
               name: الاعب
             The Artist 2:
-              name: الرسام 2
+              name: الفنان 2
             The Artist 3:
-              name: الرسام 3
+              name: الفنان 3
             The Artist 4:
-              name: الرسام 4
+              name: الفنان 4
             The Artist 5:
-              name: الرسام 5
+              name: الفنان 5
             The Farmer:
               name: المزارع
             The Farmer 2:
@@ -470,7 +470,7 @@ ar:
         allthethings:
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
             Bee:
               name: نحلة
             Bounce:
@@ -728,7 +728,7 @@ ar:
         MikeTest:
           stages:
             Artist Functions:
-              name: وظائف الرسام
+              name: وظائف الفنان
         artistExemplar:
           description_audience: الأعمار 8-18
         kinderTest:
@@ -768,7 +768,7 @@ ar:
             'Artist: For Loops':
               name: 'الفنان: للحلقات'
             'Artist: Functions with Parameters':
-              name: مهام الرسام مع المعلمات
+              name: مهام الفنان مع المعلمات
             'Artist: Variables':
               name: 'الفنان: المتغيرات'
             'Bee: For Loops':
@@ -800,7 +800,7 @@ ar:
         grade3:
           stages:
             'Artist: Nested Loops':
-              name: 'الرسام : الحلقات المتداخلة'
+              name: 'الفنان : الحلقات المتداخلة'
             Bee Debugging:
               name: تصحيح الأخطاء للنحلة
             Bounce:
@@ -1442,11 +1442,11 @@ ar:
         frozen-2018:
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
         frozen-2018-test:
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
         dance:
           stages:
             Dance Party:
@@ -1458,7 +1458,7 @@ ar:
         frozen-2018-test-b:
           stages:
             Artist:
-              name: الرسام
+              name: الفنان
         aquatic:
           stages:
             Aquatic:
