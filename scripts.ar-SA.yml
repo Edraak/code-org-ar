@@ -375,22 +375,22 @@ ar:
             Studio:
               name: ستوديو
         flappy:
-          title: رمز لعبة flappy
+          title: لعبة الطائر فلابي
           description: هل ترغب في كتابة لعبة الخاصة فيك في أقل من 10 دقائق؟ جرب دروس
-            برمجة Flappy التعليمية الخاصة بنا!
+            برمجة فلابي التعليمية الخاصة بنا!
           stages:
             Flappy Code:
-              name: رمز لعبة flappy
+              name: لعبة الطائر فلابي
         jigsaw:
           title: بانوراما
           stages:
             Jigsaw:
               name: بانوراما
         step:
-          title: الخطوة
+          title: جرب خطوة
           stages:
             Step:
-              name: الخطوة
+              name: جرب خطوة
         Hour of Code:
           title: ساعة من البرمجة 2013
           description_short: جرب تعلم مبادئ الحاسب الآلي من خلال الغديد من الشخصيات
@@ -885,7 +885,7 @@ ar:
         flappy-impact-study:
           stages:
             Flappy Code:
-              name: رمز لعبة flappy
+              name: لعبة الطائر فلابي
         coursea-draft:
           stages:
             'Real-life Algorithms: Plant a Seed':
@@ -1594,13 +1594,94 @@ ar:
               description_student: Use events to create a story or make an interactive game.
               description_teacher: In this online activity, students will have the opportunity to learn how to use events in Play Lab and apply all of the coding skills that they've learned to create an animated game. It's time to get creative and make a game in Play Lab!
         pre-express-2019:
+          title: دروس علم الحاسوب للاطفال
+          description: تعلم علوم الحاسوب من خلال تجربة الدروس أدناه بالسرعة التي تناسبك! تعلم كيفية إنشاء برامج الحاسوب ، وتطوير مهارات حل المشكلات ، والعمل من خلال تحديات ممتعة! قم بإنشاء ألعاب ومشاريع إبداعية لمشاركتها مع الأصدقاء والعائلة والمعلمين.
+          description_short: 'مقدمة لعلوم الحاسوب للاطفال: تجمع بين أفضل ما لدينا من دورات رياض الأطفال والصف الأول.'
+          description_audience: 'اعمار: ٤-٨'
           stages:
+            'Debugging: Unspotted Bugs':
+              name: 'Debugging: Unspotted Bugs'
+              description_student: ''
+              description_teacher: ''
+            'Persistence & Frustration: Stevie and the Big Project':
+              name: 'Persistence & Frustration: Stevie and the Big Project'
+              description_student: ''
+              description_teacher: ''
             Move It, Move It:
-              name: حركها , حركها
+              name: Move It, Move It
+              description_student: ''
+              description_teacher: ''
+            Sequencing with Scrat:
+              name: التفكير المتسلسل مع ابن بطوطة
+              description_student: ''
+              description_teacher: ''
             Your Digital Footprint:
-              name: البصمة الرقمية الخاصة بك
+              name: Your Digital Footprint
+              description_student: ''
+              description_teacher: ''
+            'Programming: My Robotic Friends':
+              name: 'Programming: My Robotic Friends'
+              description_student: ''
+              description_teacher: ''
+            Programming in Ice Age:
+              name: Programming in Ice Age
+              description_student: ''
+              description_teacher: ''
+            Copyright and Creativity:
+              name: Copyright and Creativity
+              description_student: ''
+              description_teacher: ''
+            Programming with Rey and BB-8:
+              name: Programming with Rey and BB-8
+              description_student: ''
+              description_teacher: ''
+            'Loops: My Loopy Robotic Friends':
+              name: 'Loops: My Loopy Robotic Friends'
+              description_student: ''
+              description_teacher: ''
+            Loops in Ice Age:
+              name: التكرار مع ابن بطوطة
+              description_student: ''
+              description_teacher: ''
+            Loops in Collector:
+              name: التكرار معه لوريل
+              description_student: ''
+              description_teacher: ''
+            Loops in Artist:
+              name: رسم عناصر الحديقة بالتكرار
+              description_student: ''
+              description_teacher: ''
+            'Events: The Big Event':
+              name: 'Events: The Big Event'
+              description_student: ''
+              description_teacher: ''
+            Events in Play Lab:
+              name: الاحداث في مختبر الالعاب
+              description_student: ''
+              description_teacher: ''
             Spelling Bee:
               name: مسابقة التهجئة
+              description_student: ''
+              description_teacher: ''
+            Learn to Drag and Drop:
+              name: تعلم السحب والإسقاط
+            Programming in Maze:
+              name: البرمجة في متاهة الجليد
+            Programming in Harvester:
+              name: البرمجة مع الحصّاد
+            Tell a Story in Play Lab:
+              name:
+            Make a Game in Play Lab:
+              name: برمج لعبة في مختبر الالعاب
+            Ocean Scene with Loops:
+              name: رسم المحيط بالتكرار
+          lesson_groups:
+            csf_sequencing:
+              display_name: التفكير المتسلسل
+            csf_loops:
+              display_name: التكرار
+            csf_events:
+              display_name: الاحداث
         removed19:
           stages:
             'Real-life Algorithms: Plant a Seed':
