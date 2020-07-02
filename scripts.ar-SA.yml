@@ -1644,7 +1644,7 @@ ar:
               description_student: ''
               description_teacher: ''
             Loops in Collector:
-              name: التكرار معه لوريل
+              name: التكرار مع لوريل
               description_student: ''
               description_teacher: ''
             Loops in Artist:
@@ -1668,9 +1668,9 @@ ar:
             Programming in Maze:
               name: البرمجة في متاهة الجليد
             Programming in Harvester:
-              name: البرمجة مع الحصّاد
+              name: البرمجة مع الحصادة
             Tell a Story in Play Lab:
-              name:
+              name: 'مختبر الألعاب: ابني قصة'
             Make a Game in Play Lab:
               name: برمج لعبة في مختبر الالعاب
             Ocean Scene with Loops:
