@@ -117,13 +117,13 @@ ar-SA:
 
       #Lesson 2: Ibn Batouta
       courseB_Scrat_ramp1_2018_authored_hint:
-        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تنفيذ ▶" مجددا
+        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تشغيل ▶" مجددا
         '2': لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد
       courseB_Scrat_ramp1_2019:
-        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تنفيذ ▶" مجددا.
+        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تشغيل ▶" مجددا.
         '2': لا تخشَ ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد!
       courseB_Scrat_ramp1_2020_authored_hint:
-        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تنفيذ ▶" مجددا.
+        '1': اذا لم يستطع ابن بطوطة الوصول الى السوسنة السوداء، تأكد بأن القطعتين البرمجيتين متصلتين ثم انقر زر "تشغيل ▶" مجددا.
         '2': لا تخشَ ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد!
       courseB_Scrat_ramp2_2018_authored_hint:
         '1': |-
@@ -400,56 +400,71 @@ ar-SA:
 
       #Lesson 3: Programming with Angry Birds Hints
       #Start of courseA_maze_seq Hints
-      courseA_maze_seq1_authored_hint:
-        courseA_maze_seq1_a: |-
-          اذا لم تستطع تحريك طقطق، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تنفيذ" مجددا <xml>
-            <block type="when_run"/>
-          </xml>
-        courseA_maze_seq1_b: |-
-          يجب أن تحرك طقطق ثلاث خطوات باتجاه الغرب حتى يصل الى السمكة. استخدم هذه القطعة البرمجية:
-
-          <xml><block type="maze_moveWest"/></xml>
-
 
       courseA_maze_seq1_2019:
         courseA_maze_seq1_a: |-
-          اذا لم تستطع تحريك طقطق، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تنفيذ" مجددا <xml>
-            <block type="when_run"/>
-          </xml>
+          اذا لم تستطع تحريك طقطق، تأكد أن القطع البرمجية في مساحة العمل متصلة ثم انقر زر "تشغيل ▶" مجددا.
         courseA_maze_seq1_b: |-
-          يجب أن تحرك طقطق ثلاث خطوات باتجاه الغرب <xml><block type="maze_moveWest"/></xml> حتى يصل الى السمكة. استخدم هذه القطعة البرمجية:
-
+          يجب أن تحرك طقطق ثلاث خطوات باتجاه الغرب حتى يصل الى السمكة. استخدم هذه القطعة البرمجية:
           <xml><block type="maze_moveWest"/></xml>
 
       courseA_maze_seq2_2019:
-        courseA_maze_seq2_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!!
+        courseA_maze_seq2_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!
         courseA_maze_seq2_b: |-
           عليك استخدام هذه القطعة البرمجية:
-
           <xml><block type="maze_moveSouth"/></xml>
       courseA_maze_seq2_predict1_authored_hint: {}
-
+      courseA_maze_seq2: {}
       courseA_maze_seq3_2019:
         courseA_maze_seq3_a: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
-
+      courseA_maze_seq3_2019_authored_hint:
+        courseA_maze_seq3_a: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
       courseA_maze_seq4_2019:
-        courseA_maze_seq4_a: يجب أن تستخدم ثلاث قطع برمجية خاصة بالحركة.
-        courseA_maze_seq4_b: هل تواجه مشكلة؟ حاول أن تجزئ المرحلة الى جزئين. جزء قبل الزاوية والآخر بعدها.
-
+        courseA_maze_seq4_a: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
+        courseA_maze_seq4_b: هل تواجه مشكلة؟ حاول أن تجزئ المرحلة الى جزأين. جزء قبل الزاوية والآخر بعدها.
+      courseA_maze_seq4a_2019:
+        courseA_maze_seq4_a: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
       courseA_maze_seq5_2019:
-        '1': جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!!
-      courseA_maze_seq5a_2019_authored_hint:
+        '1': حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
+      courseA_maze_seq5a_2019:
         '1': حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
 
       courseA_maze_seq6_2019:
         courseA_maze_seq6_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!
-        courseA_maze_seq6_b: يجب أن تتحرك في ثلاثة اتجاهات مختلفة لإنجاز هذه المرحلة.
+        courseA_maze_seq6_b: يجب أن تتحرك في اتجاهين مختلفين لإنجاز هذه المرحلة.
 
-      courseA_maze_seq9_2018_authored_hint:
+      courseA_maze_seq9_2019:
         courseA_maze_seq9_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
-        courseA_maze_seq9_b: اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
-        courseA_maze_seq9_c: |-
-          هاتان القطعتان <xml><block type="maze_moveNorth"/></xml><xml><block type="maze_moveEast"/></xml>  ستساعدانك في الاقتراب من السمكة.
+      courseA_maze_seq9_2019_authored_hint:
+        courseA_maze_seq9_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+
+      courseA_maze_seq10_2019_authored_hint:
+        courseA_maze_seq10_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!
+        courseA_maze_seq10_b: يجب أن تتحرك في ثلاث اتجاهات مختلفة لإنجاز هذه المرحلة.
+      courseA_maze_seq10_2019:
+        courseA_maze_seq10_a: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!
+        courseA_maze_seq10_b: يجب أن تتحرك في ثلاث اتجاهات مختلفة لإنجاز هذه المرحلة.
+      courseA_maze_seq13_2019_authored_hint:
+        courseA_maze_seq13_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq13_b: اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
+        courseA_maze_seq13_c: |-
+          هاتان القطعتان:
+          <xml><block type="maze_moveNorth"/></xml>
+
+          <xml><block type="maze_moveEast"/></xml>
+          ستساعدانك في الاقتراب من السمكة.
+      courseA_maze_seq11_2019_authored_hint: {}
+      courseA_maze_seq12_2019_authored_hint: {}
+      courseA_maze_seq13_2019:
+        courseA_maze_seq13_a: اذا لم تكن الخطوات التي تحتاجها واضحة، حاول رسمها باصبعك على الشاشة.
+        courseA_maze_seq13_b: اذا لم تكن متأكدا من الحل، جرب تشغيل الكود لترى اين حدثت المشكلة.
+        courseA_maze_seq13_c: |-
+          هاتان القطعتان:
+          <xml><block type="maze_moveNorth"/></xml>
+
+          <xml><block type="maze_moveEast"/></xml>
+          ستساعدانك في الاقتراب من السمكة.
+
       #End of courseA_maze_seq Hints
 
 
@@ -470,8 +485,18 @@ ar-SA:
         courseA_artist_loops2_b: استخدم هذه القطعة البرمجية <xml><block type="simple_move_right"/></xml> لإنجاز المرحلة
 
       courseA_artist_loops2_2019:
-        courseA_artist_loops2_a: إن كنت لا تعرف كيف ترسم خطا، جرب إضافة قطع برمجة الى القطعة <xml><block type="when_run"/></xml> في مساحة العمل وشاهد ما سيحدث!
-        courseA_artist_loops2_b: استخدم هذه القطعة البرمجية <xml><block type="simple_move_right"/></xml> لإنجاز المرحلة
+        courseA_artist_loops2_a: |-
+          إن كنت لا تعرف كيف ترسم خطا، جرب إضافة قطع برمجية الى القطعة:
+
+          <xml><block type="when_run"/></xml>
+          في مساحة العمل وشاهد ما سيحدث!
+
+        courseA_artist_loops2_b:
+          استخدم هذه القطعة البرمجية
+
+          <xml><block type="simple_move_right"/></xml>
+          لإنجاز المرحلة.
+
       courseA_artist_loops3_authored_hint:
         courseA_artist_loops3_a: أعد قراءة الكود الذي كتبته وحاول معرفة مكان الخطأ.
         courseA_artist_loops3_b: |-
@@ -495,8 +520,9 @@ ar-SA:
       courseA_artist_loops4_2019:
         courseA_artist_loops4_a: اذا أردت أن تعمل حلقة التكرار أكثر من 4 مرات، غير الرقم الموجود في المربع.
         courseA_artist_loops4_b: |-
-          بما أنك يجب أن تستخدم القطعة البرمجية <xml><block type="simple_move_right"/></xml> مرة واحدة فقط،
-
+          بما أنك يجب أن تستخدم القطعة البرمجية
+          <xml><block type="simple_move_right"/></xml>
+          مرة واحدة فقط.
           <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="2-6">5</title></block></xml> جرب وضعها داخل الحلقة
       courseA_artist_loops5_authored_hint:
         courseA_artist_loops5_a: استخدم ما تعرفه عن حلقة التكرار <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">???</title></block></xml> لإنجاز هذه المرحلة!
@@ -505,25 +531,32 @@ ar-SA:
           <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="2-6">5</title></block></xml> جرب وضعها داخل الحلقة
 
       courseA_artist_loops5_2019:
-        courseA_artist_loops5_a: استخدم ما تعرفه عن حلقة التكرار <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">???</title></block></xml> لإنجاز هذه المرحلة!
+        courseA_artist_loops5_a: |-
+          استخدم ما تعرفه عن حلقة التكرار:
+          <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">???</title></block></xml>
+          لإنجاز هذه المرحلة!
+
         courseA_artist_loops5_b: اذا أردت أن تعمل حلقة التكرار أكثر من 4 مرات، غير الرقم الموجود في المربع.
-        courseA_artist_loops5_c: بما أنك يجب أن تستخدم القطعة البرمجية <xml><block type="simple_move_right"/></xml> مرة واحدة فقط،
-          <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="2-6">5</title></block></xml> جرب وضعها داخل الحلقة
+        courseA_artist_loops5_c: |-
+          بما أنك يجب أن تستخدم القطعة البرمجية:
+          <xml><block type="simple_move_right"/></xml>
+          مرة واحدة فقط، جرب وضعها داخل الحلقة:
+          <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="2-6">5</title></block></xml>
       courseA_artist_loops6_authored_hint:
         courseA_artist_loops6_a: إن كنت لا تعرف كيف ترسم تلة، جرب سحب القطع البرمجية الى مساحة العمل وشاهد ماذا ترسم كل قطعة.
         courseA_artist_loops6_b:
 
       courseA_artist_loops6_2019:
         courseA_artist_loops6_a: إن كنت لا تعرف كيف ترسم تلة، جرب سحب القطع البرمجية الى مساحة العمل وشاهد ماذا ترسم كل قطعة.
-        courseA_artist_loops6_b: ستحتاج إلى قطعتين برمجيتين تشيران الى اتجاهين مختلفين للإنجاز هذه المرحلة.
+        courseA_artist_loops6_b: ستحتاج إلى قطعتين برمجيتين تشيران الى اتجاهين مختلفين لإنجاز هذه المرحلة.
       courseA_artist_loops7_authored_hint:
         courseA_artist_loops7_a: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
-        courseA_artist_loops7_b: استخدم القطع البرمجية اللازمة لرسم لموجة واحدة فقط، ثم كرر ذلك لرسم الموجتين الأخريين.
+        courseA_artist_loops7_b: استخدم القطع البرمجية اللازمة لرسم لموجة واحدة فقط، ثم كرر ذلك لرسم الموجتين الأخرتين.
         courseA_artist_loops7_c: تذكر أنك تستطيع وضع أكثر من قطعة برمجية واحدة داخل حلقة التكرار
 
       courseA_artist_loops7_2019:
         courseA_artist_loops7_a: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
-        courseA_artist_loops7_b: استخدم القطع البرمجية اللازمة لرسم موجة واحدة فقط، ثم كرر ذلك لرسم الموجتين الأخريين.
+        courseA_artist_loops7_b: استخدم القطع البرمجية اللازمة لرسم موجة واحدة فقط، ثم كرر ذلك لرسم الموجتين الأخرتين.
         courseA_artist_loops7_c: |-
           تذكر أنك تستطيع وضع أكثر من قطعة برمجية واحدة داخل حلقة التكرار
           <xml><block type="controls_repeat_simplified_dropdown">
@@ -540,12 +573,12 @@ ar-SA:
       courseA_artist_loops8_authored_hint:
         courseA_artist_loops8_a: جرّب تشغيل الكود الموجود في مساحة العمل وشاهد ما سيحدث.
         courseA_artist_loops8_b: كيف يمكنك أن تستخدم حلقة التكرار مع الكود الموجود في مساحة العمل؟
-        courseA_artist_loops8_c: "ماذا حدث عند تنفيذ الكود؟ هل هذا ما يجب أن يحدث؟ ماذا تستنج من ذلك؟"
+        courseA_artist_loops8_c: "ماذا حدث عند تشغيل الكود؟ هل هذا ما يجب أن يحدث؟ ماذا تستنج من ذلك؟"
 
       courseA_artist_loops8_2019:
         courseA_artist_loops8_a: جرّب تشغيل الكود الموجود في مساحة العمل وشاهد ما سيحدث.
         courseA_artist_loops8_b: كيف يمكنك أن تستخدم حلقة التكرار مع الكود الموجود في مساحة العمل؟
-        courseA_artist_loops8_c: ماذا حدث عند تنفيذ الكود؟ هل هذا ما يجب أن يحدث؟ ماذا تستنج من ذلك؟
+        courseA_artist_loops8_c: ماذا حدث عند تشغيل الكود؟ هل هذا ما يجب أن يحدث؟ ماذا تستنج من ذلك؟
       courseA_artist_loops9_authored_hint:
         courseA_artist_loops9_a: 'أضف قطعة برمجية واحدة إلى الكود الموجود في مساحة العمل لتتمكن من رسم بقية السلالم.'
         courseA_artist_loops9_b: يجب أن تضع القطعة البرمجية داخل حلقة التكرار
@@ -555,8 +588,9 @@ ar-SA:
 
       courseA_artist_loops9_2019:
         courseA_artist_loops9_a: أضف قطعة برمجية واحدة إلى الكود الموجود في مساحة العمل لتتمكن من رسم بقية السلالم.
-        courseA_artist_loops9_b: يجب أن تضع القطعة البرمجية داخل حلقة التكرار
-               <xml><block type=\"controls_repeat_simplified_dropdown\"><title name=\"TIMES\" config=\"3-10\">5</title></block>\n</xml>
+        courseA_artist_loops9_b: |-
+          يجب أن تضع القطعة البرمجية داخل حلقة التكرار:
+          <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">5</title></block></xml>
         courseA_artist_loops9_c: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
       courseA_artist_loops_challenge1_authored_hint: {}
       courseA_artist_loops_challenge1_2020_authored_hint: {}
@@ -610,18 +644,12 @@ ar-SA:
           استخدم هذه القطعة البرمجية
 
           <xml><block type="maze_moveEast"/></xml>
-      courseB_iceage_loops2_authored_hint:
-        courseB_iceage_loops2_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
-        courseB_iceage_loops2_b: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
-        courseB_iceage_loops2_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
+
       courseB_iceage_loops2_2019:
         courseB_iceage_loops2_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
         courseB_iceage_loops2_b: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
         courseB_iceage_loops2_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
-      courseB_iceage_loops2_2020_authored_hint:
-        courseB_iceage_loops2_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
-        courseB_iceage_loops2_b: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
-        courseB_iceage_loops2_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
       courseB_iceage_loops3_authored_hint:
         courseB_iceage_loops3_a: |-
           استخدم هذه القطعة البرمجية! <xml><block type="controls_repeat_simplified_dropdown>
@@ -630,7 +658,7 @@ ar-SA:
       courseB_iceage_loops3_b: |-
           لتكرار الكود، استخدم حلقة التكرار,
 
-          <xml><block type="controls_repeat_simplified">
+          <xml><block type="controls_repeat_simplified_dropdown">
               <title name="TIMES">???</title>
             </block></xml>
 
@@ -642,55 +670,42 @@ ar-SA:
               <title name="TIMES" config="3-10">5</title>
             </block></xml>
         courseB_iceage_loops3_b: |-
-          لتكرار الكود، استخدم حلقة التكرار, <"xml><block type="controls_repeat_simplified>
+          لتكرار الكود، استخدم حلقة التكرار:
+          <"xml><block type="controls_repeat_simplified_dropdown">
               <title name="TIMES">???</title>
             </block></xml>
           وضع القطعة البرمجية التي تريد تكرارها داخلها.
-      courseB_iceage_loops3_2020_authored_hint:
+      courseB_iceage_loops3_2019:
         courseB_iceage_loops3_a: |-
           استخدم هذه القطعة البرمجية!
           <xml><block type="controls_repeat_simplified_dropdown">
               <title name="TIMES" config="3-10">5</title>
             </block></xml>
         courseB_iceage_loops3_b: |-
-          لتكرار الكود، استخدم حلقة التكرار, <"xml><block type="controls_repeat_simplified>
+          لتكرار الكود، استخدم حلقة التكرار:
+          <"xml><block type="controls_repeat_simplified_dropdown">
               <title name="TIMES">???</title>
             </block></xml>
           وضع القطعة البرمجية التي تريد تكرارها داخلها.
-      courseB_iceage_loops4_2020_authored_hint:
-        courseB_iceage_loops4_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
-        courseB_iceage_loops4_b: جرب تنفيذ الكود الذي كتبته وشاهد ما سيحصل!
-        courseB_iceage_loops4_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
       courseB_iceage_loops4_2019:
         courseB_iceage_loops4_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
-        courseB_iceage_loops4_b: جرب تنفيذ الكود الذي كتبته وشاهد ما سيحصل!
+        courseB_iceage_loops4_b: جرب تشغيل الكود الذي كتبته وشاهد ما سيحصل!
         courseB_iceage_loops4_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
-      courseB_iceage_loops6_2020_authored_hint:
-        courseB_iceage_loops6_a: ستحتاج الى 3 قطع برمجية للحركة
-        courseB_iceage_loops6_b: استخدم حلقة تكرار إضافية
-        courseB_iceage_loops6_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
+
       courseB_iceage_loops6_2019:
         courseB_iceage_loops6_a: ستحتاج الى 3 قطع برمجية للحركة
         courseB_iceage_loops6_b: استخدم حلقة تكرار إضافية
         courseB_iceage_loops6_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
-      courseB_iceage_loops7_2020_uthored_hint:
-        courseB_iceage_loops7_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
-        courseB_iceage_loops7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
+
       courseB_iceage_loops7_2019:
         courseB_iceage_loops7_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
         courseB_iceage_loops7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
-      courseB_iceage_loops8_2020_authored_hint:
-        courseB_iceage_loops8_a: هل يمكنك تعديل قطع برمجية أخرى غير التي لها علاقة بالحركة؟
-        courseB_iceage_loops8_b: حلقة التكرار الأولى ستعمل 3 مرات، والثانية 5 مرات، والثالثة 4 مرات والأخيرة 4 مرات.
-        courseB_iceage_loops8_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
       courseB_iceage_loops8_2019:
         courseB_iceage_loops8_a: هل يمكنك تعديل قطع برمجية أخرى غير التي لها علاقة بالحركة؟
         courseB_iceage_loops8_b: حلقة التكرار الأولى ستعمل 3 مرات، والثانية 5 مرات، والثالثة 4 مرات والأخيرة 4 مرات.
         courseB_iceage_loops8_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر
-      courseB_iceage_loops9_2020_authored_hint:
-        courseB_iceage_loops9_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
-        courseB_iceage_loops9_b: استخدم حلقة التكرار 4 مرات لإنجاز المرحلة.
-        courseB_iceage_loops9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
       courseB_iceage_loops9_2019:
         courseB_iceage_loops9_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
         courseB_iceage_loops9_b: استخدم حلقة التكرار 4 مرات لإنجاز المرحلة
@@ -744,10 +759,12 @@ ar-SA:
 
       courseA_playLab_events3_2019:
         courseA_playLab_events3_a: |-
-          اسحب هذه القطعة البرمجية  <"xml><block type="studio_move>
+          اسحب هذه القطعة البرمجية:
+          <xml><block type="studio_move">
               <title name="SPRITE">1</title>
               <title name="DIR">8</title>
-            </block></xml> وأضفها الى نهاية
+            </block></xml>
+          وأضفها الى نهاية:
           <xml><block type="studio_whenArrow">
               <title name="VALUE">اليسار</title>
             </block></xml>
@@ -799,8 +816,14 @@ ar-SA:
           ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
 
       courseA_playLab_events5_2019:
-        courseA_playLab_events5_a: هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل
-          ":\n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">up</title>\n  </block></xml>\n\nand \n\n<xml><block type=\"studio_whenArrow\">\n    <title name=\"VALUE\">down</title>\n  </block></xml>"
+        courseA_playLab_events5_a: |-
+          هذه هي قطع الحدث البرمجية التي تحتاج إليها لتحريك الكلب خورخي إلى الاعلى والاسفل:
+          <xml><block type="studio_whenArrow">
+               <title name="VALUE">الأعلى</title>
+               </block></xml>
+          <xml><block type="studio_whenArrow">
+               <title name="VALUE">الأسفل</title>
+               </block></xml>
         courseA_playLab_events5_b: |-
           اذا أردت تغيير اتجاه السهم الموجود على الحدث البرمجي، فما عليك الا نقر صورة السهم واختيار الاتجاه الذي تريده
 
@@ -854,7 +877,7 @@ ar-SA:
 
       courseA_playLab_events7_2019:
         courseA_playLab_events7_a: |-
-          استخدم هذه القطعة البرمجية للتحكم في ما يحدث عندما يتصادم الممثلان
+          استخدم هذه القطعة البرمجية للتحكم في ما يحدث عندما تتصادم الشخصيتان:
 
           <xml><block type="studio_whenSpriteCollided">
               <title name="SPRITE1">1</title>
@@ -6592,7 +6615,11 @@ ar-SA:
         courseB_artist_loops9_c: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
       courseB_artist_loops9_2019:
         courseB_artist_loops9_a: تذكر أن تستخدم القطعة البرمجية "قفز" للتنقل دون رسم.
-        courseB_artist_loops9_b: استخدم القطعة البرمجية <xml><block type="maze_moveWest"/></xml> لإنجاز المرحلة.
+        courseB_artist_loops9_b: |-
+          استخدم القطعة البرمجية
+          <xml><block type="maze_moveWest"/></xml>
+          لإنجاز المرحلة.
+
         courseB_artist_loops9_c: إن كنت لا تعرف أين تضع حلقة التكرار، جرب إضافة القطع البرمجية واحدة تلو الأخرى الى مساحة العمل وابحث عن نمط معين.
       #Hints below do not exist in this lesson
       courseB_artist_loops_challenge1:
@@ -6640,13 +6667,13 @@ ar-SA:
         courseB_collector_loops1_a: استخدم القطعة البرمجية <xml><block type="collector_collect_simplified"/></xml> لتحصل على الكنز عندما تقف عنده!
       courseB_collector_loops1_2019:
         courseB_collector_loops1_a: |-
-          استخدم القطعة البرمجية
+          استخدم القطعة البرمجية:
           <xml><block type="collector_collect"/></xml>
           لتحصل على الكنز عندما تقف عنده!
       courseB_collector_loops2:
         courseB_collector_loops2_a: يجب أن تصل الى الجواهر أولا قبل أن تبدأ بجمعها!
         courseB_collector_loops2_b: |-
-          استخدم القطعة البرمجية
+          استخدم القطعة البرمجية:
           <xml><block type="collector_collect"/></xml>
           لتحصل على الكنز عندما تقف عنده!
       courseB_collector_loops2_2018:
@@ -6654,13 +6681,17 @@ ar-SA:
         courseB_collector_loops2_b: عندما تصل الى المكان الذي توجد به الجوهرة،استخدم القطعة البرمجية <xml><block type="collector_collect_simplified"/></xml> لجمعها!
       courseB_collector_loops2_2019:
         courseB_collector_loops2_a: يجب أن تصل الى الجواهر أولا قبل أن تبدأ بجمعها!
-        courseB_collector_loops2_b: عندما تصل الى المكان الذي توجد به الجوهرة،استخدم القطعة البرمجية <xml><block type="collector_collect"/></xml> لجمعها!
+        courseB_collector_loops2_b: |-
+          استخدم القطعة البرمجية:
+          <xml><block type="collector_collect"/></xml>
+          لتحصل على الكنز عندما تقف عنده!
+
       courseB_collector_loops3:
         courseB_collector_prog3_a: استخدم القطعة البرمجية <xml><block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="3-10">5</title></block></xml> لتحصل على الكنز عندما تقف عنده!
         courseB_collector_prog3_b: تذكر أنه يمكنك وضع أكثر من قطعة برمجية واحدة داخل حلقة التكرار.
       courseB_collector_loops3_2019:
         courseB_collector_prog3_a: |-
-          استخدم القطعة البرمجية
+          استخدم القطعة البرمجية:
           <xml><block type="collector_collect"/></xml>
           لتحصل على الكنز عندما تقف عنده!
 
@@ -6673,10 +6704,10 @@ ar-SA:
         courseB_collector_loops4_b: لتتحكم بالمسافة التي ستقطعها لوريل، عدل الرقم الموجود في حلقة التكرار!
         courseB_collector_loops4_c: بعد أن تنهي لوريل حلقة التكرار، يجب أن تتجه الى الأسفل لتجمع كل الجواهر!
       courseB_collector_loops4_2018:
-        courseB_collector_loops4_a: انقر الزر "جرِب الكود" لمعرفة أين يكمن الخلل البرمجي.
+        courseB_collector_loops4_a: انقر الزر "جرِب خطوة" لمعرفة أين يكمن الخلل البرمجي.
         courseB_collector_loops4_b: لتتحكم بالمسافة التي ستقطعها لوريل، عدل الرقم الموجود في حلقة التكرار!
         courseB_collector_loops4_c: بعد أن تنهي لوريل حلقة التكرار، يجب أن تتجه الى الأسفل لتجمع كل الجواهر!
-      courseB_collector_loops4_2019_authored_hint:
+      courseB_collector_loops4_2019:
         courseB_collector_loops4_a: انقر الزر "جرِب خطوة" لمعرفة أين يكمن الخلل البرمجي.
         courseB_collector_loops4_b: لتتحكم بالمسافة التي ستقطعها لوريل، عدل الرقم الموجود في حلقة التكرار!
         courseB_collector_loops4_c: بعد أن تنهي لوريل حلقة التكرار، يجب أن تتجه الى الأسفل لتجمع كل الجواهر!
@@ -6686,7 +6717,7 @@ ar-SA:
       courseB_collector_loops5_2018:
         courseB_collector_loops5_a: استخدم أكثر من حلقة تكرار واحدة لإتمام المهمة.
         courseB_collector_loops5_b: جرب تشغيل القطع البرمجية أكثر من مرة لرؤية ما سيحدث.
-      courseB_collector_loops5_2019_authored_hint:
+      courseB_collector_loops5_2019:
         courseB_collector_loops5_a: استخدم أكثر من حلقة تكرار واحدة لإتمام المهمة.
         courseB_collector_loops5_b: جرب تشغيل القطع البرمجية أكثر من مرة لرؤية ما سيحدث.
       courseB_collector_loops6:
@@ -6699,7 +6730,7 @@ ar-SA:
         courseB_collector_loops6_b: يمكنك التحكم بعدد مرات تشغيل حلقة التكرار عن طريق تغيير الرقم 3 واختيار رقم مختلف.
         courseB_collector_loops6_c: ستحتاج الى استخدام 3 قطع من حلقة التكرار لإنجاز المرحلة.
         courseB_collector_loops6_d: إذا كنت ما تزال مرتبكاً، جرب تجزئة هذه المرحلة إلى 3 أجزاء.
-      courseB_collector_loops6_2019_authored_hint:
+      courseB_collector_loops6_2019:
         courseB_collector_loops6_a: ألا تستطيع أن تجد الخطأ؟ استخدم الزر "جرب خطوة" لتجرب قطعة برمجية واحدة في كل مرة.
         courseB_collector_loops6_b: يمكنك التحكم بعدد مرات تشغيل حلقة التكرار عن طريق تغيير الرقم 3 واختيار رقم مختلف.
         courseB_collector_loops6_c: ستحتاج الى استخدام ثلاث قطع من حلقة التكرار لإنجاز هذه المرحلة.
@@ -6710,14 +6741,14 @@ ar-SA:
       courseB_collector_loops7_2018:
         courseB_collector_loops7_a: جرب رسم خطوات الحل على ورقة حتى تتمكن من إنجاز المرحلة.
         courseB_collector_loops7_b: ستحتاج الى استخدام 3 قطع من حلقة التكرار لإنجاز المرحلة. لا تنس أن تجمع الجوهرة الإضافية ايضا.
-      courseB_collector_loops7_2019_authored_hint:
+      courseB_collector_loops7_2019:
         courseB_collector_loops7_a: جرب رسم خطوات الحل على ورقة حتى تتمكن من إنجاز هذه المرحلة.
         courseB_collector_loops7_b: ستحتاج الى استخدام ثلاث قطع من حلقة التكرار لإنجاز المرحلة. لا تنسَ أن تجمع الجوهرة الإضافية ايضا.
       courseB_collector_loops8:
         courseB_collector_loops8_challenge_a: استخدم حلقة التكرار لإنجاز المرحلة. إن لم تكن متأكدا من ذلك، استخدم القطع البرمجية واحدة تلو الأخرى وابحث عن نمط معين.
       courseB_collector_loops8_2018:
         courseB_collector_loops8_challenge_a: استخدم حلقة التكرار لإنجاز المرحلة. إن لم تكن متأكدا من ذلك، استخدم القطع البرمجية واحدة تلو الأخرى وابحث عن نمط معين.
-      courseB_collector_loops8_2019_authored_hint:
+      courseB_collector_loops8_2019:
         courseB_collector_loops8_challenge_a: استخدم حلقة التكرار لإنجاز المرحلة. إن لم تكن متأكدا من ذلك، استخدم القطع البرمجية واحدة تلو الأخرى وابحث عن نمط معين.
       courseB_collector_loops9:
         courseB_collector_loops9_a: إذا كنت ما تزال مرتبكاً، جرب تجزئة هذه المرحلة إلى 3 أجزاء.
@@ -6725,7 +6756,7 @@ ar-SA:
       courseB_collector_loops9_2018:
         courseB_collector_loops9_a: إذا كنت ما تزال مرتبكاً، جرب تجزئة هذه المرحلة إلى 3 أجزاء.
         courseB_collector_loops9_b: ستحتاج الى استخدام 3 قطع من حلقة التكرار واحدة تلو الأخرى لإنجاز هذه المرحلة.
-      courseB_collector_loops9_2019_authored_hint:
+      courseB_collector_loops9_2019:
         courseB_collector_loops9_a: إذا كنت ما تزال مرتبكاً، جرب تجزئة هذه المرحلة إلى 3 أجزاء.
         courseB_collector_loops9_b: ستحتاج الى استخدام ثلاث قطع من حلقة التكرار واحدة تلو الأخرى لإنجاز هذه المرحلة.
       courseB_collector_loops10:
@@ -6734,7 +6765,7 @@ ar-SA:
       courseB_collector_loops10_2018:
         courseB_collector_loops10_a: استخدم حلقات التكرار لإنجاز المرحلة. ان لم تكن متأكدا من ذلك، استخدم القطع البرمجية خطوة بخطوة وابحث عن نمط معين.
         courseB_collector_loops10_b: جرب رسم خطوات الحل على ورقة حتى تتمكن إيجاد النمط اللازم لإنجاز المرحلة.
-      courseB_collector_loops10_2019_authored_hint:
+      courseB_collector_loops10_2019:
         courseB_collector_loops10_a: استخدم حلقة التكرار لإنجاز المرحلة. ان لم تكن متأكدا من ذلك، استخدم القطع البرمجية واحدة تلو الأخرى وابحث عن نمط معين.
         courseB_collector_loops10_b: جرب رسم خطوات الحل على ورقة حتى تتمكن إيجاد النمط اللازم لإنجاز المرحلة.
       #End of courseB_collector_loops
@@ -6817,17 +6848,7 @@ ar-SA:
      #end of Comment_Collector_Challenge.
 
 
-      courseB_iceage_loops3_2019:
-        courseB_iceage_loops3_a: |-
-          استخدم هذه القطعة البرمجية
-           <xml><block type="controls_repeat_simplified_dropdown">
-                <title name="TIMES" config="3-10">5</title>
-              </block></xml>
-        courseB_iceage_loops3_b: |-
-          لتكرار الكود، استخدم حلقة التكرار <"xml><block type="controls_repeat_simplified>
-                <title name="TIMES">???</title>
-             </block></xml>
-          وضع القطعة البرمجية التي تريد تكرارها داخلها.
+
       courseB_maze_seq1:
         courseB_maze_seq1_a: صل المربعات البرمجية بالمربع البرمجي <xml><block type="when_run"/></xml>
           لجعل الطائر يتحرك!
@@ -6982,7 +7003,7 @@ ar-SA:
             </xml>
       courseB_playlab_events2_2019:
         courseB_playlab_events2_a: |-
-          هذه هي القطعة البرمجية التي ستجعل ديزي يقول شيئا ما:
+          هذه هي القطعة البرمجية التي ستجعل ديزي تقول شيئا ما:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
@@ -7387,9 +7408,9 @@ ar-SA:
 
         courseB_starWars_prog1_b: يجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
       courseB_starWars_prog2:
-        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزئين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
+        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
       courseB_starWars_prog2_2019:
-        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزئين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
+        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
       courseB_starWars_prog3:
         courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
         courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
@@ -9076,14 +9097,18 @@ ar-SA:
           </xml>
 
       courseA_harvester_seq2_authored_hint:
-        courseA_harvester_seq2_a: لا تنسَ استخدام القطعة البرمجية
+        courseA_harvester_seq2_a: |-
+          لا تنسَ استخدام القطعة البرمجية:
+
           <xml>
             <block type="harvester_corn"/>
           </xml>
           لالتقاط الذرة.
         courseA_harvester_seq2_b: جرب كتابة الخطوات على ورقة فقد يساعدك ذلك في إيجاد الحل!
       courseA_harvester_seq2_2019:
-        courseA_harvester_seq2_a: لا تنسَ استخدام القطعة البرمجية
+        courseA_harvester_seq2_a: |-
+          لا تنسَ استخدام القطعة البرمجية:
+
           <xml>
             <block type="harvester_corn"/>
           </xml>
@@ -9120,11 +9145,15 @@ ar-SA:
       courseA_harvester_seq4_2019:
         courseA_harvester_seq4_a: كم خطوة تفصل بين الحصَادة وحبة الذرة؟ كم قطعة برمجية يوجد في مساحة العمل حاليا؟ كيف يمكن أن يفيدك هذا؟
         courseA_harvester_seq4_b: |-
-          استخدم القطعة البرمجية <xml><block type="maze_moveEast"/></xml> خمس مرات والقطعة البرمجية <xml><block type="harvester_corn"/></xml> بعدها.
+          استخدم القطعة البرمجية:
+          <xml><block type="maze_moveEast"/></xml>
+          خمس مرات والقطعة البرمجية
+          <xml><block type="harvester_corn"/></xml>
+          بعدها..
 
       courseA_harvester_seq5_authored_hint:
         courseA_harvester_seq5_a: أي القطع البرمجية تحرك الحصَادة في الاتجاه الخاطئ؟
-        courseA_harvester_seq5_b: تحتاج أن تعيد قطعة برمجية واحدة الى صندوق الأدوات
+        courseA_harvester_seq5_b: تحتاج أن تعيد قطعة برمجية واحدة الى صندوق الأدوات.
         courseA_harvester_seq5_c: |-
           تخلص من هذه القطعة البرمجية!
 
@@ -9143,24 +9172,31 @@ ar-SA:
         courseA_harvester_seq6_a: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
 
       courseA_harvester_seq7_authored_hint:
-        courseA_harvester_seq7_a: حاول أن تجزئ المرحلة الى جزئين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!
-        courseA_harvester_seq7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر
+        courseA_harvester_seq7_a: حاول أن تجزئ المرحلة الى جزأين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!
+        courseA_harvester_seq7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
       courseA_harvester_seq7_2019:
-        courseA_harvester_seq7_a: حاول أن تجزئ المرحلة الى جزئين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!
-        courseA_harvester_seq7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر
+        courseA_harvester_seq7_a: حاول أن تجزئ المرحلة الى جزأين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!
+        courseA_harvester_seq7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
 
       courseA_harvester_seq8_authored_hint:
         courseA_harvester_seq8_a: يجب أن تستخدم 4 قطع برمجية تساعدك على الحركة واثنتين من القطعة البرمجية <xml><block type="harvester_corn"/></xml>
       courseA_harvester_seq8_2019:
-        courseA_harvester_seq8_a: يجب أن تستخدم 4 قطع برمجية تساعدك على الحركة واثنتين من القطعة البرمجية <xml><block type="harvester_corn"/></xml>
+        courseA_harvester_seq8_a: |-
+          يجب أن تستخدم 4 قطع برمجية تساعدك على الحركة واثنتين من القطعة البرمجية:
+
+          <xml><block type="harvester_corn"/></xml>
 
       courseA_harvester_seq9_authored_hint:
-        courseA_harvester_seq9_a: نفذ الكود الموجود في مساحة العمل عدة مرات وانتبه الى المكان الذي يتوقف فيه الحصَادة عن متابعة السير
-        courseA_harvester_seq9_b: تأكد ان تستخدم القطعة البرمجية <xml><block type="harvester_corn"/></xml> ثلاث مرات لتحصل على كل الذرة
-        courseA_harvester_seq9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر
+        courseA_harvester_seq9_a: نفذ الكود الموجود في مساحة العمل عدة مرات وانتبه الى المكان الذي يتوقف فيه الحصَادة عن متابعة السير.
+        courseA_harvester_seq9_b: تأكد ان تستخدم القطعة البرمجية <xml><block type="harvester_corn"/></xml> ثلاث مرات لتحصل على كل الذرة.
+        courseA_harvester_seq9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
       courseA_harvester_seq9_2019:
         courseA_harvester_seq9_a: جرب الكود الموجود في مساحة العمل عدة مرات وانتبه الى المكان الذي تتوقف فيه الحصَادة عن متابعة السير.
-        courseA_harvester_seq9_b: تأكد ان تستخدم القطعة البرمجية <xml><block type="harvester_corn"/></xml> ثلاث مرات لتحصل على كل الذرة.
+        courseA_harvester_seq9_b: |-
+          تأكد ان تستخدم القطعة البرمجية:
+
+          <xml><block type="harvester_corn"/></xml>
+          ثلاث مرات لتحصل على كل الذرة.
         courseA_harvester_seq9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
       #End of Lesson 5: Harvester Hints
 
@@ -10237,7 +10273,7 @@ ar-SA:
       courseD_artist_ramp12:
         courseD_artist_ramp12_a: يمكنك إما رسم المربع أولاً، ثم المثلث، أو يمكنك رسم
           المثلث، ثم المربع!
-        courseD_artist_ramp12_b: حاول تجزئة المشكلة إلى جزئين، مع استخدام عدد 2 حلقة.
+        courseD_artist_ramp12_b: حاول تجزئة المشكلة إلى جزأين، مع استخدام عدد 2 حلقة.
         courseD_artist_ramp12_c: يمكنك استخدام القائمة المنسدلة على المربعات البرمجية
           "التفاف" لمعرفة أي من الزوايا تحتاج إليها!
       courseD_autorun_binary2_2019:
