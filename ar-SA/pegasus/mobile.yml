@@ -162,7 +162,7 @@
   share_achievement: "شارك انجازاتك"
   beyond_hour_message: "إستمر بالتقدم مع <a href='http://studio.code.org'>دوراتنا الأخرى</a>, أو شاهد خيارات أخرى لـ <a href='/learn/beyond'>تعلم ما بعد ساعة من البرمجة</a>."
   leaderboards_for_hoc: "المتصدرين لبرنامج ساعة من البرمجة."
-  support_url: "http://support.code.org/"
+  support_url: "http://help.edraak.org/"
   country: "الدولة"
   city: "المدينة"
   gender: "الجنس"
@@ -611,7 +611,7 @@
   dashboard_navigation_section_pd: "التنمية المهنية"
   dashboard_navigation_section_speakers: "علوم الحاسب الآلي <br/> المتحدثين الضيوف"
   dashboard_navigation_all_sections: "حسابات و سير الطلاب"
-  dashboard_navigation_view_progress: "في تقدم"
+  dashboard_navigation_view_progress: "التقدم"
   dashboard_navigation_view_text_responses: "استجابات النص"
   dashboard_navigation_view_assessments: "التقييمات"
   dashboard_navigation_view_assessments_surveys: "التقييمات/الاستبيانات"
@@ -663,7 +663,7 @@
   dashboard_students_add_multiple: 'اكتب أو إلصق أسماء الطلاب. واحداً في كل سطر:'
   dashboard_students_new_section: "قمت بإنشاء قسم جديد! الآن أضف طلابك باستخدام أزرار <b>إضافة الطالب</b> و <b>إضافة العديد من الطلاب</b> أعلاه."
   dashboard_students_name: 'الاسم'
-  dashboard_students_progress: "في تقدم"
+  dashboard_students_progress: "التقدم"
   dashboard_students_male: "ذكر"
   dashboard_students_female: "أنثى"
   dashboard_students_completed_levels: "المستويات الكاملة"

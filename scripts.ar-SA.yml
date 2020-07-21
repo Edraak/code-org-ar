@@ -1677,11 +1677,11 @@ ar:
               name: رسم المحيط بالتكرار
           lesson_groups:
             csf_sequencing:
-              display_name: التفكير المتسلسل
+              display_name: "  التفكير المتسلسل"
             csf_loops:
-              display_name: التكرار
+              display_name: "  التكرار"
             csf_events:
-              display_name: الاحداث
+              display_name: "  الحدث البرمجي"
         removed19:
           stages:
             'Real-life Algorithms: Plant a Seed':
