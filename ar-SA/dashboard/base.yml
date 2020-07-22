@@ -72,7 +72,7 @@ ar:
   add_hint_form:
     placeholder: 'الرجاء إدخال التلميح الخاص بك هنا'
     submit: 'إضافة تلميح'
-  appname: "Code.org"
+  appname: "ادراك كود"
   stage: "المرحلة"
   stage_number: "الدرس %{number}"
   puzzle: "لغز"
