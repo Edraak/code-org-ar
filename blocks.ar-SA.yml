@@ -18,7 +18,7 @@ ar:
             '"ROBOT"': كل الروبوتات
             '"SHARK"': كل أسماك القرش
             '"SLOTH"': الكسلان
-            '"UNICORN"': وحيدات القرن
+            '"UNICORN"': وحيد القرن
           MOVE1:
             MOVES.Roll: الدحرجة
             MOVES.ClapHigh: التصفيق بصوت عالٍ
@@ -977,9 +977,9 @@ ar:
       Dancelab_whenSetup2:
         text: الإعداد
       gamelab_addBehaviorSimple:
-        text: العفريت {SPRITE} يبدا {BEHAVIOR}
+        text: الكائن {SPRITE} يبدأ {BEHAVIOR}
       gamelab_allSpritesWithAnimation:
-        text: "{ANIMATION}"
+        text: "{حركة}"
       gamelab_changePropBy:
         text: غيّر {SPRITE} {PROPERTY} بمقدار {VAL}
         options:
@@ -994,19 +994,21 @@ ar:
         options:
           CONDITION:
             '"when"': عندما
-            '"while"': التكرار طالما
+            '"while"': طالما
+      gamelab_tumbling:
+        text: تدحرج
       gamelab_clickedOn:
         text: عند النقر على {SPRITE}
       gamelab_clickedSpritePointer:
         text: النقر {SPRITE}
       gamelab_comment:
-        text: 'التعليق: {COMMENT}'
+        text: 'تعليق {COMMENT}'
       gamelab_createNewSprite:
-        text: "جعل شبح جديد \n دعا {NAME} \n مع زي {COSTUME} \n في {LOCATION}"
+        text: "أنشئ كائنا جديدا \n دعا {NAME} \n مع زي {COSTUME} \n في {LOCATION}"
       gamelab_destroy:
         text: إزالة {THIS}
       gamelab_draggable:
-        text: كونها قابلة للسحب
+        text: قابلة للسحب
       gamelab_edgesDisplace:
         text: حواف كتلة {SPRITE} من التحرك
       gamelab_getProp:
@@ -1020,14 +1022,14 @@ ar:
             '"direction"': اتجاه الحركة
             '"tint"': لون خفيف
       gamelab_getThisSprite:
-        text: "{CHOICE} العفريت"
+        text: "{CHOICE} الكائن"
         options:
           CHOICE:
             '"this"': هذا
       gamelab_hideTitleScreen:
         text: إخفاء شاشة العنوان
       gamelab_isTouchingEdges:
-        text: "{SPRITE} هو لمس الحواف"
+        text: "{SPRITE} يلمس الحواف"
       gamelab_jumpTo:
         text: "{SPRITE} انتقل إلى {LOCATION}"
       gamelab_keyPressed:
@@ -1035,13 +1037,13 @@ ar:
         options:
           CONDITION:
             '"when"': عندما
-            '"while"': التكرار طالما
+            '"while"': طالما
           KEY:
             '"up"': الأعلى
             '"down"': الأسفل
             '"left"': اليسار
             '"right"': اليمين
-            '"space"': الفضاء
+            '"space"': مسافة
             '"a"': أ
             '"b"': b
             '"c"': c
@@ -1053,7 +1055,7 @@ ar:
             '"i"': i
             '"j"': ي
             '"k"': ك
-            '"l"': أنا
+            '"l"': l
             '"m"': m
             '"n"': n
             '"o"': o
@@ -1077,7 +1079,7 @@ ar:
       gamelab_location_picker:
         text: "{LOCATION}"
       gamelab_makeNewSpriteAnon:
-        text: جعل جديده {ANIMATION_NAME} العفريت في {LOCATION}
+        text: أنشئ {ANIMATION_NAME} الكائن الجديد في {LOCATION}
       gamelab_mirrorSprite:
         text: "{SPRITE} وجه {DIRECTION}"
         options:
@@ -1087,9 +1089,9 @@ ar:
       gamelab_mouseLocation:
         text: موقع الماوس
       gamelab_moveForward:
-        text: نقل {SPRITE} {DISTANCE} بكسل إلى الامام
+        text: نقل {SPRITE} {DISTANCE} بيكسل إلى الامام
       gamelab_moveInDirection:
-        text: نقل {SPRITE} {DISTANCE} العنصورات {DIRECTION}
+        text: نقل {SPRITE} {DISTANCE} العناصر {DIRECTION}
         options:
           DIRECTION:
             '"North"': شمال
@@ -1097,11 +1099,13 @@ ar:
             '"South"': جنوب
             '"West"': غرب
       gamelab_moveToward:
-        text: نقل {SPRITE} العنصورات {DISTANCE} نحو {TARGET}
+        text: نقل {SPRITE} العناصر {DISTANCE} نحو {TARGET}
+      gamelab_patrollingUpDown:
+        text: دورية للأعلى ولأسفل
       gamelab_playSound:
-        text: بلاي ساوند {SOUND}
+        text: شغل الصوت {SOUND}
       gamelab_pointInDirection:
-        text: نقطه {SPRITE} {DIRECTION}
+        text: صوب باتجاه {SPRITE} {DIRECTION}
         options:
           DIRECTION:
             '"North"': شمال
@@ -1119,7 +1123,7 @@ ar:
       gamelab_removeAllBehaviors:
         text: "{SPRITE} توقف كل شيء"
       gamelab_removeBehaviorSimple:
-        text: العفريت {SPRITE} توقف {BEHAVIOR}
+        text: الكائن {SPRITE} توقف {BEHAVIOR}
       gamelab_removeTint:
         text: إزالة اللون من {THIS}
       gamelab_setAnimation:
@@ -1130,6 +1134,24 @@ ar:
         text: اختر الخلفية {IMG}
         options:
           IMG:
+            '"https://studio.code.org/api/v1/animation-library/UieRK0NBKD3xVHtSJxcUTAuhzLM1D_Hq/category_backgrounds/continuous_grass.png"': حقل كبير
+            '"https://studio.code.org/api/v1/animation-library/nfgysU3t3P8XnUBAf9LjIy2JTHtdXpTj/category_backgrounds/desert_road.png"': طريق صحراوي
+            '"https://studio.code.org/api/v1/animation-library/4FnSIFL33P0PH_C_DnKOse2QbZCdtaJJ/category_backgrounds/farm_land.png"': المزرعة
+            '"https://studio.code.org/api/v1/animation-library/vrlUwPslp0VK_KJcPQ9OPZNb.Ms5eBL5/category_backgrounds/floating_grass.png"': حقل طائر
+            '"https://studio.code.org/api/v1/animation-library/ZjjFGjO0xNEZGEweTgANloehQrxwIXVM/category_backgrounds/front_of_house.png"': مدخل المنزل
+            '"https://studio.code.org/api/v1/animation-library/1K7z7Kc3EeXsLV693byb0xxoJSJ4Du7e/category_backgrounds/kitchen.png"': مطبخ
+            '"https://studio.code.org/api/v1/animation-library/4bsf67OUrcX.t1wbIcE_xygGKxOkiQ6f/category_backgrounds/living_room.png"': غرفة المعيشة
+            '"https://studio.code.org/api/v1/animation-library/cJKusc1WPgWvCvgdwRX1gk8Zk0FggcVj/category_backgrounds/meadow.png"': مرج
+            '"https://studio.code.org/api/v1/animation-library/4gC7uWaaRI4aDyrncCFO_wY_67vYhr4C/category_backgrounds/park_view.png"': حديقة
+            '"https://studio.code.org/api/v1/animation-library/5K0h1rGe5ql4J9TdlqggIzGZYzbD38pF/category_backgrounds/pine_trees.png"': أشجار الصنوبر
+            '"https://studio.code.org//api/v1/animation-library/WJjQlG1rFhbVmPfcuI_wy6tpwI6mHYnM/category_backgrounds/soccer_field.png"': ملعب الكرة
+            '"https://studio.code.org/api/v1/animation-library/Thvd6E7yU59nfop.zZKGWKoR8VLZDTq./category_backgrounds/stage.png"': مسرح
+            '"https://studio.code.org/api/v1/animation-library/RblQqWAuW0EkLfYuRVK4LRc0uY_76fvi/category_backgrounds/subway.png"': نفق
+            '"https://studio.code.org/api/v1/animation-library/ZY0THG5IedwCgmWVIhiPdJH59OORnmgT/category_backgrounds/sun_and_rainbow.png"': قوس قزح
+            '"https://studio.code.org/api/v1/animation-library/_aXeLwM1Ge.ZDVJoON.cAlR3iwhKJJvl/category_backgrounds/sunshine_showers.png"': أشعة الشمس
+            '"https://studio.code.org/api/v1/animation-library/.51KpEhDOyXg4dbDaAnm0dEWLAj1GZwy/category_backgrounds/tennis_court.png"': ملعب التنس
+            '"https://studio.code.org/api/v1/animation-library/yatDsUkvGtT_.fSv68qi1d4YJDMHdGnS/category_backgrounds/tree_island.png"': جزيرة الشجرة
+            '"https://studio.code.org/api/v1/animation-library/INSgmsgsLuIk1Aqp7g72h9nLFez.NX0p/category_backgrounds/underground.png"': تحت الأرض
             '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': كهف
             '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': مدينة
             '"https://studio.code.org/blockly/media/skins/studio/background.png"': محكمة
@@ -1177,7 +1199,7 @@ ar:
         options:
           CONDITION:
             '"when"': عندما
-            '"while"': التكرار طالما
+            '"while"': طالما
       gamelab_turn:
         text: دوره {SPRITE} {DIRECTION} {N} درجه
         options:
@@ -1195,7 +1217,7 @@ ar:
             '"left"': اليسار
             '"right"': اليمين
             '"space"': الفضاء
-            '"a"': أ
+            '"a"': a
             '"w"': w
             '"s"': s
             '"d"': d
@@ -1204,7 +1226,7 @@ ar:
       gamelab_whenRightArrow:
         text: عند الضغط على السهم الأيمن
       gamelab_whenTouching:
-        text: عندما {SPRITE1} اللمسات {SPRITE2}
+        text: عندما {SPRITE1} يلمس {SPRITE2}
       gamelab_whenUpArrow:
         text: عند الضغط على السهم لأعلى
       gamelab_whileDownArrow:
@@ -1218,7 +1240,7 @@ ar:
             '"left"': اليسار
             '"right"': اليمين
             '"space"': الفضاء
-            '"a"': أ
+            '"a"': a
             '"w"': w
             '"s"': s
             '"d"': d
@@ -1235,7 +1257,7 @@ ar:
       gamelab_yLocationOf:
         text: إحداثيات Y من {SPRITE}
       Mikelab_addBehaviorSimple:
-        text: العفريت {SPRITE} يبدا {BEHAVIOR}
+        text: الكائن {SPRITE} يبدا {BEHAVIOR}
       Mikelab_addTrainingData:
         text: 'أضافه بيانات التدريب: {NAME},{LOCATION}'
         options:
