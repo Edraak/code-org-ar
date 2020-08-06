@@ -72,7 +72,7 @@ ar:
   add_hint_form:
     placeholder: 'الرجاء إدخال التلميح الخاص بك هنا'
     submit: 'إضافة تلميح'
-  appname: "Code.org"
+  appname: "ادراك كود"
   stage: "المرحلة"
   stage_number: "الدرس %{number}"
   puzzle: "لغز"
@@ -510,7 +510,7 @@ ar:
     feedback: 'توفير التغذية الرجعية'
     translate: 'ساعدنا على ترجمة لغتك'
     support: 'الدعم'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'الشروط'
     tos: 'شروط الخدمة'
     privacy: 'سياسة الخصوصية'
@@ -590,8 +590,8 @@ ar:
       title: 'المتاهة الكلاسيكية'
       body: 'جرب تعلّم أساسيات علوم الحاسب الآلي. الملايين قاموا بذلك.'
     flappy:
-      title: 'رمز لعبة flappy'
-      body: 'هل ترغب في كتابة لعبة الخاصة فيك في أقل من 10 دقائق؟ جرب دروس برمجة Flappy التعليمية الخاصة بنا!'
+      title: لعبة الطائر فلابي
+      body: 'هل ترغب في كتابة لعبة الخاصة فيك في أقل من 10 دقائق؟ جرب دروس برمجة فلابي التعليمية الخاصة بنا!'
     20-hour:
       title: 'دورة تدريبية مسرّعة'
       body: 'هذا الكورس 20 ساعة حول مقدمة عن علوم الكمبيوتر ومفاهيم البرمجة. تم تصميم هذا الكورس للاستخدام في الفصول الدراسية للصفوف الابتدائية والمتوسطة، ولكن أنها متعة للتعلم لكل الإعمار.'
@@ -658,7 +658,7 @@ ar:
   landing:
     report_bug: "الإبلاغ عن خلل"
     support: "للحصول على المساعدة"
-    support_url: "support.code.org"
+    support_url: "help.edraak.org"
     help_resources: "المساعدة والموارد"
     help_support: "مساعدة ودعم"
     documentation: "الوثائق"
@@ -760,8 +760,8 @@ ar:
       opt_out: "أفضل عدم الإجابة"
     submit: "تسجيل"
     decline: "إغلاق"
-  zendesk_too_young_message: 'عذراً، لا يمكن للمستخدمين الصغار تسجيل الدخول إلى موقع دعمنا، يمكنك تصفح <a href="http://support.code.org">صفحة الدعم</a> دون تسجيل الدخول أو الطلب من والديك أو معلمك التواصل معنا نيابة عنك.'
-  zendesk_too_young_message_markdown: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar [support.code.org](http://support.code.org) sin registrarte o pedir a tus padres o maestros que nos contacten en tu nombre.'
+  zendesk_too_young_message: 'عذراً، لا يمكن للمستخدمين الصغار تسجيل الدخول إلى موقع دعمنا، يمكنك تصفح <a href="http://help.edraak.org">صفحة الدعم</a> دون تسجيل الدخول أو الطلب من والديك أو معلمك التواصل معنا نيابة عنك.'
+  zendesk_too_young_message_markdown: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar [help.edraak.org](http://help.edraak.org) sin registrarte o pedir a tus padres o maestros que nos contacten en tu nombre.'
   progress:
     not_started: لم تبدأ
     in_progress: في طور التقدم

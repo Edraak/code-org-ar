@@ -353,21 +353,21 @@ ar:
             Studio:
               name: ستوديو
         flappy:
-          title: رمز لعبة flappy
+          title: لعبة الطائر فلابي
           description: هل ترغب في كتابة لعبة الخاصة فيك في أقل من 10 دقائق؟ جرب دروس برمجة Flappy التعليمية الخاصة بنا!
           stages:
             Flappy Code:
-              name: رمز لعبة flappy
+              name: لعبة الطائر فلابي
         jigsaw:
           title: بانوراما
           stages:
             Jigsaw:
               name: بانوراما
         step:
-          title: الخطوة
+          title: جرب خطوة
           stages:
             Step:
-              name: الخطوة
+              name: جرب خطوة
         Hour of Code:
           title: ساعة من البرمجة 2013
           description_short: جرب تعلم مبادئ الحاسب الآلي من خلال الغديد من الشخصيات الممتعة!
@@ -854,7 +854,7 @@ ar:
         flappy-impact-study:
           stages:
             Flappy Code:
-              name: رمز لعبة flappy
+              name: رمز لعبة لعبة الطائر فلابي
         coursea-draft:
           stages:
             'Real-life Algorithms: Plant a Seed':
