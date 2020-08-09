@@ -1464,20 +1464,17 @@ ar-SA:
       courseC_multi_harvester_loops11_predict1_2018_2019:
         answers:
         - text: '4'
-          feedback: ليس تماما. المزارع سيجمع 4 يقطينات في في كل دالة من دوال التكرار. 4
-            مضروب في 3 يساوي 12!
+          feedback: ليس تماما. ستجمع الحصادة 4 حبات يقطين في في كل حلقة من حلقات التكرار. 4*3 يساوي 12!
         - text: '12'
-          correct: true
+          correct: صحيح
           feedback: صحيح!
         - text: '15'
-          feedback: ليس تماما. المزارع سيجمع 4 يقطينات في في كل دالة من دوال التكرار. 4
-            مضروب في 3 يساوي 12!
+          feedback: ليس تماما. ستجمع الحصادة 4 حبات يقطين في كل حلقة من حلقات التكرار. 4*3 يساوي 12!
         - text: لا أعرف.
-          feedback: سيجمع المزارع 4 يقطينات في في كل دالة من دوال التكرار. 4 مضروب
-            في 3 يساوي 12!
+          feedback: ستجمع الحصادة 4 حبات يقطين في كل حلقة من حلقات التكرار. 4*3 يساوي 12!
         questions:
-        - text: انظر جيداً إلى الكود البرمجي التالي. كم عدد اليقطينات التي سيجمعها
-            المزارع بعد ضغط زر "تشغيل"؟
+        - text: انظر بتمعن إلى الكود الموجود في مساحة العمل. كم عدد حبات اليقطين التي ستجمعها
+            الحصادة بعد ضغط زر "تشغيل ▶"؟
       courseC_multi_maze_debugging8_predict1:
         answers:
         - text: البرنامج لن يخفق. ابن بطوطة سيحصل على االسوسنة السوداء.
@@ -1670,13 +1667,19 @@ ar-SA:
       courseD_multi_artist_binary8_predict1_2018_2019:
         answers:
         - text: A
+          correct: ليس صحيحا
+          feedback: حاول مرة أخرى.
         - text: B
+          correct: ليس صحيحا
+          feedback: حاول مرة أخرى.
         - text: C
+          correct: ليس صحيحا
+          feedback: حاول مرة أخرى.
         - text: D
-          correct: true
-          feedback: صحيح!
+          correct: صحيح
+          feedback: إجابة صحيحة!
         questions:
-        - {}
+          - text: أمعن النظر في الكود أدناه. ماذا تعتقد أنه سيحدث عندما تقوم بضغط زر "تشغيل ▶"؟
       courseD_multi_artist_nestedLoops9_predict1:
         answers:
         - text: A
@@ -1700,13 +1703,19 @@ ar-SA:
       courseD_multi_artist_nestedLoops9_predict1_2018_2019:
         answers:
         - text: A
-          correct: true
+          correct: صحيح
           feedback: صحيح!
         - text: B
+          correct: حاول مرة أخرى
+          feedback: ليس تماما. الحلقة الداخلية سترسم شكلا خماسيا، والحلقة الخارجية ستكرره 4 مرات في دوائر.
         - text: C
+          correct: حاول مرة أخرى
+          feedback: ليس تماما. الحلقة الداخلية سترسم شكلا خماسيا، والحلقة الخارجية ستكرره 4 مرات في دوائر.
         - text: لا أعرف.
+          correct: حاول مرة أخرى
+          feedback: ليس تماما. الحلقة الداخلية سترسم شكلا خماسيا، والحلقة الخارجية ستكرره 4 مرات في دوائر.
         questions:
-        - {}
+          - text: أمعن النظر في الكود أدناه. أي تصميم سيرسم البرنامج عند ضغط زر "تشغيل ▶"؟
       courseD_multi_bee_conditionals1_predict1:
         answers:
         - {}

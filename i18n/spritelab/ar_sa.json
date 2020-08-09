@@ -1,6 +1,6 @@
 {
   "shareGame": "شارك لعبتك:",
-  "spritelabFeedbackCreateThreeAliens": "أنت تحتاج أن تنشئ فضائي أزرق و فضائي وردي و و فضائي أصفر.",
-  "spritelabFeedbackAliensNotInLine": "شخصياتك الثلاثة تحتاج أن تكون مرتبة بشكل عمودي (بمسافة 50 بكسل). ",
-  "spritelabFeedbackYellowAlienBehavior": "الفضائي الأزرق لم يبدأ بالعمل."
+  "spritelabFeedbackCreateThreeAliens": "أنت تحتاج أن تنشئ مخلوقا فضائيا أزرق اللون و مخلوقا فضائيا وردي اللون و مخلوقا فضائيا أصفر اللون.",
+  "spritelabFeedbackAliensNotInLine": "شخصياتك الثلاثة تحتاج أن تكون مرتبة بشكل عمودي (بمسافة 50 بيكسل). ",
+  "spritelabFeedbackYellowAlienBehavior": "المخلوق الفضائي الأزرق لم يبدأ بالعمل."
 }

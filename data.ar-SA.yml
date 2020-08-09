@@ -8,36 +8,36 @@ ar:
         Multi: المواد متعددة الاختيار
         Unplug2: التفكير الحسابي
         Unplug3: برمجة ورقة الرسم البياني
-        Artist: الاعب
+        Artist: الفنان
         Unplug4: الخوارزميات
-        Artist2: الرسام 2
-        Unplug5: الدوال
-        Farmer: المزارع
+        Artist2: الفنان 2
+        Unplug5: الوظائف
+        Farmer: المزارعة
         Unplug6: الجمل الشرطية
-        Artist3: الرسام 3
+        Artist3: الفنان 3
         Unplug7: كتابة الاغنية
-        Farmer2: المزارع 2
+        Farmer2: المزارعة 2
         Unplug8: خلاصة
-        Artist4: الرسام 4
+        Artist4: الفنان 4
         Unplug9: برمجة السباق
-        Farmer3: المزارع 3
+        Farmer3: المزارعة 3
         Unplug10: الانترنت
-        Artist5: الرسام 5
+        Artist5: الفنان 5
         Unplug11: الجلسة الختامية
         MazeEC: المتاهة
         Bounce: الارتداد
         Flappy: الطائر فلابي
-        Jigsaw: بانوراما
+        Jigsaw: أحجية
         MazeStep: وضع خطوة المتاهة
         Wordsearch: البحث عن كلمة
         Webapp: مختبر التطبيق
         ArtistEC: الفنان
         TextMatch: تطابق النص
-        StudioEC: مختبر اللعب
+        StudioEC: مختبر الألعاب
         Applab: مختبر التطبيقات
         NetSim: محاكاة الإنترنت
-        Custom: الرسام
-        CustomStudio: مختبر اللعب
+        Custom: الفنان
+        CustomStudio: مختبر الألعاب
     trophy:
       name:
         Bronze: برونزية
@@ -47,13 +47,13 @@ ar:
       description:
         sequence: المتسلسلة
         if: قطعة اذا كان
-        if_else: قطعة " اذا كان والا "
+        if_else: قطعة "اذا كان والا "
         loop_times: قطعة أكرر بعدد
         loop_until: قطعة أكرر حتى
-        loop_while: قطعة " أكرر طالما "
-        loop_for: قطعة " العداد "
-        function: دوال
-        parameters: الدوال والمعاملات
+        loop_while: قطعة "أكرر طالما"
+        loop_for: قطعة "العداد"
+        function: الوظائف
+        parameters: الوظائف والمعاملات
     level:
       instructions:
         maze_2_2: 'هل يمكنك مساعدتي في القبض على المخلوق الأخضر المشاغب؟ ركّب زوجين
