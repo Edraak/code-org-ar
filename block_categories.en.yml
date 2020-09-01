@@ -24,7 +24,7 @@ en:
       Picker: Picker
       Comment: Comment
       World: World
-      +/ Sprites
+      Sprites: Sprites
       Behaviors: Behaviors
       'Variables ': 'Variables '
       Default: Default

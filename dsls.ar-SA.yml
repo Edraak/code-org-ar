@@ -2344,7 +2344,7 @@ ar-SA:
           - text: لا أعلم.
             correct: حاول مرة أخرى
             feedback: ليس تماما، في كل مرة من خلال حلقة "التكرار المحدد"، سيرسم الفنان خطا أطول وأكثر سمكا.
-          questions:
+        questions:
           - text: ماذا تتوقع أن يحدث عند ضغط زر "تشغيل ▶"؟
       courseF_multi_artist_for10_predict1_2018:
         answers:

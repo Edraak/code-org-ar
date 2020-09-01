@@ -272,17 +272,17 @@ ar-SA:
         أضف سلوكا الى رجل الفضاء يقوده الى إحدى السفن الفضائية الظاهرة في منطقة اللعب.
 
       behaviors 5a: |-
-      Make the ball roll.
+        Make the ball roll.
 
-      * Create a new behavior and use it to make the ball roll. Your behavior should combine two different actions.
+        * Create a new behavior and use it to make the ball roll. Your behavior should combine two different actions.
       behaviors 6: |-
-      Make the ball roll.
+        Make the ball roll.
 
-      * Create a new behavior and use it to make the ball roll. Your behavior should combine two different actions.
+        * Create a new behavior and use it to make the ball roll. Your behavior should combine two different actions.
       behaviors 7: |-
-      Drive off into the horizon!
+        Drive off into the horizon!
 
-      * Create a new behavior and use it to make the car move up and shrink. If you do it right, it could look like it is driving off into the horizon.
+        * Create a new behavior and use it to make the car move up and shrink. If you do it right, it could look like it is driving off into the horizon.
       behaviors free play: "اللعب الحر.. أنشئ مشهدك الفضائي الخاص!"
       #End of Express Lesson 26
 
@@ -291,13 +291,13 @@ ar-SA:
       #Express
       #Lesson 27: Virtual Pet with Sprite Lab
       Virtual Pet 1 Predict: |
-      **Make a prediction:** This is Geraldine, your new pet giraffe.
+        **Make a prediction:** This is Geraldine, your new pet giraffe.
 
-      What do you think will happen if you press "▶ Run" and then click on her?
+        What do you think will happen if you press "▶ Run" and then click on her?
       Virtual Pet 1 Predict_2019: |
-      Meet your new virtual pet!
+        Meet your new virtual pet!
 
-      Read the code below. What do you think will happen when you click "▶ Run"?
+        Read the code below. What do you think will happen when you click "▶ Run"?
       Virtual Pet 1 Predict_simple: "**What do you think?** \n\nThis giraffe is called Geraldine.  \n\nWhen you click on her, what will she do?"
       Virtual Pet 1 fix: "This is Geraldine, your new pet giraffe.  \n\nWhat do you think will happen if you press \"▶ Run\" and then click on her?"
       Virtual Pet 1-validated: This is Geraldine, your new pet giraffe. What do you think will happen if you press run and then click on her?
@@ -321,13 +321,13 @@ ar-SA:
         اضغط زر "تشغيل ▶" لترى حيوانك الأليف الجديد!
 
       Virtual Pet 2_simple: |-
-      There is brown dirt in the corner.
+        There is brown dirt in the corner.
 
-      Create an **event** so that when Geraldine touches the dirt, her color changes to brown.
+        Create an **event** so that when Geraldine touches the dirt, her color changes to brown.
       Virtual Pet 2_simple_clone: |-
-      There is brown dirt in the corner.
+        There is brown dirt in the corner.
 
-      Create an **event** so that when Geraldine touches the dirt, her color changes to brown.
+        Create an **event** so that when Geraldine touches the dirt, her color changes to brown.
       Virtual Pet 3: "We can’t have a dirty giraffe wandering around!  \n\n1. Add a new soap sprite to the screen.\n2. Can you make it so that when the giraffe and the soap touch, the giraffe goes back to its normal color?\n\n---\n\nTo reset the color, use this block:\n<xml><block type=\"gamelab_removeTint\" inline=\"true\">\n      <value name=\"THIS\">\n        <block type=\"sprite_variables_get\">\n          <title name=\"VAR\">mySprite</title>\n        </block>\n      </value>\n    </block></xml>\n"
       Virtual Pet 3_2019: |-
         أضف أحداثا برمجية لتجعل حيوانك الأليف يتحرك حسب أوامرك!
@@ -335,15 +335,15 @@ ar-SA:
         <xml><block type="gamelab_keyPressed" block-text="the while up key pressed event block"><title name="CONDITION">"while"</title><title name="KEY">"up"</title></block></xml> و <xml><block type="gamelab_moveInDirection" block-text="the move in direction action block"><title name="DIRECTION">"North"</title></block></xml>
         كرر الخطوات السابقة للاتجاهات (الجنوب، الشرق، الغرب) والمفاتيح (اليسار، الأعلى، الأسفل).
       Virtual Pet 3_simple: |
-      The giraffe is too dirty!
+        The giraffe is too dirty!
 
-      1. Add a new soap sprite to the screen.
-      2. When the giraffe and the soap touch, change the giraffe to its normal color.
+        1. Add a new soap sprite to the screen.
+        2. When the giraffe and the soap touch, change the giraffe to its normal color.
 
-      ---
+        ---
 
-      To change to the giraffe's normal color, use this block:
-      <xml><block type="gamelab_removeTint" inline="true">
+      To change to the giraffe's normal color, use this block: |-
+        <xml><block type="gamelab_removeTint" inline="true">
             <value name="THIS">
               <block type="sprite_variables_get">
                 <title name="VAR">mySprite</title>
@@ -356,10 +356,10 @@ ar-SA:
         أضف كائنين جديدين الى عالمك.
         اجعل أحد الكائنين يبدو كالطعام الذي يحب حيوانك الأليف تناوله والكائن الآخر يبدو كالطعام الذي لا يحبه.
         اجعل كل كائن يبدأ سلوك "التجوُل" بعد أن يظهر مباشرة.
-      Virtual Pet 4_simple: |
-      We want to bring the soap to the giraffe.
+      Virtual Pet 4_simple: |-
+        We want to bring the soap to the giraffe.
 
-      Add a behavior to your soap to make it draggable, then drag it over to clean the giraffe!
+        Add a behavior to your soap to make it draggable, then drag it over to clean the giraffe!
       Virtual Pet 5 - Validated: "All of this play takes energy!  \n\nAdd actions to each event so the giraffe gets a little smaller (shrinks by 5) each time it collides with another sprite.  \n"
       Virtual Pet 5: "All of this play takes energy!  \n\nAdd actions to each event so the giraffe gets a little smaller (shrinks by 5) each time it collides with another sprite.  \n"
       Virtual Pet 5_2019: |-
@@ -389,12 +389,12 @@ ar-SA:
       What more can you do? Try these ideas:\n* Change the background to a color or an image.\n* Print more! Try printing _\"Yum! Energy increased!\"_ when the pet eats food it likes, or _\"Yuck! Energy reset!\"_ when it eats food it doesn't like.\n* Add another sprite that interacts with your pet in a different way. How about a **toy** sprite?\n* Add another variable that can affect your pet or the world. What might `happiness` or `age` do?\n* Experiment with behaviors! Try editing the **wandering** behavior to slow down or speed up the food sprites (hint: their \"speed\" is currently 5...)."
       Virtual Pet Freeplay: "Freeplay: What more can you make your giraffe do? \n\n- Can you add more special items for your virtual pet?  \n- Can you give her some friends?  "
       Virtual Pet Freeplay_2019: |-
-      What more can you make your pet do? Try these ideas:
-      * Change the background to something more habitable for your pet.
-      * Add another food sprite, and modify `happiness` by any value you want when your pet eats it.
-      * Edit the **wandering** behavior so that your pet moves slower or faster (hint: distance).
-      * Make your pet perform a different behavior at the start, or change behaviors when certain foods are eaten.
-      * Make one of your food sprites controllable by adding keypress events (example: press up to go up, down to go down).
+      What more can you make your pet do? Try these ideas: |-
+        * Change the background to something more habitable for your pet.
+        * Add another food sprite, and modify `happiness` by any value you want when your pet eats it.
+        * Edit the **wandering** behavior so that your pet moves slower or faster (hint: distance).
+        * Make your pet perform a different behavior at the start, or change behaviors when certain foods are eaten.
+        * Make one of your food sprites controllable by adding keypress events (example: press up to go up, down to go down).
       Virtual Pet Freeplay_simple: "Freeplay: What more can you make your giraffe do? \n\n- Can you add more special items for your giraffe?  \n- Can you give her some friends?  "
       Virtual Pet Predict: "**Make a prediction:** This is Geraldine, your new pet giraffe. What do you think will happen if you press run and then click on her?"
       Virtual Pet Template_2019: Template for Virtual Pet 2019
@@ -3191,9 +3191,9 @@ ar-SA:
       courseD_farmer_while3_2018: _"حرك كومة التراب واخبرني بعدد المجرفات من أجل
         إزالتها."_استخدم بعض المربعات البرمجية بقدر الإمكان لحل هذا اللغز.
       courseD_farmer_while3_2019: |-
-      حرك المزارعة حتى تصل الى كومة التراب ثم أخبرها كم مرة يجب أن تستخدم القطعة البرمجية "إزالة 1" حتى تتخلص من الكومة.
+        حرك المزارعة حتى تصل الى كومة التراب ثم أخبرها كم مرة يجب أن تستخدم القطعة البرمجية "إزالة 1" حتى تتخلص من الكومة.
 
-      استخدم أقل عدد ممكن من القطع البرمجية لإنجاز هذه المرحلة.
+        استخدم أقل عدد ممكن من القطع البرمجية لإنجاز هذه المرحلة.
       courseD_farmer_while4: _"أنا لا أعلم ما مقدار التراب في هذه الكومة!"_ساعد المزارع
         لإزالة الكومة بأكملها باستخدام الحلقة "أثناء".
       courseD_farmer_while4_2018: _"أنا لا أعلم ما مقدار التراب في هذه الكومة!"_ساعد
