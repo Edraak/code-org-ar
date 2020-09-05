@@ -1017,7 +1017,7 @@ ar-SA:
           كل سطر.
       4-5 Artist 3:
         4-5_Artist_3_a: |-
-          إذا كان محيط مشتل الزهور 600 نقطة وكل من الضلعين الجانبيين بطول 200 نقطة، إليك كيفية معرفة طول الجانبين القصيرين معاً:
+          إذا كان محيط مشتل الأزهار 600 نقطة وكل من الضلعين الجانبيين بطول 200 نقطة، إليك كيفية معرفة طول الجانبين القصيرين معاً:
 
           600 - 200 - 200 = 200
 
@@ -5202,7 +5202,7 @@ ar-SA:
       course3_bee_debugging_challenge1:
         courseD_bee_debugging_challenge1_a: لماذا يعمل النصف الأول من هذا البرنامج؟
           فكر في السبب وراء حاجة النحل للتحرك للخلف. ما مقدار الرحيق الذي تقوم النحلة
-          بتجمعيه كل مرة عند تحركها فوق الزهور؟
+          بتجمعيه كل مرة عند تحركها فوق الأزهار؟
         courseD_bee_debugging_challenge1_b: في طريق العودة، هل يتبع النحل نفس النمط.
           ما مقدار العسل الذي يحتاجه النحل في كل مرة من أجل أن يتحرك للأمام فوق قرص
           عسل خلية النحل؟
@@ -8134,7 +8134,7 @@ ar-SA:
 
           استخدم أي نمط ترغب به!
       courseC_artist_loop1_2019:
-        courseC_artist_loop1_a: ليس عليك أن تحدث أي تغيير في حلقة التكرار, فقط أضف قطعة برمجية
+        courseC_artist_loop1_a: ليس عليك أن تحدث أي تغيير في حلقة التكرار، فقط أضف قطعة برمجية
           واحدة فوقها.
         courseC_artist_loop1_b: |-
           استخدم هذه القطعة البرمجية لاختيار أي نمط ترغب به!
@@ -8167,8 +8167,9 @@ ar-SA:
         courseC_artist_loops1a_a: |-
           هذه هي القطعة البرمجية الأولى التي ستحتاجها:
           <xml>
-            <block type="jump_to">
-              <title name="VALUE">13</title>
+          <block type="jump_to_xy">
+              <title name="XPOS">200</title>
+              <title name="YPOS">200</title>
             </block>
           </xml>
         courseC_artist_loops1a_b: |-
@@ -8219,7 +8220,7 @@ ar-SA:
         courseC_artist_loops3a_b: استخدم القائمة المنسدلة في المربع البرمجي "رسم ملصق"
           للبحث عن ملصق الخفاش.
       courseC_artist_loops3a_2019:
-        courseC_artist_loops3a_a: يجب عليك إضافة قطعة برمجية واحدة داخل حلقة التكرار, بعد الملصق
+        courseC_artist_loops3a_a: يجب عليك إضافة قطعة برمجية واحدة داخل حلقة التكرار، بعد الملصق
           الأول.
         courseC_artist_loops3a_b: |-
           يمكنك استخدام أي ملصق يعجبك.. يجب أن يبدو الكود هكذا:
@@ -8227,21 +8228,21 @@ ar-SA:
           <xml>
             <block type="when_run" deletable="false" movable="false">
               <next>
-                <block type="controls_repeat">
-                  <title name="TIMES">???</title>
-                  <statement name="DO">
-                    <block type="jump_to">
-                      <title name="VALUE">13</title>
+                <block type=\"controls_repeat\">
+                  <title name=\"TIMES\">???</title>
+                  <statement name=\"DO\">
+                    <block type=\"jump_to\">
+                      <title name=\"VALUE\">13</title>
                       <next>
-                        <block type="draw_turn_by_constant_dropdown">
-                          <title name="DIR">???</title>
-                          <title name="VALUE" config="1,2,5,10,12,20,30,45,60,90,120,180">???</title>
+                        <block type=\"draw_turn_by_constant_dropdown\">
+                          <title name=\"DIR\">???</title>
+                          <title name=\"VALUE\" config=\"1,2,5,10,12,20,30,45,60,90,120,180\">???</title>
                           <next>
-                            <block type="sticker">
-                              <title name="VALUE">Cat</title>
+                            <block type=\"sticker\">
+                              <title name=\"VALUE\">Cat</title>
                               <next>
-                                <block type="sticker">
-                                  <title name="VALUE">Dog</title>
+                                <block type=\"sticker\">
+                                  <title name=\"VALUE\">Dog</title>
                                 </block>
                               </next>
                             </block>
@@ -8274,39 +8275,39 @@ ar-SA:
           </xml>تذكر أن تقوم بتغيير طول المسافة!
       courseC_artist_loops4a_2019:
         courseC_artist_loops4a_a: |-
-          استخدم هذه القطعة البرمجية من أجل القفز للأمام:
+          استخدم هذه القطعة البرمجية من أجل القفز للأمام وتذكر أن تقوم بتغيير طول المسافة!:
           <xml>
             <block type="jump_by_constant">
               <title name="DIR">jumpForward</title>
               <title name="VALUE">???</title>
             </block>
           </xml>
-          تذكر أن تقوم بتغيير طول المسافة!
+
         courseC_artist_loops4a_b: |-
           يجب أن يبدو الكود هكذا:
 
           <xml>
-            <block type="when_run" deletable="false" movable="false">
+            <block type=\"when_run\" deletable=\"false\" movable=\"false\">
               <next>
-                <block type="controls_repeat">
-                  <title name="TIMES">???</title>
-                  <statement name="DO">
-                    <block type="jump_to">
-                      <title name="VALUE">13</title>
+                <block type=\"controls_repeat\">
+                  <title name=\"TIMES\">???</title>
+                  <statement name=\"DO\">
+                    <block type=\"jump_to\">
+                      <title name=\"VALUE\">13</title>
                       <next>
-                        <block type="draw_turn_by_constant_dropdown">
-                          <title name="DIR">???</title>
-                          <title name="VALUE" config="1,2,5,10,12,20,30,45,60,90,120,180">???</title>
+                        <block type=\"draw_turn_by_constant_dropdown\">
+                          <title name=\"DIR\">???</title>
+                          <title name=\"VALUE\" config=\"1,2,5,10,12,20,30,45,60,90,120,180\">???</title>
                           <next>
-                            <block type="sticker">
-                              <title name="VALUE">Cat</title>
+                            <block type=\"sticker\">
+                              <title name=\"VALUE\">Cat</title>
                               <next>
-                                <block type="jump_by_constant">
-                                  <title name="DIR">jumpForward</title>
-                                  <title name="VALUE">???</title>
+                                <block type=\"jump_by_constant\">
+                                  <title name=\"DIR\">jumpForward</title>
+                                  <title name=\"VALUE\">???</title>
                                   <next>
-                                    <block type="sticker">
-                                      <title name="VALUE">Dog</title>
+                                    <block type=\"sticker\">
+                                      <title name=\"VALUE\">Dog</title>
                                     </block>
                                   </next>
                                 </block>
@@ -8363,38 +8364,38 @@ ar-SA:
           يجب أن يبدو الكود هكذا:
 
           <xml>
-            <block type="when_run" deletable="false" movable="false">
+            <block type=\"when_run\" deletable=\"false\" movable=\"false\">
               <next>
-                <block type="draw_line_style_pattern">
-                  <title name="VALUE">rainbowLine</title>
+                <block type=\"draw_line_style_pattern\">
+                  <title name=\"VALUE\">rainbowLine</title>
                   <next>
-                    <block type="controls_repeat">
-                      <title name="TIMES">4</title>
-                      <statement name="DO">
-                        <block type="jump_to">
-                          <title name="VALUE">13</title>
+                    <block type=\"controls_repeat\">
+                      <title name=\"TIMES\">4</title>
+                      <statement name=\"DO\">
+                        <block type=\"jump_to\">
+                          <title name=\"VALUE\">13</title>
                           <next>
-                            <block type="draw_move_by_constant">
-                              <title name="DIR">moveForward</title>
-                              <title name="VALUE">???</title>
+                            <block type=\"draw_move_by_constant\">
+                              <title name=\"DIR\">moveForward</title>
+                              <title name=\"VALUE\">???</title>
                               <next>
-                                <block type="draw_move_by_constant">
-                                  <title name="DIR">moveBackward</title>
-                                  <title name="VALUE">???</title>
+                                <block type=\"draw_move_by_constant\">
+                                  <title name=\"DIR\">moveBackward</title>
+                                  <title name=\"VALUE\">???</title>
                                   <next>
-                                    <block type="draw_turn_by_constant_dropdown">
-                                      <title name="DIR">???</title>
-                                      <title name="VALUE" config="1,2,5,10,12,20,30,45,60,90,120,180">???</title>
+                                    <block type=\"draw_turn_by_constant_dropdown\">
+                                      <title name=\"DIR\">???</title>
+                                      <title name=\"VALUE\" config=\"1,2,5,10,12,20,30,45,60,90,120,180\">???</title>
                                       <next>
-                                        <block type="sticker">
-                                          <title name="VALUE">Cat</title>
+                                        <block type=\"sticker\">
+                                          <title name=\"VALUE\">Cat</title>
                                           <next>
-                                            <block type="jump_by_constant">
-                                              <title name="DIR">jumpForward</title>
-                                              <title name="VALUE">???</title>
+                                            <block type=\"jump_by_constant\">
+                                              <title name=\"DIR\">jumpForward</title>
+                                              <title name=\"VALUE\">???</title>
                                               <next>
-                                                <block type="sticker">
-                                                  <title name="VALUE">Dog</title>
+                                                <block type=\"sticker\">
+                                                  <title name=\"VALUE\">Dog</title>
                                                 </block>
                                               </next>
                                             </block>
@@ -8422,18 +8423,18 @@ ar-SA:
         courseC_artist_loops6a_a: لتحصل على تصميم مشابه للأعلى, اقفز للامام أقل من
           مقدار 75 بيكسل بين كل ملصق.
       courseC_artist_loops6a_2019:
-        courseC_artist_loops6a_a: لتحصل على تصميم مشابه للموجود في الأعلى, اقفز الى الامام بحيث يكون مقدار القفزة أقل من 75 بيكسل بين كل ملصق وآخر.
+        courseC_artist_loops6a_a: لتحصل على تصميم مشابه للموجود في الأعلى، اقفز الى الامام بحيث يكون مقدار القفزة أقل من 75 بيكسل بين كل ملصق وآخر.
       courseC_artist_loops7a:
         courseC_artist_loops7a_a: |-
-          الدائرة لها 360 درجة. اضرب عدد الدرجات في الالتفافة بعدد مرات التكرار. هل تساوي 360؟
+          الدائرة فيها 360 درجة. اضرب زاوية الدوران في الالتفافة الواحدة بعدد مرات تكرار حلقة التكرار. هل تساوي 360؟
           جرب الالتفاف المقترح لتتأكد من تحقيق الحل!
       courseC_artist_loops7a_2018:
         courseC_artist_loops7a_a: |-
-          الدائرة لها 360 درجة. اضرب عدد الدرجات في الالتفافة بعدد مرات التكرار. هل تساوي 360؟
+          الدائرة فيها 360 درجة. اضرب زاوية الدوران في الالتفافة الواحدة بعدد مرات تكرار حلقة التكرار. هل تساوي 360؟
           جرب الالتفاف المقترح لتتأكد من تحقيق الحل!
       courseC_artist_loops7a_2019:
         courseC_artist_loops7a_a: |-
-          الدائرة فيها 360 درجة. اضرب زاوية الدوران في الالتفافة بعدد مرات تكرار حلقة التكرار. هل تساوي 360؟
+          الدائرة فيها 360 درجة. اضرب زاوية الدوران في الالتفافة الواحدة بعدد مرات تكرار حلقة التكرار. هل تساوي 360؟
           جرب الالتفاف المقترح لتتأكد من صحة الحل!
       courseC_artist_loopsPre1a:
         courseC_artist_loopsPre1a_a: لا تنسى ان تضع بلوكة" الاتجاه" داخل وظيفة كرر.
@@ -8510,8 +8511,8 @@ ar-SA:
       courseC_artist_prog2_2019:
         courseC_artist_prog2_a: |-
           حتى ترسم خطا، يجب أن تستخدم هذه القطعة البرمجية:
-          <xml><block type="draw_move_by_constant"><titlename="DIR">moveForward</title><title name="VALUE">100</title></block></xml>
 
+          <xml><block type="draw_move_by_constant"><title name="DIR">moveForward</title><title name="VALUE">100</title></block></xml>
         courseC_artist_prog2_b: |-
           هل تواجه صعوبة في الاستدارة عند الزوايا؟ استخدم القطعة البرمجية:
           <xml><block type="draw_turn_by_constant_dropdown"><title name="DIR">turnRight</title><title
@@ -8519,20 +8520,20 @@ ar-SA:
       courseC_artist_prog3_2019:
         courseC_artist_prog3_a: |-
           لرسم النافذة، ارسم مربعًا يحيث يكون طول كل جانب 100 بيكسل:
-          -   تحرك للأمام
-          -   استدر
-          -   تحرك للأمام
-          -   استدر
-          -   تحرك للأمام
-          -   استدر
-          -   تحرك للأمام
+          - تحرك للأمام
+          - استدر
+          - تحرك للأمام
+          - استدر
+          - تحرك للأمام
+          - استدر
+          - تحرك للأمام
         courseC_artist_prog3_b: هل ترغب في كتابة كود أقصر؟ حاول استخدام
           حلقة التكرار لإنجاز هذه المرحلة.
       courseC_artist_prog3_2018:
         courseC_artist_prog3_a: |-
           لإنشاء هذه النافذة، ارسم مربعًا بجوانب قياسًا 100 بيكسل.
 
-          -   تحرك للأمام
+          - تحرك للأمام
           -   استدر
           -   تحرك للأمام
           -   استدر
@@ -8548,11 +8549,11 @@ ar-SA:
         courseC_artist_prog4_c: |-
           لرسم مثلث، يجب القيام بما يلي:
 
-          -   تحرك للأمام
-          -   استدر لليسار 120 درجة
-          -   تحرك للأمام
-          -   استدر لليسار 120 درجة
-          -   تحرك للأمام
+          - تحرك للأمام
+          -استدر لليسار 120 درجة
+          - تحرك للأمام
+          - استدر لليسار 120 درجة
+          - تحرك للأمام
       courseC_artist_prog4_2018:
         courseC_artist_prog4_a: لتكملة الصاروخ، ارسم مثلث فوقه!
         courseC_artist_prog4_b: يمكنك استخدام القائمة المنسدلة على المربعات البرمجية
@@ -8620,9 +8621,9 @@ ar-SA:
       courseC_artist_prog7:
         courseC_artist_prog7_a: كل زاوية هي إما 45 أو 90 درجة
         courseC_artist_prog7_b: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟/
-          -   هل ما زال يعمل بعد الخطوة الثانية؟/
-          -   أين يحدث الخطأ؟
+          - هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
+          - هل ما زال يعمل بعد الخطوة الثانية؟
+          - أين يحدث الخطأ؟
         courseC_artist_prog7_c: يمكنك استخدام القائمة المنسدلة على المربعات البرمجية
           "التفاف" لمعرفة أي من الزوايا تحتاج إليها!
         courseC_artist_prog7_d: |-
@@ -8664,20 +8665,20 @@ ar-SA:
       courseC_artist_prog7_2019:
         courseC_artist_prog7_a: إن قياس كل زاوية هو إما 45 أو 90 درجة.
         courseC_artist_prog7_b: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -   ماذا عن الخطوة الثانية؟
-          -   هل تعرف أين يحدث الخطأ؟
+          - هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
+          - ماذا عن الخطوة الثانية؟
+          - هل تعرف أين يحدث الخطأ؟
         courseC_artist_prog7_c: يمكنك استخدام القائمة المنسدلة في القطعة البرمجية لتتحكم بكيفية
           استخدامها!
         courseC_artist_prog7_d: |-
           يجب أن تقوم بما يلي:
 
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
+          - تحرك للأمام
+          - استدر يمينًا 45 درجة
+          - تحرك للأمام
+          - استدر يمينًا 45 درجة
+          - تحرك للأمام
+          - استدر يمينًا 45 درجة
 
           كرر هذا النمط مرتين!
         courseC_artist_prog7_e: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية
@@ -8849,7 +8850,7 @@ ar-SA:
           ومن ثم جمع الجوهرة.
       courseC_collector_prog1_2019:
         courseC_collector_prog1_a: |-
-          عندما تصل الى الجوهرة اجمعها باستخدام القطعة البرمجية:
+          عندما تصل الى الجوهرة، اجمعها باستخدام القطعة البرمجية:
           <xml><block type="collector_collect"/></xml>
         courseC_collector_prog1_b: أسهل طريقة لإنجاز هذه المرحلة هي أن تتحرك خطوة واحدة الى الأمام ومن ثم تقوم بجمع الجوهرة.
 
@@ -8868,8 +8869,13 @@ ar-SA:
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseC_collector_prog2_2019:
-        courseC_collector_prog2_a: يمكنك استخدام 4 قطع برمجية <xml><block type="maze_move"><title name="DIR">moveForward</title></block></xml>
-          <xml><block type="controls_repeat_dropdown"><title name="TIMES" config="3-10">???</title></block></xml> أو اجعل برنامجك أقصر باستخدام حلقة التكرار
+        courseC_collector_prog2_a: |-
+          يمكنك استخدام 4 قطع برمجية من:
+          <xml><block type="maze_move"><title name="DIR">moveForward</title></block></xml>
+
+          أو اجعل برنامجك أقصر باستخدام حلقة التكرار:
+          <xml><block type="controls_repeat_dropdown"><title name="TIMES" config="3-10">???</title></block></xml>
+
         courseC_collector_prog2_b: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية
           وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseC_collector_prog3:
@@ -8930,7 +8936,7 @@ ar-SA:
         courseC_collector_prog5_d: اتبع المسار لتجمع المجوهرات.
       courseC_collector_prog5_2019:
         courseC_collector_prog5_a: |-
-          "هل تعمل الخطوة الأولى ؟
+          هل تعمل الخطوة الأولى ؟
           ماذا عن الثانية؟
           أين هو الخطأ يا ترى؟
         courseC_collector_prog5_b: إذا أصلحت خللا برمجيا واحدا ولكن البرنامج مازال لايعمل،
@@ -9351,9 +9357,9 @@ ar-SA:
           اللغز.
       courseC_maze_debugging1_2019:
         courseC_maze_debugging1_a: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -   هل ما زال يعمل بعد الخطوة الثانية؟
-          -   أين يحدث الخطأ؟
+          - هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
+          - هل ما زال يعمل بعد الخطوة الثانية؟
+          - أين يحدث الخطأ؟
         courseC_maze_debugging1_b: هنالك قطعة برمجية واحدة يجب عليك إضافتها لإنجاز هذه المرحلة.
 
       courseC_maze_debugging2:
@@ -9378,9 +9384,9 @@ ar-SA:
         courseC_maze_debugging2_a: توجد الكثير من القطع البرمجية الثمينة في مساحة
           العمل. لا تلغها وتبدأ من جديد، بل فكر كيف يمكنك تعديلها!
         courseC_maze_debugging2_b: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -   هل ما زال يعمل بعد الخطوة الثانية؟
-          -   أين يحدث الخطأ؟
+          - هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
+          - هل ما زال يعمل بعد الخطوة الثانية؟
+          - أين يحدث الخطأ؟
         courseC_maze_debugging2_c: استخدم زر "جرب خطوة" لفحص الكود الذي كتبته سطرا بسطر. هل يمكنك معرفة أين يقع الخطا؟
 
       courseC_maze_debugging3_2019:
@@ -9388,7 +9394,7 @@ ar-SA:
           لإزالة قطعة برمجية من وسط الكود، اسحب جميع القطع البرمجية إلى جزء آخر من مساحة العمل.
           اسحب القطعة البرمجية التي تود إلغاءها وأعدها إلى صندوق الأدوات.
           أخيرا، أعد قطعك البرمجية الأخرى إلى المكان الذي تنتمي إليه.
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
         courseC_maze_debugging3_b: استخدم زر "جرب خطوة" لفحص الكود الذي كتبته سطرا بسطر. هل يمكنك معرفة أين يقع الخطا؟
       courseC_maze_debugging3_2018:
         courseC_maze_debugging3_a: "لإلغاء مربع برمجي من وسط تعليماتك البرمجية، اسحب
@@ -9423,8 +9429,8 @@ ar-SA:
         courseC_maze_debugging5_a: |-
           يوجد في مساحة العمل عدد كبير من القطع البرمجية، لا تحذفها جميعًا.
           استخدم زر "جرب خطوة" لتدقيقها ومعرفة أين حدث الخطأ.
-        courseC_maze_debugging5_b: قل بصوت مرتفع ما هي الخطوات التي يجب أن يتبعها ابن بطوطة. هل
-          هي تتوافق مع القطع البرمجية الموجودة في مساحة العمل؟ ما الخطأ الذي يحدث؟
+        courseC_maze_debugging5_b: قل بصوت مرتفع الخطوات التي يجب أن يتبعها ابن بطوطة. هل
+           تتوافق مع القطع البرمجية الموجودة في مساحة العمل؟ ما الخطأ الذي يحدث؟
         courseC_maze_debugging5_c: يمكن أن تغير اتجاهك عن طريق الضغط على القائمة
           المنسدلة الموجودة في القطعة البرمجية "اتجه الى".
 
@@ -9652,9 +9658,9 @@ ar-SA:
           كرر العملية حتى يعمل البرنامج!
       courseC_maze_debugging7_2019:
         courseC_maze_debugging7_a: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -   هل ما زال يعمل بعد الخطوة الثانية؟
-          -   أين يحدث الخطأ؟
+          - هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
+          - هل ما زال يعمل بعد الخطوة الثانية؟
+          - أين يحدث الخطأ؟
         courseC_maze_debugging7_b: لا تنسَ استخدام زر "جرب خطوة" لتفحص الكود سطرا
           بعد سطر!
         courseC_maze_debugging7_c: |-
@@ -9723,44 +9729,44 @@ ar-SA:
           اضغط زر "تشغيل ▶" مرة اخرى.
 
       courseC_maze_programming2_2019:
-        courseC_maze_programming2_a: لتستخدم القطعة <xml><block type="maze_moveForward"/></xml>
-          اسحبها من صندوق الأدوات وركبها مع القطعة <xml><block type="when_run"/></xml>.
+        courseC_maze_programming2_a: |-
+          من صندوق الأدوات، قم بسحب القطعة البرمجية
+          <xml><block type="maze_moveForward"/></xml>
+          وركبها مع القطعة
+          <xml><block type="when_run"/></xml>
         courseC_maze_programming2_b: تأكد من أن جميع القطع البرمجية متصلة معا، ثم
           اضغط زر "تشغيل ▶" مرة اخرى.
       courseC_maze_programming3_2019:
         courseC_maze_programming3_a: جرب تشغيل الكود الموجود في مساحة العمل لتحدد مكان الخطأ.
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
-
           لتحذف قطعة برمجية من منتصف الكود, اسحب جميع القطع البرمجية التي تليها إلى أي مكان في مساحة العمل.
 
           ومن ثم اسحب القطعة البرمجية التي تريد حذفها إلى صندوق الادوات.
 
           أخيرا, أعد القطع البرمجية إلى مكانها.
-
+          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
       courseC_maze_programming4_2019:
-        courseC_maze_programming4_a: عندما تتحرك تخيل أنك طقطق.. كيف ستكون اتجاهاتك حينها؟
+        courseC_maze_programming4_a: عندما تتحرك، تخيل أنك طقطق.. كيف ستكون اتجاهاتك حينها؟
           إذا استخدمت قطعة "اتجه الى اليمين" سوف يتجه طقطق الى الأسفل.
         courseC_maze_programming4_b: |-
           كيف ستصل الى السمكة؟
 
-          -   تحرك الى الأمام
-          -   هل ستتجه الى اليسار ام اليمين؟
-          -   تحرك إلى الأمام
-          ثم قرر.. هل يجب أن تتجه الى اليسار أم اليمين؟
-          -   تحرك إلى الأمام
+          - تحرك الى الأمام
+          - هل ستتجه الى اليسار ام اليمين؟
+          - تحرك إلى الأمام ثم قرر.. هل يجب أن تتجه الى اليسار أم اليمين؟
+          - تحرك إلى الأمام
 
       courseC_maze_programming5_2019:
         courseC_maze_programming5_a: استخدم زر "جرب خطوة" لفحص الكود الذي
-          كتبته سطرا بعد سطر.هل يمكنك معرفة ما يجب أن تفعله بعد ذلك؟
+          كتبته سطرا بعد سطر. هل يمكنك معرفة ما يجب أن تفعله بعد ذلك؟
         courseC_maze_programming5_b: يحتاج طقطق أن يسلك اتجاها معينا لإنجاز هذه المرحلة. هل يمكنك
           معرفة أي اتجاه؟
-        courseC_maze_programming5_c: الحل سوف يشمل قطعتين برمجيتين من "تحريك إلى الامام" و
+        courseC_maze_programming5_c: سوف يشمل الحل قطعتين برمجيتين من "تحريك إلى الامام" و
           قطعة من "اتجه إلى.." ثم قطعتين من "تحريك إلى الامام".
 
       courseC_maze_programming6_2019:
         courseC_maze_programming6_a: هناك طريقتان لإنجاز هذه المرحلة!
-        courseC_maze_programming6_b: تتبع باصبعك الطريق من حيث يقف طقطق حتى تصل إلى السمكة, ماهي
+        courseC_maze_programming6_b: تتبع بإصبعك الطريق من حيث يقف طقطق حتى تصل إلى السمكة, ماهي
           الخطوات التي استخدمتها؟
         courseC_maze_programming6_c: بما أن طقطق يقف مواجها للجدار، فكر أن تغير اتجاهك قبل أن تتحرك!
         courseC_maze_programming6_d: هل علقت؟ انظر إلى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر!
@@ -9812,8 +9818,8 @@ ar-SA:
         courseC_starWars_loops10_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!.
       courseC_starWars_loops10_2019:
         courseC_starWars_loops10_a: ألا يبدو هذا النمط كأنه خطوة كبيرة في السلم؟
-          جرب أن تستخدم ماتعلمته من المراحل السابقة ليتجه بكل الاتجاهات.
-        courseC_starWars_loops10_b: إذا اردت استخدام القليل من الكود, يمكنك
+          جرب أن تستخدم ماتعلمته من المراحل السابقة لتتحرك في كل الاتجاهات.
+        courseC_starWars_loops10_b: إذا اردت استخدام القليل من الكود، يمكنك
           أن تضع حلقة "كرر" داخل أخرى! هذه تسمى حلقة التكرار المتداخلة.
         courseC_starWars_loops10_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseC_starWars_loops1_2018:
@@ -9824,9 +9830,9 @@ ar-SA:
       courseC_starWars_loops1_2019:
         courseC_starWars_loops1_a: عندما تصل الأميرة الى صندوق الكنز ستقوم بجمعه تلقائيا.
         courseC_starWars_loops1_b: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
-        courseC_starWars_loops1_c: يجب عليك أن "تتحرك إلى الامام" خمس مرات لتنجز المرحلة.
+        courseC_starWars_loops1_c: يجب عليك أن تتحرك إلى الامام خمس مرات لتنجز المرحلة.
       courseC_starWars_loops2_2019:
-        courseC_starWars_loops2_a: لتكرر الكود البرمجي, اسحب حلقة "كرر" الى مساحة العمل ومن ثم استخدم
+        courseC_starWars_loops2_a: لتكرر الكود البرمجي، اسحب حلقة "كرر" الى مساحة العمل ومن ثم ضع
           القطع البرمجية التي تريدها داخلها.
       courseC_starWars_loops2_2018:
         courseC_starWars_loops2_a: لتكرر الكود البرمجي, اسحب وظيفة "كرر" ومن ثم استخدم
@@ -9867,11 +9873,11 @@ ar-SA:
         courseC_starWars_loops5_a: أفضل حل باستخام الاتجاه ومن ثم التحرك للامام مرة
           واحدة ومن ثم الاتجاه مرة اخرى واخيرا التكرار.
       courseC_starWars_loops5_2018:
-        courseC_starWars_loops5_a: افضل حل استخدم "تحريك إلى الأمام" ومن ثم "اتجه
+        courseC_starWars_loops5_a: أفضل حل استخدم "تحريك إلى الأمام" ومن ثم "اتجه
           إلى", ومن ثم كرر.
       courseC_starWars_loops5_2019:
-        courseC_starWars_loops5_a: افضل حل هو أن تستخدم قطعة "تحريك إلى الأمام" ومن ثم "اتجه
-          إلى", ومن ثم حلقة "كرر".
+        courseC_starWars_loops5_a: أفضل حل هو أن تستخدم قطعة "تحريك إلى الأمام" ومن ثم "اتجه
+          إلى"، ومن ثم حلقة "كرر".
       courseC_starWars_loops5_copy:
         courseC_starWars_loops5_b: لتتجه إلى الأسفل عليك أولاً الاتجاه ومن ثم التحرك
           للامام.
@@ -9887,8 +9893,8 @@ ar-SA:
           تضع وظيفة "كرر" داخل أخرى!/ هذه تسمى \\ وظيفة التكرار المتداخلة\\.
       courseC_starWars_loops6_2019:
         courseC_starWars_loops6_a: حاول كتابة كل الخطوات على ورقة وابحث عن النمط.
-        courseC_starWars_loops6_b: إذا اردت اختصار الكود, يمكنك أن
-          تضع حلقة "كرر" داخل حلقة أخرى!. هذه تسمى، حلقة التكرار المتداخلة.
+        courseC_starWars_loops6_b: إذا اردت اختصار الكود، يمكنك أن
+          تضع حلقة "كرر" داخل حلقة أخرى! هذه تسمى حلقة التكرار المتداخلة.
       courseC_starWars_loops6_copy:
         courseC_starWars_loops6_a: حاول كتابة كل الحركات على ورقة وابحث عن النمط.
         courseC_starWars_loops6_b: إذا اردت استخدام القليل من الكود برمجي, يمكنك أن
@@ -9906,9 +9912,9 @@ ar-SA:
           الخطوات على ورقة وابحث عن نمط.
         courseC_starWars_loops7_c: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
       courseC_starWars_loops7_2019:
-        courseC_starWars_loops7_a: هذا النمط يبدو صعباً! ابدأ بخطوة في السلم. هل سجعلك هذه
+        courseC_starWars_loops7_a: هذا النمط يبدو صعباً! ابدأ بخطوة في السلم. هل ستجعلك هذه
           الخطوة تجمع كل صناديق الكنز؟
-        courseC_starWars_loops7_b: إذا كنت تواجه مشكلة في إنجاز هذه المرحلة, حاول كتابة كل
+        courseC_starWars_loops7_b: إذا كنت تواجه مشكلة في إنجاز هذه المرحلة، حاول كتابة كل
           الخطوات على ورقة وابحث عن نمط.
         courseC_starWars_loops7_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseC_starWars_loops7_copy:
@@ -9918,13 +9924,13 @@ ar-SA:
           الخطوات على ورقة وابحث عن نمط.
         courseC_starWars_loops7_c: لا تخشى ارتكاب الأخطاء! قم بتشغيل التعليمات البرمجية
           لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل لحل اللغز حتى الآن.
-      courseC_starWars_loops8:
+      courseC_starWars_loops8_2019:
         course_starWars_loops8_a: حاول التفكير في هذه المشكلة عن طريق تجزيئها. خذ
-          وقتك. لا تحتاج أن تحلها من المرة الاولى!
-        course_starWars_loops8_b: فكر في النصف الاول من المشكلة وكانها درجة في السلم.
+          وقتك في التفكير!
+        course_starWars_loops8_b: فكر في النصف الأول من المشكلة وكانها درجة في السلم.
           كيف قمت بحلها سابقاَ؟
         course_starWars_loops8_c: |-
-          ألقي نظرة على هذا المسار.
+          ألقي نظرة على هذا المسار:
 
           ![](https://images.code.org/7d696dd3b1e6984a1d6041f366d5c96b-image-1510198804955.37.04.png)
       courseC_starWars_loops8_2018:
@@ -9936,7 +9942,7 @@ ar-SA:
           ألقي نظرة على هذا المسار.
 
           ![](https://images.code.org/7d696dd3b1e6984a1d6041f366d5c96b-image-1510198804955.37.04.png)
-      courseC_starWars_loops8_2019:
+      courseC_starWars_loops8:
         course_starWars_loops8_a: حاول التفكير في هذه المشكلة عن طريق تجزيئها. خذ
           وقتك. لا تحتاج أن تحلها من المرة الاولى!
         course_starWars_loops8_b: فكر في النصف الاول من المشكلة وكأنها درجة في السلم.
@@ -9969,7 +9975,7 @@ ar-SA:
       courseC_starWars_loops9_2019:
         course_starWars_loops9_b: يمكنك وضع أكثر من قطعة برمجية داخل حلقة "كرر".
         course_starWars_loops9_c: |-
-          لا تحتاج أن تتجه الى اليسار لإنجاز هذه المرحلة. كل اتجاهاتك يمكن أن تكون الى ليمين.
+          لا تحتاج أن تتجه الى اليسار لإنجاز هذه المرحلة. كل اتجاهاتك يمكن أن تكون الى اليمين.
 
           ![](https://images.code.org/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
       courseD_artist_1_2018:
@@ -10729,10 +10735,10 @@ ar-SA:
         courseD_bee_conditionals5_hintVid1: هل تحتاج للبدء؟ شاهد الفيديو!
         courseD_bee_conditionals5_hintVid2: شاهد هذا الفيديو لمساعدتك على إنجاز هذه المرحلة.
       courseD_bee_conditionals5_2019:
-        courseD_bee_conditionals5_a: إذا كنت تستخدم الجملة الشرطية "اذا"
-          ،يمكنك إنجاز هذه المرحلة باستخدام حلقة التكرار المتداخلة. اكتب برنامجًا للمسار
+        courseD_bee_conditionals5_a: إذا كنت تستخدم الجملة الشرطية "إذا"،
+          يمكنك إنجاز هذه المرحلة باستخدام حلقة التكرار المتداخلة. اكتب برنامجًا للمسار
           الأيمن والأسفل، ثم كرر كل شيء مرتين!
-        courseD_bee_conditionals5_c: للاستمرار في المسار ، سوف يحتاج نحول أن يستخدم القطع البرمجية؛ "تحريك الى الأمام"، "إذا" و "الحصول على الرحيق".
+        courseD_bee_conditionals5_c: للاستمرار في المسار، سوف يحتاج نحول أن يستخدم القطع البرمجية؛ "تحريك الى الأمام"، "إذا" و"الحصول على الرحيق".
         المعادلة بسيطة جدا، "إذا وجد نحول زهرة" في طريقه فإنه سوف "يحصل على الرحيق".
 
       courseD_bee_conditionals5_copy:
@@ -10790,7 +10796,7 @@ ar-SA:
           خلية نحل، لذلك لا حاجة لك لتفكر عن قضية المساحة الفارغة.
         courseD_bee_conditionals7_hintVid2: شاهد هذا الفيديو لمساعدتك على إنجاز هذه المرحلة.
       courseD_bee_conditionals7_2019:
-        courseD_bee_conditionals7_a: تذكّر.. هذه المرحلة تتغير كل مرة يتم فيها تشغيلها. لإنجازها،
+        courseD_bee_conditionals7_a: تذكّر.. هذه المرحلة تتغير كل مرة يتم تشغيلها فيها. لإنجازها،
           ينبغي عليك استخدام القطعة البرمجية "إذا..وإلا".
         courseD_bee_conditionals7_b: في هذه المرحلة، ستجد تحت الغيمة إما زهرة أو خلية نحل.. لا حاجة للقلق بشأن المساحات الفارغة.
       courseD_bee_conditionals7_predict2:
@@ -10831,7 +10837,7 @@ ar-SA:
         courseD_bee_conditionals8_hintVid2: شاهد هذا الفيديو لمساعدتك على إنجاز هذه المرحلة.
       courseD_bee_conditionals8_2019:
         courseD_bee_conditionals8_a: تذكر.. هذه المرحلة تتغير في كل مرة
-          يتم تشغيلها. ستحتاج أن تستخدم إما الجملة شرطية"إذا" أو القطعة البرمجية "إذا..وإلا" لإنجاز هذه المرحلة.
+          يتم تشغيلها. ستحتاج أن تستخدم إما الجملة شرطية "إذا" أو القطعة البرمجية "إذا..وإلا" لإنجاز هذه المرحلة.
 
         courseD_bee_conditionals8_b: |-
           في هذه المرحلة، ستجد تحت الغيمة إما زهرة أو خلية نحل.. لا حاجة للقلق بشأن المساحات الفارغة.
@@ -10883,7 +10889,7 @@ ar-SA:
       courseD_bee_debugging_challenge1:
         courseD_bee_debugging_challenge1_a: لماذا يعمل النصف الأول من هذا البرنامج؟
           فكر في السبب وراء حاجة النحل للتحرك للخلف. ما مقدار الرحيق الذي تقوم النحلة
-          بتجمعيه كل مرة عند تحركها فوق الزهور؟
+          بتجمعيه كل مرة عند تحركها فوق الأزهار؟
         courseD_bee_debugging_challenge1_b: في طريق العودة، هل يتبع النحل نفس النمط.
           ما مقدار العسل الذي يحتاجه النحل في كل مرة من أجل أن يتحرك للأمام فوق قرص
           عسل خلية النحل؟
@@ -10893,7 +10899,7 @@ ar-SA:
       courseD_bee_debugging_challenge1a:
         courseD_bee_debugging_challenge1_a: لماذا يعمل النصف الأول من هذا البرنامج؟
           فكر في السبب وراء حاجة النحل للتحرك للخلف. ما مقدار الرحيق الذي تقوم النحلة
-          بتجمعيه كل مرة عند تحركها فوق الزهور؟
+          بتجمعيه كل مرة عند تحركها فوق الأزهار؟
         courseD_bee_debugging_challenge1_b: لإنجاز هذه المرحلة، دع النحلة تتبع نفس النمط
           لإنتاج العسل الذي تقوم به لجمع الرحيق.
         courseD_bee_debugging_challenge1_c: |-
@@ -10935,7 +10941,7 @@ ar-SA:
         courseD_bee_nestedLoops1_a: ألا يجدي ذلك نفعاً؟ استخدم زر "جرب خطوة" حتى ترى
           ما يحدث سطرا بسطر.
         courseD_bee_nestedLoops1_b: جرب كتابة الكود لمسار واحد من مسارات شكل المربع
-          أولاً. هل يمكنك وضع ذلك في حلقة التكرار للحصول على كل رحيق العسل؟
+          أولاً. هل يمكنك وضع ذلك الكود في حلقة التكرار للحصول على كل رحيق العسل؟
         courseD_bee_nestedLoops1_c: تذكر استخدام القطعة البرمجية "الحصول على الرحيق"
           بمجرد أن تصل الى مربع زهور.
       courseD_bee_nestedLoops1a:
@@ -10993,18 +10999,14 @@ ar-SA:
           على رحيق العسل        -   التحرك إلى الأمام    -   الدوران لليمين
       courseD_bee_nestedLoops7_2019:
         courseD_bee_nestedLoops7_a: ستحتاج إلى تكرار قطعة "الحصول على الرحيق"
-          داخل حلقة "تكرار" أخرى تحتوي على القطعة البرمجية "التحرك إلى الأمام"
+          داخل حلقة "تكرار" أخرى تحتوي على القطعة البرمجية "تحريك إلى الأمام"
           بداخلها.
         courseD_bee_nestedLoops7_b: ستحتاج إلى استخدام كل حلقات "التكرار" الثلاث
           المتاحة لإنجاز هذه المرحلة.
-        courseD_bee_nestedLoops7_c:
+        courseD_bee_nestedLoops7_c: |-
           قم ببناء الحلقات بحيث تكون متداخلة على ثلاث مستويات كالتالي،
-          - تكرار 4 مرات
-            - تكرار 3 مرات
-              - تكرار 12 مرة
-                - الحصول على الرحيق
-              - التحرك إلى الأمام
-            - اتجه لليمين
+          - تكرار 4 مرات  - تكرار 3 مرات  - تكرار 12 مرة
+          - الحصول على الرحيق  - التحرك إلى الأمام  - اتجه لليمين
 
       courseD_collector_debugging1:
         courseD_collector_debugging1_a: استخدم زر "جرب خطوة" لتتأكد من صحة كل شيء في
@@ -11492,18 +11494,17 @@ ar-SA:
           ، والجملة الشرطية "إذا" مرة واحدة.
         courseD_farmer_condLoops2_c: |-
           يجب أن تبدو الجملة الشرطية "إذا" هكذا:
-          - إذا توجد ذرة
-          - التقط الذرة
-          وإلا..
-          -اذا يوجد خس
-          -التقط الخس
+          - إذا وجدت ذرة.. التقط الذرة.. وإلا..
+          n\
+          -اذا وجدت خسا.. التقط الخس
+          n\
           إذا لم يوجد شيء هناك، فلن تلتقط أي شيء!
       courseD_farmer_condLoops3_2019:
         courseD_farmer_condLoops3_a: لالتقاط كل المحاصيل، جرب تداخل الجمل الشرطية "إذا"
           ثلاث مرات. هذا يعني أنه يجب عليك وضع جملة "إذا" الثانية داخل الأولى، ثم وضع
           "إذا" الثالثة داخل الثانية.
-        courseD_farmer_condLoops3_b: لإنجاز هذه المرحلة، يجب أن يكون لديك جملتين شرطيتين من "إذا.. وإلا"
-          ، وجملة "إذا" واحدة.
+        courseD_farmer_condLoops3_b: لإنجاز هذه المرحلة، يجب أن يكون لديك جملتين شرطيتين من "إذا.. وإلا"،
+          وجملة "إذا" واحدة.
       courseD_farmer_condLoops3_2018:
         courseD_farmer_condLoops3_a: للحصول على كل الأشياء، جرب تداخل عبارات "إذا"
           بعمق ثلاثة.يعني هذا أنه يجب عليك وضع عبارة "إذا" داخل الأخرى، ثم ضع عبارة
@@ -11536,7 +11537,7 @@ ar-SA:
           الطريق سالكا"، أو حلقة "تكرار" من أجل التنقل عبر كل المحاصيل.
       courseD_farmer_condLoops4_2019:
         grade3_RunningFarm_4courseD_farmer_condLoops4: لا أحد يعلم عدد حبات الخس التي
-          ستنمو في كل نبتة.استخدم حلقة "طالما.. يوجد خس" حتى يتم التقاطها كلها.
+          ستنمو في كل نبتة. استخدم حلقة "طالما.. يوجد خس" حتى يتم التقاطها كلها.
         grade3_RunningFarm_4courseD_farmer_condLoops4_b: سيؤدي استخدام حلقة "طالما"
           إلى التعامل مع المساحات الفارغة! ونظراً لعدم وجود الخس فيها، فلن يتم التقاط أي
           شيء وستتابع القطع البرمجية التالية العمل.
@@ -11658,7 +11659,8 @@ ar-SA:
                                 </block>
                               </value>
                             </block></xml>
-      courseF_bee_variables_4_2019_1: بدل أن تطرح 1 من قيمة المتغير "gather"، جرب إضافة واحد في كل مرة عوضا عن ذلك. ماذا يجب أن تكون قيمة المتغير عند البدء؟
+      courseF_bee_variables_4_2019:
+        courseF_bee_variables_4_2019_1: بدل أن تطرح 1 من قيمة المتغير "gather"، جرب إضافة واحد في كل مرة عوضا عن ذلك. ماذا يجب أن تكون قيمة المتغير عند البدء؟
       #End of Express Lesson 20
 
 
@@ -11773,12 +11775,9 @@ ar-SA:
 
         courseD_farmer_conditionals6_c: |-
           إن نمط تدرج السلم يستخدم القطع البرمجية التالية:
-          - تحريك الى الأمام
-          - املأ الحفرة
-          - اتجه الى اليمين
-          - تحريك الى الأمام
-          - املأ الحفرة
-          - اتجه الى اليسار
+          - تحريك الى الأمام - املأ الحفرة - اتجه الى اليمين - تحريك الى الأمام - املأ الحفرة - اتجه الى اليسار
+          n\
+
           كم مرة يجب أن تستخدم هذا النمط؟ لا تنسَ أن تستخدم القطعة البرمجية "طالما..يوجد هناك ثقب" لملء الحفر.
 
       courseD_farmer_while7:
@@ -12168,10 +12167,10 @@ ar-SA:
           البرمجية الخاصة بك أكثر قصراً.
       courseD_maze_until4_2019:
         courseD_maze_until4_a: |-
-          استخدم زر "جرب خطوة" لفحص الكود الذي كتبته سطرا بسطر.
-          -   هل كل شيء يعمل في الخطوة الأولى؟
-          -   هل كل شيء يعمل في الخطوة الثانية؟
-          -   أين يحدث الخطأ؟
+          استخدم زر "جرب خطوة" لفحص الكود الذي كتبته سطرا بسطر:
+          -هل كل شيء يعمل في الخطوة الأولى؟
+          -هل كل شيء يعمل في الخطوة الثانية؟
+          -أين يحدث الخطأ؟
         courseD_maze_until4_b: هل يوجد نمط تدرج السلم الذي يمكنك اتباعه لإنجاز هذه المرحلة؟
         courseD_maze_until4_c: تذكر استخدام حلقة التكرار "حتى" لجعل الكود الذي كتبته أقصر.
       courseD_maze_until5:
@@ -12468,7 +12467,7 @@ ar-SA:
         courseD_artist_functions10_b: هذا الرسم يشبه كثيرًا الرسم الأخير، لكن وظيفة
           "ارسم خطا" ترسم الآن شكلاً آخر.
         courseD_artist_functions10_a: لتجنب استخدام قطع برمجية متعددة من "التقدم
-          للأمام"، أنشئ وظيفة "ارسم شكلا سداسي الأضلاع" واستدعها عدة مرات.
+          الى الأمام"، أنشئ وظيفة "ارسم شكلا سداسي الأضلاع" واستدعها عدة مرات.
         courseD_artist_functions10_c: |-
           هل ترى أين يمكن لهذا الرسم أن يستخدم وظيفة تسمى "خطا من الأشكال السداسية"؟
 
@@ -12503,13 +12502,14 @@ ar-SA:
         courseD_artist_functions2_a: |-
           يجب على برنامجك:
 
-          -   استخدام الوظيفة التي كتبتها.
-          -   التحرك إلى الامام مقدار 100 + 75 بيكسل.
-          -   استخدام الوظيفة التي كتبتها مرة أخرى.
+          -استخدام الوظيفة التي كتبتها.
+          -التحرك إلى الامام مقدار 100 + 75 بيكسل.
+          -استخدام الوظيفة التي كتبتها مرة أخرى.
         courseD_artist_functions2_b: لا يجب أن تشمل الوظيفة برنامجك كله، فقط الجزء الذي يرسم مربعا أطوال جوانبه 100 بيكسل.
         courseD_artist_functions2_c: |-
-          تأكد من استخدام <xml><block type="procedures_callnoreturn" limit="2"><mutation name="draw a square"/></block></xml> لاستدعاء الوظيفة وإلا فإن الكود الذي بداخل الوظيفة لن يعمل.
+          تأكد من استخدام القطعة البرمجية التالية لاستدعاء الوظيفة وإلا فإن الكود الذي بداخل الوظيفة لن يعمل:
 
+          <xml><block type="procedures_callnoreturn" limit="2"><mutation name="draw a square"/></block></xml>
       courseE_artist_functions2_copy:
         courseD_artist_functions2_b: الوظيفة التي تكتبها يجب إلا تحتوي على برنامجك
           الكامل، بل تحتوي فقط على القسم الذي يرسم المربع الذي قياس جوانبه 100 بيكسل.
@@ -12564,9 +12564,9 @@ ar-SA:
       courseE_artist_functions5_2019:
         courseD_artist_functions5_a: لا تفقد الأمل! تذكّر ما تعلمته واستخدمه.
         courseD_artist_functions5_b: تسهّل الوظائف استدعاء واستخدام الكود المحفوظ
-          في أي وقت، وليس عند استخدامه داخل حلقة تكرار فقط!
-        courseD_artist_functions5_c: ابدأ بكتابة كود الوظيفة التي سترسم النجمة "ارسم نجمة"
-          ، ثم استخدم هذه الوظيفة لرسم النجمات الثلاثة.
+          في أي وقت، وليس عند استخدامه داخل حلقة التكرار فقط!
+        courseD_artist_functions5_c: ابدأ بكتابة كود الوظيفة التي سترسم النجمة "ارسم نجمة"،
+          ثم استخدم هذه الوظيفة لرسم النجمات الثلاثة.
       courseE_artist_functions5_copy:
         courseD_artist_functions5_a: لا تفقد الأمل! تذكّر ما كنت تتعلمه.
         courseD_artist_functions5_b: تسهّل الوظائف استدعاء واستخدام الكود المحفوظ
@@ -12596,13 +12596,13 @@ ar-SA:
         courseD_artist_functions7_b: ليصل الفنان من النافذة العليا الى السفلى، يجب عليه أن يتجه لليمين ثم يقفز 150 بيكسل ثم أن يتجه لليمين مجددا.
           إن الفنان الآن يقف في الاتجاه الصحيح الذي يمكنه من إنهاء رسم باقي المنزل!
       courseE_artist_functions8b_2019:
-        courseD_artist_functions8_f: إن كنت تفكر بطريقة صحيحة، ستحتاج الى استخدام القطعة البرمجية "التقدم الى الأمام" مرة واحدة فقط.
+        courseD_artist_functions8_f: إن كنت تفكر بطريقة صحيحة، ستحتاج الى استخدام القطعة البرمجية "القفز الى الأمام" مرة واحدة فقط.
         courseD_artist_functions8_a: ابدأ بإنشاء وظيفة لرسم مربع واحد، ثم حاول إنشاء وظيفة ترسم خطا من المربعات.
         courseD_artist_functions8_d: |-
           لرسم خط من المربعات،
-            - كرر 3 مرات
-              - ارسم مربعا
-              - اقفز للأمام مسافة 50 بيكسل
+          -كرر 3 مرات
+          -ارسم مربعا
+          -اقفز للأمام مسافة 50 بيكسل
       courseE_artist_functions8c_2019:
         courseD_artist_functions8_f: هذا أسهل مما يبدو! لن تحتاج الى أي قطع برمجية من نوع "التقدم" أو "القفز".
         courseD_artist_functions8_a: الخط الثاني من المربعات يختلف عن الأول باستدارة مقدارها 180 درجة.
@@ -12651,13 +12651,13 @@ ar-SA:
         courseD_artist_functions8_a: |-
           ابدأ بإنشاء وظيفة لرسم مربع واحد، ثم حاول إنشاء وظيفة لرسم خط من المربعات.
 
-          كيف يمكن أن تستخدم وظيفة "ارسم خطا من المربعات" لانتاج هذه الصورة؟
+          كيف يمكن أن تستخدم وظيفة "ارسم خطا من المربعات" لإنتاج هذه الصورة؟
         courseD_artist_functions8_d: |-
           لرسم خط من المربعات،
 
-          -   كرر 3 مرات
-              -   ارسم مربعا طول جانبه 50 بيكسل
-              -   اقفز للأمام 100 بيكسل
+          -كرر 3 مرات
+          -ارسم مربعا طول جانبه 50 بيكسل
+          -اقفز للأمام 100 بيكسل
         courseD_artist_functions8_b: |-
           فكّر أن كل صف في هذه الصورة هو خط مؤلف من 3 مربعات. كم خطا من خطوط المربعات موجود وأين تبدأ برسم كل منها؟
 
@@ -12693,7 +12693,7 @@ ar-SA:
               -   قم بالالتفاف 120 درجة
       courseE_artist_functions9_2018:
         courseD_artist_functions9_e: |-
-          هل يمكنك رؤية جميع الأماكن الأربعة التي يمكن استخدام "خطوط المثلثات في هذا الرسم؟
+          هل يمكنك رؤية جميع الأماكن الأربعة التي يمكن فيها استخدام "خطوط المثلثات" في هذا الرسم؟
 
           ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_a: |-
@@ -12720,31 +12720,31 @@ ar-SA:
               -   قم بالالتفاف 120 درجة
       courseE_artist_functions9_2019:
         courseD_artist_functions9_e: |-
-          هل يمكنك رؤية جميع الأماكن الأربعة التي يمكن استخدام "خطوط المثلثات في هذا الرسم؟
+          هل يمكنك رؤية جميع الأماكن الأربعة التي يمكن فيها استخدام "خطوط المثلثات" في هذا الرسم؟
 
           ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_a: |-
           يمكن تجزيء هذه المرحلة إلى ثلاثة أجزاء:
 
-          -   أنشئ وظيفة "رسم مثلث"
-          -   أنشئ وظيفة "ارسم خطا من المثلثات"
-          -   استخدم وظيفة "ارسم خطا من المثلثات" أربع مرات لإنهاء الرسم
+          -أنشئ وظيفة "رسم مثلث".
+          -أنشئ وظيفة "ارسم خطا من المثلثات".
+          -استخدم وظيفة "ارسم خطا من المثلثات" أربع مرات لإنهاء الرسم.
         courseD_artist_functions9_b: تم إنتاج هذا الرسم عن طريق رسم خط من المثلثات
           4 مرات والالتفاف إما 60 أو 120 درجة قبل رسم خط المثلثات التالي.
         courseD_artist_functions9_c: |-
           لرسم خط المثلثات:
 
-          -   كرر 4 مرات
-              -   ارسم مثلثا
-              -   أقفز للأمام 50 بيكسل
+          -كرر 4 مرات
+          -ارسم مثلثا
+          -أقفز للأمام 50 بيكسل
         courseD_artist_functions9_d: |-
-          لرسم شكل مَعين
+          لرسم شكل مَعين:
 
-          -   كرر مرتين
-              -   ارسم خطا من المثلثات
-              -   قم بالالتفاف 60 درجة
-              -   ارسم خطا من المثلثات
-              -   قم بالالتفاف 120 درجة
+          -كرر مرتين
+          -ارسم خطا من المثلثات
+          -قم بالالتفاف 60 درجة
+          -ارسم خطا من المثلثات
+          -قم بالالتفاف 120 درجة
       courseE_artist_functions_challenge1:
         courseE_artist_functions_challenge1_a: إذا استدعيت الوظيفة مرة أخرى، يمكنك
           إنشاء نفس التصميم في الزاوية النهائية.
@@ -13028,7 +13028,7 @@ ar-SA:
         courseE_farmer_functions1_b: يجب أن تلتقط قرعًا واحدًا، لكن هل يمكنك استخدام
           حلقة للوصول إليه؟
       courseE_farmer_functions1a_2019:
-        courseE_farmer_functions1a_a: تأكد من أن تقرأ تعريف الوظيفة. هل يمكنك أن تتوقع ماذا يفعل؟
+        courseE_farmer_functions1a_a: تأكد من أن تقرأ تعريف الوظيفة. هل يمكنك أن تتوقع ماذا تفعل؟
         courseE_farmer_functions1a_b: استخدم القطعة البرمجية "كرر حتى" للحصول على القرع!
       courseE_farmer_functions1a_2018:
         courseE_farmer_functions1a_b: استخدم مربع برمجي "كرر حتى" للحصول على القرع!
@@ -13046,7 +13046,7 @@ ar-SA:
           على كل المحاصيل.
       courseE_farmer_functions2b_2019:
         courseE_farmer_functions2b_a: يمكنك استخدام القطعة البرمجية "كرر حتى يوجد قرع" لتصل الى نهاية المسارين.
-        courseE_farmer_functions2b_b: لا توجد ذرة على المكان الموصل بين المسارين، لذلك يمكنك التحرك
+        courseE_farmer_functions2b_b: لا توجد ذرة في المكان الموصل بين المسارين، لذلك يمكنك التحرك
           على امتداده والالتفاف.
         courseE_farmer_functions2b_c: ستحتاج إلى قطعتين برمجيتين من "كرر حتى" للحصول
           على كل المحاصيل.
@@ -13088,14 +13088,14 @@ ar-SA:
       courseE_farmer_functions7a1_2019:
         courseE_farmer_functions7a1_2018_a: أنشئ الوظيفة الجديدة تحت تبويبة "الوظائف" في صندوق الأدوات.
         courseE_farmer_functions7a1_2018_b: لا تنسَ أن تستخدم الوظيفة الجديدة!
-        courseE_farmer_functions7a1_2019_a: أنشئ الوظيفة الجديدة تحت تبويبة "الوظائف" في صندوق الأدوات.
+        courseE_farmer_functions7a1_2019_a: أنشئ الوظيفة الجديدة عند فئة "الوظائف" في صندوق الأدوات.
         courseE_farmer_functions7a1_2019_b: لا تنسَ أن تستخدم الوظيفة الجديدة!
       courseE_farmer_functions8a1_2019:
         courseE_farmer_functions8a1_2018a: ابدأ هذه المرحلة باستخدام الوظيفة التي كتبتها في المرحلة السابقة.
         courseE_farmer_functions8a1_2018b: بعد أن تستخدم الوظيفة أول مرة، ستحتاج أن تنعطف قبل أن تستخدمها مرة أخرى.
         courseE_farmer_functions8a1_2019a: ابدأ هذه المرحلة باستخدام الوظيفة التي كتبتها في المرحلة السابقة.
         courseE_farmer_functions8a1_2019b: بعد أن تستخدم الوظيفة أول مرة، ستحتاج أن تنعطف قبل أن تستخدمها مرة أخرى.
-      courseE_farmer_functions9a1_2019_authored_hint:
+      courseE_farmer_functions9a1_2019:
         courseE_farmer_functions9a1_2018a: ستستخدم الوظيفة التي كتبتها في المراحل السابقة.
         courseE_farmer_functions9a1_2018b: استخدم نفس الخطوات التي استخدمتها في المراحل السابقة لتحل الجزء الأول من هذه المرحلة.
         courseE_farmer_functions9a1_2018c: ستحتاج أن تنعطف وتتحرك الى الأمام عدة مرات لتصل الى آخر حبة من الخس قبل أن تستطيع استخدام الوظيفة مجددا.
@@ -13412,8 +13412,8 @@ ar-SA:
             </block>
           </xml>
       courseF_artist_for10_2019:
-        courseF_artist_for10_a: هذه الصورة تم رسمها باستخدام متغير "العداد" داخل القطعة البرمجية "تعيين
-          ألفا"، و"العداد"/10 كحجم للفرشاة.
+        courseF_artist_for10_a: هذه الصورة تم رسمها باستخدام متغير "counter" داخل القطعة البرمجية "تعيين
+          alpha"، و"العداد"/10 كحجم للفرشاة.
         courseF_artist_for10_b: تستخدم الصورة في الرسم استدارة بمقدار 61 درجة.
         courseF_artist_for10_c: |-
           هل تريد معرفة الطريقة التي تم بها إنشاء الصورة؟
@@ -13531,8 +13531,7 @@ ar-SA:
         courseF_artist_for2_b: تذكر أن مقدار الزيادة في حلقة "التكرار المحدد" يجب أن يكون 10.
         courseF_artist_for2_c: |-
           هذا هو النمط الذي سيتبعه الفنان:
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint2.gif)
-
+          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for2_2018:
         courseF_artist_for2_a: |-
           استخدم "عداد" الخاص بطول مثلثاتك داخل حلقة "تكرار" الخاصة بك<xml><block type="draw_move" inline="true">
@@ -13579,7 +13578,7 @@ ar-SA:
           حتى الآن.
       courseF_artist_for3_2019:
         courseF_artist_for3_a: |-
-          لكي تتيح لحلقة "التكرار المحدد" أن تقود تحركك، تأكد من أنك تستخدم متغير "counter" ليعبر عن المسافة التي تحتاجها في القطعة البرمجية "التحرك إلى الأمام".
+          لكي تتيح لحلقة "التكرار المحدد" أن تقود تحركك، تأكد من أنك تستخدم متغير "counter" ليعبر عن المسافة التي تحتاجها في القطعة البرمجية "تحريك إلى الأمام".
           <xml>
           <block type="draw_move" inline="true">
                 <title name="DIR">moveForward</title>
@@ -13645,7 +13644,7 @@ ar-SA:
           و"اتجه" من الممكن أن تبقى كما هي دون تغيير.
       courseF_artist_for6_2019:
         courseF_artist_for6_a: ستقوم حلقة "التكرار المحدد" بالعد من 15 إلى 300 ويكون مقدار الزيادة 15.
-        courseF_artist_for6_b: قم بوضع القطع البرمجية "التحرك إلى الأمام" و "اتجه"
+        courseF_artist_for6_b: قم بوضع القطع البرمجية "تحريك إلى الأمام" و "اتجه"
           داخل حلقة "التكرار المحدد".
         courseF_artist_for6_c: كل ما يجب أن تعدله هو درجة الزاوية في القطعة البرمجية
           "اتجه".
@@ -13709,9 +13708,9 @@ ar-SA:
         courseF_artist_for9_b: يعمل المربع البرمجي "تعيين الإصدار الأولي" على تغيير
           مستوى اللاشفافية الخاص باللون. كلما صغرت القيمة، كلما زادت شفافية اللون
       courseF_artist_for9_2019:
-        courseF_artist_for9_a: إذا قمت بوضع القطعة البرمجية "تعيين ألفا"
-          داخل حلقة "التكرار المحدد"، واستخدمت المتغير "عداد" لتغييره، فيمكنك رسم تصميم مثل هذا.
-        courseF_artist_for9_b: تعمل القطعة البرمجية "تعيين ألفا" على تغيير
+        courseF_artist_for9_a: إذا قمت بوضع القطعة البرمجية "تعيين alpha"
+          داخل حلقة "التكرار المحدد"، واستخدمت المتغير "counter" لتغييره، فيمكنك رسم تصميم مثل هذا.
+        courseF_artist_for9_b: تعمل القطعة البرمجية "تعيين alpha" على تغيير
           درجة تركيز اللون. كلما صغرت القيمة، كلما زادت شفافية اللون.
       courseF_artist_for_challenge1:
         courseF_artist_for_challenge1_a: عرض القلم هو 1. المربع الأول طول ضلعه 50
@@ -14522,7 +14521,7 @@ ar-SA:
       courseF_artist_variables2_2019:
         courseF_artist_variables2_a: تذكر أن تقوم بالتحرك إلى الأمام بعد رسم كل مثلث.
         courseF_artist_variables2_b: ستحتوي الحلقة الجديدة الخاصة بك على حلقة من أجل
-          مثلثك، ثم أمر "التحرك إلى الأمام".
+          مثلثك، ثم أمر "تحريك إلى الأمام".
       courseF_artist_variables3:
         courseF_artist_variables3_a: 'سيتم استخدام متغير "طول" في مكانين في التعليمات
           البرمجية الخاصة بك: في الطول الجانبي للمثلث الخاص بك، وفي المقدار الذي تتحرك
@@ -14536,11 +14535,11 @@ ar-SA:
         courseF_artist_variables3_b: 'يجب للمربع البرمجي ذو القيمة 50 أن يكون في مكان
           واحد فقط: بعد المربع البرمجي `تعيين الطول`.'
       courseF_artist_variables3_2019:
-        courseF_artist_variables3_a: 'سيتم استخدام متغير "طول" في مكانين في التعليمات
-          البرمجية الخاصة بك: في الطول الجانبي للمثلث الخاص بك، وفي المقدار الذي تتحرك
-          للأمام خلاله ما بين المثلثات.'
-        courseF_artist_variables3_b: 'يجب للمربع البرمجي ذو القيمة 50 أن يكون في مكان
-          واحد فقط: بعد المربع البرمجي `تعيين الطول`.'
+        courseF_artist_variables3_a: 'سيتم استخدام متغير "length" في مكانين في الكود
+          الخاص بك: في الطول الجانبي للمثلث ،وفي المقدار الذي تتحركه
+          للأمام ما بين المثلثات.'
+        courseF_artist_variables3_b: 'يجب القطعة البرمجية ذات القيمة 50 أن تكون في مكان
+          واحد فقط: بعد القطعة البرمجية "تعيين length".'
       courseF_artist_variables4:
         courseF_artist_variables4_a: لن تصبح التعليمات البرمجية الخاصة بك أكثر اختلافاً
           بشكل كبير عن غيرها في اللغز السابق، فيماعدا أنك ستحتاج إلى استدارة الفنان
@@ -14552,6 +14551,7 @@ ar-SA:
         courseF_artist_variables4_a: إجعله جاهزًا لرسم المثلث التالي.
         courseF_artist_variables4_c: هذا هو النمط الذي سيتبعه الفنان:![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
       courseF_artist_variables4_2019:
+        courseF_artist_variables4_a: لن يختلف الكود الذي ستكتبه عن الذي كتبته في المرحلة السابقة كثيرا، باستثناء أنك يجب أن تجعل الفنان يستدير ليقفز للأسفل، ثم يستدير مجددا ليرسم المثلث التالي.
         courseF_artist_variables4_c: هذا هو النمط الذي سيتبعه الفنان:![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
       courseF_artist_variables5:
         courseF_artist_variables5_a: النصف الثاني من تعليمات البرمجية سيبدو تقريباً
@@ -14643,7 +14643,7 @@ ar-SA:
           زوايا المثلث.
       courseF_artist_variables7_2019:
         courseF_artist_variables7_a: ابدأ الكود الخاص بك باستخدام القطعة البرمجية
-          "تعيين length"، ثم قم بتعيين متغير "length" الى 150.
+          "تعيين length"، ثم قم بتعيين قيمة متغير "length" الى 150.
         courseF_artist_variables7_b: يمكنك استخدام حلقة "التكرار" لكتابة الكود الخاص بك
           لرسم المثلث بسهولة أكبر.
         courseF_artist_variables7_c: سترغب في الاتجاه لليسار بمقدار 120 درجة لرسم
@@ -14750,10 +14750,10 @@ ar-SA:
           hints.png>)
       courseF_artist_variablesFP_2019:
         courseF_artist_variablesFP_a: |-
-          جرب رسم واحدة من هذه الرسومات الثلاث.
+          جرب رسم واحدة من هذه الرسومات الثلاث:
 
           ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
-          #![](<https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png>)
+
       courseF_artist_variables_challenge1:
         courseF_artist_variables_challenge1_a: كل خط عمودي لديه طول يبلغ `10` درجة.
           يجب أن يكون الخط الأفقي لديه طولاً للخانة "طول".
@@ -15287,7 +15287,7 @@ ar-SA:
         courseF_bee_conditionals5_b: داخل المربع البرمجي "عندما يكون المسار أمامك"،
           سوف تحتاج إلى التحرك إلى الأمام والتحري عن وجود زهرة. كيف تقوم بالتحري إذا
           كان هنالك زهرة أم لا؟ ما الذي تفعه إذا كان هنالك زهرة؟
-        courseF_bee_conditionals5_c: توجد ثلاثة جوانب من المستطيل مع الزهور، لذا فأن
+        courseF_bee_conditionals5_c: توجد ثلاثة جوانب من المستطيل مع الأزهار، لذا فأن
           التعليمات البرمجية تحتاج إلى "التكرار 3 مرات". في كل تكرار، ستحتاج النحلة
           إلى المواصلة على طيلة الطريق، "عندما يكون المسار أمامك".
         courseF_bee_conditionals5_d: للأستمرار أسفل المسار، ستحتاج النحلة إلى "التحرك
@@ -15316,11 +15316,11 @@ ar-SA:
       courseF_bee_for10:
         courseF_bee_for10_a: هل يمكن أن تجد النمط ما بين عدد الخطوات التي تحتاج لاتخاذها،
           وعدد مقادير رحيق العسل التي تريد جمعها؟
-        courseF_bee_for10_b: المجموعة الأولى من الزهور لديها عدد إجمالي من "14 زهرة".
+        courseF_bee_for10_b: المجموعة الأولى من الأزهار لديها عدد إجمالي من "14 زهرة".
           للحصول على المجموعة الأولى هذه، يجب على النحل إصدار طنين لأسفل بمقدار 7
-          مربعات (أو 14 مربع مقسم على 2.) كم عدد الزهور في المجموعة التالية، وما
+          مربعات (أو 14 مربع مقسم على 2.) كم عدد الأزهار في المجموعة التالية، وما
           مقدار المربعات التي ستسافر خلالها النحلة للوصول إلى هناك؟
-        courseF_bee_for10_c: في هذه المرحلة، توجد لدى المجموعة الأولى من الزهور عدد
+        courseF_bee_for10_c: في هذه المرحلة، توجد لدى المجموعة الأولى من الأزهار عدد
           زهرة، والمجموعة الثانية لديها 10 زهرات، والمجموعة الثالثة لديها
           6 زهرات، والمجموعة الرابعة لديها عدد 2 زهرة.في هذا الرسم، ستلاحظ
           أنه يوجد 7 من  المربعات الحمراء، وعدد 5 من المربعات البرتقالية،
@@ -15331,11 +15331,11 @@ ar-SA:
       courseF_bee_for10_2018:
         courseF_bee_for10_a: هل يمكن أن تجد النمط ما بين عدد الخطوات التي تحتاج لاتخاذها،
           وعدد مقادير رحيق العسل التي تريد جمعها؟
-        courseF_bee_for10_b: المجموعة الأولى من الزهور لديها عدد إجمالي من "14 زهرة".
+        courseF_bee_for10_b: المجموعة الأولى من الأزهار لديها عدد إجمالي من "14 زهرة".
           للحصول على المجموعة الأولى هذه، يجب على النحل إصدار طنين لأسفل بمقدار 7
-          مربعات (أو 14 مربع مقسم على 2.) كم عدد الزهور في المجموعة التالية، وما
+          مربعات (أو 14 مربع مقسم على 2.) كم عدد الأزهار في المجموعة التالية، وما
           مقدار المربعات التي ستسافر خلالها النحلة للوصول إلى هناك؟
-        courseF_bee_for10_c: في هذه المرحلة، توجد لدى المجموعة الأولى من الزهور عدد
+        courseF_bee_for10_c: في هذه المرحلة، توجد لدى المجموعة الأولى من الأزهار عدد
           زهرة، والمجموعة الثانية لديها 10 زهرات، والمجموعة الثالثة لديها
           6 زهرات، والمجموعة الرابعة لديها عدد 2 زهرة.في هذا الرسم، ستلاحظ
           أنه يوجد 7 من  المربعات الحمراء، وعدد 5 من المربعات البرتقالية،
@@ -15346,9 +15346,9 @@ ar-SA:
       courseF_bee_for10_2019:
         courseF_bee_for10_a: هل يمكن أن تجد النمط بين عدد الخطوات التي يجب أن تقطعها،
           وكمية رحيق العسل التي تريد جمعها؟
-        courseF_bee_for10_b: المجموعة الأولى من الزهور فيها "14 زهرة".
+        courseF_bee_for10_b: المجموعة الأولى من الأزهار فيها "14 زهرة".
           للوصول الى هذه المجموعة، يجب على نحول أن يتحرك الى الأسفل مقدار 7
-          مربعات (أو 14 مربع مقسوما على 2). كم عدد الزهور في المجموعة التالية، وما
+          مربعات (أو 14 مربع مقسوما على 2). كم عدد الأزهار في المجموعة التالية، وما
           عدد المربعات الذي يجب أن يقطعه نحول للوصول إلى هناك؟
         courseF_bee_for10_c: |-
           في هذه المرحلة، توجد في المجموعة الأولى "14 زهرة".والمجموعة الثانية فيها "10 أزهار"، والمجموعة الثالثة فيها "6 أزهار"، أما المجموعة الرابعة فيها زهرتان.
@@ -15357,8 +15357,8 @@ ar-SA:
 
           ![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)
           كيف ترتبط الأعداد؟
-        courseF_bee_for10_d: ستحتاج الى استخدام 2 من حلقات التكرار. إحاهما
-          ستستخدم قطعة برمجية من تبويبة "العمليات الحسابية".
+        courseF_bee_for10_d: ستحتاج الى استخدام 2 من حلقات التكرار. إحداهما
+          ستستخدم قطعة برمجية من فئة "العمليات الحسابية".
       courseF_bee_for11:
         courseF_bee_for11_a: ما الأقل هو  12 غير 15؟\\ما الأقل من 9 غير  12؟هل ترى
           النمط؟
@@ -15396,7 +15396,7 @@ ar-SA:
       courseF_bee_for4_2019:
         courseF_bee_for4_a: استخدم حلقة "التكرار المحدد" التي تنتقل من 1 إلى 7 مع زيادة مقدارها
           1 لإنجاز هذه المرحلة.
-        courseF_bee_for4_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "التحرك
+        courseF_bee_for4_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "تحريك
           إلى الأمام"، وحلقة التكرار لتجميع رحيق العسل.
         courseF_bee_for4_c: تأكد من استخدام المتغير "counter" داخل حلقة "التكرار" المتداخلة
           للحصول على رحيق العسل الكافي!
@@ -15419,7 +15419,7 @@ ar-SA:
           الأمام" والمربع البرمجي "الحصول على رحيق العسل" إلى يكونوا في حلقات "التكرار"
           المنفصلة، وأن يكون كلاهما داخل حلقة "لـ".
         courseF_bee_for5_b: استخدم المتغير "عداد" في كل حلقة حتى تتحرك النحلة في مسافات
-          مختلفة بين كل الزهور.
+          مختلفة بين كل الأزهار.
         courseF_bee_for5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية وتشغيل
           التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت لم تتوصل لحل اللغز حتى
           الآن.
@@ -15428,16 +15428,16 @@ ar-SA:
           الأمام" والمربع البرمجي "الحصول على رحيق العسل" إلى يكونوا في حلقات "التكرار"
           المنفصلة، وأن يكون كلاهما داخل حلقة "لـ".
         courseF_bee_for5_b: استخدم المتغير "عداد" في كل حلقة حتى تتحرك النحلة في مسافات
-          مختلفة بين كل الزهور.
+          مختلفة بين كل الأزهار.
         courseF_bee_for5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية وتشغيل
           التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت لم تتوصل لحل اللغز حتى
           الآن.
       courseF_bee_for5_2019:
-        courseF_bee_for5_a: هذه المرة، يجب أن تكون القطع البرمجية "التحرك إلى
+        courseF_bee_for5_a: هذه المرة، يجب أن تكون القطع البرمجية "تحريك إلى
           الأمام" و"الحصول على رحيق العسل" في حلقات "تكرار"
           منفصلة، وأن يكون كلاهما داخل حلقة "التكرار المحدد".
         courseF_bee_for5_b: استخدم المتغير "counter" في كل حلقة حتى تتحرك النحلة مسافات
-          مختلفة بين كل الزهور.
+          مختلفة بين كل الأزهار.
         courseF_bee_for5_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية
           وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
         courseF_bee_for6:
@@ -15453,9 +15453,9 @@ ar-SA:
           إلى الأمام"، والتكرار الحلقي لتجميع رحيق العسل.
         courseF_bee_for6_c: يجب أن تكون الحلقة الخاصة بك بعد يبدأ من 5 إلى 1.
       courseF_bee_for6_2019:
-        courseF_bee_for6_a: لا تنس أن تستخدم المتغير "عداد" داخل حلقة "التكرار" الخاصة
+        courseF_bee_for6_a: لا تنس أن تستخدم المتغير "counter" داخل حلقة "التكرار" الخاصة
           بك.
-        courseF_bee_for6_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "التحرك
+        courseF_bee_for6_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "تحريك
           إلى الأمام"، وحلقة التكرار لتجميع رحيق العسل.
         courseF_bee_for6_c: يجب أن تبدأ حلقة التكرار المحدد من 5 إلى 1.
       courseF_bee_for7:
@@ -15475,7 +15475,7 @@ ar-SA:
       courseF_bee_for7_2019:
         courseF_bee_for7_a: ستحتاج حلقة "التكرار المحدد" إلى العد بداية من 1 إلى 7 و "زيادة" مقدارها
           2.
-        courseF_bee_for7_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "التحرك
+        courseF_bee_for7_b: داخل حلقة "التكرار المحدد"، ستحتاج أن تستخدم القطعة البرمجية "تحريك
           إلى الأمام"، وحلقة التكرار لتجميع رحيق العسل.
         courseF_bee_for7_c: تذكر  أن تستخدم المتغير "counter" في حلقة "التكرار" الخاصة
           بك.
@@ -15484,7 +15484,7 @@ ar-SA:
           مقدار الزيادة إلى متغير "العداد" الخاص بك في كل مرة.ما الذي تحتاج لإضافة
           كل رقم من أجل الحصول على الكمية التالية من رحيق العسل؟
         courseF_bee_for8_b: في هذه المرحلة، ستحتاج إلى التحرك في نمط السلم من أجل الوصول
-          إلى الزهور.
+          إلى الأزهار.
         courseF_bee_for8_c: سيكون عد الحلقة الخاصة بك من\_ 3 إلى 15 \_مع بعض زيادة.
           ما هي؟
       courseF_bee_for8_2018:
@@ -15492,7 +15492,7 @@ ar-SA:
           مقدار الزيادة إلى متغير "العداد" الخاص بك في كل مرة.ما الذي تحتاج لإضافة
           كل رقم من أجل الحصول على الكمية التالية من رحيق العسل؟
         courseF_bee_for8_b: في هذه المرحلة، ستحتاج إلى التحرك في نمط السلم من أجل الوصول
-          إلى الزهور.
+          إلى الأزهار.
         courseF_bee_for8_c: سيكون عد الحلقة الخاصة بك من\_ 3 إلى 15 \_مع بعض زيادة.
           ما هي؟
       courseF_bee_for8_2019:
@@ -15500,7 +15500,7 @@ ar-SA:
           مقدار الزيادة إلى متغير "counter" الخاص بك في كل مرة. ما هو مقدار الزيادة الذي تحتاج أن تضيفه لتحصل على
           الكمية التالية من رحيق العسل؟
         courseF_bee_for8_b: في هذه المرحلة، ستحتاج إلى التحرك مستخدما نمط تدرج السلم من أجل الوصول
-          إلى الزهور.
+          إلى الأزهار.
         courseF_bee_for8_c: سيكون عد حلقة "التكرار المحدد" من 3 إلى 15 مع بعض الزيادة.
           كم مقدارها يا ترى؟
       courseF_bee_for9:
@@ -16169,7 +16169,7 @@ ar-SA:
         courseF_bee_fwp7_a: أنت لا تحتاج إلى معلمة ثانية لهذه الوظيفة، فقط تحتاج إلى
           عبارة "إذا" ثانية.
         courseF_bee_fwp7_b: اضف العبارة "إذا" في الوظيفة الخاصة بك حتى تتحقق النحلة
-          في كلا من قرص العسل والزهور.
+          في كلا من قرص العسل والأزهار.
       courseF_bee_fwp8:
         courseF_bee_fwp8_a: كيف يمكن أن يؤدي استخدام حلقة التكرار "for" للمساعدة في
           إنجاز هذه المرحلة؟
@@ -16709,7 +16709,7 @@ ar-SA:
           الأمام بمقدار 50 بيكسل، ثم قم بالدوران لليسار بمقدار 120 درجة.
       grade5_artist_variables_triangles1_2019:
         grade5_artist_variables_triangles1_a: تذكر أن تحرك الفنان بمقدار 120 درجة حتى يصبح قياس الزوايا داخل المثلث 60 درجة.
-        grade5_artist_variables_triangles1_b: استخدم حلقة "التكرار" لتجعل التعليمات البرمجية
+        grade5_artist_variables_triangles1_b: استخدم حلقة "التكرار" لتجعل الكود
           أقصر.
         grade5_artist_variables_triangles1_c: داخل حلقة "التكرار"، تحرك إلى
           الأمام بمقدار 50 بيكسل، ثم قم بالدوران لليسار بمقدار 120 درجة.
