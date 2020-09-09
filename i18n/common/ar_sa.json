@@ -245,7 +245,7 @@
   "codeIntroduced": "تم تقديم الكود",
   "codeMode": "البرمجة",
   "codeTooltip": "راجع تعليمات JavaScript البرمجية التي تم إنشائها.",
-  "commentPrefix": "تعليق:",
+  "commentPrefix": "تعليق",
   "commentTooltip": "اترك رسالة إلى نفسك, أو أي أحد يقرأ الكود البرمجي الخاص بك.",
   "completed": "أكمل",
   "completedLevels": "المستويات الكاملة",
