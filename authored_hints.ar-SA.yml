@@ -4817,7 +4817,7 @@ ar-SA:
         MC_HOC_2017_13_Cole_a: حاول أن تجعل العميل يبني بعض الجسور بحيث يستطيع ألكس
           أو ستيف المشي خارج حدود الخريطة.
       OPD-K5-events-2:
-        courseC_flappy_events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       OPD-K5-events-3:
         courseC_flappy_events2_a: 'البلوكة التي تحتاج إضافتها هي "تعيين سرعة". '
         courseC_flappy_events2_b: ألصق بلوكة "تعيين سرعة" إلى بلوكة "عند التشغيل"
@@ -6888,13 +6888,365 @@ ar-SA:
 
 
 
-
-
       #CourseA
       #Lesson 5: Programming with Scrat
       courseB_maze_seq1_2019:
         courseB_maze_seq1_a: ركب القطع البرمجية مع قطعة <xml><block type="when_run"/></xml> لتجعل ابن بطوطة يتحرك!
-        courseB_maze_seq1_b: Drag three of these <xml><block type="maze_moveSouth"/></xml> arrows out and connect them to the <xml><block type="when_run"/></xml> block to get Scrat to the acorn.
+        courseB_maze_seq1_b: اسحب ثلاث قطع برمجية من <xml><block type="maze_moveSouth"/></xml> الى مساحة العمل وركبهم مع القطعة البرمجية <xml><block type="when_run"/></xml> حتى يصل ابن بطوطة الى السوسنة السوداء.
+      courseB_maze_seq4_2019:
+        courseB_maze_seq4_a: جرب إضافة قطعة برمجية واحدة كل مرة حتى تصل الى السوسنة السوداء.
+        courseB_maze_seq4_b: استخدم القطعة البرمجية <xml><block type="maze_moveEast"/></xml> لإنجاز هذه المرحلة.
+      courseB_maze_seq5_2019:
+        courseB_maze_seq5_a: إذا علقت ولم تجد الحل، جرب رسم الخطوات على الورق.
+        courseB_maze_seq5_b: هناك طريقتان لإنجاز هذه المرحلة!
+        courseB_maze_seq5_c: انظر الى الشاشة واتبع الطريق المرسوم باللون الأحمر لإنجاز هذه المرحلة.
+      courseB_maze_seq6_2019:
+        courseB_maze_seq6_a: يجب أن يحتوي الكود على ثلاث قطع برمجية حتى تنجز هذه المرحلة.
+        courseB_maze_seq6_b: إذا علقت ولم تعرف الحل، جرب حل اللغز في جزأين، جزء يحرك ابن بطوطة بشكل
+          جانبي، والآخر يحركه الى الأعلى والأسفل.
+        courseB_maze_seq5_c: هناك طريقتان لإنجاز هذه المرحلة!
+        courseB_maze_seq5_d: انظر الى الشاشة واتبع الطريق المرسوم باللون الأحمر لإنجاز هذه المرحلة.
+      courseB_maze_seq7_2019:
+        courseB_maze_seq7_a: أضف قطعة برمجية واحدة حتى تنجز هذه المرحلة.
+        courseB_maze_seq7_b: جرب تشغيل الكود الموجود في مساحة العمل لتعرف الى أين ستصل.
+        courseB_maze_seq7_c: انظر الى الشاشة واتبع الطريق المرسوم باللون الأحمر لإنجاز هذه المرحلة.
+      courseB_maze_seq8_2019:
+        courseB_maze_seq8_a: جرب إضافة قطعة برمجية واحدة كل مرة حتى تصل الى السوسنة السوداء.
+        courseB_maze_seq8_b: هنالك أكثر من طريقة لإنجاز هذه المرحلة.
+        courseB_maze_seq8_c: انظر الى الشاشة واتبع الطريق المرسوم باللون الأحمر لإنجاز هذه المرحلة.
+      courseB_maze_seq9_2019:
+        courseB_maze_seq9_a: جرب كتابة الخطوات على قطعة من الورق أولاً.
+        courseB_maze_seq9_b: جرب إضافة قطعة برمجية واحدة الى برنامجك كل مرة حتى تصل الى السوسنة السوداء.
+        courseB_maze_seq9_c: هناك طريقتان لإنجاز هذه المرحلة!
+        courseB_maze_seq9_d: انظر الى الشاشة واتبع الطريق المرسوم باللون الأحمر لإنجاز هذه المرحلة.
+      #End of CourseA-Lesson 5
+
+      #Course A/ PreReader
+      #Lesson 6: Programming with Rey and BB-8!
+      courseB_starWars_prog1:
+        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تشغيل" لترى ما سيحدث.
+        courseB_starWars_prog1_b: يجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
+      courseB_starWars_prog1_2018:
+        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لترى ما سيحدث
+        courseB_starWars_prog1_b: أنت لن تتحرك إلى الشرق لإنجاز هذه المرحلة. ما المسافةيجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
+      courseB_starWars_prog1_2019:
+        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية واحدة كل مرة ثم انقر زر "تشغيل ▶" لترى ما سيحدث.
+
+        courseB_starWars_prog1_b: |-
+          يجب ان تتحرك باتجاه الشرق لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟ استخدم هذه القطعة البرمجية:
+          <xml><block type="studio_moveEast"/></xml>
+
+      courseB_starWars_prog2:
+        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
+      courseB_starWars_prog2_2019:
+        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على صندوق الكنز الأول، ثم فكر كيف يمكن أن تحصل على الثاني.
+      courseB_starWars_prog3:
+        courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
+        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
+      courseB_starWars_prog3_2018:
+        courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
+        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
+      courseB_starWars_prog3_2019:
+        courseB_starWars_prog3_a: عليك استخدام 3 اتجاهات مختلفة لإنجاز هذه المرحلة.
+        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تشغيل ▶" لتعرف كيف يجب أن تتحرك بعدها.
+      courseB_starWars_prog4:
+        courseB_starWars_prog4_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
+
+        courseB_starWars_prog4_b: |-
+          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog4_2018:
+        courseB_starWars_prog4_a: جرب استخدام القطعة البرمجية "كرر" لاختصار الكود
+
+        courseB_starWars_prog4_b: |-
+          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog4_2019:
+        courseB_starWars_prog4_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تشغيل ▶" لتعرف كيف يجب أن تتحرك بعدها.
+
+        courseB_starWars_prog4_b: |-
+          جرب استخدام حلقة التكرار لاختصار الكود:
+          <xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog5:
+        courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
+        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية
+        courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
+          :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+      courseB_starWars_prog5_2018:
+        courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
+        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية.
+        courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
+          :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+      courseB_starWars_prog5_2019:
+        courseB_starWars_prog5_a: يبدو أن نمط ترتيب صناديق الكنز في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog5_b: سوف تلتقط الأميرة صندوق الكنز عندما تصل اليه.
+        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتبعه لتجمع كل صناديق الكنز.
+        courseB_starWars_prog5_da: |-
+          شاهد ما سيحدث إذا استخدمت نمط تدرج السلم لإنجاز هذه المرحلة:
+          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+      courseB_starWars_prog6:
+        courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
+        courseB_starWars_prog6_b: |-
+          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog6_2018:
+        courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
+        courseB_starWars_prog6_b: |-
+          جرب استخدام القطعة البرمجية "كرر" لاختصار الكودً<xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog6_2019:
+        courseB_starWars_prog6_a: هذا النمط هو نمط تدرج السلم ذاته لكن مع استخدام خطوتين في كل اتجاه بدل خطوة واحدة!
+        courseB_starWars_prog6_b: |-
+          جرب استخدام حلقة التكرار لاختصار الكود:
+          <xml>  <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog7:
+        courseB_starWars_prog7_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog7_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
+        courseB_starWars_prog7_c: جرب أن ترسم نمط تدرج السلم وفكر.. هل تحصل بهذه الطريقة على جميع القطع المعدنية؟
+
+      courseB_starWars_prog7_2018:
+        courseB_starWars_prog7_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog7_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
+        courseB_starWars_prog7_c: جرب أن ترسم نمط تدرج السلم وفكر.. هل تحصل بهذه الطريقة على جميع القطع المعدنية؟
+
+      courseB_starWars_prog7_2019:
+        courseB_starWars_prog7_a: يبدو أن نمط ترتيب صناديق الكنز في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
+        courseB_starWars_prog7_b: سوف تلتقط الأميرة صندوق الكنز عندما تصل اليه.
+        courseB_starWars_prog7_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل صناديق الكنز.
+      courseB_starWars_prog8:
+        courseB_starWars_prog8_a: لا مانع من المرور بنفس المكان اكثر من مرة اثناء جمع القطع
+        courseB_starWars_prog8_b: |-
+          استخدم القطعة البرمجية "كرر" وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها.<xml>
+            <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog8_2018:
+        courseB_starWars_prog8_a: لا مانع من المرور بنفس المكان اكثر من مرة اثناء جمع القطع
+        courseB_starWars_prog8_b: |-
+          استخدم القطعة البرمجية "كرر" وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها.<xml>
+            <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog8_2019:
+        courseB_starWars_prog8_a: لا بأس من المرور بنفس المكان اكثر من مرة اثناء جمع صناديق الكنز.
+        courseB_starWars_prog8_b: |-
+          استخدم حلقة التكرار وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها:
+          <xml>
+            <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      courseB_starWars_prog9:
+        courseB_starWars_prog9_a: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseB_starWars_prog9_b: هناك طرق كثيرة لحل هذه المرحلة.
+        courseB_starWars_prog9_c: هل استخدام القطعة البرمجية "كرر" مفيد هنا؟
+      courseB_starWars_prog9_2018:
+        courseB_starWars_prog9_a: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseB_starWars_prog9_b: هناك طرق كثيرة لحل هذه المرحلة.
+      courseB_starWars_prog9_2019:
+        courseB_starWars_prog9_a: لا تخشَ ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
+        courseB_starWars_prog9_b: هناك طرق كثيرة لإنجاز هذه المرحلة.
+        courseB_starWars_prog9_c: |-
+          هل يمكن أن تفيدك حلقة التكرار في إنجاز هذه المرحلة:
+          <xml>
+            <block type="controls_repeat_simplified">
+              <title name="TIMES">3</title>
+            </block>
+          </xml>
+      #End_of_CourseA_Lesson6
+
+
+      #Course B
+      #Lesson 3: Sequencing with Angry Birds
+      coursea_maze_ramp1_2019:
+        courseC_maze_programming1_a: اذا لم يستطع طقطق الوصول الى السمكة، تأكد من أن القطع البرمجية متصلة معا ثم اضغط زر "تشغيل ▶" مجددا.
+        courseC_maze_programming1_b: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+      courseA_maze_ramp2_2019:
+        '1': |-
+          يجب أن يبدو الكود هكذا:
+          <xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="maze_moveEast">
+                  <next>
+                    <block type="maze_moveEast">
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </xml>
+      courseA_maze_ramp3a_2019:
+        '1': |
+         يجب أن يبدو الكود هكذا:
+
+          <xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="maze_moveEast">
+                  <next>
+                    <block type="maze_moveEast">
+                      <next>
+                        <block type="maze_moveNorth"/>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </xml>
+      courseA_maze_ramp3b_2019:
+        '1': |
+         يجب أن يبدو الكود هكذا:
+
+          <xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="maze_moveSouth">
+                  <next>
+                    <block type="maze_moveWest">
+                      <next>
+                        <block type="maze_moveWest"/>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </xml>
+      courseA_maze_ramp4a_2019:
+        '1': |-
+         يجب أن يبدو الكود هكذا:
+
+          <xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="maze_moveEast">
+                  <next>
+                    <block type="maze_moveEast">
+                      <next>
+                        <block type="maze_moveSouth"/>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </xml>
+      courseA_maze_ramp5a_2019:
+        '1': |-
+         يجب أن يبدو الكود هكذا:
+
+          <xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="maze_moveWest">
+                  <next>
+                    <block type="maze_moveWest">
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </xml>
+      #End_of_CourseB_Lesson3
+
+
+
+      #Course B
+      #Lesson 7: Loops with the Harvester
+      courseA_harvester_loops1_2019:
+        courseA_harvester_loops1_a: |-
+          عندما تصل الى حبة الذرة، التقطها باستخدام هذه القطعة البرمجية:
+          <xml><block type="harvester_corn"/></xml>
+      courseA_harvester_loops2_2019:
+        courseA_harvester_loops2_a: يجب أن يحتوي الكود على أربعة قطع برمجية من <xml><block type=\"maze_moveWest\"/></xml> وأربعة أخرى من <block type=\"harvester_corn\"/>\n</xml>.
+        courseA_harvester_loops2_b: اذا كنت لا تستطيع إيجاد الحل، جرب أن تقول الخطوات بصوت عالٍ.
+      courseA_harvester_loops3_2019:
+        courseA_harvester_loops3_a: |-
+          سيساعدك استخدام حلقة التكرار:
+
+          <xml><block type="controls_repeat_simplified_dropdown">
+              <title name="TIMES" config="2-10">4</title>
+            </block></xml>
+        courseA_harvester_loops3_b: |-
+          لتكرار أي قطعة برمجية، اسحب حلقة التكرار من صندوق الأدوات وضع داخلها أي قطعة ترغب بتكرارها:
+          <xml><block type="controls_repeat_simplified_dropdown">
+          <title name="TIMES" config="2-10">4</title>
+          </block></xml>
+      courseA_harvester_loops4_2019:
+        courseA_harvester_loops4_a: لا تتردد بأن تضغط زر "تشغيل ▶" لتجرب الكود الذي كتبته!
+        courseA_harvester_loops4_b: كم حبة من الذرة توجد في الحقل؟ كم مرة تتكرر حلقة التكرار؟ كيف يمكن أن يساعدك هذا؟
+      courseA_harvester_loops5_2019:
+        courseA_harvester_loops5_a: حاول أن تجزئ المرحلة الى جزأين، جزء قبل المنعطف وجزء بعده.. ستصبح أسهل!
+        courseA_harvester_loops5_b: |-
+          الكود النهائي سيحتوي على حلقة تكرار واحدة:
+          <xml><block type="controls_repeat_simplified_dropdown">
+              <title name="TIMES" config="2-10">6</title>
+              </block></xml> loop
+          بالإضافة الى قطعة واحدة من <xml><block type="maze_moveSouth" limit="1"/></xml>، وقطعة واحدة من <xml><block type="maze_moveEast" limit="1"/> </xml>
+        courseA_harvester_loops5_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
+      courseA_harvester_loops5a_2019:
+        courseA_harvester_loops5a_a: |-
+          ستحتاج الى حلقة تكرار واحدة بعد الأخرى:
+          <xml> <block type="controls_repeat_simplified_dropdown">
+              <title name="TIMES" config="2-10">6</title>
+            </block></xml>
+        courseA_harvester_loops5a_b: إحدى حلقات التكرار ستكرر قطعة <xml><block type="maze_moveSouth" limit="1"/></xml>، بينما ستكرر الأخرى قطعة <xml><block type="maze_moveEast" limit="1"/></xml>.
+        courseA_harvester_loops5a_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
+      courseA_harvester_loops5b_2019:
+        courseA_harvester_loops5b_a: اضغط زر "تشغيل ▶" وشاهد ما سيحدث!
+        courseA_harvester_loops5b_b: هل تعمل حلقات التكرار كما يجب؟
+        courseA_harvester_loops5b_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
+      courseA_harvester_loops6_2019:
+        courseA_harvester_loops6_a: اذا كنت لا تستطيع إيجاد الحل، جرب أن تكتب الخطوات على قطعة ورق وحاول إيجاد نمط معينٍ.
+        courseA_harvester_loops6_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
+      courseA_harvester_loops7_2019:
+        courseA_harvester_loops7_a: |-
+          ستحتاج الى اثنتين من حلقة التكرار الواحدة بعد الأخرى:
+          <xml><block type="controls_repeat_simplified_dropdown">
+              <title name="TIMES" config="2-10">5</title>
+            </block></xml>
+        courseA_harvester_loops7_b: استخدم حلقتي تكرار لتتبع الطريق المرسوم باللون الأحمر.
+      courseA_harvester_loops9_2019:
+        courseA_harvester_loops9_a: حاول أن تنجز هذه المراحل على عدة أجزاء، جزء قبل المنعطف الأول، جزء قبل المنعطف الثاني وآخر جزء للمنعطف الأخير.
+        courseA_harvester_loops9_b: لا تتردد أن تضغط زر "تشغيل ▶" وتشاهد ما سيحدث!
+        courseA_harvester_loops9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
+      #End_of_CourseB_Lesson7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6937,9 +7289,7 @@ ar-SA:
       courseB_maze_seq4_2018:
         courseB_maze_seq4_b: أنت سترغب في استخدام المربع البرمجي <xml><block type="maze_moveEast"/></xml>
           لإنجاز هذه المرحلة.
-      courseB_maze_seq4_2019:
-        courseB_maze_seq4_b: أنت سترغب في استخدام المربع البرمجي <xml><block type="maze_moveEast"/></xml>
-          لإنجاز هذه المرحلة.
+
       courseB_maze_seq5:
         courseB_maze_seq5_a: إذا علقت ولم تجد الحل، فجرب رسم المسار على الورق.
         courseB_maze_seq5_b: هناك 2 وسيلة لإنجاز هذه المرحلة!
@@ -6947,9 +7297,7 @@ ar-SA:
       courseB_maze_seq5_2018:
         courseB_maze_seq5_a: إذا علقت ولم تجد الحل، فجرب رسم المسار على الورق.
         courseB_maze_seq5_b: هناك 2 وسيلة لإنجاز هذه المرحلة!
-      courseB_maze_seq5_2019:
-        courseB_maze_seq5_a: إذا علقت ولم تجد الحل، فجرب رسم المسار على الورق.
-        courseB_maze_seq5_b: هناك 2 وسيلة لإنجاز هذه المرحلة!
+
       courseB_maze_seq6:
         courseB_maze_seq6_a: يجب أن تكون التعليمات البرمجية النهائية الخاصة بك لديها
           ثلاثة مربعات برمجية خاصة بالتحرك.
@@ -6962,13 +7310,7 @@ ar-SA:
           ثلاثة مربعات برمجية خاصة بالتحرك.
         courseB_maze_seq6_b: إذا علقت ولم تعرف الحل، جرب حل اللغز في جزأين، جزء بشكل
           جانبي، وجزء رأساً على عقب.
-        courseB_maze_seq5_c: هناك  وسيليتن من أجل إنجاز هذه المرحلة!
-      courseB_maze_seq6_2019:
-        courseB_maze_seq6_a: يجب أن تكون التعليمات البرمجية النهائية الخاصة بك لديها
-          ثلاثة مربعات برمجية خاصة بالتحرك.
-        courseB_maze_seq6_b: إذا علقت ولم تعرف الحل، جرب حل اللغز في جزأين، جزء بشكل
-          جانبي، وجزء رأساً على عقب.
-        courseB_maze_seq5_c: هناك  وسيليتن من أجل إنجاز هذه المرحلة!
+
       courseB_maze_seq7:
         courseB_maze_seq7_a: قم بإضافة 1 مربع برمجي كي يصل الطائر  إلى الخنزير.
         courseB_maze_seq7_b: جرب تشغيل التعليمات البرمجية المقدمة إليك، وشاهد إلى
@@ -6977,9 +7319,7 @@ ar-SA:
       courseB_maze_seq7_2018:
         courseB_maze_seq7_b: جرب تشغيل التعليمات البرمجية المقدمة إليك، وشاهد إلى
           أين سينتهي المطاف.
-      courseB_maze_seq7_2019:
-        courseB_maze_seq7_b: جرب تشغيل التعليمات البرمجية المقدمة إليك، وشاهد إلى
-          أين سينتهي المطاف.
+
       courseB_maze_seq8:
         courseB_maze_seq8_a: جرب إضافة مربع برمجي واحد في الوقت المناسب حتى تحل اللغز.
         courseB_maze_seq8_b: هناك طريقتان لإنجاز هذه المرحلة!
@@ -6987,9 +7327,7 @@ ar-SA:
       courseB_maze_seq8_2018:
         courseB_maze_seq8_a: جرب إضافة مربع برمجي واحد في الوقت المناسب حتى تحل اللغز.
         courseB_maze_seq8_c: لا تعلم أي طريق يجب الذهاب فيه؟ جرب هذا المسار!
-      courseB_maze_seq8_2019:
-        courseB_maze_seq8_a: جرب إضافة مربع برمجي واحد في الوقت المناسب حتى تحل اللغز.
-        courseB_maze_seq8_c: لا تعلم أي طريق يجب الذهاب فيه؟ جرب هذا المسار!
+
       courseB_maze_seq9:
         courseB_maze_seq9_a: جرب كتابة كل الخطوات على قطعة من الورق أولاً.
         courseB_maze_seq9_b: قم بإنشاء المربع البرمجي لبرنامجك في الوقت المناسب واختبار
@@ -6997,12 +7335,6 @@ ar-SA:
         courseB_maze_seq9_c: هناك  وسيليتن من أجل إنجاز هذه المرحلة!
         courseB_maze_seq9_d: هل علقت ولم تصل؟ جرب هذا المسار!
       courseB_maze_seq9_2018:
-        courseB_maze_seq9_a: جرب كتابة كل الخطوات على قطعة من الورق أولاً.
-        courseB_maze_seq9_b: قم بإنشاء المربع البرمجي لبرنامجك في الوقت المناسب واختبار
-          ما تقوم بإنشائه.
-        courseB_maze_seq9_c: هناك  وسيليتن من أجل إنجاز هذه المرحلة!
-        courseB_maze_seq9_d: هل علقت ولم تصل؟ جرب هذا المسار!
-      courseB_maze_seq9_2019:
         courseB_maze_seq9_a: جرب كتابة كل الخطوات على قطعة من الورق أولاً.
         courseB_maze_seq9_b: قم بإنشاء المربع البرمجي لبرنامجك في الوقت المناسب واختبار
           ما تقوم بإنشائه.
@@ -7450,141 +7782,11 @@ ar-SA:
           أو تسجيل نقاط عند النقر على الحيوانات![blockly block][0]
         courseB_playlab_events_challenge2_d: قم بالخلط!اجعل بعض الحيوانات تمنح نقاط
           أكثر عن غيرها.استخدم أصوات مختلفة.قم بتغيير الحالات المزاجية للحيوانات!
-      courseB_starWars_prog1:
-        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لترى ما سيحدث
-        courseB_starWars_prog1_b: يجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
-      courseB_starWars_prog1_2018:
-        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لترى ما سيحدث
-        courseB_starWars_prog1_b: أنت لن تتحرك إلى الشرق لإنجاز هذه المرحلة. ما المسافةيجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
-      courseB_starWars_prog1_2019:
-        courseB_starWars_prog1_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لترى ما سيحدث
 
-        courseB_starWars_prog1_b: يجب ان تتحرك باتجاه الشرق (اليسار) لإنجاز هذه المرحلة. كم خطوة تحتاج يا ترى؟<xml><block type="studio_moveEast"/></xml>
-      courseB_starWars_prog2:
-        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
-      courseB_starWars_prog2_2019:
-        courseB_starWars_prog2_a: حاول أن تجزئ المرحلة الى جزأين، احصل على قطعة المعدن الأولى، ثم فكر طقطقة للحصول على الثانية..
-      courseB_starWars_prog3:
-        courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
-        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
-      courseB_starWars_prog3_2018:
-        courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
-        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
-      courseB_starWars_prog3_2019:
-        courseB_starWars_prog3_a: عليك استخدام 3 طرق مختلفة لحل هذه المرحلة
-        courseB_starWars_prog3_b: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
-      courseB_starWars_prog4:
-        courseB_starWars_prog4_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
 
-        courseB_starWars_prog4_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog4_2018:
-        courseB_starWars_prog4_a: جرب استخدام القطعة البرمجية "كرر" لاختصار الكود
 
-        courseB_starWars_prog4_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog4_2019:
-        courseB_starWars_prog4_a: جرب اضافة قطعة برمجية كل مرة ثم انقر زر "تنفيذ" لتعرف كيف ستتحرك بعدها
-
-        courseB_starWars_prog4_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog5:
-        courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية
-        courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
-          :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
-      courseB_starWars_prog5_2018:
-        courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية.
-        courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
-          :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
-      courseB_starWars_prog5_2019:
-        courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية
-
-        courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
-          :![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
-      courseB_starWars_prog6:
-        courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
-        courseB_starWars_prog6_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكود<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog6_2018:
-        courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
-        courseB_starWars_prog6_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكودً<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog6_2019:
-        courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
-        courseB_starWars_prog6_b: |-
-          جرب استخدام القطعة البرمجية "كرر" لاختصار الكودً<xml>  <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog7:
-        courseB_starWars_prog7_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog7_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog7_c: جرب أن ترسم نمط تدرج السلم وفكر.. هل تحصل بهذه الطريقة على جميع القطع المعدنية؟
-
-      courseB_starWars_prog7_2018:
-        courseB_starWars_prog7_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog7_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog7_c: جرب أن ترسم نمط تدرج السلم وفكر.. هل تحصل بهذه الطريقة على جميع القطع المعدنية؟
-
-      courseB_starWars_prog7_2019:
-        courseB_starWars_prog7_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
-        courseB_starWars_prog7_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
-        courseB_starWars_prog7_c: جرب أن ترسم نمط تدرج السلم وفكر.. هل تحصل بهذه الطريقة على جميع القطع المعدنية؟
-      courseB_starWars_prog8:
-        courseB_starWars_prog8_a: لا مانع من المرور بنفس المكان اكثر من مرة اثناء جمع القطع
-        courseB_starWars_prog8_b: |-
-          استخدم القطعة البرمجية "كرر" وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها.<xml>
-            <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog8_2018:
-        courseB_starWars_prog8_a: لا مانع من المرور بنفس المكان اكثر من مرة اثناء جمع القطع
-        courseB_starWars_prog8_b: |-
-          استخدم القطعة البرمجية "كرر" وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها.<xml>
-            <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog8_2019:
-        courseB_starWars_prog8_a: لا مانع من المرور بنفس المكان اكثر من مرة اثناء جمع القطع
-        courseB_starWars_prog8_b: |-
-          استخدم القطعة البرمجية "كرر" وشاهد ما سيحدث لأي قطعة برمجية أخرى تضعها داخلها.<xml>
-            <block type="controls_repeat_simplified">
-              <title name="TIMES">3</title>
-            </block>
-          </xml>
-      courseB_starWars_prog9:
-        courseB_starWars_prog9_a: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
-        courseB_starWars_prog9_b: هناك طرق كثيرة لحل هذه المرحلة.
-        courseB_starWars_prog9_c: هل استخدام القطعة البرمجية "كرر" مفيد هنا؟
-      courseB_starWars_prog9_2018:
-        courseB_starWars_prog9_a: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
-        courseB_starWars_prog9_b: هناك طرق كثيرة لحل هذه المرحلة.
-      courseB_starWars_prog9_2019:
-        courseB_starWars_prog9_a: لا تخش ارتكاب الأخطاء فكلنا نخطئ، حاول مجددا وستجد الحل بالتأكيد.
-        courseB_starWars_prog9_b: هناك طرق كثيرة لحل هذه المرحلة.
+      #Course C
+      #Lesson 16: Chase Game with Events
       courseC_PlayLab_events1:
         courseC_PlayLab_events1_a: |-
           اضف هذه البواكة إلى بلوكة "عند التشغيل":
@@ -7607,12 +7809,12 @@ ar-SA:
           </xml>
       courseC_PlayLab_events1_2019:
         courseC_PlayLab_events1_a: |-
-          اضف هذه البواكة إلى بلوكة "عند التشغيل":
+          أضف هذه القطعة البرمجية الى قطعة "عند التشغيل":
 
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحبا</title>
             </block>
           </xml>
       courseC_PlayLab_events2:
@@ -7641,7 +7843,7 @@ ar-SA:
           الثانية لتغير أي شخصية تتحدث.
       courseC_PlayLab_events2_2019:
         courseC_PlayLab_events2_a: |-
-          ألصق بلوكتينمن هذه البلوكات إلى بلوكة "عند التشغيل":
+          أضف قطعتين برمجيتين الى قطعة "عند التشغيل":
 
           <xml>
             <block type="studio_saySpriteChoices">
@@ -7649,11 +7851,11 @@ ar-SA:
               <title name="VALUE">Hi there.</title>
             </block>
           </xml>
-        courseC_PlayLab_events2_b: استخدم القائمة المنسدلة في بلوكة "يقول الممثل"
-          الثانية لتغير أي شخصية تتحدث.
+        courseC_PlayLab_events2_b: استخدم القائمة المنسدلة في قطعة "يقول الممثل"
+          الثانية لتقرر أي شخصية ستتحدث.
       courseC_PlayLab_events3:
-        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك جورج إلى اليمين بمقدار
-          25 بكسل لتإنجاز هذه المرحلة.
+        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك خورخي إلى اليمين بمقدار
+          25 بيكسل لتإنجاز هذه المرحلة.
         courseC_PlayLab_events3_b: هل هناك بلوكة في صندوق الأدوات تظهر وكأنها ستحرك
           الممثل؟
         courseC_PlayLab_events3_c: |-
@@ -7667,8 +7869,8 @@ ar-SA:
             </block>
           </xml>
       courseC_PlayLab_events3_2018:
-        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك جورج إلى اليمين بمقدار
-          25 بكسل لتإنجاز هذه المرحلة.
+        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك خورخي إلى اليمين بمقدار
+          25 بيكسل لتإنجاز هذه المرحلة.
         courseC_PlayLab_events3_b: هل هناك بلوكة في صندوق الأدوات تظهر وكأنها ستحرك
           الممثل؟
         courseC_PlayLab_events3_c: |-
@@ -7682,12 +7884,12 @@ ar-SA:
             </block>
           </xml>
       courseC_PlayLab_events3_2019:
-        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك جورج إلى اليمين بمقدار
-          25 بكسل لتإنجاز هذه المرحلة.
-        courseC_PlayLab_events3_b: هل هناك بلوكة في صندوق الأدوات تظهر وكأنها ستحرك
+        courseC_PlayLab_events3_a: سوف تحتاج فقط إلى تحريك خورخي إلى اليمين بمقدار
+          25 بيكسل لإنجاز هذه المرحلة.
+        courseC_PlayLab_events3_b: هل توجد قطعة برمجية في صندوق الأدوات يمكن أن تستخدمها لتحرك
           الممثل؟
         courseC_PlayLab_events3_c: |-
-          اضف هذه البواكة إلى بلوكة "عند التشغيل":
+          أضف هذه القطعة إلى قطعة "عند التشغيل":
 
           <xml>
           <block type="studio_moveDistance">
@@ -7697,20 +7899,20 @@ ar-SA:
             </block>
           </xml>
       courseC_PlayLab_events4:
-        courseC_PlayLab_events4_b: عند الضغط على "تشغيل", يحتاج جورج إلى التحرك لليمين
-          بمقدار 100 بكسل ليصل إلى زيتونة القطة.
+        courseC_PlayLab_events4_b: عند الضغط على "تشغيل", يحتاج خورخي إلى التحرك لليمين
+          بمقدار 100 بيكسل ليصل إلى أوليف القطة.
         courseC_PlayLab_events4_a: ستحتاج إلى توصيل بلوكة "يقول الممثل" في بلوكة حدث
           " عندما الممثل يلمس" لتحل اللغز.
       courseC_PlayLab_events4_2018:
-        courseC_PlayLab_events4_b: عند الضغط على "تشغيل", يحتاج جورج إلى التحرك لليمين
-          بمقدار 100 بكسل ليصل إلى زيتونة القطة.
+        courseC_PlayLab_events4_b: عند الضغط على "تشغيل", يحتاج خورخي إلى التحرك لليمين
+          بمقدار 100 بيكسل ليصل إلى أوليف القطة.
         courseC_PlayLab_events4_a: ستحتاج إلى توصيل بلوكة "يقول الممثل" في بلوكة حدث
           " عندما الممثل يلمس" لتحل اللغز.
       courseC_PlayLab_events4_2019:
-        courseC_PlayLab_events4_b: عند الضغط على "تشغيل", يحتاج جورج إلى التحرك لليمين
-          بمقدار 100 بكسل ليصل إلى زيتونة القطة.
-        courseC_PlayLab_events4_a: ستحتاج إلى توصيل بلوكة "يقول الممثل" في بلوكة حدث
-          " عندما الممثل يلمس" لتحل اللغز.
+        courseC_PlayLab_events4_b: عند الضغط على زر "تشغيل"، يجب أن يتحرك خورخي إلى اليمين
+          بمقدار 100 بيكسل ليصل إلى القطة أوليف.
+        courseC_PlayLab_events4_a: ستحتاج إلى تركيب القطعة البرمجية "يقول الممثل" مع الحدث البرمجي
+          "عندما الممثل .. يلمس" لتنجز هذه المرحلة.
       courseC_PlayLab_events5:
         courseC_PlayLab_events5_a: تحتاج إلى النقر على القائمة المنسدلة في بلوكة "الممثل
           يقول" لتجد النص "مالجديد؟"
@@ -7722,9 +7924,9 @@ ar-SA:
         courseC_PlayLab_events5_b: انقر على الاخطبوط عند تشغيل البرنامج لتتأكد أنها
           تعمل!
       courseC_PlayLab_events5_2019:
-        courseC_PlayLab_events5_a: تحتاج إلى النقر على القائمة المنسدلة في بلوكة "الممثل
-          يقول" لتجد النص "مالجديد؟"
-        courseC_PlayLab_events5_b: انقر على الاخطبوط عند تشغيل البرنامج لتتأكد أنها
+        courseC_PlayLab_events5_a: تحتاج إلى النقر على القائمة المنسدلة في القطعة البرمجية "الممثل
+          يقول" لتجد النص "ماالجديد؟".
+        courseC_PlayLab_events5_b: انقر على الاخطبوط أوكتافيا عند تشغيل الكود لتتأكد أنها
           تعمل!
       courseC_PlayLab_events6:
         courseC_PlayLab_events6_a: كل بلوكة خضراء "عند الضغط على السهم" يجب أن تحتوي
@@ -7741,27 +7943,27 @@ ar-SA:
         courseC_PlayLab_events6_c: عندما تنتهي, يجب أن تكون قادراً على تحريك الطقطق
           باستخدام مفاتيح الأسهم على كمبيوترك!
       courseC_PlayLab_events6_2019:
-        courseC_PlayLab_events6_a: كل بلوكة خضراء "عند الضغط على السهم" يجب أن تحتوي
-          على حدث اسفلها.
-        courseC_PlayLab_events6_b: استخدم القائمة المنسدلة في بلوكة "تحريك الممثل
-          1" لتغير اتجاه حركة الطقطق.
-        courseC_PlayLab_events6_c: عندما تنتهي, يجب أن تكون قادراً على تحريك الطقطق
+        courseC_PlayLab_events6_a: كل قطعة برمجية خضراء "عند الضغط على السهم.." يجب أن يُضاف اليها
+          حدث أسفلها.
+        courseC_PlayLab_events6_b: استخدم القائمة المنسدلة في قطعة "تحريك الممثل
+          1" لتغير اتجاه حركة البطريق وادلز.
+        courseC_PlayLab_events6_c: عندما تنتهي، يجب أن تكون قادراً على تحريك البطريق وادلز
           باستخدام مفاتيح الأسهم على كمبيوترك!
       courseC_PlayLab_events7:
-        courseC_PlayLab_events7_a: 'استخدم كلا من "حرك المثل 2 للأعلى 400 بكسل" و
-          "حرك الممثل 2 للأسفل 400 بكسل" داخل وظيفة تكرار " التكرار للأبد" لتحل اللغز. '
+        courseC_PlayLab_events7_a: 'استخدم كلا من "حرك المثل 2 للأعلى 400 بيكسل" و
+          "حرك الممثل 2 للأسفل 400 بيكسل" داخل وظيفة تكرار " التكرار للأبد" لتحل اللغز. '
         courseC_PlayLab_events7_b: بلوكة "تكرار للأبد" لا تحتاج أن تكون موصلة بأي
           بلوكة أحداث, سوف تعمل من نفسها.
       courseC_PlayLab_events7_2018:
-        courseC_PlayLab_events7_a: 'استخدم كلا من "حرك المثل 2 للأعلى 400 بكسل" و
-          "حرك الممثل 2 للأسفل 400 بكسل" داخل وظيفة تكرار " التكرار للأبد" لتحل اللغز. '
+        courseC_PlayLab_events7_a: 'استخدم كلا من "حرك المثل 2 للأعلى 400 بيكسل" و
+          "حرك الممثل 2 للأسفل 400 بيكسل" داخل وظيفة تكرار " التكرار للأبد" لتحل اللغز. '
         courseC_PlayLab_events7_b: بلوكة "تكرار للأبد" لا تحتاج أن تكون موصلة بأي
           بلوكة أحداث, سوف تعمل من نفسها.
       courseC_PlayLab_events7_2019:
-        courseC_PlayLab_events7_a: 'استخدم كلا من "حرك المثل 2 للأعلى 400 بكسل" و
-          "حرك الممثل 2 للأسفل 400 بكسل" داخل وظيفة تكرار " التكرار للأبد" لتحل اللغز. '
-        courseC_PlayLab_events7_b: بلوكة "تكرار للأبد" لا تحتاج أن تكون موصلة بأي
-          بلوكة أحداث, سوف تعمل من نفسها.
+        courseC_PlayLab_events7_a: استخدم القطعة البرمجية "تحريك الممثل 2 للأعلى 400 بيكسل" و
+          "تحريك الممثل 2 للأسفل 400 بيكسل" داخل حلقة "التكرار للأبد" لتنجز المرحلة.
+        courseC_PlayLab_events7_b: إن حلقة "التكرار للأبد" لا تحتاج أن تكون موصولة بأي
+          قطعة حدث برمجي لأنها سوف تعمل تلقائيا.
       courseC_PlayLab_events8:
         courseC_PlayLab_events8_a: سوفتحتاج لتوصيل البلوكة ببلوكة " عندما الممثل يلمس"
           لتجعل ذلك يحدث طقطقة صحيحة.
@@ -7773,10 +7975,10 @@ ar-SA:
         courseC_PlayLab_events8_b: بلوكة "يقول الممثل" و "تشغيل صوت" في صندوق الأدوات
           سوف تساعدك!
       courseC_PlayLab_events8_2019:
-        courseC_PlayLab_events8_a: سوفتحتاج لتوصيل البلوكة ببلوكة " عندما الممثل يلمس"
-          لتجعل ذلك يحدث طقطقة صحيحة.
-        courseC_PlayLab_events8_b: بلوكة "يقول الممثل" و "تشغيل صوت" في صندوق الأدوات
-          سوف تساعدك!
+        courseC_PlayLab_events8_a: سوف تحتاج لتوصيل قطع برمجية بقطعة الحدث "عندما الممثل.. يلمس.."
+          لتجعل ذلك يعمل بطريقة صحيحة.
+        courseC_PlayLab_events8_b: استخدم القطع البرمجية "يقول الممثل" و "تشغيل صوت" الموجودة في صندوق الأدوات
+          لتساعدك!
       courseC_PlayLab_events9:
         courseC_PlayLab_events9_a: بلوكة "تحصيل النقاط" ستساعدك لإنجاز هذه المرحلة.
         courseC_PlayLab_events9_b: تأكد من أن بلوكتك الجديدة "عندما الممثل يلمس" تستخدم
@@ -7790,11 +7992,11 @@ ar-SA:
         courseC_PlayLab_events9_c: يمكنك استخدام أكثر من "عندما الممثل يلمس"في عملك
           في نفس الوقت, لذلك لست بحاجة إلى حذف الأولات!
       courseC_PlayLab_events9_2019:
-        courseC_PlayLab_events9_a: بلوكة "تحصيل النقاط" ستساعدك لإنجاز هذه المرحلة.
-        courseC_PlayLab_events9_b: تأكد من أن بلوكتك الجديدة "عندما الممثل يلمس" تستخدم
+        courseC_PlayLab_events9_a: إن قطعة "تحصيل نقطة" ستساعدك على إنجاز هذه المرحلة.
+        courseC_PlayLab_events9_b: تأكد من أن قطعتك البرمجية الجديدة "عندما الممثل.. يلمس.." تستخدم
           الممثل 1 و الممثل 3.
-        courseC_PlayLab_events9_c: يمكنك استخدام أكثر من "عندما الممثل يلمس"في عملك
-          في نفس الوقت, لذلك لست بحاجة إلى حذف الأولات!
+        courseC_PlayLab_events9_c: يمكنك استخدام أكثر من قطعة واحدة من الحدث "عندما الممثل.. يلمس.." في مساحة العمل
+          في نفس الوقت، لذلك لست بحاجة إلى حذف الحدث الأول!
       courseC_PlayLab_eventsA:
         courseC_PlayLab_eventsA_a: استخدم بلوكة "تعيين الخلفية" و "تعيين الممثل إلى
           سرعة" لتحل اللغز.
@@ -7806,13 +8008,13 @@ ar-SA:
         courseC_PlayLab_eventsA_b: سوف تحتاج إلى سحب بلوكة الحدث " عند التشغيل" إلى
           منطقة العمل لتحل اللغز.
       courseC_PlayLab_eventsA_2019:
-        courseC_PlayLab_eventsA_a: استخدم بلوكة "تعيين الخلفية" و "تعيين الممثل إلى
-          سرعة" لتحل اللغز.
-        courseC_PlayLab_eventsA_b: سوف تحتاج إلى سحب بلوكة الحدث " عند التشغيل" إلى
-          منطقة العمل لتحل اللغز.
+        courseC_PlayLab_eventsA_a: استخدم القطع البرمجية "تعيين خلفية" و "تعيين الممثل.. إلى
+          سرعة.." لتنجز هذه المرحلة.
+        courseC_PlayLab_eventsA_b: سوف تحتاج إلى سحب قطعة الحدث البرمجي "عند التشغيل" إلى
+          مساحة العمل لتنجز هذه المرحلة.
       courseC_PlayLab_eventsA_embed_2019:
-        courseC_PlayLab_eventsA_a: استخدم أزرار الأسهم لتحريك الطقطق. بإمكانك إنهاء
-          هذه المرحلة دون كتابة أي تعليمة برمجية.
+        courseC_PlayLab_eventsA_a: استخدم مفاتيح الأسهم لتحريك البطريق. بإمكانك إنهاء
+          هذه المرحلة دون استخدام أي قطعة برمجية.
       courseC_PlayLab_eventsFP:
         idea1: |-
           _تحتاج إلى فكرة؟_
@@ -7849,21 +8051,21 @@ ar-SA:
           الكرة المرتدة اجعل أحد الشخصيات تتحرك بالأسهم (استخدم بلوكة "عندما السهم الأعلى" و "عندما السهم الأسفل"), وشغل أصوات عشوائية عندما تصطدم بالشخصيات على الشاشة.
       courseC_PlayLab_eventsFP_2019:
         idea1: |-
-          _تحتاج فكرة؟_
+          هل تحتاج الى فكرة؟.. مَن هناك؟!
 
-          من هناك؟ أجعل الشخصيات تظهر بصوة عشوائية, لكي لا يستطيع أحد معرفة من سيظهر.
+          اجعل الشخصيات تظهر بصوة عشوائية، حتى لا يستطيع أحد معرفة من سيظهر لاحقا.
 
-          <img src= "https://images.code.org/dbd6ece9d0fb213039ea5dccb91fc425-image-1563577859889.gif" style="width: 200px">
+          ![](https://images.code.org/a56e03479801995d93ad5a4e4384a79e-image-1475340154498.gif)
         idea2: |-
-          _تحتاج فكرة؟_
+          هل تحتاج الى فكرة؟.. لنذهب في مغامرة!
 
-          الذهاب إلى مغامرة- غير الخلفية, ومن ثم أجعل الشخصية تتكلم عن مكانها الآن.
+          غير خلفية اللعبة، ومن ثم اجعل الشخصية تخبرنا عن مكانها الآن.
 
-          <img src= "https://images.code.org/a7f740d73074deb128cdc2826abda9e6-image-1563576781779.gif" style="width: 200px">
+          ![](https://images.code.org/010c4d919f841d6049caf9211ab65ccc-image-1475340583052.gif)
         idea3: |-
-          _تحتاج إلى فكرة؟_
+          هل تحتاج الى فكرة؟.. الكرة المرتدة!
 
-          الكرة المرتدة اجعل أحد الشخصيات تتحرك بالأسهم (استخدم بلوكة "عندما السهم الأعلى" و "عندما السهم الأسفل"), وشغل أصوات عشوائية عندما تصطدم بالشخصيات على الشاشة.
+          اجعل إحدى الشخصيات تتحرك بالأسهم (استخدم القطع البرمجية "عندما السهم الأعلى" و "عندما السهم الأسفل")، وشغل أصوات عشوائية عندما تصطدم بشخصيات أخرى على الشاشة.
       courseC_PlayLab_events_challenge1:
         courseC_PlayLab_events_challenge_a: |-
           يمكنك استخدام هذه البلوكة لتحرك اللاعب إلى مكان آخر في مساحة اللعب
@@ -7918,6 +8120,30 @@ ar-SA:
               <title name="SPRITE">0</title>
               <title name="VALUE">Studio.SpriteSpeed.FAST</title>
             </block></xml>
+      #End of CourseC_Lesson 16
+
+
+      #Course C
+      #Lesson 18: End of course project
+      courseC19_playLab_EOC1:
+        courseE_playLab_scaffold1_a: قطعة "تعيين الممثل 1 إلى ؟؟؟ صورة" يمكن استخدامها
+          لإضافة ممثل الى اللعبة.
+        courseE_playLab_scaffold1_b: ركب القطعة البرمجية "تعيين الممثل 1 إلى ؟؟؟ صورة" مع قطعة "عند التشغيل"
+          ليظهر الممثل في بداية البرنامج.
+        courseE_playLab_scaffold1_c: استخدم "تعيين ؟؟؟ الخلفية" لاختيار
+          مشهد خلفية اللعبة.
+      courseC19_playLab_EOC2:
+        courseE_playLab_scaffold1_a: انقر القائمة المنسدلة لـحدث "عندما ___ السهم" لتغيير الاتجاه الذي تحدده القطعة البرمجية.
+        courseE_playLab_scaffold1_b: يجب أن يكون لك أربعة قطع برمجية من  حدث "عندما ___ السهم"، مع اتجاه للتحرك تحت كل حدث.
+        courseE_playLab_scaffold1_c: عند انتهائك، يجب أن تكون قادرًا على تحريك الممثل
+          باستخدام مفاتيح الأسهم.
+      courseC19_playLab_EOC3: {}
+      courseC19_playLab_EOC4:
+        courseE_playLab_scaffold4_a: استخدم القطعة البرمجية "سجل نقطة" لإضافة نقطة، و "إزالة نقطة" لطرح نقطة.
+      courseC19_playLab_EOC5: {}
+      #End of Lesson 18
+
+
 
 
       #Express
@@ -7977,17 +8203,8 @@ ar-SA:
       courseC_artist_loops1a_2019:
         courseC_artist_loops1a_a: |-
           هذه هي القطعة البرمجية الأولى التي ستحتاجها:
-
           <xml>
-            <block type="jump_to">
-              <title name="VALUE">13</title>
-            </block>
-          </xml>
-
-          <xml>
-
-          <xml>
-            <block type="jump_to_xy">
+          <block type="jump_to_xy">
               <title name="XPOS">200</title>
               <title name="YPOS">200</title>
             </block>
@@ -8340,13 +8557,8 @@ ar-SA:
       courseC_artist_prog3_2019:
         courseC_artist_prog3_a: |-
           لرسم النافذة، ارسم مربعًا بحيث يكون طول كل جانب 100 بيكسل:
-          -تحرك للأمام
-          -استدر
-          -تحرك للأمام
-          -استدر
-          -تحرك للأمام
-          -استدر
-          -تحرك للأمام
+          -تحرك للأمام.. استدر.. تحرك للأمام.. استدر.. تحرك للأمام.. استدر.. تحرك للأمام
+
         courseC_artist_prog3_b: هل ترغب في كتابة كود أقصر؟ حاول استخدام
           حلقة التكرار لإنجاز هذه المرحلة.
       courseC_artist_prog3_2018:
@@ -8369,11 +8581,8 @@ ar-SA:
         courseC_artist_prog4_c: |-
           لرسم مثلث، يجب القيام بما يلي:
 
-          -تحرك للأمام
-          -استدر لليسار 120 درجة
-          -   تحرك للأمام
-          -استدر لليسار 120 درجة
-          -تحرك للأمام
+          -تحرك للأمام.. استدر لليسار 120 درجة.. تحرك للأمام.. استدر لليسار 120 درجة.. تحرك للأمام
+
       courseC_artist_prog4_2018:
         courseC_artist_prog4_a: لتكملة الصاروخ، ارسم مثلث فوقه!
         courseC_artist_prog4_b: يمكنك استخدام القائمة المنسدلة على المربعات البرمجية
@@ -8485,20 +8694,14 @@ ar-SA:
       courseC_artist_prog7_2019:
         courseC_artist_prog7_a: إن قياس كل زاوية هو إما 45 أو 90 درجة.
         courseC_artist_prog7_b: |-
-          -هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -ماذا عن الخطوة الثانية؟
-          -هل تعرف أين يحدث الخطأ؟
+          هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟ ماذا عن الخطوة الثانية؟ هل تعرف أين يحدث الخطأ؟
+
         courseC_artist_prog7_c: يمكنك استخدام القائمة المنسدلة في القطعة البرمجية لتتحكم بكيفية
           استخدامها!
         courseC_artist_prog7_d: |-
           يجب أن تقوم بما يلي:
 
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
-          -   تحرك للأمام
-          -   استدر يمينًا 45 درجة
+          - تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.
 
           كرر هذا النمط مرتين!
         courseC_artist_prog7_e: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية
@@ -8535,6 +8738,374 @@ ar-SA:
         courseC_maze_loops_challenge2_b: استخدم وظيفة كرر لكي لاتنتهي بلوكات "اجمع"!
       courseC_collector_loops_challenge2_2019:
         courseC_maze_loops_challenge2_b: استخدم وظيفة كرر لكي لاتنتهي بلوكات "اجمع"!
+
+
+
+      #Course E
+      #Lesson 4: Conditionals with the Farmer
+      courseE_farmer_ramp11a:
+        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "تكرار" لإخطار المُزارع عدد
+          مرات غَرْف التراب، الآن يمكنك استخدام المربع البرمجي "بينما توجد كومة".
+        courseE_farmer_ramp12_b: ما عليك إلا التحرك للأمام للحصول على التراب.
+      courseE_farmer_ramp11a_2018:
+        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "تكرار" لإخطار المُزارع عدد
+          مرات غَرْف التراب، الآن يمكنك استخدام المربع البرمجي "بينما توجد كومة".
+        courseE_farmer_ramp12_b: ما عليك إلا التحرك للأمام للحصول على التراب.
+      courseE_farmer_ramp11a_2019:
+        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "التكرار" لإخبار المُزارعة بعدد
+          مرات غَرْف التراب التي تحتاجها، يمكنك الآن استخدام القطعة البرمجية "التكرار طالما توجد كومة".
+        courseE_farmer_ramp12_b: كل ما عليك فعله هو التحرك للأمام خطوة واحدة للحصول على التراب.
+      courseE_farmer_ramp11b:
+        courseE_farmer_ramp11b_a: يمكنك أن  تُدخل حلقة `طالما` في حلقة الـ `تكرار`
+          لجعل الكود البرمجي أقصر.
+      courseE_farmer_ramp11b_2018:
+        courseE_farmer_ramp11b_a: يمكنك أن  تُدخل حلقة `طالما` في حلقة الـ `تكرار`
+          لجعل الكود البرمجي أقصر.
+      courseE_farmer_ramp11b_2019:
+        courseE_farmer_ramp11b_a: يمكنك أن  تضع حلقة "التكرار طالما توجد كومة" في حلقة الـ "تكرار"
+          لجعل الكود الذي كتبته أقصر.
+      courseE_farmer_ramp12_forswap:
+        courseE_farmer_ramp12_b: 'لا تزال بحاجة الى استخدام حلقة `كرر` عند التشغيل
+          لتقول للمزارع كم مرة يجب فيها التقدم للأمام وجمع الخس. '
+      courseE_farmer_ramp12_forswap_2018:
+        courseE_farmer_ramp12_b: 'لا تزال بحاجة الى استخدام حلقة `كرر` عند التشغيل
+          لتقول للمزارع كم مرة يجب فيها التقدم للأمام وجمع الخس. '
+      courseE_farmer_ramp12_forswap_2019:
+        courseE_farmer_ramp12_b: يجب أن تضع كل الكود الذي كتبته داخل حلقة "التكرار" لتخبر المزارعة كم مرة يجب عليها فيها التقدم للأمام وجمع الخس.
+      courseE_farmer_ramp12c:
+        courseE_farmer_ramp12b_b: لا تزال أولاً بحاجة إلى استخدام حلقة `التكرار حتى`,
+          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة `التكرار طالما`.
+      courseE_farmer_ramp12c_2018:
+        courseE_farmer_ramp12b_b: لا تزال أولاً بحاجة إلى استخدام حلقة `التكرار حتى`,
+          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة `التكرار طالما`.
+      courseE_farmer_ramp12c_2019:
+        courseE_farmer_ramp12b_b: ستحتاج إلى استخدام حلقة "التكرار حتى" أولا،
+          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة "التكرار طالما يوجد خس".
+      courseE_farmer_ramp12d_2019:
+        courseE_farmer_ramp12d_b: ستحتاج أن تضع حلقات "التكرار حتى.." و"التكرار طالما.." داخل حلقة "التكرار" لتنجز هذه المرحلة.
+      courseE_farmer_ramp12f:
+        courseE_farmer_ramp12f_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
+          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
+      courseE_farmer_ramp12f_2018:
+        courseE_farmer_ramp12f_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
+          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
+      courseE_farmer_ramp12f_2019:
+        courseE_farmer_ramp12f_b: استخدم القطعة البرمجية "إذا..وإلا" لمساعدة المُزارعة على اتخاذ قرار الانعطاف إلى اليمين أو اليسار.
+      courseE_farmer_ramp12e_2019_authored_hint:
+        courseE_farmer_ramp12e_b: حل هذه المرحلة سيبدو مماثلا لحل المرحلة السابقة، عليك فقط الانعطاف في اتجاه معاكس.
+      courseE_farmer_ramp12g:
+        courseE_farmer_ramp12G_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
+          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
+      courseE_farmer_ramp12g_2018:
+        courseE_farmer_ramp12G_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
+          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
+      courseE_farmer_ramp12g_2019:
+        courseE_farmer_ramp12G_b: استخدم القطعة البرمجية "إذا..وإلا" لمساعدة المُزارعة على اتخاذ قرار الانعطاف إلى اليمين أو اليسار.
+      #End of Lesson 4
+
+
+
+
+      #Course E
+      #Lesson 12: Fancy Shapes using Nested Loops
+      courseD_artist_nestedLoops1_2019:
+        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي التحرك للأمام مع الانعطاف الى اليمين.
+        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث باستخدام حلقة "تكرار" مع وضع قطعتين
+          برمجيتينداخلها. أي قطع برمجية ستحتاج؟
+        courseD_artist_nestedLoops1_c: اذا كنت لا تستطيع إيجاد الحل، جرب أن تكتب الخطوات على قطعة ورق وحاول إيجاد نمط متكرر.
+      courseD_artist_nestedLoops1_2018:
+        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي المضي قدمًا واستخدام
+          التفافات لليمين.
+        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث بحلقة "تكرار" مع مربعين
+          برمجيين إثنين داخلها. أي مربعات برمجية ستحتاج إليها؟
+        courseD_artist_nestedLoops1_c: حاول كتابة الخطوات على ورقة وابحث عن أنماط
+          يمكن تبسيطها باستخدام حلقات.
+      courseD_artist_nestedLoops1:
+        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي المضي قدمًا واستخدام
+          التفافات لليمين.
+        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث بحلقة "تكرار" مع مربعين
+          برمجيين إثنين داخلها. أي مربعات برمجية ستحتاج إليها؟
+        courseD_artist_nestedLoops1_c: حاول كتابة الخطوات على ورقة وابحث عن أنماط
+          يمكن تبسيطها باستخدام حلقات.
+      courseD_artist_nestedLoops1a:
+        courseD_artist_nestedLoops1a_a: ستحتاج لرسم ما مجموعه 6 مثلثات. بعد الانتهاء
+          من كل مثلث، لف  60 درجة وانتقل للبدء برسم المثلث التالي.![](https://images.code.org/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
+        courseD_artist_nestedLoops1a_b: إذا أنشأت مثلثًا باستخدام حلقة، ينبغي أن يواجه
+          الفنان نفس الطريقة التي بدأ بها. هذا سيجعل استدارات 60 درجة أسهل بكثير.
+        courseD_artist_nestedLoops1a_c: إذا أردت ألوان، استخدم المربع البرمجي "اللون
+          المعيّن" في تعليماتك البرمجية. ولست ملزمًا بمطابقة الألوان في صورة القالب.
+      courseD_artist_nestedLoops1a_2018:
+        courseD_artist_nestedLoops1a_b: إذا أنشأت مثلثًا باستخدام حلقة، ينبغي أن يواجه
+          الفنان نفس الطريقة التي بدأ بها. هذا سيجعل استدارات 60 درجة أسهل بكثير.
+        courseD_artist_nestedLoops1a_c: إذا أردت ألوان، استخدم المربع البرمجي "اللون
+          المعيّن" في تعليماتك البرمجية. ولست ملزمًا بمطابقة الألوان في صورة القالب.
+      courseD_artist_nestedLoops1a_2019:
+        courseD_artist_nestedLoops1a_a: |-
+          ستحتاج لرسم ما مجموعه 6 مثلثات. بعد الانتهاء من رسم كل مثلث، استدر بزاوية قياسها 60 درجة وتحرك للبدء برسم المثلث التالي.
+          ![](https://images.code.org/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
+        courseD_artist_nestedLoops1a_b: إذا قمت برسم مثلثك باستخدام حلقة التكرار، ينبغي أن يواجه
+          الفنان نفس الاتجاه الذي بدأ به. هذا سيجعل استدارات ال60 درجة أسهل بكثير.
+        courseD_artist_nestedLoops1a_c: إذا أردت استخدام الألوان، استخدم القطعة البرمجية "تعيين اللون" في الكود. لست ملزمًا باستخدام نفس الألوان الموجودة في المثال التوضيحي.
+      courseD_artist_nestedLoops2:
+        courseD_artist_nestedLoops2_a: قم بتضمين حلقاتك عن طريق إحاطة التعليمات البرمجية
+          لمثلثك بحلقة "تكرار" أخرى.
+        courseD_artist_nestedLoops2_b: تذكّر بوضع المربع البرمجي "التفاف" داخل الحلقة
+          لكي يلف الفنان بعد كل مثلث.
+      courseD_artist_nestedLoops2_2018:
+        courseD_artist_nestedLoops2_a: قم بتضمين حلقاتك عن طريق إحاطة التعليمات البرمجية
+          لمثلثك بحلقة "تكرار" أخرى.
+        courseD_artist_nestedLoops2_b: تذكّر بوضع المربع البرمجي "التفاف" داخل الحلقة
+          لكي يلف الفنان بعد كل مثلث.
+      courseD_artist_nestedLoops2_2019:
+        courseD_artist_nestedLoops2_a: ضع الكود الذي كتبته لرسم مثلثك داخل حلقة تكرار أخرى.
+        courseD_artist_nestedLoops2_b: تذكّر أن تضع القطعة البرمجية "اتجه" داخل حلقة التكرار
+          لكي يستدير الفنان بعد رسم كل مثلث.
+      courseD_artist_nestedLoops3:
+        courseD_artist_nestedLoops3_a: "حاول أن تستخدم الكتلة \"القفز إلى الأمام\"
+          للانتقال من أعلى مربع إلى المكان الذي سوف تبدأ منه رسم المربع التالي. \n\nإذا
+          كانت مربعاتك بطول 20 نقطة ومتباعدة عن بعضها 20 نقطة، كم مقدار القفزة التي
+          تحتاجها؟"
+        courseD_artist_nestedLoops3_b: لا تنسى أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
+          بسرعة.
+        courseD_artist_nestedLoops3_c: ابدأ باستخدام حلقة "تكرار" لرسم المربع الأول.
+          ثم، كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بينها.
+      courseD_artist_nestedLoops3_2018:
+        courseD_artist_nestedLoops3_a: "حاول أن تستخدم الكتلة \"القفز إلى الأمام\"
+          للانتقال من أعلى مربع إلى المكان الذي سوف تبدأ منه رسم المربع التالي. \n\nإذا
+          كانت مربعاتك بطول 20 نقطة ومتباعدة عن بعضها 20 نقطة، كم مقدار القفزة التي
+          تحتاجها؟"
+        courseD_artist_nestedLoops3_b: لا تنسى أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
+          بسرعة.
+        courseD_artist_nestedLoops3_c: ابدأ باستخدام حلقة "تكرار" لرسم المربع الأول.
+          ثم، كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بينها.
+      courseD_artist_nestedLoops3_2019:
+        courseD_artist_nestedLoops3_a: |-
+          استخدم القطعة البرمجية "القفز إلى الأمام" للانتقال من أعلى نافذة رسمتها إلى المكان الذي سوف تبدأ منه رسم النافذة التالية.
+
+          إذا كانت نوافذك بطول 20 بيكسل وتبعد عن بعضها 20 بيكسل، كم حجم القفزة التي تحتاجها؟
+
+        courseD_artist_nestedLoops3_b: لا تنسَ أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
+          بسرعة.
+        courseD_artist_nestedLoops3_c: استخدم حلقة "تكرار" لرسم مربع النافذة الأول.
+          ثم كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بين كل منها.
+      courseD_artist_nestedLoops4:
+        courseD_artist_nestedLoops4_d: لحل هذا الأمر بصورة صحيحة، ينبغي أن تحرك قبل
+          أن تستدير، وإلا فإن دائرتك ستكون مزاحة بكمية صغيرة جدًا!
+        courseD_artist_nestedLoops4_a: لرسم دائرة:-   كرر 360 مرة    -   حرّك للأمام
+          1 بيكسل    -   لف لليسار بدرجة واحدة
+        courseD_artist_nestedLoops4_b: لا تنسى أن تقفز للأمام 50 بيكسلا بين الدوائر.
+        courseD_artist_nestedLoops4_c: استخدم حلقة متداخلة لرسم دوائرك 4 مرات.
+      courseD_artist_nestedLoops4_2018:
+        courseD_artist_nestedLoops4_d: لحل هذا الأمر بصورة صحيحة، ينبغي أن تحرك قبل
+          أن تستدير، وإلا فإن دائرتك ستكون مزاحة بكمية صغيرة جدًا!
+        courseD_artist_nestedLoops4_a: لرسم دائرة:-   كرر 360 مرة    -   حرّك للأمام
+          1 بيكسل    -   لف لليسار بدرجة واحدة
+        courseD_artist_nestedLoops4_b: لا تنسى أن تقفز للأمام 50 بيكسلا بين الدوائر.
+        courseD_artist_nestedLoops4_c: استخدم حلقة متداخلة لرسم دوائرك 4 مرات.
+      courseD_artist_nestedLoops4_2019:
+        courseD_artist_nestedLoops4_d: لإنجاز هذه المرحلة بصورة صحيحة، ينبغي أن تتحرك قبل
+          أن تستدير، وإلا فإن دائرتك ستكون مُزاحة قليلا عن مكانها الصحيح!
+        courseD_artist_nestedLoops4_a: |-
+          لرسم دائرة..  كرر 360 مرة:
+          -   تحرّك الى الأمام 1 بيكسل
+          -   استدر الى اليسار بدرجة واحدة
+        courseD_artist_nestedLoops4_b: لا تنسَ أن تقفز الى الأمام 50 بيكسلَ بين الدوائر.
+        courseD_artist_nestedLoops4_c: استخدم حلقة تكرار متداخلة لرسم دوائرك 4 مرات.
+      courseD_artist_nestedLoops5:
+        courseD_artist_nestedLoops5_a: لعمل ذلك بسهولة:-   كرر 4 مرات    -   ارسم
+          دائرة    -   اقفز للأمام بمسافة 50 بيكسل    -   لف إلى اليمين بـ 90 درجة
+        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
+          داخل الحلقة، امضي قدمًا عدد 1 بيكسل ولف بعدد 1 درجة.
+      courseD_artist_nestedLoops5_2018:
+        courseD_artist_nestedLoops5_a: لعمل ذلك بسهولة:-   كرر 4 مرات    -   ارسم
+          دائرة    -   اقفز للأمام بمسافة 50 بيكسل    -   لف إلى اليمين بـ 90 درجة
+        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
+          داخل الحلقة، امضي قدمًا عدد 1 بيكسل ولف بعدد 1 درجة.
+      courseD_artist_nestedLoops5_2019:
+        courseD_artist_nestedLoops5_a: |-
+          لعمل ذلك بسهولة:
+          -   كرر 4 مرات
+          -  ارسم دائرة
+          -   اقفز للأمام بمسافة 50 بيكسل
+          -   استدر إلى اليمين بـ 90 درجة
+
+        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
+          داخل الحلقة، تحرك الى الأمام 1 بيكسل واستدر 1 درجة.
+      courseD_artist_nestedLoops7:
+        courseD_artist_nestedLoops7_a: "-   يجب أن تستخدم حلقات متداخلة هنا. أولاً،
+          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
+          برسم مربع؟"
+        courseD_artist_nestedLoops7_b: استخدم حلقة متداخلة، حيث تكون الحلقة الداخلية
+          التعليمات البرمجية لمربع.-   كرر 6 مرات    -   اصنع مربع    -   أقفز قدمًا
+          بـ 50 بيكسل    -   لف 60 درجة
+      courseD_artist_nestedLoops7_2018:
+        courseD_artist_nestedLoops7_a: "-   يجب أن تستخدم حلقات متداخلة هنا. أولاً،
+          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
+          برسم مربع؟"
+        courseD_artist_nestedLoops7_b: استخدم حلقة متداخلة، حيث تكون الحلقة الداخلية
+          التعليمات البرمجية لمربع.-   كرر 6 مرات    -   اصنع مربع    -   أقفز قدمًا
+          بـ 50 بيكسل    -   لف 60 درجة
+      courseD_artist_nestedLoops7_2019:
+        courseD_artist_nestedLoops7_a: يجب أن تستخدم حلقات متداخلة هنا. أولاً،
+          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
+          برسم المربع؟
+        courseD_artist_nestedLoops7_b: |-
+          استخدم حلقة متداخلة، بحيث تحتوي الحلقة الداخلية الكود اللازم لرسم مربع.
+          -   كرر 6 مرات
+          -   ارسم مربعا
+          -   أقفز الى الأمام بـ 50 بيكسل
+          -   استدر 60 درجة
+      courseD_artist_nestedLoops8:
+        courseD_artist_nestedLoops8_a: لكي تكون في رسمك 8 أشكال سداسية، يجب أن تلف
+          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
+          الأشكال السداسية) تساوي 45 درجة.
+        courseD_artist_nestedLoops8_b: إذا علقت، ابدأ بالنظر في اللغز الأخير، ثم غيّر
+          الأشياء التي تكون مختلفة.
+        courseD_artist_nestedLoops8_c: استخدم وظيفة التكرار المتداخلة:-   كررها 8 مرات    -   ارسم
+          شكل سداسي    -   اقفز للأمام 50 بيكسل    -   لف لليمين بـ45 درجة
+      courseD_artist_nestedLoops8_2018:
+        courseD_artist_nestedLoops8_a: لكي تكون في رسمك 8 أشكال سداسية، يجب أن تلف
+          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
+          الأشكال السداسية) تساوي 45 درجة.
+        courseD_artist_nestedLoops8_b: إذا علقت، ابدأ بالنظر في اللغز الأخير، ثم غيّر
+          الأشياء التي تكون مختلفة.
+        courseD_artist_nestedLoops8_c: استخدم وظيفة التكرار المتداخلة:-   كررها 8 مرات    -   ارسم
+          شكل سداسي    -   اقفز للأمام 50 بيكسل    -   لف لليمين بـ45 درجة
+      courseD_artist_nestedLoops8_2019:
+        courseD_artist_nestedLoops8_a: لترسم 8 أشكال سداسية، يجب أن تستدير
+          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
+          الأشكال السداسية) تساوي 45 درجة.
+        courseD_artist_nestedLoops8_b: إذا علقت، انظر الى المرحلة الأخيرة، ثم غيّر
+          الأشياء المختلفة.
+        courseD_artist_nestedLoops8_c: |-
+          استخدم حلقة التكرار المتداخلة.. وكرر التالي  8 مرات:
+           -   ارسم شكلا سداسيا
+           -   اقفز الى الأمام 50 بيكسل
+           -   استدر لليمين بـ45 درجة
+      courseD_artist_nestedLoops9:
+        courseD_artist_nestedLoops9_a: ابدأ باستخدام وظيفة التكرار المتداخلة مثلما
+          عملت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
+        courseD_artist_nestedLoops9_b: 'أضف مجموعة ثانية من دالات التكرار المتداخلة
+          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات. '
+        courseD_artist_nestedLoops9_c: استخدم دالتي تكرار متداخلتين:-   كرر العملية
+          8 مرات    -   ارسم مربع    -   اقفز للأمام 50 بيكسل    -   لف إلى اليمين
+          بـ 45 درجة-   كرر العملية 8 مرات    -   ارسم مثلث    -   اقفز للأمام 50
+          بيكسل    -   لف إلى اليمين بـ 45 درجة
+      courseD_artist_nestedLoops9_2018:
+        courseD_artist_nestedLoops9_a: ابدأ باستخدام وظيفة التكرار المتداخلة مثلما
+          عملت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
+        courseD_artist_nestedLoops9_b: 'أضف مجموعة ثانية من دالات التكرار المتداخلة
+          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات. '
+        courseD_artist_nestedLoops9_c: استخدم دالتي تكرار متداخلتين:-   كرر العملية
+          8 مرات    -   ارسم مربع    -   اقفز للأمام 50 بيكسل    -   لف إلى اليمين
+          بـ 45 درجة-   كرر العملية 8 مرات    -   ارسم مثلث    -   اقفز للأمام 50
+          بيكسل    -   لف إلى اليمين بـ 45 درجة
+      courseD_artist_nestedLoops9_2019:
+        courseD_artist_nestedLoops9_a: ابدأ باستخدام حلقة التكرار المتداخلة مثلما
+          فعلت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
+        courseD_artist_nestedLoops9_b: أضف مجموعة ثانية من حلقات التكرار المتداخلة
+          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات.
+        courseD_artist_nestedLoops9_c: |-
+          استخدم حلقتي تكرار متداخلتين.. :
+              كرر الخطوات التالية 8 مرات:
+              -   ارسم مربعا
+              -   اقفز الى الأمام 50 بيكسل
+              -   استدر إلى اليمين بـ 45 درجة
+              كرر الخطوات التالية 8 مرات:
+           -   ارسم مثلثا
+          -   اقفز الى الأمام 50 بيكسل
+              -   استدر إلى اليمين بـ 45 درجة
+      courseD_artist_nestedLoopsFP:
+        courseD_artist_nestedLoopsFP_a: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
+          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
+          هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
+          درجة.
+        courseD_artist_nestedLoopsFP_b: '<img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png"
+          width="200px"/>هذه الصورة تم صنعها باستخدام تعليمات برمجية مماثلة لمستويات
+          أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة: تحرك للأمام 1، مع استدارة
+          واحدة بعدد درجة 1.'
+        courseD_artist_nestedLoopsFP_c: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
+          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
+          هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
+          درجة.
+      courseD_artist_nestedLoopsFP_2018:
+        courseD_artist_nestedLoopsFP_a: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
+          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
+          هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
+          درجة.
+        courseD_artist_nestedLoopsFP_b: '<img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png"
+          width="200px"/>هذه الصورة تم صنعها باستخدام تعليمات برمجية مماثلة لمستويات
+          أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة: تحرك للأمام 1، مع استدارة
+          واحدة بعدد درجة 1.'
+        courseD_artist_nestedLoopsFP_c: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
+          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
+          هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
+          درجة.
+      courseD_artist_nestedLoopsFP_2019:
+        courseD_artist_nestedLoopsFP_a: |-
+          <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
+          تم رسم هذه الصورة باستخدام حلقة متداخلة التي تكرر شكلا هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة قياسها 48 درجة.
+
+        courseD_artist_nestedLoopsFP_b: |-
+          <img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png" width="200px"/>
+
+          هذه الصورة تم صنعها باستخدام كود مماثل لمراحل أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة.. تحرك للأمام 1، مع استدارة واحدة قياسها درجة 1).
+
+        courseD_artist_nestedLoopsFP_c: |-
+          <img src="https://images.code.org/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
+          تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تكرر شكلا هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة قياسها 48 درجة.
+
+      courseD_artist_nestedLoops_challenge1:
+        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
+          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
+          45 درجة يسارًا.
+        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
+          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
+          يسارًا.
+        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
+          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
+        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
+          "تكرار 4 مرات" لإنهائها.
+      courseD_artist_nestedLoops_challenge1_2018:
+        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
+          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
+          45 درجة يسارًا.
+        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
+          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
+          يسارًا.
+        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
+          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
+        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
+          "تكرار 4 مرات" لإنهائها.
+      courseD_artist_nestedLoops_challenge1_2019:
+        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
+          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
+          45 درجة يسارًا.
+        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
+          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
+          يسارًا.
+        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
+          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
+        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
+          "تكرار 4 مرات" لإنهائها.
+      courseD_artist_nestedLoops_challenge2:
+        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
+          الفنان 45 درجة 8 مرات.
+        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
+          درجة 4 مرات.
+      courseD_artist_nestedLoops_challenge2_2018:
+        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
+          الفنان 45 درجة 8 مرات.
+        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
+          درجة 4 مرات.
+      courseD_artist_nestedLoops_challenge2_2019:
+        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
+          الفنان 45 درجة 8 مرات.
+        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
+          درجة 4 مرات.
+      #End of lesson 12
+
+
 
 
       #Express
@@ -8699,12 +9270,18 @@ ar-SA:
         courseC_collector_prog_challenge1_a: يمكنك استخدام من بلوكة "اجمع"أكثر من
           مرة في نفس المكان.
         courseC_collector_prog_challenge1_b: أضعت الطريق؟ استخدم هذا المسار لحل اللغز!
+
+
+
+
+      #Course C
+      #Lesson 15: Build a Flappy Game
       courseC_flappy_events1:
         courseC_flappy_events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       courseC_flappy_events1_2018:
         courseC_flappy_events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       courseC_flappy_events1_2019:
-        courseC_flappy_events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        courseC_flappy_events1_a: "![](https://images.code.org/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
       courseC_flappy_events2:
         courseC_flappy_events2_a: 'البلوكة التي تحتاج إضافتها هي "تعيين سرعة". '
         courseC_flappy_events2_b: ألصق بلوكة "تعيين سرعة" إلى بلوكة "عند التشغيل"
@@ -8714,9 +9291,9 @@ ar-SA:
         courseC_flappy_events2_b: ألصق بلوكة "تعيين سرعة" إلى بلوكة "عند التشغيل"
           لتحل اللغز.
       courseC_flappy_events2_2019:
-        courseC_flappy_events2_a: 'البلوكة التي تحتاج إضافتها هي "تعيين سرعة". '
-        courseC_flappy_events2_b: ألصق بلوكة "تعيين سرعة" إلى بلوكة "عند التشغيل"
-          لتحل اللغز.
+        courseC_flappy_events2_a: تحتاج الى إضافة القطعة البرمجية "تعيين سرعة".
+        courseC_flappy_events2_b: ركب قطعة "تعيين سرعة" مع قطعة "عند التشغيل"
+          لتنجز المرحلة.
       courseC_flappy_events3:
         courseC_flappy_events3_a: إذا كان هناك شيء لايعمل بالطريقة الصحيحة, تأكد من
           أن البلوكات متصلة بالأحداث الصحيحة في منطقة العمل.
@@ -8724,8 +9301,8 @@ ar-SA:
         courseC_flappy_events3_a: إذا كان هناك شيء لايعمل بالطريقة الصحيحة, تأكد من
           أن البلوكات متصلة بالأحداث الصحيحة في منطقة العمل.
       courseC_flappy_events3_2019:
-        courseC_flappy_events3_a: إذا كان هناك شيء لايعمل بالطريقة الصحيحة, تأكد من
-          أن البلوكات متصلة بالأحداث الصحيحة في منطقة العمل.
+        courseC_flappy_events3_a: إذا كان هناك شيء لايعمل بالطريقة الصحيحة، تأكد من
+          أن القطع البرمجية متصلة بالحدث البرمجي الصحيح في مساحة العمل.
       courseC_flappy_events4:
         courseC_flappy_events4_a: ألصق بلوكة "إنهاء اللعبة" ببلوكة "عند الارتطام بعقبة"
           لتإنجاز هذه المرحلة.
@@ -8733,8 +9310,8 @@ ar-SA:
         courseC_flappy_events4_a: ألصق بلوكة "إنهاء اللعبة" ببلوكة "عند الارتطام بعقبة"
           لتإنجاز هذه المرحلة.
       courseC_flappy_events4_2019:
-        courseC_flappy_events4_a: ألصق بلوكة "إنهاء اللعبة" ببلوكة "عند الارتطام بعقبة"
-          لتإنجاز هذه المرحلة.
+        courseC_flappy_events4_a: ركب القطعة البرمجية "إنهاء اللعبة" مع الحدث البرمجي "عند الارتطام بعقبة"
+          لتنجز هذه المرحلة.
       courseC_flappy_events5:
         courseC_flappy_events5_a: سوف تحتاج إلى استخدام بلوكة "تسجيل نقطة" لتتخطى
           هذه المرحلة.
@@ -8742,20 +9319,20 @@ ar-SA:
         courseC_flappy_events5_a: سوف تحتاج إلى استخدام بلوكة "تسجيل نقطة" لتتخطى
           هذه المرحلة.
       courseC_flappy_events5_2019:
-        courseC_flappy_events5_a: سوف تحتاج إلى استخدام بلوكة "تسجيل نقطة" لتتخطى
+        courseC_flappy_events5_a: سوف تحتاج إلى استخدام القطعة البرمجية "تسجيل نقطة" لتتخطى
           هذه المرحلة.
       courseC_flappy_events6:
         courseC_flappy_events6_a: جرب إلصاق بلوكة "رفرف بمقدار" بحدث "عند النقر".
       courseC_flappy_events6_2018:
         courseC_flappy_events6_a: جرب إلصاق بلوكة "رفرف بمقدار" بحدث "عند النقر".
       courseC_flappy_events6_2019:
-        courseC_flappy_events6_a: جرب إلصاق بلوكة "رفرف بمقدار" بحدث "عند النقر".
+        courseC_flappy_events6_a: جرب تركيب قطعة "رفرف بمقدار" مع حدث "عند النقر".
       courseC_flappy_events7:
         courseC_flappy_events7_a: 'يمكنك تغيير الخلفية باستخدام بلوكة "تعيين الخفية". '
       courseC_flappy_events7_2018:
         courseC_flappy_events7_a: 'يمكنك تغيير الخلفية باستخدام بلوكة "تعيين الخفية". '
       courseC_flappy_events7_2019:
-        courseC_flappy_events7_a: 'يمكنك تغيير الخلفية باستخدام بلوكة "تعيين الخفية". '
+        courseC_flappy_events7_a: يمكنك تغيير مشهد اللعبة باستخدام قطعة "تعيين مشهد".
       courseC_flappy_events8:
         courseC_flappy_events8_a: جرب إلصاق بلوكة "تعيين مشهد" ثانية تحت حدث "عند
           اجتياز عقبة" لتتخطى هذه المرحلة.
@@ -8763,7 +9340,7 @@ ar-SA:
         courseC_flappy_events8_a: جرب إلصاق بلوكة "تعيين مشهد" ثانية تحت حدث "عند
           اجتياز عقبة" لتتخطى هذه المرحلة.
       courseC_flappy_events8_2019:
-        courseC_flappy_events8_a: جرب إلصاق بلوكة "تعيين مشهد" ثانية تحت حدث "عند
+        courseC_flappy_events8_a: ركب قطعة "تعيين مشهد" ثانية تحت حدث "عند
           اجتياز عقبة" لتتخطى هذه المرحلة.
       courseC_flappy_events9:
         courseC_flappy_events9_a: ألصق بلوكة "تعيين النتيجة 0" في بلوكة حدث "عند الارتطام
@@ -8772,8 +9349,21 @@ ar-SA:
         courseC_flappy_events9_a: ألصق بلوكة "تعيين النتيجة 0" في بلوكة حدث "عند الارتطام
           بالأرض" لتنجح في هذه المرحلة.
       courseC_flappy_events9_2019:
-        courseC_flappy_events9_a: ألصق بلوكة "تعيين النتيجة 0" في بلوكة حدث "عند الارتطام
-          بالأرض" لتنجح في هذه المرحلة.
+        courseC_flappy_events9_a: ركب قطعة "تعيين النتيجة 0" مع حدث "عند الارتطام
+          بالأرض" لتتخطى هذه المرحلة.
+      #End of Lesson 15
+
+
+
+
+
+
+
+
+
+
+      #Course C
+      #Lesson 11: Harvesting Crops with Loops
       courseC_harvester_loops1:
         courseC_harvester_loops1_a: عندما تصل اليقطينة استخدم <xml><block type="harvester_pumpkin"/></xml>
           لتجمعها.
@@ -8785,10 +9375,9 @@ ar-SA:
         courseC_harvester_loops1_b: يمكنك استخدام وظيفة كرر مع <xml><block type="harvester_pumpkin"/></xml>
           لتجمع أكثر من قرعة من المربع.
       courseC_harvester_loops1_2019:
-        courseC_harvester_loops1_a: عندما تصل اليقطينة استخدم <xml><block type="harvester_pumpkin"/></xml>
-          لتجمعها.
-        courseC_harvester_loops1_b: يمكنك استخدام وظيفة كرر مع <xml><block type="harvester_pumpkin"/></xml>
-          لتجمع أكثر من قرعة من المربع.
+        courseC_harvester_loops1_a: عندما تصل الى اليقطينة، استخدم القطعة البرمجية <xml><block type="harvester_pumpkin"/></xml> لتجمعها.
+        courseC_harvester_loops1_b: يمكنك استخدام حلقة التكرار مع قطعة <xml><block type="harvester_pumpkin"/></xml> لتجمع أكثر من حبة قرع من المربع.
+
       courseC_harvester_loops2:
         courseC_harvester_loops2_a: إذا علقت, جرب كتابة الخطوات على ورقة وابحث عن
           نمط متكرر.
@@ -8802,11 +9391,11 @@ ar-SA:
         courseC_harvester_loops2_c: وظيفة كرر واحدة لتكرار أمر " تحريك إلى الأمام"
           والأخرى لتكرار أمر "التقط يقطين".
       courseC_harvester_loops2_2019:
-        courseC_harvester_loops2_a: إذا علقت, جرب كتابة الخطوات على ورقة وابحث عن
+        courseC_harvester_loops2_a: إذا علقت، جرب كتابة الخطوات على ورقة وابحث عن
           نمط متكرر.
-        courseC_harvester_loops2_b: تحتاج إلى وظيفة كرر واحدة بعد الأخرى.
-        courseC_harvester_loops2_c: وظيفة كرر واحدة لتكرار أمر " تحريك إلى الأمام"
-          والأخرى لتكرار أمر "التقط يقطين".
+        courseC_harvester_loops2_b: ستحتاج إلى استخدام حلقتي تكرار.. واحدة بعد الأخرى.
+        courseC_harvester_loops2_c: ستستخدم إحدى حلقات التكرار لتكرار قطعة "تحريك إلى الأمام"
+          والأخرى لتكرار قطعة "التقط يقطين".
       courseC_harvester_loops3:
         courseC_harvester_loops3_a: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت لم تتوصل لحل اللغز
@@ -8824,13 +9413,11 @@ ar-SA:
         courseC_harvester_loops3_c: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
           "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
       courseC_harvester_loops3_2019:
-        courseC_harvester_loops3_a: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت لم تتوصل لحل اللغز
-          حتى الآن.
-        courseC_harvester_loops3_b: لليقطينة الاولى, يمكنك استخدام كود برمجي مشابه
-          للغز السابق. أي اتجاه تحتاج الالتفاف له فيما بعد؟
-        courseC_harvester_loops3_c: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
-          "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
+        courseC_harvester_loops3_a: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+        courseC_harvester_loops3_b: لتلتقط اليقطينة الاولى، يمكنك استخدام كود مشابه
+          للمرحلة السابقة. الى أي اتجاه تحتاج أن تنعطف فيما بعد؟
+        courseC_harvester_loops3_c: إذا اردت تبسيط الكود، يمكنك أن تضع حلقة تكرار
+          داخل الحلقة الأخرى! هذه تسمى "حلقات التكرار المتداخلة".
       courseC_harvester_loops4:
         courseC_harvester_loops4_a: استخدم بلوكة "التقط الذرة" الجديدة لتجمع الذرة.
         courseC_harvester_loops4_b: يمكنك استخدام العديد من دوال التكرار داخل الكود
@@ -8844,23 +9431,22 @@ ar-SA:
         courseC_harvester_loops4_c: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
           "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
       courseC_harvester_loops4_2019:
-        courseC_harvester_loops4_a: استخدم بلوكة "التقط الذرة" الجديدة لتجمع الذرة.
-        courseC_harvester_loops4_b: يمكنك استخدام العديد من دوال التكرار داخل الكود
-          البرمجي, بعضها لجمع الذرة والآخر لجمع اليقطينات.
-        courseC_harvester_loops4_c: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
-          "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
+        courseC_harvester_loops4_a: استخدم القطعة البرمجية "التقط الذرة" الجديدة لتجمع الذرة.
+        courseC_harvester_loops4_b: يمكنك استخدام العديد من حلقات التكرار داخل الكود، بعضها لجمع الذرة والآخر لجمع اليقطين.
+
+        courseC_harvester_loops4_c: إذا أردت تبسيط الكود، يمكنك أن تضع حلقة تكرار داخل الحلقة الأخرى! هذه تسمى "حلقات التكرار المتداخلة".
       courseC_harvester_loops5:
-        courseC_harvester_loops5_a: إذا علقت, جرب رسم البرنامج كامل وابحث عن نمط متكرر.
+        courseC_harvester_loops5_a: اذا كنت لا تستطيع إيجاد الحل، جرب أن تكتب الخطوات على قطعة ورق وحاول إيجاد نمط متكرر.
         courseC_harvester_loops5_b: هل درجة السلم تبدو مألوفة لك من المراحل السابقة؟
           الحركة ستبدو مشابهة لها, فقط تذكر جمع المحاصيل في طريقك.
       courseC_harvester_loops5_2018:
         courseC_harvester_loops5_a: إذا علقت, جرب رسم البرنامج كامل وابحث عن نمط متكرر.
         courseC_harvester_loops5_b: هل درجة السلم تبدو مألوفة لك من المراحل السابقة؟
-          الحركة ستبدو مشابهة لها, فقط تذكر جمع المحاصيل في طريقك.
+          استخدم نفس القطع البرمجية تذكر جمع المحاصيل في طريقك.
       courseC_harvester_loops5_2019:
-        courseC_harvester_loops5_a: إذا علقت, جرب رسم البرنامج كامل وابحث عن نمط متكرر.
-        courseC_harvester_loops5_b: هل درجة السلم تبدو مألوفة لك من المراحل السابقة؟
-          الحركة ستبدو مشابهة لها, فقط تذكر جمع المحاصيل في طريقك.
+        courseC_harvester_loops5_a: إذا كنت لا تستطيع إيجاد الحل، جرب أن تكتب الخطوات على قطعة ورق وحاول إيجاد نمط متكرر.
+        courseC_harvester_loops5_b: هل يبدو نمط تدرج السلم مألوفا لك من المراحل السابقة؟
+          استخدم نفس القطع البرمجية تذكر جمع المحاصيل في طريقك.
       courseC_harvester_loops6:
         courseC_harvester_loops6_a: تذكر يمكنك إضافة أكثر من بلوكة برمجية داخل وظيفة
           التكرار.
@@ -8870,9 +9456,9 @@ ar-SA:
           التكرار.
         courseC_harvester_loops6_b: لا تنسى الاتفاف في ىخر صف الذرة.
       courseC_harvester_loops6_2019:
-        courseC_harvester_loops6_a: تذكر يمكنك إضافة أكثر من بلوكة برمجية داخل وظيفة
+        courseC_harvester_loops6_a: تذكر أنه يمكنك إضافة أكثر من قطعة برمجية داخل حلقة
           التكرار.
-        courseC_harvester_loops6_b: لا تنسى الاتفاف في ىخر صف الذرة.
+        courseC_harvester_loops6_b: لا تنسَ الالتفاف في نهاية صف الذرة.
       courseC_harvester_loops7:
         courseC_harvester_loops7_a: يمكن حل اللغز طقطقتين, إما اجمع الذرة أولا أو
           اليطينات.
@@ -8882,9 +9468,9 @@ ar-SA:
           اليطينات.
         courseC_harvester_loops7_b: ستحتاج إلى أكثر من وظيفة "كرر" لحل اللغز.
       courseC_harvester_loops7_2019:
-        courseC_harvester_loops7_a: يمكن حل اللغز طقطقتين, إما اجمع الذرة أولا أو
-          اليطينات.
-        courseC_harvester_loops7_b: ستحتاج إلى أكثر من وظيفة "كرر" لحل اللغز.
+        courseC_harvester_loops7_a: يمكن إنجاز المرحلة بطريقتين، إما أن تجمع حبات الذرة أولا أو
+          اليقطين.
+        courseC_harvester_loops7_b: ستحتاج إلى أكثر من حلقة تكرار واحدة لإنجاز المرحلة.
       courseC_harvester_loops8:
         courseC_harvester_loops8_a: هل درجة السلم تبدو مألوفة لك من المراحل السابقة؟
           الحركة ستبدو مشابهة لها, فقط تذكر جمع المحاصيل في طريقك.
@@ -8896,10 +9482,9 @@ ar-SA:
         courseC_harvester_loops8_b: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
           "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
       courseC_harvester_loops8_2019:
-        courseC_harvester_loops8_a: هل درجة السلم تبدو مألوفة لك من المراحل السابقة؟
-          الحركة ستبدو مشابهة لها, فقط تذكر جمع المحاصيل في طريقك.
-        courseC_harvester_loops8_b: إذا اردت تبسيط كودك البرمجي, يمكنك أن تضع وظيفة
-          "كرر" داخل أخرى! هذه تسمى \\ وظيفة التكرار المتداخلة\\.
+        courseC_harvester_loops8_a: هل يبدو نمط تدرج السلم مألوفا لك من المراحل السابقة؟
+          استخدم نفس القطع البرمجية تذكر جمع المحاصيل في طريقك.
+        courseC_harvester_loops8_b: إذا أردت تبسيط الكود، يمكنك أن تضع حلقة تكرار داخل الحلقة الأخرى! هذه تسمى "حلقات التكرار المتداخلة"ؤ.
       courseC_harvester_loops_challenge1a:
         courseC_harvester_loops_challenge1_a: هذا صعب بدون وظيفة كرر!
         courseC_harvester_loops_challenge1_b: يمكنك تكرار "تحريك إلى الامام" و " التقط
@@ -9026,6 +9611,10 @@ ar-SA:
           النمط الحلزوني يمكن برمجته باستخدام 18 بلوكة!
 
           ![](<https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png>)
+      #End of Course C Lesson 11
+
+
+
 
       #Express
       #Lesson 3: Debugging with Scrat
@@ -9045,9 +9634,9 @@ ar-SA:
           اللغز.
       courseC_maze_debugging1_2019:
         courseC_maze_debugging1_a: |-
-          -هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -هل ما زال يعمل بعد الخطوة الثانية؟
-          -أين يحدث الخطأ؟
+          هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟ هل ما زال يعمل بعد الخطوة الثانية؟ أين يحدث الخطأ؟
+
+
         courseC_maze_debugging1_b: هنالك قطعة برمجية واحدة يجب عليك إضافتها لإنجاز هذه المرحلة.
 
       courseC_maze_debugging2:
@@ -9439,10 +10028,7 @@ ar-SA:
         courseC_maze_programming4_b: |-
           كيف ستصل الى السمكة؟
 
-          -تحرك الى الأمام
-          -هل ستتجه الى اليسار ام اليمين؟
-          -تحرك إلى الأمام ثم قرر.. هل يجب أن تتجه الى اليسار أم اليمين؟
-          -تحرك إلى الأمام
+          تحرك الى الأمام، هل ستتجه الى اليسار ام اليمين؟ تحرك إلى الأمام ثم قرر.. هل يجب أن تتجه الى اليسار أم اليمين؟ تحرك إلى الأمام.
 
       courseC_maze_programming5_2019:
         courseC_maze_programming5_a: استخدم زر "جرب خطوة" لفحص الكود الذي
@@ -9663,7 +10249,7 @@ ar-SA:
       courseC_starWars_loops9_2019:
         course_starWars_loops9_b: يمكنك وضع أكثر من قطعة برمجية داخل حلقة "كرر".
         course_starWars_loops9_c: |-
-          لا تحتاج أن تتجه الى اليسار لإنجاز هذه المرحلة. كل اتجاهاتك يمكن أن تكون الى اليمين.
+          ألقِ نظرة على هذا الطريق المرسوم بالأحمر.
 
           ![](https://images.code.org/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
       courseD_artist_1_2018:
@@ -9682,406 +10268,9 @@ ar-SA:
       courseD_artist_2_2018_2019:
         courseD_artist_project1_a: استخدم القائمة المنسدلة في المربعات البرمجية "التفاف"
           لاختيار الزاوية التي تحتاجها!
-      courseD_artist_binary1:
-        courseD_artist_binary1_a: استبدل "؟؟؟" في مربع النص البرمجي بصورة ثنائية ترغب
-          فيها، في أرقام الصفر وواحد.
-        courseD_artist_binary1_b: سيرسم الفنان مساحة بيضاء لكل 1 ومساحة سوداء لكل
-          0.
-        courseD_artist_binary1_c: هكذا يمكنك إدخال رمزك الثنائي:![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
-      courseD_artist_binary1_2018:
-        courseD_artist_binary1_a: استبدل "؟؟؟" في مربع النص البرمجي بصورة ثنائية ترغب
-          فيها، في أرقام الصفر وواحد.
-        courseD_artist_binary1_b: سيرسم الفنان مساحة بيضاء لكل 1 ومساحة سوداء لكل
-          0.
-        courseD_artist_binary1_c: هكذا يمكنك إدخال رمزك الثنائي:![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
-      courseD_artist_binary1_2019:
-        courseD_artist_binary1_a: استبدل "؟؟؟" في مربع النص البرمجي بصورة ثنائية ترغب
-          فيها، في أرقام الصفر وواحد.
-        courseD_artist_binary1_b: سيرسم الفنان مساحة بيضاء لكل 1 ومساحة سوداء لكل
-          0.
-        courseD_artist_binary1_c: هكذا يمكنك إدخال رمزك الثنائي:![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
-      courseD_artist_binary2:
-        courseD_artist_binary2_a: انقر على "تشغيل" لتشاهد عمل البرنامج!
-      courseD_artist_binary2_2018:
-        courseD_artist_binary2_a: انقر على "تشغيل" لتشاهد عمل البرنامج!
-      courseD_artist_binary2_2019:
-        courseD_artist_binary2_a: انقر على "تشغيل" لتشاهد عمل البرنامج!
-      courseD_artist_binary3:
-        courseD_artist_binary3_a: أحد الأنماط الثنائية الأربعة في مربع الأدوات سوف
-          يإنجاز هذه المرحلة!
-        courseD_artist_binary3_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary3_2018:
-        courseD_artist_binary3_a: أحد الأنماط الثنائية الأربعة في مربع الأدوات سوف
-          يإنجاز هذه المرحلة!
-        courseD_artist_binary3_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary3_2019:
-        courseD_artist_binary3_a: أحد الأنماط الثنائية الأربعة في مربع الأدوات سوف
-          يإنجاز هذه المرحلة!
-        courseD_artist_binary3_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary4:
-        courseD_artist_binary4_a: أنظر إلى أول ثلاثة مربعات في الطابور العلوي. هل
-          يمكنك تكرار هذه المربعات الثلاثة للحصول على النمط الكامل؟
-        courseD_artist_binary4_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary4_2018:
-        courseD_artist_binary4_a: أنظر إلى أول ثلاثة مربعات في الطابور العلوي. هل
-          يمكنك تكرار هذه المربعات الثلاثة للحصول على النمط الكامل؟
-        courseD_artist_binary4_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary4_2019:
-        courseD_artist_binary4_a: أنظر إلى أول ثلاثة مربعات في الطابور العلوي. هل
-          يمكنك تكرار هذه المربعات الثلاثة للحصول على النمط الكامل؟
-        courseD_artist_binary4_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary5:
-        courseD_artist_binary5_a: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary5_b: يجب عليك تبديل طابورين فقط لإنتاج الابتسامة.
-        courseD_artist_binary5_c: إذا واجهتك صعوبة في حل اللغز، حاول كتابة الأسطر
-          الثنائية على قطعة ورق وابحث عن النمط.
-      courseD_artist_binary5_2018:
-        courseD_artist_binary5_a: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary5_b: يجب عليك تبديل طابورين فقط لإنتاج الابتسامة.
-        courseD_artist_binary5_c: إذا واجهتك صعوبة في حل اللغز، حاول كتابة الأسطر
-          الثنائية على قطعة ورق وابحث عن النمط.
-      courseD_artist_binary5_2019:
-        courseD_artist_binary5_a: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary5_b: يجب عليك تبديل طابورين فقط لإنتاج الابتسامة.
-        courseD_artist_binary5_c: إذا واجهتك صعوبة في حل اللغز، حاول كتابة الأسطر
-          الثنائية على قطعة ورق وابحث عن النمط.
-      courseD_artist_binary6:
-        courseD_artist_binary6_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك الثنائية شيئًا فشيئًا، مع الاستمرار
-          في الاختبار!
-      courseD_artist_binary6_2018:
-        courseD_artist_binary6_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك الثنائية شيئًا فشيئًا، مع الاستمرار
-          في الاختبار!
-      courseD_artist_binary6_2019:
-        courseD_artist_binary6_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك الثنائية شيئًا فشيئًا، مع الاستمرار
-          في الاختبار!
-      courseD_artist_binary7:
-        courseD_artist_binary7_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary7_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary7_2018:
-        courseD_artist_binary7_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary7_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary7_2019:
-        courseD_artist_binary7_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
-          أن يبدأ النمط بتكرار نفسه؟
-        courseD_artist_binary7_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary8:
-        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
-          كل سطر عمودي في ذهنك أثناء إنشائك لهذا التصميم.
-        courseD_artist_binary8_b: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary8_c: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary8_2018:
-        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
-          كل سطر عمودي في ذهنك أثناء إنشائك لهذا التصميم.
-        courseD_artist_binary8_b: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary8_c: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_binary8_2019:
-        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
-          كل سطر عمودي في ذهنك أثناء إنشائك لهذا التصميم.
-        courseD_artist_binary8_b: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
-          العمل معه.
-        courseD_artist_binary8_c: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
-          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
-      courseD_artist_nestedLoops1:
-        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي المضي قدمًا واستخدام
-          التفافات لليمين.
-        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث بحلقة "تكرار" مع مربعين
-          برمجيين إثنين داخلها. أي مربعات برمجية ستحتاج إليها؟
-        courseD_artist_nestedLoops1_c: حاول كتابة الخطوات على ورقة وابحث عن أنماط
-          يمكن تبسيطها باستخدام حلقات.
-      courseD_artist_nestedLoops1_2018:
-        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي المضي قدمًا واستخدام
-          التفافات لليمين.
-        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث بحلقة "تكرار" مع مربعين
-          برمجيين إثنين داخلها. أي مربعات برمجية ستحتاج إليها؟
-        courseD_artist_nestedLoops1_c: حاول كتابة الخطوات على ورقة وابحث عن أنماط
-          يمكن تبسيطها باستخدام حلقات.
-      courseD_artist_nestedLoops1_2019:
-        courseD_artist_nestedLoops1_a: أسهل طريقة لرسم هذا المثلث هي المضي قدمًا واستخدام
-          التفافات لليمين.
-        courseD_artist_nestedLoops1_b: يمكنك رسم هذا المثلث بحلقة "تكرار" مع مربعين
-          برمجيين إثنين داخلها. أي مربعات برمجية ستحتاج إليها؟
-        courseD_artist_nestedLoops1_c: حاول كتابة الخطوات على ورقة وابحث عن أنماط
-          يمكن تبسيطها باستخدام حلقات.
-      courseD_artist_nestedLoops1a:
-        courseD_artist_nestedLoops1a_a: ستحتاج لرسم ما مجموعه 6 مثلثات. بعد الانتهاء
-          من كل مثلث، لف  60 درجة وانتقل للبدء برسم المثلث التالي.![](https://images.code.org/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
-        courseD_artist_nestedLoops1a_b: إذا أنشأت مثلثًا باستخدام حلقة، ينبغي أن يواجه
-          الفنان نفس الطريقة التي بدأ بها. هذا سيجعل استدارات 60 درجة أسهل بكثير.
-        courseD_artist_nestedLoops1a_c: إذا أردت ألوان، استخدم المربع البرمجي "اللون
-          المعيّن" في تعليماتك البرمجية. ولست ملزمًا بمطابقة الألوان في صورة القالب.
-      courseD_artist_nestedLoops1a_2018:
-        courseD_artist_nestedLoops1a_b: إذا أنشأت مثلثًا باستخدام حلقة، ينبغي أن يواجه
-          الفنان نفس الطريقة التي بدأ بها. هذا سيجعل استدارات 60 درجة أسهل بكثير.
-        courseD_artist_nestedLoops1a_c: إذا أردت ألوان، استخدم المربع البرمجي "اللون
-          المعيّن" في تعليماتك البرمجية. ولست ملزمًا بمطابقة الألوان في صورة القالب.
-      courseD_artist_nestedLoops1a_2019:
-        courseD_artist_nestedLoops1a_a: ستحتاج لرسم ما مجموعه 6 مثلثات. بعد الانتهاء
-          من كل مثلث، لف  60 درجة وانتقل للبدء برسم المثلث التالي.![](https://images.code.org/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
-        courseD_artist_nestedLoops1a_b: إذا أنشأت مثلثًا باستخدام حلقة، ينبغي أن يواجه
-          الفنان نفس الطريقة التي بدأ بها. هذا سيجعل استدارات 60 درجة أسهل بكثير.
-        courseD_artist_nestedLoops1a_c: إذا أردت ألوان، استخدم المربع البرمجي "اللون
-          المعيّن" في تعليماتك البرمجية. ولست ملزمًا بمطابقة الألوان في صورة القالب.
-      courseD_artist_nestedLoops2:
-        courseD_artist_nestedLoops2_a: قم بتضمين حلقاتك عن طريق إحاطة التعليمات البرمجية
-          لمثلثك بحلقة "تكرار" أخرى.
-        courseD_artist_nestedLoops2_b: تذكّر بوضع المربع البرمجي "التفاف" داخل الحلقة
-          لكي يلف الفنان بعد كل مثلث.
-      courseD_artist_nestedLoops2_2018:
-        courseD_artist_nestedLoops2_a: قم بتضمين حلقاتك عن طريق إحاطة التعليمات البرمجية
-          لمثلثك بحلقة "تكرار" أخرى.
-        courseD_artist_nestedLoops2_b: تذكّر بوضع المربع البرمجي "التفاف" داخل الحلقة
-          لكي يلف الفنان بعد كل مثلث.
-      courseD_artist_nestedLoops2_2019:
-        courseD_artist_nestedLoops2_a: قم بتضمين حلقاتك عن طريق إحاطة التعليمات البرمجية
-          لمثلثك بحلقة "تكرار" أخرى.
-        courseD_artist_nestedLoops2_b: تذكّر بوضع المربع البرمجي "التفاف" داخل الحلقة
-          لكي يلف الفنان بعد كل مثلث.
-      courseD_artist_nestedLoops3:
-        courseD_artist_nestedLoops3_a: "حاول أن تستخدم الكتلة \"القفز إلى الأمام\"
-          للانتقال من أعلى مربع إلى المكان الذي سوف تبدأ منه رسم المربع التالي. \n\nإذا
-          كانت مربعاتك بطول 20 نقطة ومتباعدة عن بعضها 20 نقطة، كم مقدار القفزة التي
-          تحتاجها؟"
-        courseD_artist_nestedLoops3_b: لا تنسى أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
-          بسرعة.
-        courseD_artist_nestedLoops3_c: ابدأ باستخدام حلقة "تكرار" لرسم المربع الأول.
-          ثم، كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بينها.
-      courseD_artist_nestedLoops3_2018:
-        courseD_artist_nestedLoops3_a: "حاول أن تستخدم الكتلة \"القفز إلى الأمام\"
-          للانتقال من أعلى مربع إلى المكان الذي سوف تبدأ منه رسم المربع التالي. \n\nإذا
-          كانت مربعاتك بطول 20 نقطة ومتباعدة عن بعضها 20 نقطة، كم مقدار القفزة التي
-          تحتاجها؟"
-        courseD_artist_nestedLoops3_b: لا تنسى أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
-          بسرعة.
-        courseD_artist_nestedLoops3_c: ابدأ باستخدام حلقة "تكرار" لرسم المربع الأول.
-          ثم، كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بينها.
-      courseD_artist_nestedLoops3_2019:
-        courseD_artist_nestedLoops3_a: "حاول أن تستخدم الكتلة \"القفز إلى الأمام\"
-          للانتقال من أعلى مربع إلى المكان الذي سوف تبدأ منه رسم المربع التالي. \n\nإذا
-          كانت مربعاتك بطول 20 نقطة ومتباعدة عن بعضها 20 نقطة، كم مقدار القفزة التي
-          تحتاجها؟"
-        courseD_artist_nestedLoops3_b: لا تنسى أن تستخدم حلقة متداخلة لإنجاز هذه المرحلة
-          بسرعة.
-        courseD_artist_nestedLoops3_c: ابدأ باستخدام حلقة "تكرار" لرسم المربع الأول.
-          ثم، كرر ذلك المربع 8 مرات، مع القفز 40 بيكسل بينها.
-      courseD_artist_nestedLoops4:
-        courseD_artist_nestedLoops4_d: لحل هذا الأمر بصورة صحيحة، ينبغي أن تحرك قبل
-          أن تستدير، وإلا فإن دائرتك ستكون مزاحة بكمية صغيرة جدًا!
-        courseD_artist_nestedLoops4_a: لرسم دائرة:-   كرر 360 مرة    -   حرّك للأمام
-          1 بكسل    -   لف لليسار بدرجة واحدة
-        courseD_artist_nestedLoops4_b: لا تنسى أن تقفز للأمام 50 بيكسلا بين الدوائر.
-        courseD_artist_nestedLoops4_c: استخدم حلقة متداخلة لرسم دوائرك 4 مرات.
-      courseD_artist_nestedLoops4_2018:
-        courseD_artist_nestedLoops4_d: لحل هذا الأمر بصورة صحيحة، ينبغي أن تحرك قبل
-          أن تستدير، وإلا فإن دائرتك ستكون مزاحة بكمية صغيرة جدًا!
-        courseD_artist_nestedLoops4_a: لرسم دائرة:-   كرر 360 مرة    -   حرّك للأمام
-          1 بكسل    -   لف لليسار بدرجة واحدة
-        courseD_artist_nestedLoops4_b: لا تنسى أن تقفز للأمام 50 بيكسلا بين الدوائر.
-        courseD_artist_nestedLoops4_c: استخدم حلقة متداخلة لرسم دوائرك 4 مرات.
-      courseD_artist_nestedLoops4_2019:
-        courseD_artist_nestedLoops4_d: لحل هذا الأمر بصورة صحيحة، ينبغي أن تحرك قبل
-          أن تستدير، وإلا فإن دائرتك ستكون مزاحة بكمية صغيرة جدًا!
-        courseD_artist_nestedLoops4_a: لرسم دائرة:-   كرر 360 مرة    -   حرّك للأمام
-          1 بكسل    -   لف لليسار بدرجة واحدة
-        courseD_artist_nestedLoops4_b: لا تنسى أن تقفز للأمام 50 بيكسلا بين الدوائر.
-        courseD_artist_nestedLoops4_c: استخدم حلقة متداخلة لرسم دوائرك 4 مرات.
-      courseD_artist_nestedLoops5:
-        courseD_artist_nestedLoops5_a: لعمل ذلك بسهولة:-   كرر 4 مرات    -   ارسم
-          دائرة    -   اقفز للأمام بمسافة 50 بيكسل    -   لف إلى اليمين بـ 90 درجة
-        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
-          داخل الحلقة، امضي قدمًا عدد 1 بيكسل ولف بعدد 1 درجة.
-      courseD_artist_nestedLoops5_2018:
-        courseD_artist_nestedLoops5_a: لعمل ذلك بسهولة:-   كرر 4 مرات    -   ارسم
-          دائرة    -   اقفز للأمام بمسافة 50 بيكسل    -   لف إلى اليمين بـ 90 درجة
-        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
-          داخل الحلقة، امضي قدمًا عدد 1 بيكسل ولف بعدد 1 درجة.
-      courseD_artist_nestedLoops5_2019:
-        courseD_artist_nestedLoops5_a: لعمل ذلك بسهولة:-   كرر 4 مرات    -   ارسم
-          دائرة    -   اقفز للأمام بمسافة 50 بيكسل    -   لف إلى اليمين بـ 90 درجة
-        courseD_artist_nestedLoops5_b: لرسم دائرة قم بإعداد حلقة تكرار لتكرر 360 مرة.
-          داخل الحلقة، امضي قدمًا عدد 1 بيكسل ولف بعدد 1 درجة.
-      courseD_artist_nestedLoops7:
-        courseD_artist_nestedLoops7_a: "-   يجب أن تستخدم حلقات متداخلة هنا. أولاً،
-          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
-          برسم مربع؟"
-        courseD_artist_nestedLoops7_b: استخدم حلقة متداخلة، حيث تكون الحلقة الداخلية
-          التعليمات البرمجية لمربع.-   كرر 6 مرات    -   اصنع مربع    -   أقفز قدمًا
-          بـ 50 بيكسل    -   لف 60 درجة
-      courseD_artist_nestedLoops7_2018:
-        courseD_artist_nestedLoops7_a: "-   يجب أن تستخدم حلقات متداخلة هنا. أولاً،
-          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
-          برسم مربع؟"
-        courseD_artist_nestedLoops7_b: استخدم حلقة متداخلة، حيث تكون الحلقة الداخلية
-          التعليمات البرمجية لمربع.-   كرر 6 مرات    -   اصنع مربع    -   أقفز قدمًا
-          بـ 50 بيكسل    -   لف 60 درجة
-      courseD_artist_nestedLoops7_2019:
-        courseD_artist_nestedLoops7_a: "-   يجب أن تستخدم حلقات متداخلة هنا. أولاً،
-          استخدم حلقة لرسم مربع. ما الذي تفعله الحلقة الخارجية إذا قامت الحلقة الداخلية
-          برسم مربع؟"
-        courseD_artist_nestedLoops7_b: استخدم حلقة متداخلة، حيث تكون الحلقة الداخلية
-          التعليمات البرمجية لمربع.-   كرر 6 مرات    -   اصنع مربع    -   أقفز قدمًا
-          بـ 50 بيكسل    -   لف 60 درجة
-      courseD_artist_nestedLoops8:
-        courseD_artist_nestedLoops8_a: لكي تكون في رسمك 8 أشكال سداسية، يجب أن تلف
-          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
-          الأشكال السداسية) تساوي 45 درجة.
-        courseD_artist_nestedLoops8_b: إذا علقت، ابدأ بالنظر في اللغز الأخير، ثم غيّر
-          الأشياء التي تكون مختلفة.
-        courseD_artist_nestedLoops8_c: استخدم وظيفة التكرار المتداخلة:-   كررها 8 مرات    -   ارسم
-          شكل سداسي    -   اقفز للأمام 50 بيكسل    -   لف لليمين بـ45 درجة
-      courseD_artist_nestedLoops8_2018:
-        courseD_artist_nestedLoops8_a: لكي تكون في رسمك 8 أشكال سداسية، يجب أن تلف
-          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
-          الأشكال السداسية) تساوي 45 درجة.
-        courseD_artist_nestedLoops8_b: إذا علقت، ابدأ بالنظر في اللغز الأخير، ثم غيّر
-          الأشياء التي تكون مختلفة.
-        courseD_artist_nestedLoops8_c: استخدم وظيفة التكرار المتداخلة:-   كررها 8 مرات    -   ارسم
-          شكل سداسي    -   اقفز للأمام 50 بيكسل    -   لف لليمين بـ45 درجة
-      courseD_artist_nestedLoops8_2019:
-        courseD_artist_nestedLoops8_a: لكي تكون في رسمك 8 أشكال سداسية، يجب أن تلف
-          45 درجة بين كل منها. لماذا؟ لأن 360 درجة (دورة كاملة) مقسمة على 8 (عدد
-          الأشكال السداسية) تساوي 45 درجة.
-        courseD_artist_nestedLoops8_b: إذا علقت، ابدأ بالنظر في اللغز الأخير، ثم غيّر
-          الأشياء التي تكون مختلفة.
-        courseD_artist_nestedLoops8_c: استخدم وظيفة التكرار المتداخلة:-   كررها 8 مرات    -   ارسم
-          شكل سداسي    -   اقفز للأمام 50 بيكسل    -   لف لليمين بـ45 درجة
-      courseD_artist_nestedLoops9:
-        courseD_artist_nestedLoops9_a: ابدأ باستخدام وظيفة التكرار المتداخلة مثلما
-          عملت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
-        courseD_artist_nestedLoops9_b: 'أضف مجموعة ثانية من دالات التكرار المتداخلة
-          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات. '
-        courseD_artist_nestedLoops9_c: استخدم دالتي تكرار متداخلتين:-   كرر العملية
-          8 مرات    -   ارسم مربع    -   اقفز للأمام 50 بيكسل    -   لف إلى اليمين
-          بـ 45 درجة-   كرر العملية 8 مرات    -   ارسم مثلث    -   اقفز للأمام 50
-          بيكسل    -   لف إلى اليمين بـ 45 درجة
-      courseD_artist_nestedLoops9_2018:
-        courseD_artist_nestedLoops9_a: ابدأ باستخدام وظيفة التكرار المتداخلة مثلما
-          عملت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
-        courseD_artist_nestedLoops9_b: 'أضف مجموعة ثانية من دالات التكرار المتداخلة
-          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات. '
-        courseD_artist_nestedLoops9_c: استخدم دالتي تكرار متداخلتين:-   كرر العملية
-          8 مرات    -   ارسم مربع    -   اقفز للأمام 50 بيكسل    -   لف إلى اليمين
-          بـ 45 درجة-   كرر العملية 8 مرات    -   ارسم مثلث    -   اقفز للأمام 50
-          بيكسل    -   لف إلى اليمين بـ 45 درجة
-      courseD_artist_nestedLoops9_2019:
-        courseD_artist_nestedLoops9_a: ابدأ باستخدام وظيفة التكرار المتداخلة مثلما
-          عملت سابقًا، ولكن هذه المرة، اصنعها مع مربعات.
-        courseD_artist_nestedLoops9_b: 'أضف مجموعة ثانية من دالات التكرار المتداخلة
-          في نهاية المجموعة الأولى ولكن هذه المرة مع المثلثات. '
-        courseD_artist_nestedLoops9_c: استخدم دالتي تكرار متداخلتين:-   كرر العملية
-          8 مرات    -   ارسم مربع    -   اقفز للأمام 50 بيكسل    -   لف إلى اليمين
-          بـ 45 درجة-   كرر العملية 8 مرات    -   ارسم مثلث    -   اقفز للأمام 50
-          بيكسل    -   لف إلى اليمين بـ 45 درجة
-      courseD_artist_nestedLoopsFP:
-        courseD_artist_nestedLoopsFP_a: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-        courseD_artist_nestedLoopsFP_b: '<img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png"
-          width="200px"/>هذه الصورة تم صنعها باستخدام تعليمات برمجية مماثلة لمستويات
-          أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة: تحرك للأمام 1، مع استدارة
-          واحدة بعدد درجة 1.'
-        courseD_artist_nestedLoopsFP_c: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-      courseD_artist_nestedLoopsFP_2018:
-        courseD_artist_nestedLoopsFP_a: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-        courseD_artist_nestedLoopsFP_b: '<img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png"
-          width="200px"/>هذه الصورة تم صنعها باستخدام تعليمات برمجية مماثلة لمستويات
-          أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة: تحرك للأمام 1، مع استدارة
-          واحدة بعدد درجة 1.'
-        courseD_artist_nestedLoopsFP_c: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-      courseD_artist_nestedLoopsFP_2019:
-        courseD_artist_nestedLoopsFP_a: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا سداسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-        courseD_artist_nestedLoopsFP_b: '<img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png"
-          width="200px"/>هذه الصورة تم صنعها باستخدام تعليمات برمجية مماثلة لمستويات
-          أخرى سبق لك صنعها، لكن مع دوائر (كرر 360 مرة: تحرك للأمام 1، مع استدارة
-          واحدة بعدد درجة 1.'
-        courseD_artist_nestedLoopsFP_c: <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png"
-          width="200px"/>تم انتاج هذه الصورة باستخدام حلقة متداخلة التي تردد شكلاً
-          هندسيًا خماسيًا (بجوانب قياسها 50 بيكسل) 15 مرة مستخدمًا استدارة بـ 48
-          درجة.
-      courseD_artist_nestedLoops_challenge1:
-        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
-          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
-          45 درجة يسارًا.
-        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
-          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
-          يسارًا.
-        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
-          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
-        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
-          "تكرار 4 مرات" لإنهائها.
-      courseD_artist_nestedLoops_challenge1_2018:
-        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
-          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
-          45 درجة يسارًا.
-        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
-          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
-          يسارًا.
-        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
-          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
-        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
-          "تكرار 4 مرات" لإنهائها.
-      courseD_artist_nestedLoops_challenge1_2019:
-        courseD_artist_nestedLoops_challenge1_a: ابدأ بتغيير اللون إلى الأزرق، ثم
-          إنشئ شكلاً هندسيًا ثماني الأضلاع بجوانب قياسها 50 بيكسلاً واستدارات بـ
-          45 درجة يسارًا.
-        courseD_artist_nestedLoops_challenge1_b: أضف التعليمات البرمجية لتغيير اللون
-          إلى الأخضر، ثم اصنع مثلثًا  بجوانب قياسها 50 بيكسلاً واستدارات بـ 120 درجة
-          يسارًا.
-        courseD_artist_nestedLoops_challenge1_c: بعد رسم الشكلين، يجب أن تقفز للأمام
-          بـ 50 بيكسلاً قبل الالتفاف إلى اليمين بـ 90 درجة.
-        courseD_artist_nestedLoops_challenge1_d: ضع كافة تعليماتك البرمجية داخل حلقة
-          "تكرار 4 مرات" لإنهائها.
-      courseD_artist_nestedLoops_challenge2:
-        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
-          الفنان 45 درجة 8 مرات.
-        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
-          درجة 4 مرات.
-      courseD_artist_nestedLoops_challenge2_2018:
-        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
-          الفنان 45 درجة 8 مرات.
-        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
-          درجة 4 مرات.
-      courseD_artist_nestedLoops_challenge2_2019:
-        courseD_artist_nestedLoops_challenge2_a: لرسم شكلٍ ثماني الأضلاع، يجب إن يستدير
-          الفنان 45 درجة 8 مرات.
-        courseD_artist_nestedLoops_challenge2_b: لرسم مربع، يجب إن يستدير الفنان 90
-          درجة 4 مرات.
+
+
+
       courseD_artist_project1:
         courseD_artist_project1_a: استخدم القائمة المنسدلة في المربعات البرمجية "التفاف"
           لاختيار الزاوية التي تحتاجها!
@@ -10512,7 +10701,7 @@ ar-SA:
         courseD_bee_conditionals8_hintVid2: شاهد هذا الفيديو لمساعدتك على إنجاز هذه المرحلة.
       courseD_bee_conditionals8_2019:
         courseD_bee_conditionals8_a: تذكر.. هذه المرحلة تتغير في كل مرة
-          يتم فيها تشغيلها. ستحتاج أن تستخدم إما الجملة شرطية"إذا" أو القطعة البرمجية "إذا..وإلا" لإنجاز هذه المرحلة.
+          يتم فيها تشغيلها. ستحتاج أن تستخدم إما الجملة الشرطية "إذا" أو القطعة البرمجية "إذا..وإلا" لإنجاز هذه المرحلة.
 
         courseD_bee_conditionals8_b: |-
           في هذه المرحلة، ستجد تحت الغيمة إما زهرة أو خلية نحل.. لا حاجة للقلق بشأن المساحات الفارغة.
@@ -10679,175 +10868,10 @@ ar-SA:
         courseD_bee_nestedLoops7_b: ستحتاج إلى استخدام كل حلقات "التكرار" الثلاث
           المتاحة لإنجاز هذه المرحلة.
         courseD_bee_nestedLoops7_c: |-
-          قم ببناء الحلقات بحيث تكون متداخلة على ثلاث مستويات كالتالي،
-          - تكرار 4 مرات
-            - تكرار 3 مرات
-              - تكرار 12 مرة
-                - الحصول على الرحيق
-              - التحرك إلى الأمام
-            - اتجه لليمين
+          قم ببناء الحلقات بحيث تكون متداخلة على ثلاث مستويات كالتالي:
+          تكرار 4 مرات.. تكرار 3 مرات.. تكرار 12 مرة.. الحصول على الرحيق.. التحرك إلى الأمام.. اتجه لليمين
 
-      courseD_collector_debugging1:
-        courseD_collector_debugging1_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-        courseD_collector_debugging1_b: هل تشاهد أي أنماط يمكن أن أن تصبح أسهل باستخدام
-          حلقة "استمرار"؟
-        courseD_collector_debugging1_c: تذكّر أن تستخدم المربع البرمجي "جمع" لالتقاط
-          الكنز بمجرد تحريكك إياه.
-      courseD_collector_debugging10_predict1:
-        courseD_collector_debugging9_a: توجد عدة طرق لحل هذه المشكلة...لكنها كلها
-          تنطوي على استدارات!
-        courseD_collector_debugging9_b: تعرّف على كيفية حل اللغز، ثم تحرك خطوة بعد
-          خطوة لجعل التعليمات البرمجية مطابقة لما تفكّر فيه.
-      courseD_collector_debugging1a_2018:
-        courseD_collector_debugging1_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-        courseD_collector_debugging1_c: تذكّر أن تستخدم المربع البرمجي "جمع" لالتقاط
-          الكنز بمجرد تحريكك إياه.
-      courseD_collector_debugging1a_2019:
-        courseD_collector_debugging1_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-        courseD_collector_debugging1_c: تذكّر أن تستخدم المربع البرمجي "جمع" لالتقاط
-          الكنز بمجرد تحريكك إياه.
-      courseD_collector_debugging2:
-        courseD_collector_debugging2_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-        courseD_collector_debugging2_b: هل تشاهد أي أنماط يمكن أن أن تصبح أسهل باستخدام
-          حلقة "استمرار"؟
-        courseD_collector_debugging2_c: حاول جمع الكنز لجانب واحج من هذا النمط. هل
-          يمكنك تكرار هذه الخطوة لجمع الكنز في الجانبين الآخرين؟
-      courseD_collector_debugging2a_2018:
-        courseD_collector_debugging2a_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-      courseD_collector_debugging2a_2019:
-        courseD_collector_debugging2a_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
-          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
-      courseD_collector_debugging3:
-        courseD_collector_debugging3_a: هل يوجد مكان قامت فيه لوريل بشيء غير منطقي؟
-          ما الذي يحدث عندما تقوم بتغيير تلك المربعات البرمجية؟
-        courseD_collector_debugging3_b: حاول تبسيط التعليمات البرمجية باستخدام حلقات
-          متداخلة.
-      courseD_collector_debugging3a_2018:
-        courseD_collector_debugging3_a: هل يوجد مكان قامت فيه لوريل بشيء غير منطقي؟
-          ما الذي يحدث عندما تقوم بتغيير تلك المربعات البرمجية؟
-      courseD_collector_debugging3a_2019:
-        courseD_collector_debugging3_a: هل يوجد مكان قامت فيه لوريل بشيء غير منطقي؟
-          ما الذي يحدث عندما تقوم بتغيير تلك المربعات البرمجية؟
-      courseD_collector_debugging4:
-        courseD_collector_debugging4_a: حاول استخدام عملية إصلاح الخطأ عدد من المرات
-          في طابور.ما الذي تسبب في المشكلة الأولى؟بعد تصحيح المشكلة، ما الخطأ الذي
-          يحدث؟
-        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
-          خطوة الكرسي، حاول تعقبها بأصبعك وترديد الأوامر بصوت مرتفع.لا تنسى الإشارة
-          إلى اتجاه الاستدارات!
-        courseD_collector_debugging4_c: هذا البرنامج يفتقد إلى مربع برمجي واحد. هل
-          يمكن معرفة أين هو؟
-      courseD_collector_debugging4a_2018:
-        courseD_collector_debugging4_a: حاول استخدام عملية إصلاح الخطأ عدد من المرات
-          في طابور.ما الذي تسبب في المشكلة الأولى؟بعد تصحيح المشكلة، ما الخطأ الذي
-          يحدث؟
-        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
-          خطوة الكرسي، حاول تعقبها بأصبعك وترديد الأوامر بصوت مرتفع.لا تنسى الإشارة
-          إلى اتجاه الاستدارات!
-      courseD_collector_debugging4a_2019:
-        courseD_collector_debugging4_a: حاول استخدام عملية إصلاح الخطأ عدد من المرات
-          في طابور.ما الذي تسبب في المشكلة الأولى؟بعد تصحيح المشكلة، ما الخطأ الذي
-          يحدث؟
-        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
-          خطوة الكرسي، حاول تعقبها بأصبعك وترديد الأوامر بصوت مرتفع.لا تنسى الإشارة
-          إلى اتجاه الاستدارات!
-      courseD_collector_debugging5:
-        courseD_collector_debugging5_a: حاول النظر في الحلقة الأولى فقط.ماذا تعمل؟ما
-          هو المفروض منها أن تعمل؟ما الذي يوحي لك ذلك؟
-        courseD_collector_debugging5_b: بمجرد حصولك على الحلقة البرمجية بالطريقة التي
-          تحلو لك، ما الذي بقي في تعلماتك البرمجية؟
-      courseD_collector_debugging6:
-        courseD_collector_debugging6_a: حاول التحري في التعليمات البرمجية باستخدام
-          زر "الخطوة". هل كل شيء على ما يرام في الخطوة الأولى؟ماذا عن الثانية؟أين
-          تحدث الأخطاء؟
-        courseD_collector_debugging6_b: يبدو أن كافة الخطوات الصحيحة موجودة هنا، كل
-          ما في الأمر أنت بحاجة للمزيد منها. كيف يمكنك تكرار إجراء "الجمع" مرات عديدة؟
-      courseD_collector_debugging6a_2018:
-        courseD_collector_debugging6_a: حاول التحري في التعليمات البرمجية باستخدام
-          زر "الخطوة". هل كل شيء على ما يرام في الخطوة الأولى؟ماذا عن الثانية؟أين
-          تحدث الأخطاء؟
-      courseD_collector_debugging6a_2019:
-        courseD_collector_debugging6_a: حاول التحري في التعليمات البرمجية باستخدام
-          زر "الخطوة". هل كل شيء على ما يرام في الخطوة الأولى؟ماذا عن الثانية؟أين
-          تحدث الأخطاء؟
-      courseD_collector_debugging8:
-        courseD_collector_debugging8_a: هل تشاهد نمطًا يمكنك تبسيطه باستخدام حلقة
-          برمجية؟
-        courseD_collector_debugging8_b: حاول استخدام حلقة برمجية لتقصير هذه التعليمات
-          البرمجية.
-      courseD_collector_debugging9:
-        courseD_collector_debugging9_a: توجد عدة طرق لحل هذه المشكلة...لكنها كلها
-          تنطوي على استدارات!
-        courseD_collector_debugging9_b: تعرّف على كيفية حل اللغز، ثم تحرك خطوة بعد
-          خطوة لجعل التعليمات البرمجية مطابقة لما تفكّر فيه.
-      courseD_collector_debugging_challenge2:
-        courseD_collector_debugging_challenge2_a: "أبدأ بتجميع فقط عدد \"اثنان\" من
-          المجوهرات من كل كومة من \"الكومتين\" الأوليتين.![](<https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
-          AM copy.png>)استخدم هذه المربعات البرمجية.<xml>\n<block type=\"collector_collect\"></block>\n<block
-          type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n
-          \ </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title
-          name=\"DIR\">moveForward</title>\n                  </block>\n                  \n
-          \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n
-          \   <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
-        courseD_collector_debugging_challenge2_b: "قم بتجميع المجوهرات المتبقية في
-          هذا الصف، لاحقاً.![](<https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
-          AM.png>)اضف هذه المربعات البرمجية إلى البرنامج الخاص بك.<xml><block type=\"maze_move\">\n
-          \                   <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block
-          type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement
-          name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
-        courseD_collector_debugging_challenge2_c: "في النهاية، قم بتجميع الكنز المتبقي.
-          اضف هذه المربعات البرمجية إلى برنامجك.<xml>\n  <block type=\"maze_turn\">\n
-          \               <title name=\"DIR\">turnRight</title>\n              </block>\n
-          \     <block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n
-          \       <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
-        courseD_collector_debugging_challenge2_d: |-
-          ها هو الحل المتكامل لهذه المرحلة.<xml>
-            <block type="when_run" deletable="false" movable="false">
-              <next>
-                <block type="controls_repeat">
-                  <title name="TIMES">4</title>
-                  <statement name="DO">
-                    <block type="controls_repeat">
-                      <title name="TIMES">4</title>
-                      <statement name="DO">
-                        <block type="controls_repeat">
-                          <title name="TIMES">2</title>
-                          <statement name="DO">
-                            <block type="maze_move">
-                              <title name="DIR">moveForward</title>
-                              <next>
-                                <block type="controls_repeat">
-                                  <title name="TIMES">2</title>
-                                  <statement name="DO">
-                                    <block type="collector_collect"/>
-                                  </statement>
-                                </block>
-                              </next>
-                            </block>
-                          </statement>
-                          <next>
-                            <block type="maze_move">
-                              <title name="DIR">moveBackward</title>
-                            </block>
-                          </next>
-                        </block>
-                      </statement>
-                      <next>
-                        <block type="maze_turn">
-                          <title name="DIR">turnRight</title>
-                        </block>
-                      </next>
-                    </block>
-                  </statement>
-                </block>
-              </next>
-            </block>
-          </xml>
+
       courseD_collector_nested_loops_challenge2:
         courseD_bee_nested_loops_challenge2_a: تذكر أنه يمكنك "تكرار" أمر واحد، أو
           نمط أطول. يمكنك حتى "تكرار" المربع البرمجي "تكرار"!
@@ -11501,12 +11525,7 @@ ar-SA:
           أنت تحتاج إلى استخدام المربع البرمجي "التقط ذرة" أكثر من مرة واحدة.
         courseD_harvester_nested_loops_challenge1_c: ستحتاج إلى وضع حلقة صغيرة داخل
           حلقتك الرئيسية لإنجاز هذه المرحلة!
-      courseD_iceage_loops3_2019:
-        courseB_iceage_loops3_a: |-
-          استخدم هذه القطعة البرمجية الجديدة.
-          <xml><block type="controls_repeat_dropdown">
-              <title name="TIMES" config="2-10">5</title>
-            </block></xml>
+
 
       courseD_maze_intro4_2019:
         courseC_maze_programming4_a: يمكنك الدوران يميناً ويساراً من وجهة نظر ريد
@@ -11599,24 +11618,13 @@ ar-SA:
           تقليل عدد القطع البرمجية المستخدمة.
         courseD_maze_nestedLoops6_c: ستحتاج الى مجموعتين من حلقات "التكرار" المتداخلة
           لإنجاز هذه المرحلة.
-      courseD_maze_ramp1:
-        courseC_maze_programming1_a: إذا لم يصل الطير إلى الخنزير، تأكد من النقر على
-          المربعات البرمجية الثلاثة تمامًا مع بعضها، ثم انقر على "تشغيل" مرة أخرى.
-        courseC_maze_programming1_b: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
-      courseD_maze_ramp1_2018:
-        courseC_maze_programming1_a: إذا لم يصل الطير إلى الخنزير، تأكد من النقر على
-          المربعات البرمجية الثلاثة تمامًا مع بعضها، ثم انقر على "تشغيل" مرة أخرى.
-        courseC_maze_programming1_b: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
+
+
+      #Course D
+      #Lesson 2. Introduction to Online Puzzles
       courseD_maze_ramp1_2019:
-        courseC_maze_programming1_a: إذا لم يصل الطير إلى الخنزير، تأكد من النقر على
-          المربعات البرمجية الثلاثة تمامًا مع بعضها، ثم انقر على "تشغيل" مرة أخرى.
-        courseC_maze_programming1_b: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
+        courseC_maze_programming1_a: إذا لم يصل طقطق إلى السمكة، تأكد من أن جميع القطع البرمجية متصلة مع بعضها، ثم اضغط زر "تشغيل ▶" مرة أخرى.
+        courseC_maze_programming1_b: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseD_maze_ramp2:
         courseC_maze_programming2_a: لاستخدام المربع البرمجي "تحرك إلى الأمام"، اسحبه
           من مربع الأدوات ووضعه في مساحة العمل، وصله بالمربع البرمجي "عند التشغيل"
@@ -11630,18 +11638,17 @@ ar-SA:
         courseC_maze_programming2_b: تأكد من النقر على المربعات البرمجية الثلاثة معًا
           وربطها بالمربع البرمجي "عند التشغيل".
       courseD_maze_ramp2_2019:
-        courseC_maze_programming2_a: لاستخدام المربع البرمجي "تحرك إلى الأمام"، اسحبه
-          من مربع الأدوات ووضعه في مساحة العمل، وصله بالمربع البرمجي "عند التشغيل"
-          .
-        courseC_maze_programming2_b: تأكد من النقر على المربعات البرمجية الثلاثة معًا
-          وربطها بالمربع البرمجي "عند التشغيل".
+        courseC_maze_programming2_a: لاستخدام القطعة البرمجية "تحريك إلى الأمام"، اسحبها
+          من صندوق الأدوات وضعها في مساحة العمل، وركبها مع القطعة "عند التشغيل".
+        courseC_maze_programming2_b: تأكد من أن جميع القطع البرمجية الثلاثة متصلة معًا
+          ومع قطعة "عند التشغيل".
       courseD_maze_ramp3:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)لحذف
-          المربع البرمجي من منتصف التعليمات البرمجية الخاصة بك، اسحب كل المربعات البرمجية
-          في الأسفل بعيداً إلى جهة اليمين، والسماح بوضعهم في مساحة العمل لفترة وجيزة.
-          \ انقر على المربع البرمجي الذي ترغب في حذفه، ثم اسحبه مرة أخرى إلى مربع
-          الأدوات.وفي النهاية، ضع المربعات البرمجية الأخرى مرة أخرى في مكانها حيث
-          يجب وضعها."
+        courseC_maze_programming3_a: |-
+          لحذف قطعة برمجية من منتصف الكود، اسحب كل القطع البرمجية
+          أسفله إلى مساحة العمل، ثم اسحب على القطعة البرمجية الذي ترغب في حذفها وأعدها الى صندوق
+          الأدوات. وفي النهاية، ضع القطع البرمجية الأخرى مرة أخرى في مكانها حيث
+          كانت:
+          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
       courseD_maze_ramp3_2018:
         courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)لحذف
           المربع البرمجي من منتصف التعليمات البرمجية الخاصة بك، اسحب كل المربعات البرمجية
@@ -11650,12 +11657,10 @@ ar-SA:
           الأدوات.وفي النهاية، ضع المربعات البرمجية الأخرى مرة أخرى في مكانها حيث
           يجب وضعها."
       courseD_maze_ramp3_2019:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)لحذف
-          المربع البرمجي من منتصف التعليمات البرمجية الخاصة بك، اسحب كل المربعات البرمجية
-          في الأسفل بعيداً إلى جهة اليمين، والسماح بوضعهم في مساحة العمل لفترة وجيزة.
-          \ انقر على المربع البرمجي الذي ترغب في حذفه، ثم اسحبه مرة أخرى إلى مربع
-          الأدوات.وفي النهاية، ضع المربعات البرمجية الأخرى مرة أخرى في مكانها حيث
-          يجب وضعها."
+        courseC_maze_programming3_a: |-
+          لحذف القطعة البرمجية التي لا تحتاجها وتعيدها الى صندوق الأدوات، اتبع الخطوات التالية:
+          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+
       courseD_maze_ramp4:
         courseC_maze_programming4_a: يمكنك الالتفاف يمينًا أو يسارًا من وجهة نظر الطير.
           إذا كنت تواجه اليمين، فالتفاف إلى اليمين سيجعلك تشير للأسفل.
@@ -11667,74 +11672,65 @@ ar-SA:
         courseC_maze_programming4_b: لاتباع المسار، تحرك للأمام ولف طقطق واحدة، ثم
           تحرك مرة أخرى ودر إلى الاتجاه المعاكس. تحرك للأمام مرة أخرى للوصول إلى الخنزير.
       courseD_maze_ramp4_2019:
-        courseC_maze_programming4_a: يمكنك الدوران يميناً أو يساراً من وجهة نظر ابن بطوطة.
-          إذا كنت متجه إلى اليمين، فإن الإتجاه نحو اليمين سيجعلك تشير إلى الأسفل.
-        courseC_maze_programming4_b: لمتابعة المسار تقدّم للأمام ثم أدر في اتجاه واحد
-          ، ثم تحرك مجددًا واستدر في الاتجاه المعاكس. تقدّم للأمام مرةً أخرى للوصول
-          إلى شجرة البلوط.
+        courseC_maze_programming4_a: يمكنك الدوران يميناً أو يساراً من وجهة نظر طقطق.
+          إذا كنت متجها إلى اليمين، فإن ذلك سيجعلك تشير إلى الأسفل.
+        courseC_maze_programming4_b: لمتابعة المسار تقدّم للأمام ثم انعطف باتجاه واحد
+          ، ثم تحرك مجددًا انعطف في الاتجاه المعاكس. تحرك الى الأمام مرةً أخرى للوصول
+          إلى السمكة.
       courseD_maze_ramp5:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور  طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5_2018:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور  طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5_2019:
-        courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
-          الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
-        courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
+        courseC_maze_programming5_a: استخدم زر "جرب خطوة" لتشغيل الكود الذي كتبته سطرا بعد سطر. هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
+        courseC_maze_programming5_b: تذكّر أنك تتحرك من منظور طقطق.
+        courseC_maze_programming5_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseD_maze_ramp5a:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5a_2018:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5a_2019:
-        courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
-          الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
+        courseC_maze_programming5_a: استخدم زر "جرب خطوة" لتشغيل الكود الذي كتبته سطرا بعد سطر. هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
         courseC_maze_programming5_b: تذكّر أن الدوران هو من منظور ابن بطوطة.
-        courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
+        courseC_maze_programming5_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseD_maze_ramp5b:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور  طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5b_2018:
         courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
           الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور طقطق.
         courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
           وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
           لحل اللغز حتى الآن.
       courseD_maze_ramp5b_2019:
-        courseC_maze_programming5_a: جرب استخدام الزر "خطوة" لتشغيل التعليمات البرمجية
-          الخاصة بك سطر بعد سطر.هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
-        courseC_maze_programming5_b: تذكّر أن الالتفافات هي من منظور الطير.
-        courseC_maze_programming5_c: لا تخشى ارتكاب الأخطاء! جرب إضافة المربعات البرمجية
-          وتشغيل التعليمات البرمجية لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأنك لن تتوصل
-          لحل اللغز حتى الآن.
+        courseC_maze_programming5_a: استخدم زر "جرب خطوة" لتشغيل الكود الذي كتبته سطرا بعد سطر. هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟
+        courseC_maze_programming5_b: تذكّر أن الدوران يكون من منظور طقطق.
+        courseC_maze_programming5_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
       courseD_maze_ramp6:
         courseC_maze_programming6_a: هناك طريقتان لإنجاز هذه المرحلة!
         courseC_maze_programming6_b: الطير يبدأ مواجهًا الحائط، لذلك تذكّر أن تلف
@@ -11748,6 +11744,405 @@ ar-SA:
           مجموعة من التعليمات البرمجية مرارًا وتكرارًا.
         courseD_maze_ramp7_c: إذا أردت أن تبسط تعليماتك البرمجية، يمكنك وضع حلقة تكرارية
           واحدة داخل أخرى! هذا يسمى \\وظيفة التكرار المتداخلة".
+      #End of Course D- Lesson 2
+
+
+
+
+      #Course D
+      #Lesson 4. Debugging with Laurel
+      courseD_collector_debugging1:
+        courseD_collector_debugging1_a: استخدم زر "جرب خطوة" لتتأكد من صحة كل شيء في
+          الخطوة الأولى. ماذا عن الثانية؟ أين يقع الخطأ؟
+        courseD_collector_debugging1_b: هل تشاهد أي أنماط يمكن أن أن تصبح أسهل باستخدام
+          حلقة "استمرار"؟
+        courseD_collector_debugging1_c: تذكّر أن تستخدم المربع البرمجي "جمع" لالتقاط
+          الكنز بمجرد تحريكك إياه.
+      courseD_collector_debugging10_predict1:
+        courseD_collector_debugging9_a: توجد عدة طرق لحل هذه المشكلة...لكنها كلها
+          تنطوي على استدارات!
+        courseD_collector_debugging9_b: تعرّف على كيفية حل اللغز، ثم تحرك خطوة بعد
+          خطوة لجعل التعليمات البرمجية مطابقة لما تفكّر فيه.
+      courseD_collector_debugging1a_2018:
+        courseD_collector_debugging1_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
+          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
+        courseD_collector_debugging1_c: تذكّر أن تستخدم المربع البرمجي "جمع" لالتقاط
+          الكنز بمجرد تحريكك إياه.
+      courseD_collector_debugging1a_2019:
+        courseD_collector_debugging1_a: استخدم زر "جرب خطوة" لتتأكد من صحة كل شيء في الخطوة الأولى. ماذا عن الثانية؟ أين يقع الخطأ؟
+        courseD_collector_debugging1_c: تذكّر أن تستخدم القطعة البرمجية "اجمع" لالتقاط
+          الجواهر عندما تصل اليها.
+      courseD_collector_debugging2:
+        courseD_collector_debugging2_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
+          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
+        courseD_collector_debugging2_b: هل تشاهد أي أنماط يمكن أن أن تصبح أسهل باستخدام
+          حلقة "استمرار"؟
+        courseD_collector_debugging2_c: حاول جمع الكنز لجانب واحج من هذا النمط. هل
+          يمكنك تكرار هذه الخطوة لجمع الكنز في الجانبين الآخرين؟
+      courseD_collector_debugging2a_2018:
+        courseD_collector_debugging2a_a: استخدم زر "الخطوة" للتأكد من صحة كل شيء في
+          الخطوة الأولى.ماذا عن الثانية؟أين يقع الخطأ؟
+      courseD_collector_debugging2a_2019:
+        courseD_collector_debugging2a_a: استخدم زر "جرب خطوة" لتتأكد من صحة كل شيء في الخطوة الأولى. ماذا عن الثانية؟ أين يقع الخطأ؟
+        courseD_collector_debugging2a_c: |-
+          ماذا حدث؟ ماذا كان يجب ان يحدث؟ ماذا يعني ذلك؟
+
+
+      courseD_collector_debugging3:
+        courseD_collector_debugging3_a: هل يوجد مكان قامت فيه لوريل بشيء غير منطقي؟
+          ما الذي يحدث عندما تقوم بتغيير تلك المربعات البرمجية؟
+        courseD_collector_debugging3_b: حاول تبسيط التعليمات البرمجية باستخدام حلقات
+          متداخلة.
+      courseD_collector_debugging3a_2018:
+        courseD_collector_debugging3_a: هل يوجد مكان قامت فيه لوريل بشيء غير منطقي؟
+          ما الذي يحدث عندما تقوم بتغيير تلك المربعات البرمجية؟
+      courseD_collector_debugging3a_2019:
+        courseD_collector_debugging3_a: ادرس الكود الموجود في مساحة العمل، هل قامت لوريل بشيء غير منطقي؟
+          ما الذي سيحدث اذا عدلت تلك القطع البرمجية؟
+      courseD_collector_debugging4:
+        courseD_collector_debugging4_a: حاول استخدام عملية إصلاح الخطأ عدد من المرات
+          في طابور.ما الذي تسبب في المشكلة الأولى؟بعد تصحيح المشكلة، ما الخطأ الذي
+          يحدث؟
+        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
+          خطوة الكرسي، حاول تعقبها بأصبعك وترديد الأوامر بصوت مرتفع.لا تنسى الإشارة
+          إلى اتجاه الاستدارات!
+        courseD_collector_debugging4_c: هذا البرنامج يفتقد إلى مربع برمجي واحد. هل
+          يمكن معرفة أين هو؟
+      courseD_collector_debugging4a_2018:
+        courseD_collector_debugging4_a: حاول استخدام عملية إصلاح الخطأ عدد من المرات
+          في طابور.ما الذي تسبب في المشكلة الأولى؟بعد تصحيح المشكلة، ما الخطأ الذي
+          يحدث؟
+        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
+          خطوة الكرسي، حاول تعقبها بأصبعك وترديد الأوامر بصوت مرتفع.لا تنسى الإشارة
+          إلى اتجاه الاستدارات!
+      courseD_collector_debugging4a_2019:
+        courseD_collector_debugging4_a:  حاول استخدام عملية تصحيح الخلل البرمجي عدة مرات متتالية.
+          ما الذي تسبب في الخلل الأول؟ بعد تصحيح الخلل، ما الخطأ الذي
+          يحدث لاحقا؟
+        courseD_collector_debugging4_b: إذا كنت تواجه صعوبة في معرفة كيفية عمل نمط
+          تدرج السلم، حاول تعقب الخطوات اللازمة بإصبعك وترديدها بصوت عالٍ. لا تنسَ الانتباه الى الاتجاهات التي يجب ان تستدير عندها.
+      courseD_collector_debugging5:
+        courseD_collector_debugging5_a: حاول النظر في الحلقة الأولى فقط.ماذا تعمل؟ما
+          هو المفروض منها أن تعمل؟ما الذي يوحي لك ذلك؟
+        courseD_collector_debugging5_b: بمجرد حصولك على الحلقة البرمجية بالطريقة التي
+          تحلو لك، ما الذي بقي في تعلماتك البرمجية؟
+      courseD_collector_debugging5a_2019:
+        courseD_collector_debugging5a_a: |-
+          ماذا حدث؟ ماذا كان يجب ان يحدث؟ ماذا يعني ذلك؟
+
+        courseD_collector_debugging5a_b: عندما تنهي جمع الصف الأول من الجواهر، ماذا سيفعل الكود المتبقي في مساحة العمل؟
+      courseD_collector_debugging6:
+        courseD_collector_debugging6_a: حاول التحري في التعليمات البرمجية باستخدام
+          زر "الخطوة". هل كل شيء على ما يرام في الخطوة الأولى؟ماذا عن الثانية؟أين
+          تحدث الأخطاء؟
+        courseD_collector_debugging6_b: يبدو أن كافة الخطوات الصحيحة موجودة هنا، كل
+          ما في الأمر أنت بحاجة للمزيد منها. كيف يمكنك تكرار إجراء "الجمع" مرات عديدة؟
+      courseD_collector_debugging6a_2018:
+        courseD_collector_debugging6_a: حاول التحري في التعليمات البرمجية باستخدام
+          زر "الخطوة". هل كل شيء على ما يرام في الخطوة الأولى؟ماذا عن الثانية؟أين
+          تحدث الأخطاء؟
+      courseD_collector_debugging6a_2019:
+        courseD_collector_debugging6_a: استخدم زر "جرب خطوة" لتتأكد من صحة كل شيء في الخطوة الأولى. ماذا عن الثانية؟ أين يقع الخطأ؟
+        courseD_collector_debugging6_b: يبدوم أن كل القطع البرمجية التي تحتاجها موجودة في مساحة العمل بالفعل. اذا تعقدت الأمور.. اضغط زر "البدء من جديد".
+      courseD_collector_debugging8:
+        courseD_collector_debugging8_a: هل تشاهد نمطًا يمكنك تبسيطه باستخدام حلقة
+          برمجية؟
+        courseD_collector_debugging8_b: حاول استخدام حلقة برمجية لتقصير هذه التعليمات
+          البرمجية.
+      courseD_collector_debugging9:
+        courseD_collector_debugging9_a: توجد عدة طرق لحل هذه المشكلة...لكنها كلها
+          تنطوي على استدارات!
+        courseD_collector_debugging9_b: تعرّف على كيفية حل اللغز، ثم تحرك خطوة بعد
+          خطوة لجعل التعليمات البرمجية مطابقة لما تفكّر فيه.
+      courseD_collector_debugging_challenge2:
+        courseD_collector_debugging_challenge2_a: "أبدأ بتجميع فقط عدد \"اثنان\" من
+          المجوهرات من كل كومة من \"الكومتين\" الأوليتين.![](<https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
+          AM copy.png>)استخدم هذه المربعات البرمجية.<xml>\n<block type=\"collector_collect\"></block>\n<block
+          type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n
+          \ </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title
+          name=\"DIR\">moveForward</title>\n                  </block>\n                  \n
+          \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n
+          \   <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
+        courseD_collector_debugging_challenge2_b: "قم بتجميع المجوهرات المتبقية في
+          هذا الصف، لاحقاً.![](<https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
+          AM.png>)اضف هذه المربعات البرمجية إلى البرنامج الخاص بك.<xml><block type=\"maze_move\">\n
+          \                   <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block
+          type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement
+          name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
+        courseD_collector_debugging_challenge2_c: "في النهاية، قم بتجميع الكنز المتبقي.
+          اضف هذه المربعات البرمجية إلى برنامجك.<xml>\n  <block type=\"maze_turn\">\n
+          \               <title name=\"DIR\">turnRight</title>\n              </block>\n
+          \     <block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n
+          \       <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
+        courseD_collector_debugging_challenge2_d: |-
+          ها هو الحل المتكامل لهذه المرحلة.<xml>
+            <block type="when_run" deletable="false" movable="false">
+              <next>
+                <block type="controls_repeat">
+                  <title name="TIMES">4</title>
+                  <statement name="DO">
+                    <block type="controls_repeat">
+                      <title name="TIMES">4</title>
+                      <statement name="DO">
+                        <block type="controls_repeat">
+                          <title name="TIMES">2</title>
+                          <statement name="DO">
+                            <block type="maze_move">
+                              <title name="DIR">moveForward</title>
+                              <next>
+                                <block type="controls_repeat">
+                                  <title name="TIMES">2</title>
+                                  <statement name="DO">
+                                    <block type="collector_collect"/>
+                                  </statement>
+                                </block>
+                              </next>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="maze_move">
+                              <title name="DIR">moveBackward</title>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <next>
+                        <block type="maze_turn">
+                          <title name="DIR">turnRight</title>
+                        </block>
+                      </next>
+                    </block>
+                  </statement>
+                </block>
+              </next>
+            </block>
+          </xml>
+      #End of Lesson 4: Debugging with Laurel
+
+
+
+      #Course D
+      #Lesson 5: Events in Bounce
+      courseD_bounce_events10s_2019:
+        courseD_bounce_events10s_a: |-
+          يجب أن يحتوي الكود الذي كتبته على هذين الحدثين:
+
+          <xml><block type="bounce_whenBallInGoal" deletable="false"><next><block type="bounce_playSound"><title name="SOUND">swish</title><next><block type="bounce_incrementPlayerScore"></block></next></block></next></block><block type="bounce_whenBallMissesPaddle" deletable="false"><next><block type="bounce_playSound"><title name="SOUND">whistle</title><next><block type="bounce_incrementOpponentScore"></block></next></block></next></block</xml>
+      courseD_bounce_events11s_2019:
+        courseD_bounce_events11s_a: ستحتاج أن ترمي كرة جديدة عند بداية اللعبة، وعندما تضرب السلة، وحتى عندما لا تضرب اليد الكرة.
+      courseD_bounce_events12s_2019:
+        courseD_bounce_events12s_a: يمكنك جعل الكرة أو اليد أسرع عندما تضيف قطعا برمجية الى الحدث "عند التشغيل".
+        courseD_bounce_events12s_b: جرب أن تجعل كل هدف يساوي نقطتين وأن تجعل شعار الفريق مماثلا لشعار فريق مدينتك.
+      courseD_bounce_events1s_2019:
+        courseD_bounce_events1s_a: |-
+          يجب أن تضيف قطعة "تحرك لليسار" الى حدث "عند الضغط على السهم الأيسر" حتى تنجز هذه المرحلة
+          <xml> <block type=\"bounce_whenLeft\" deletable=\"false\" x=\"20\" y=\"20\">\n    <next>\n      <block type=\"bounce_moveLeft\"/>\n    </next>\n  </block>\n   \n   </xml>
+        courseD_bounce_events1s_b: لا تنسَ أن تضغط زر "تشغيل ▶" حتى تصل اليد الى السلة لتتمكن من إنجاز هذه المرحلة.
+      courseD_bounce_events2s_2019:
+        courseD_bounce_events2s_a: |-
+          ستحتاج الى قطعتين من الحدث البرمجي "عند الضغط" حتى تنجز هذه المرحلة:
+          <xml>
+            <block type="bounce_whenLeft" deletable="false" x="20" y="20">
+              <next>
+                <block type="bounce_moveLeft"/>
+              </next>
+            </block>
+            <block type="bounce_whenRight" deletable="false" x="180" y="20">
+              <next>
+                <block type="bounce_moveRight"/>
+              </next>
+            </block>
+          </xml>
+      courseD_bounce_events5s_2019:
+        courseD_bounce_events5s_a: لا تحتاج أن تحرك اليد حتى تنجز هذه المرحلة.
+        courseD_bounce_events5s_b: |-
+          تأكد من أنك أضفت هذا الجزء من الكود الى مساحة العمل:
+
+          <xml>  <block type="bounce_whenPaddleCollided" deletable="false"> <next> <block type="bounce_bounceBall"/></next></block></xml>
+      courseD_bounce_events6s_2019:
+        courseD_bounce_events6s_a: |-
+          هل يحتوي الكود الذي كتبته على حدث برمجي كهذا؟
+
+          <xml><block type="bounce_whenWallCollided" deletable="false"><next><block type="bounce_bounceBall"></block></next></block></block></xml>
+        courseD_bounce_events6s_b: لن تحتاج الى تحريك اليد اذا قمت بكتابة الكود بشكل صحيح.
+      courseD_bounce_events7s_2019:
+        courseD_bounce_events7s_a: يمكنك إضافة أصوات في أماكن أخرى إذا أحببت.
+      courseD_bounce_events_template_authored_hint: {}
+      courseD_bounce_events_template_2018_authored_hint: {}
+      courseD_bounce_events_template_2019_authored_hint: {}
+      #End of Lesson 5
+
+
+      #Course D
+      #Lesson 8: Loops in Ice Age
+      courseD_iceage_loops10_2019:
+        courseD_iceage_loops10_a: احذر السقوط في الماء!
+        courseD_iceage_loops10_b: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
+        courseD_iceage_loops10_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops1_2019:
+        courseD_iceage_loops1_a: احذر أن تسقط في الماء!
+        courseD_iceage_loops1_b: |-
+          استخدم هذه القطعة البرمجية:
+
+          <xml><block type="maze_moveForward"/></xml>
+
+      courseD_iceage_loops2_2019:
+        courseB_iceage_loops2_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
+        courseB_iceage_loops2_b: حاول قراءة الخطوات بصوت عالٍ فقد يساعدك ذلك في إيجاد الحل!
+        courseB_iceage_loops2_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops3_2019:
+        courseD_iceage_loops3_a: |-
+          استخدم هذه القطعة البرمجية:
+          <xml><block type="controls_repeat_dropdown">
+             <title name="TIMES" config="2-10">5</title>
+           </block></xml>
+        courseD_iceage_loops3_b: |-
+          لتكرار الكود، استخدم حلقة التكرار وضع القطعة البرمجية التي تريد تكرارها داخلها.
+
+      courseD_iceage_loops4_2019:
+        courseD_iceage_loops4_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
+        courseD_iceage_loops4_b: جرب تشغيل الكود الذي كتبته وشاهد ما سيحصل!
+        courseD_iceage_loops4_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops6_2019:
+        courseD_iceage_loops6_a: ستحتاج الى 3 قطع برمجية للحركة.
+        courseD_iceage_loops6_b: استخدم حلقة تكرار إضافية.
+        courseD_iceage_loops6_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops7_2019:
+        courseD_iceage_loops7_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
+        courseD_iceage_loops7_b: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops8_2019:
+        courseD_iceage_loops8_a: هل يمكنك تعديل قطع برمجية أخرى غير التي لها علاقة بالحركة؟
+        courseD_iceage_loops8_b: حلقة التكرار الأولى ستعمل 3 مرات، والثانية 5 مرات، والثالثة 4 مرات والأخيرة 4 مرات.
+        courseD_iceage_loops8_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+
+      courseD_iceage_loops9_2019:
+        courseD_iceage_loops9_a: جرب أن تجزئ المرحلة الى أجزاء بسيطة، .. ستصبح أسهل!
+        courseD_iceage_loops9_b: استخدم حلقة التكرار 4 مرات لإنجاز المرحلة.
+        courseD_iceage_loops9_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
+      #End of courseB_iceage_loops
+
+
+
+      #Course D
+      #Lesson 16: Binary Images with Artist
+      courseD_artist_binary1:
+        courseD_artist_binary1_a: استبدل "؟؟؟" في مربع النص البرمجي بصورة ثنائية ترغب
+          فيها، في أرقام الصفر وواحد.
+        courseD_artist_binary1_b: سيرسم الفنان مساحة بيضاء لكل 1 ومساحة سوداء لكل
+          0.
+        courseD_artist_binary1_c: هكذا يمكنك إدخال رمزك الثنائي:![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+      courseD_artist_binary1_2019:
+        courseD_artist_binary1_a: استبدل "؟؟؟" في القطعة البرمجية النصية بأي صورة ثنائية ترغب
+          بها، ممثلة بأرقام صفر وواحد.
+        courseD_artist_binary1_b: سيرسم الفنان مساحة بيضاء لكل رقم 1 ومساحة سوداء لكل رقم 0.
+        courseD_artist_binary1_c: |-
+          يمكنك إدخال رمزك الثنائي بهذه الطريقة:
+          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+
+      courseD_artist_binary2_2019:
+        courseD_artist_binary2_a: اضغط زر "تشغيل ▶" لتشاهد كيف يعمل البرنامج!
+      courseD_artist_binary3:
+        courseD_artist_binary3_a: أحد الأنماط الثنائية الأربعة في مربع الأدوات سوف يقوم
+          بإنجاز هذه المرحلة!
+        courseD_artist_binary3_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary3_2018:
+        courseD_artist_binary3_a: أحد الأنماط الثنائية الأربعة في مربع الأدوات سوف
+          يإنجاز هذه المرحلة!
+        courseD_artist_binary3_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary3_2019:
+        courseD_artist_binary3_a: أحد سلاسل الرموز الثنائية الأربعة في صندوق الأدوات سوف
+          ينجز هذه المرحلة!
+        courseD_artist_binary3_b: ا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+      courseD_artist_binary4:
+        courseD_artist_binary4_a: أنظر إلى أول ثلاثة مربعات في الطابور العلوي. هل
+          يمكنك تكرار هذه المربعات الثلاثة للحصول على النمط الكامل؟
+        courseD_artist_binary4_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary4_2018:
+        courseD_artist_binary4_a: أنظر إلى أول ثلاثة مربعات في الطابور العلوي. هل
+          يمكنك تكرار هذه المربعات الثلاثة للحصول على النمط الكامل؟
+        courseD_artist_binary4_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary4_2019:
+        courseD_artist_binary4_a: انظر إلى أول ثلاثة مربعات في الصف العلوي. هل
+          يمكنك تكرار كود هذه المربعات الثلاثة للحصول على النمط الكامل؟
+        courseD_artist_binary4_b: ا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+      courseD_artist_binary5:
+        courseD_artist_binary5_a: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary5_b: يجب عليك تبديل طابورين فقط لإنتاج الابتسامة.
+        courseD_artist_binary5_c: إذا واجهتك صعوبة في حل اللغز، حاول كتابة الأسطر
+          الثنائية على قطعة ورق وابحث عن النمط.
+      courseD_artist_binary5_2018:
+        courseD_artist_binary5_a: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary5_b: يجب عليك تبديل طابورين فقط لإنتاج الابتسامة.
+        courseD_artist_binary5_c: إذا واجهتك صعوبة في حل اللغز، حاول كتابة الأسطر
+          الثنائية على قطعة ورق وابحث عن النمط.
+      courseD_artist_binary5_2019:
+        courseD_artist_binary5_a: جرب تشغيل الكود أولا لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary5_b: يجب عليك تبديل صفين فقط لتحصل على صورة الابتسامة.
+        courseD_artist_binary5_c: اذا كنت لا تستطيع إيجاد الحل، جرب أن تكتب الخطوات على قطعة ورق وحاول إيجاد نمط متكرر.
+      courseD_artist_binary6:
+        courseD_artist_binary6_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك الثنائية شيئًا فشيئًا، مع الاستمرار
+          في الاختبار!
+      courseD_artist_binary6_2018:
+        courseD_artist_binary6_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك الثنائية شيئًا فشيئًا، مع الاستمرار
+          في الاختبار!
+      courseD_artist_binary6_2019:
+        courseD_artist_binary6_a: ابدأ في الجهة العلوية اليسرى. إلى أي مدى يجب أن تقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary6_b: يمكنك إنشاء سلسلتك من الرموز الثنائية شيئًا فشيئًا.. واصل اختبارها للتأكد!
+      courseD_artist_binary7:
+        courseD_artist_binary7_a: ابدأ في الجهة العلوية اليسرى. إلى أي مدى يجب أن تقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary7_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary7_2018:
+        courseD_artist_binary7_a: ابدأ في الجهة العليا اليسرى. إلى أي مدى ستقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary7_b: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary7_2019:
+        courseD_artist_binary7_a: ابدأ في الجهة العلوية اليسرى. إلى أي مدى يجب أن تقرأ قبل
+          أن يبدأ النمط بتكرار نفسه؟
+        courseD_artist_binary7_b: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+      courseD_artist_binary8:
+        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
+          كل سطر عمودي في ذهنك أثناء إنشائك لهذا التصميم.
+        courseD_artist_binary8_b: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary8_c: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary8_2018:
+        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
+          كل سطر عمودي في ذهنك أثناء إنشائك لهذا التصميم.
+        courseD_artist_binary8_b: حاول تشغيل التعليمات البرمجية لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary8_c: لا تخشى من ارتكاب خطأ! حاول إضافة مربعات برمجية
+          وتشغيل التعليمات البرمجية لترى ما الذي يحدث، حتى لو لم تحل اللغز بعد.
+      courseD_artist_binary8_2019:
+        courseD_artist_binary8_a: الشكل الحلزوني يمكن أن يكون مربكًا أحيانًا. اعزل
+          كل صف أفقي في ذهنك أثناء إنشائك لهذا التصميم.
+        courseD_artist_binary8_b: جرب تشغيل الكود أولا لتشاهد ما يتوجب عليك
+          العمل معه.
+        courseD_artist_binary8_c: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية وتشغيل الكود لرؤية ماذا سيحدث، حتى إذا كنت تعتقد بأن الحل ليس صحيحا تماما!
+      #End of Lesson 16
+
+
+
 
       #Express
       #Lesson 14: Maze Until Loops
@@ -12147,7 +12542,7 @@ ar-SA:
         courseD_artist_functions2_c: |-
           تأكد من استدعاء الوظيفة وإلا فإن الكود الذي بداخلها الوظيفة لن يعمل. استخدم:
 
-          <xml><block type="procedures_callnoreturn" limit="2"><mutation name="draw a square"/></block></xml>
+          <xml><block type="procedures_callnoreturn" limit="2"><mutation name="ارسم مربع"/></block></xml>
       courseE_artist_functions2_copy:
         courseD_artist_functions2_b: الوظيفة التي تكتبها يجب إلا تحتوي على برنامجك
           الكامل، بل تحتوي فقط على القسم الذي يرسم المربع الذي قياس جوانبه 100 بيكسل.
@@ -12761,63 +13156,11 @@ ar-SA:
           المسارات.
         courseE_farmer_functions9b_c: سترغب في التحرك عبر المسارات كأنها مربعات تكبر
           بعد كل حلقة.
-      courseE_farmer_ramp11a:
-        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "تكرار" لإخطار المُزارع عدد
-          مرات غَرْف التراب، الآن يمكنك استخدام المربع البرمجي "بينما توجد كومة".
-        courseE_farmer_ramp12_b: ما عليك إلا التحرك للأمام للحصول على التراب.
-      courseE_farmer_ramp11a_2018:
-        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "تكرار" لإخطار المُزارع عدد
-          مرات غَرْف التراب، الآن يمكنك استخدام المربع البرمجي "بينما توجد كومة".
-        courseE_farmer_ramp12_b: ما عليك إلا التحرك للأمام للحصول على التراب.
-      courseE_farmer_ramp11a_2019:
-        courseE_farmer_ramp12_a: بدلاً من استخدام حلقة "تكرار" لإخطار المُزارع عدد
-          مرات غَرْف التراب، الآن يمكنك استخدام المربع البرمجي "بينما توجد كومة".
-        courseE_farmer_ramp12_b: ما عليك إلا التحرك للأمام للحصول على التراب.
-      courseE_farmer_ramp11b:
-        courseE_farmer_ramp11b_a: يمكنك أن  تُدخل حلقة `طالما` في حلقة الـ `تكرار`
-          لجعل الكود البرمجي أقصر.
-      courseE_farmer_ramp11b_2018:
-        courseE_farmer_ramp11b_a: يمكنك أن  تُدخل حلقة `طالما` في حلقة الـ `تكرار`
-          لجعل الكود البرمجي أقصر.
-      courseE_farmer_ramp11b_2019:
-        courseE_farmer_ramp11b_a: يمكنك أن  تُدخل حلقة `طالما` في حلقة الـ `تكرار`
-          لجعل الكود البرمجي أقصر.
-      courseE_farmer_ramp12_forswap:
-        courseE_farmer_ramp12_b: 'لا تزال بحاجة الى استخدام حلقة `كرر` عند التشغيل
-          لتقول للمزارع كم مرة يجب فيها التقدم للأمام وجمع الخس. '
-      courseE_farmer_ramp12_forswap_2018:
-        courseE_farmer_ramp12_b: 'لا تزال بحاجة الى استخدام حلقة `كرر` عند التشغيل
-          لتقول للمزارع كم مرة يجب فيها التقدم للأمام وجمع الخس. '
-      courseE_farmer_ramp12_forswap_2019:
-        courseE_farmer_ramp12_b: 'لا تزال بحاجة الى استخدام حلقة `كرر` عند التشغيل
-          لتقول للمزارع كم مرة يجب فيها التقدم للأمام وجمع الخس. '
-      courseE_farmer_ramp12c:
-        courseE_farmer_ramp12b_b: لا تزال أولاً بحاجة إلى استخدام حلقة `التكرار حتى`,
-          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة `التكرار طالما`.
-      courseE_farmer_ramp12c_2018:
-        courseE_farmer_ramp12b_b: لا تزال أولاً بحاجة إلى استخدام حلقة `التكرار حتى`,
-          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة `التكرار طالما`.
-      courseE_farmer_ramp12c_2019:
-        courseE_farmer_ramp12b_b: لا تزال أولاً بحاجة إلى استخدام حلقة `التكرار حتى`,
-          ومن ثم عند وصولك إلى الخس قم بإستخدام حلقة `التكرار طالما`.
-      courseE_farmer_ramp12f:
-        courseE_farmer_ramp12f_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
-      courseE_farmer_ramp12f_2018:
-        courseE_farmer_ramp12f_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
-      courseE_farmer_ramp12f_2019:
-        courseE_farmer_ramp12f_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
-      courseE_farmer_ramp12g:
-        courseE_farmer_ramp12G_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
-      courseE_farmer_ramp12g_2018:
-        courseE_farmer_ramp12G_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
-      courseE_farmer_ramp12g_2019:
-        courseE_farmer_ramp12G_b: استخدم المربع البرمجي "إذا/وإلا" لمساعدة المُزارع
-          على اتخاذ قرار للالتفاف إلى اليمين أو اليسار.
+
+
+
+
+
       courseE_playLab_challenge1:
         courseE_playLab_challenge1_a: |-
           هنا بعض الأشياء التي يمكنك القيام بها عندما يفوز اللاعب اللعبة:
