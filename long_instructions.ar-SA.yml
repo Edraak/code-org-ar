@@ -976,7 +976,7 @@ ar-SA:
       OPD-K5-variables-5: |-
         قبل أن تصبح الأشياء أكثر غموضاً، هل يمكنك إضافة متغير اسمه "length" وقيمته 50 الى الكود الموجود في مساحة العمل حتى نستخدمه في المراحل القادمة؟
 
-        ![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        ![expandable](https://drive.google.com/file/d/1rC0EkkK28s2N-ffernJofQlbPFJFBjFA/view?usp=sharing)
       OPD-K5-variables-6: اجعل الفنان يقفز إلى الأمام والأسفل بين المثلثات بمقدار قيمة المتغير "length" من البيكسل.
 
       Overworld Chop Tree: الخشب أحد الموارد شديدة الأهمية، حيث تتكون أشياء كثيرة
@@ -1346,6 +1346,11 @@ ar-SA:
           الحصول على 3 في الصف؟
       #End of courseB_artist_loops
 
+
+
+
+      #Course A
+      #Lesson 9. Loops with Laurel
       courseA_collector_loops1: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها واحصل
         على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول معرفة
         كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
@@ -1353,26 +1358,38 @@ ar-SA:
         بالحصول عليه كله.)
       courseA_collector_loops12_2018: _"يوريكا! احصل على الكنز بقدر ما تستطيع!"_/(لست
         ملزمًا بالحصول عليه كله.)
-      courseA_collector_loops12_2019: _"يوريكا! احصل على الكنز بقدر ما تستطيع!"_/(لست
-        ملزمًا بالحصول عليه كله.)
+
       courseA_collector_loops1_2018: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها
         واحصل على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول
         معرفة كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
-      courseA_collector_loops1_2019: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها
-        واحصل على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول
-        معرفة كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
-      courseA_collector_loops2: |-
-        "احصل على الأكوام الثلاث كلها! حرك لوريل إلى كل قطعة من قطع الكنز، ثم استخدم هذا المربع البرمجي:
-          <xml><block type="collector_collect"/></xml>"
-      courseA_collector_loops2_2019: 'اجمع الأكوام الثلاثة! حرّك لوريل إلى كل قطعة
+      courseA_collector_loops1_2019: |-
+        اللعب الحر.. هنا لوريل المغامِرة! حرّكها واحصل أكبر قدر ممكن من الجواهر!
+
+        اسحب القطع البرمجية إلى مساحة العمل وحاول معرفة كيفية الحصول على الجواهر. احصل على جوهرة واحدة على الأقل لتنجز هذه المرحلة.
+      courseA_collector_loops2_2019: |-
+        احصل على الجواهر الثلاث كلها! حرك لوريل إلى كل قطعة من الجواهر، ثم استخدم هذه القطعة البرمجية:
+        <xml><block type="collector_collect"/></xml>
+      courseA_collector_loops2: 'اجمع الأكوام الثلاثة! حرّك لوريل إلى كل قطعة
         من الكنز، ثم استخدم [0] قطعة التجميع البرمجية. '
       courseA_collector_loops3: كيف تستطيع لوريل الحصول على جميع كومات الكنز باستخدام
         مربع برمجي <xml><block type="maze_moveEast"/></xml> واحد؟
       courseA_collector_loops3_2018: كيف تستطيع لوريل الحصول على جميع كومات الكنز
         باستخدام مربع برمجي <xml><block type="maze_moveEast"/></xml> واحد؟
-      courseA_collector_loops3_2019: كيف تستطيع لوريل الحصول على جميع كومات الكنز
-        باستخدام مربع برمجي <xml><block type="maze_moveEast" block-text="move east"/></xml>
-        واحد؟
+      courseA_collector_loops3_2019: كيف تستطيع لوريل الحصول على كل الجواهر
+        باستخدام قطعة برمجية <xml><block type="maze_moveEast" block-text="move east"/></xml>
+        واحدة؟
+      courseA_collector_loops4_2019: عدل القطع البرمجية الموجودة في مساحة العمل حتى تتمكن لوريل من جمع كل الجواهر.
+      courseA_collector_loops5_2019: استخدم ما تعلمته حتى الآن لتساعد لوريل في جمع كل الجواهر!
+      courseA_collector_loops6_2019: ما هي القطع البرمجية التي يمكن أن تضيفها حتى تنجز هذه المرحلة؟
+      courseA_collector_loops7_2019: ما هي القطع البرمجية التي يمكن أن تضيفها حتى تجمع كل الجواهر؟
+      courseA_collector_loops8_2019: اكتب الكود الذي يجعلك تجمع كل هذه الجواهر!
+      courseA_collector_loops9_2019: التحدي.. لاحظ وجود نمط تدرج السلم.. اكتب الكود الذي يجعلك تجمع كل الكنز.
+      courseA_collector_loops10_2019: ساعد لوريل في جمع كل الجواهر الموجودة على طول هذا المسار.
+      courseA_collector_loops11_2019: ساعد لوريل في جمع كل الجواهر الموجودة في الكهف.
+      courseA_collector_loops12_2019: يوريكا! اجمع قدر ما تشاء من الجواهر!
+      #End
+
+
       courseA_collector_loops_challenge1: _"هل يمكنك مساعدتي لرؤية بعض الأخطاء؟" أعرف
         بأي طريق أرغب في الذهاب، لكنني لست متأكدًا من عدد الخطوات التي يجب أن أتخذ_
       courseA_collector_loops_challenge1_2018: _"هل يمكنك مساعدتي لرؤية بعض الأخطاء؟"
@@ -1675,72 +1692,73 @@ ar-SA:
       #Course A/ PreReader
       #Lesson 6: Programming with Rey and BB-8!
       courseB_starWars_prog1: |-
-        ![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"اذهب
+        ![Rey](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)_"اذهب
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
-        ![صورة من صناديق الكنز](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
-      courseB_starWars_prog10: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![صورة من صناديق الكنز](https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)
+      courseB_starWars_prog10: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         \_"يبدو أن الصناديق الكنزية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
-      courseB_starWars_prog10_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog10_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         \_"يبدو أن الصناديق الكنزية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
       courseB_starWars_prog10_2019: ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟
-      courseB_starWars_prog11: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog11_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog11_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر صناديق سأجمعها.. هل تستطيع أن تساعدني؟"_'
-      courseB_starWars_prog1_2018: '![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"اذهب
+      courseB_starWars_prog1_2018: '![Rey](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)_"اذهب
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
-        ![صورة من صناديق الكنز](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)'
+        ![صورة من صناديق الكنز](https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)'
       courseB_starWars_prog1_2019: |-
-          ![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يجب أن أحصل على صندوق الكنز"_
-          استخدم القطع البرمجية المناسبة لتساعد الأميرة في الوصول الى صندوق الكنز الذي يبدو هكذا (https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)[picture of scrap metal]!
+          ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يجب أن أحصل على صندوق الكنز"_
 
-      courseB_starWars_prog2: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+          استخدم القطع البرمجية المناسبة لتساعد الأميرة في الوصول الى صندوق الكنز الذي يبدو هكذا (https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)[]!
+
+      courseB_starWars_prog2: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
-      courseB_starWars_prog2_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog2_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
-      courseB_starWars_prog2_2019: ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يجب أن أجمع كل صناديق الكنز؟"_
+      courseB_starWars_prog2_2019: ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يجب أن أجمع كل صناديق الكنز؟"_
 
-      courseB_starWars_prog3: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog3: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"واصل التقدم وساعد الأميرة في جمع المزيد من الصناديق الكنزية"_'
-      courseB_starWars_prog3_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog3_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"واصل التقدم وساعد الأميرة في جمع المزيد من الصناديق الكنزية"_'
-      courseB_starWars_prog3_2019: ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يجب أن أواصل التقدم لأجمع المزيد من صناديق الكنز"_
+      courseB_starWars_prog3_2019: ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يجب أن أواصل التقدم لأجمع المزيد من صناديق الكنز"_
 
-      courseB_starWars_prog4: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog4: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"أنت حتما تستطيع مساعدة الأميرة في جمع الصناديق الكنزية ! أليس كذلك؟!!"_'
-      courseB_starWars_prog4_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog4_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"أنت حتما تستطيع مساعدة الأميرة في جمع الصناديق الكنزية ! أليس كذلك؟!!"_'
       courseB_starWars_prog4_2019: أنت حتما تستطيع مساعدة الأميرة في جمع صناديق الكنز! أليس كذلك؟!!
 
-      courseB_starWars_prog5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog5: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه الصناديق الكنزية"'
-      courseB_starWars_prog5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog5_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه الصناديق الكنزية"'
-      courseB_starWars_prog5_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل تستطيع مساعدتي لجمع كل هذه الصناديق؟"_'
+      courseB_starWars_prog5_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هل تستطيع مساعدتي لجمع كل هذه الصناديق؟"_'
 
-      courseB_starWars_prog6: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog6: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
                                      _"رائع! هذا عدد كبير من الصناديق الكنزية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من الصناديق الكنزية بسهولة!!"_'
-      courseB_starWars_prog6_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog6_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"رائع! هذا عدد كبير من الصناديق الكنزية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من الصناديق الكنزية بسهولة!!"_'
       courseB_starWars_prog6_2019: رائع! هذا عدد كبير من صناديق الكنز! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من صناديق الكنز بسهولة!
 
-      courseB_starWars_prog7: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog7: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة اصبح مُولَعاً بجمع الصناديق الكنزية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
-      courseB_starWars_prog7_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog7_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة اصبح مُولَعاً بجمع الصناديق الكنزية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
-      courseB_starWars_prog7_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog7_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"واو! المزيد من صناديق الكنز!.. هيا لنجمعها كلها."_'
-      courseB_starWars_prog8: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog8: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
-      courseB_starWars_prog8_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog8_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
-      courseB_starWars_prog8_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog8_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"تحدي الكنز.. هل تستطيع مساعدتي في جمع كل هذه الصناديق من الكنز؟.. خليك قدها!."_'
-      courseB_starWars_prog9: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog9: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه الصناديق الكنزية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
-      courseB_starWars_prog9_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog9_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه الصناديق الكنزية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
       courseB_starWars_prog9_2019: هل يمكنك مساعدة الأميرة مجددا؟ جرّب وخلينا نشوف!
       #End_of_CourseA_Lesson6
@@ -1763,9 +1781,9 @@ ar-SA:
       #Lesson 7: Loops with the Harvester
       courseA_harvester_loops1_2019: ساعد الحصادة في جمع كل الذرة!
       courseA_harvester_loops2_2019: يجب أن تجمع الحصادة كل الذرة. هل ترى نمطا معينا؟
-      courseA_harvester_loops3_2019: هل يمكنك أن تجمع كل الذرة باستخدام قطعة <xml><block type=\"maze_moveWest\"/></xml> مرة واحدة فقط؟
+      courseA_harvester_loops3_2019: هل يمكنك أن تجمع كل الذرة باستخدام قطعة <xml><block type="maze_moveWest" block-text="move west"></block></xml> مرة واحدة فقط؟
       courseA_harvester_loops4_2019: |-
-        _"أحتاج مساعدتك لأاعرف أين الخطأ"_
+        _"أحتاج مساعدتك لأعرف أين الخطأ"_
 
         هل تستطيع مساعدة الحصادة لتصحيح الخلل البرمجي في الكود الموجود في مساحة العمل؟
       courseA_harvester_loops5_2019: هل يمكنك جمع الذرة الموجودة في نهاية المسار أيضا؟ جرب ودعنا نرى ما سيحدث!
@@ -1778,6 +1796,23 @@ ar-SA:
       courseA_harvester_loops11_2019: أي قطع برمجية ستسخدم لتجمع كل الذرة هذه المرة؟
       #End_of_CourseB_Lesson7
 
+
+
+      #CourseA
+      #Lesson 5: Programming with Scrat
+      courseB_maze_seq1_2019: |-
+        جرب اللعب بالقطع البرمجية وشاهد ما سيحدث.
+        ساعد ابن بطوطة في الوصول الى السوسنة السوداء لتنجز هذه المرحلة.
+      courseB_maze_seq4_2019: استخدم قطعتين برمجيتين لجعل ابن بطوطة يتحرك حتى يصل الى السوسنة السوداء.
+      courseB_maze_seq5_2019: هذه المرحلة تحتاج الى تركيزك!
+      courseB_maze_seq6_2019: تحرك باتجاه معين، ثم اتجاه آخر حتى تصل الى السوسنة السوداء.
+      courseB_maze_seq7_2019: انظر الى الكود الموجود في مساحة العمل وفكر ماذا يجب أن تضيف حتى يصل ابن بطوطة الى السوسنة السوداء.
+      courseB_maze_seq8_2019: حان دورك! ماذا يجب أن تفعل حتى يصل ابن بطوطة الى السوسنة السوداء؟
+      courseB_maze_seq9_2019: تحدي الأذكياء.. تفادى الصخور حتى تستطيع الوصول الى السوسنة السوداء بأمان.
+      courseB_maze_seq10_2019: قم بتصحيح الخلل البرمجي الموجود في الكود حتى تستطيع إنجاز هذه المرحلة.
+      courseB_maze_seq11_2019: اللعبة بيدك الآن! افعل ما يلزم حتى يصل ابن بطوطة الى السوسنة السوداء!
+      courseB_maze_seq12_2019: هدفك واضح، وهو السوسنة السوداء.. افعل ما تشاء حتى تصل إليها!
+      #End_of_CourseA_Lesson5
 
 
       #Course C
@@ -1805,7 +1840,8 @@ ar-SA:
       #End of Course C:Lesson 18
 
 
-
+      #Course C
+      #Lesson 16: Play Lab Events
       courseC_PlayLab_events6_2019: الآن، اكتب برنامج لتجعل طقطق يتحرك باستخدام
         مفاتيح الاعلى/ الأسفل/ اليسار/اليمين لتصل إلى كل الأهداف!
       courseC_PlayLab_events7: |-
@@ -1817,7 +1853,7 @@ ar-SA:
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events7_2019: |-
-        بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بكسل للأبد.
+        بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بيكسل للأبد.
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events8: |-
@@ -2637,142 +2673,142 @@ ar-SA:
       #ُExpress
       #Lesson 6: Loops with Rey and الأميرة
       courseC_starWars_loops1_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"ساعدني لأجمع كل صناديق الكنز"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"ساعدني لأجمع كل صناديق الكنز"_
 
         استخدم نفس القطعة البرمجية 5 مرات لتساعد الأميرة على جمع كل صناديق الكنز. صندوق الكنز يلمع هكذا:
-        ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        ![](https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)
       courseC_starWars_loops10_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"سنجمع كل الكنز"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"سنجمع كل الكنز"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops10_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
          _"استمر الأميرة!"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops10: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
          _"استمر الأميرة!"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops11: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة!"_
 
         انت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops11_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة!"_
 
         انت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops11_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"لقد وصلنا الى مجموعة الكنز الأخيرة"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"لقد وصلنا الى مجموعة الكنز الأخيرة"_
 
         أنت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops1_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _" اذهب واجمع صناديق الكنز الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _" اذهب واجمع صناديق الكنز الأميرة!"_
 
-        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)
       courseC_starWars_loops1: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _" اذهب واجمع صناديق الكنز الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _" اذهب واجمع صناديق الكنز الأميرة!"_
 
-        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://drive.google.com/file/d/1TAQ30ojjRXLe9CtHFYUWHBUhfTgAlJdO/view?usp=sharing)
       courseC_starWars_loops2: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops2_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops2_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هيا بنا نجمع الكنز"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هيا بنا نجمع الكنز"_
 
         لتجمع كل صناديق الكنز، أنشئ حلقة تكرار تستخدم فيها قطعة برمجية واحدة.
       courseC_starWars_loops2_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops4: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة يجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
       courseC_starWars_loops4_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة تجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
       courseC_starWars_loops4_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يا لها من كنوز رائعة"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يا لها من كنوز رائعة"_
 
         في هذه المرحلة، يمكنك استخدام اثنتين من حلقة "كرر" لتساعدك في جعل الأميرة تجمع كل صناديق الكنز بأقل عدد ممكن من القطع البرمجية!
       courseC_starWars_loops4_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة يجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
-      courseC_starWars_loops5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"Go الأميرة!"_'
-      courseC_starWars_loops5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"Go الأميرة!"_'
       courseC_starWars_loops5_2019: _"لنجمع كل الكنز"_
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-      courseC_starWars_loops5_copy: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
+      courseC_starWars_loops5_copy: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"Go الأميرة!"_'
       courseC_starWars_loops6: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops6_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هل يمكنك جمعها كلها؟"_
 
         يمكنك أن تضع أكثر من حلقة برمجية داخل حلقة التكرار! هل يمكنك استخدام حلقة "كرر" لاختصار الكود الموجود في مساحة العمل؟
       courseC_starWars_loops6_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops6_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops7: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops7_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops7_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكننا فعل هذا"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يمكننا فعل هذا"_
 
         هل يمكنك جمع كل صناديق الكنز باستخدام حلقة "كرر" واحدة؟ حاول برمجتها كاملة وابحث عن الكود المتكرر ثم ضعه داخل حلقة "كرر".
       courseC_starWars_loops7_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops8: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هيا نواصل رحلة جمع الكنز"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"هيا نواصل رحلة جمع الكنز"_
 
         تحدي الأذكياء،  استخدم الأفكار التي تعلمتها من المراحل السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops9: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر!"_
 
         استخدم ماتعلمته لتجمع كل صناديق الكنز!
       courseC_starWars_loops9_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"استمر!"_
 
         استخدم ماتعلمته لتجمع كل صناديق الكنز!
       courseC_starWars_loops9_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"ساعدني في رحلة جمع الكنز!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"ساعدني في رحلة جمع الكنز!"_
 
         استخدم كل ما تعلمته سابقا لتجمع كل صناديق الكنز!
 
@@ -3338,7 +3374,7 @@ ar-SA:
       courseD_harvester_nested_loops_challenge1_2019: _""أحتاج إلى بعض المساعدة في
         المزرعة! ساعدني كي أحصد هذا  محصول الذرة هذا باستخدام المربعات البرمجية الموجودة
         فقط في مربع أدواتك."_
-      courseD_maze_intro4_2019: '\-"تتبع المسار وأوصلني إلى الخنزير."- '
+      courseD_maze_intro4_2019: تتبع المسار ووساعدني لأصل الى السمكة.
       courseD_maze_intro5a_2019: عد المربعات الموجودة على طول المسار بعناية!
       courseD_maze_intro5c_2019: انتبه من قطع الجليد المتشققة! ساعد طقطق ليصل إلى السمكة.
 
@@ -3398,7 +3434,7 @@ ar-SA:
         TNT وإلا فالأرياش ستطير!"
       courseD_maze_ramp4_2018: "\"قم بتعقب المسار لتقودني إلى الخنزير الغبي. \n\nتجنب
         الـ TNT وإلا فالأرياش ستطير!"
-      courseD_maze_ramp4_2019: _"تتبع المسار وساعدني في الوصول إلى السوسنة السوداء."_
+      courseD_maze_ramp4_2019: تتبع المسار وساعدني في الوصول إلى السوسنة السوداء!
       courseD_maze_ramp5: |-
         _"اتبع هذا المسار لتوصيلي إلى الخنزير!"_
 
@@ -3509,7 +3545,7 @@ ar-SA:
         أنت ملك الكرة الآن!
         أضف قطعة "ارمِ كرة جديدة" عند كل حدث ستحتاج الى كرة جديدة عنده.
         ---
-        كم نقطة تستطيع ظان تسجل قبل أن يسجل خصمك الضعف؟
+        كم نقطة تستطيع أن تسجل قبل أن يسجل خصمك الضعف؟
       courseD_bounce_events12s_2019: |-
         حان الوقت لتصنع لعبتك الخاصة الآن!
         تستطيع أن تتحكم بكل المرئيات والقواعد. عند الانتهاء، اضغط زر "إنهاء" حتى يتمكن أصدقاؤك من تجربة لعبتك!
@@ -3603,10 +3639,10 @@ ar-SA:
       courseD_artist_binary8_2019: أكمل الكود لإنشاء هذا الرسم.
       courseD_artist_binary9_2019: |-
         إليك لوح رسم عالي الدقة للرسم عليه حجمه 16 بيِكسِل × 16 بيكسِل!
-        أنظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
+        انظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
       courseD_artist_binary10_2019: |-
         إليك لوح رسم عالي الدقة للرسم عليه حجمه 16 بيِكسِل × 16 بيكسِل!
-        أنظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
+        انظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
       #End of Lesson 16
 
 
@@ -4387,13 +4423,13 @@ ar-SA:
         بجانب بعضها البعض. يمكنك أن تضع الكود الذي كتبته في المرحلة السابقة داخل الحلقة الجديدة.
 
       courseF_artist_variables3: قبل أن تصبح الأشياء أكثر غموضاً، يمكنك تحريك طول
-        يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://drive.google.com/file/d/1rC0EkkK28s2N-ffernJofQlbPFJFBjFA/view?usp=sharing)
       courseF_artist_variables3_2018: قبل أن تصبح الأشياء أكثر غموضاً، يمكنك تحريك
-        طول يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        طول يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://drive.google.com/file/d/1rC0EkkK28s2N-ffernJofQlbPFJFBjFA/view?usp=sharing)
       courseF_artist_variables3_2019: |-
         قبل أن تصبح الأشياء أكثر غموضاً، هل يمكنك إضافة متغير اسمه "length" وقيمته 50 الى الكود الموجود في مساحة العمل حتى نستخدمه في المراحل القادمة؟
 
-        ![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        ![expandable](https://drive.google.com/file/d/1rC0EkkK28s2N-ffernJofQlbPFJFBjFA/view?usp=sharing)
       courseF_artist_variables4: استخدم الآن متغير "الطول" من أجل جعل الفنان يقفز
         إلى الأمام، وخفضه حسب عدد نقاط بسكل "الطول" ما بين المثلثات.
       courseF_artist_variables4_2018: استخدم الآن متغير "الطول" من أجل جعل الفنان
