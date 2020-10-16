@@ -1718,7 +1718,7 @@ ar-SA:
         _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
       courseB_starWars_prog2_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
-      courseB_starWars_prog2_2019: ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يجب أن أجمع كل صناديق الكنز؟"_
+      courseB_starWars_prog2_2019: ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"يجب أن أجمع كل صناديق الكنز"_
 
       courseB_starWars_prog3: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"واصل التقدم وساعد الأميرة في جمع المزيد من الصناديق الكنزية"_'
@@ -1749,13 +1749,13 @@ ar-SA:
       courseB_starWars_prog7_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة اصبح مُولَعاً بجمع الصناديق الكنزية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
       courseB_starWars_prog7_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
-        _"واو! المزيد من صناديق الكنز!.. هيا لنجمعها كلها."_'
+        _"واو.. المزيد من صناديق الكنز.. هيا لنجمعها كلها."_'
       courseB_starWars_prog8: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
       courseB_starWars_prog8_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
       courseB_starWars_prog8_2019: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
-        _"تحدي الكنز.. هل تستطيع مساعدتي في جمع كل هذه الصناديق من الكنز؟.. خليك قدها!."_'
+        _"تحدي الكنز.. هل تستطيع مساعدتي في جمع كل هذه الصناديق من الكنز؟.. خليك قدها."_'
       courseB_starWars_prog9: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
         _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه الصناديق الكنزية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
       courseB_starWars_prog9_2018: '![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing)
@@ -1842,8 +1842,8 @@ ar-SA:
 
       #Course C
       #Lesson 16: Play Lab Events
-      courseC_PlayLab_events6_2019: الآن، اكتب برنامج لتجعل طقطق يتحرك باستخدام
-        مفاتيح الاعلى/ الأسفل/ اليسار/اليمين لتصل إلى كل الأهداف!
+      courseC_PlayLab_events6_2019: الآن، اكتب كودا يجعل البطريق وادلز يتحرك باستخدام
+        مفاتيح (الاعلى، الأسفل، اليسار،اليمين) ليصل إلى كل الأعلام!
       courseC_PlayLab_events7: |-
         بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بكسل للأبد.
 
@@ -1853,7 +1853,7 @@ ar-SA:
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events7_2019: |-
-        بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بيكسل للأبد.
+        إن حلقة "التكرار للأبد" تسمح لك بتشغيل الكود باستمرار الى الأبد دون توقف. استخدم هذه القطعة لتحرك الديناصور تشومب (الممثل 2) للأعلى والأسفل بمقدار 400 بيكسل للأبد.
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events8: |-
@@ -1869,13 +1869,11 @@ ar-SA:
 
         ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
       courseC_PlayLab_events8_2019: |-
-        هل يمكنك جعل طقطق (المثل 1) يشغل صوت "ضرب" ويقول " Ouch" عندما يصطدم بالتمساح؟
-
-        عندما تنتهي شغل اللعبة لتجعلها تحدث.
+        هل يمكنك جعل البطريق وادلز (الممثل 1) يشغل صوت "ضرب" ويقول "Ouch" عندما يصطدم (بالممثل 2) تشومب؟ عندما تنتهي شغل اللعبة وشاهد ما سيحدث.
 
         ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
-      courseC_PlayLab_eventsA_embed_2019: لنلعب لعبة. سجل 5 نقاط عن طريق تحريك طقطق
-        إلى الأخطبوط!
+      courseC_PlayLab_eventsA_embed_2019: لنلعب لعبة.. حرك البطريق باتجاه الأخطبوط لتحرز نقطة. سجل 5 نقاط لتفوز!
+
       courseC_PlayLab_events_challenge1: |-
         استخدم بلوكة جديدة لتجعل طقطق تلقائيا يعود للبدايةعندما يصتطدم بالديناصور وعندما يحقق نقاط. هذا سيجعل لعبتك أكثر تحديا ومتعة!
 
@@ -1928,21 +1926,9 @@ ar-SA:
       courseC_artist_loops1a_2019: |-
         وقت اللعب الحر، لنبني شيئاً أكبر خطوة بخطوة!
 
-        انقل الفنان حتى يقف في مركز منطقة اللعب باستخدام القطعة:
+        انقل الفنان حتى يقف في مركز منطقة اللعب باستخدام القطعة "القفز الى الأمام".
 
-        <xml>
-          <block type="jump_to">
-            <title name="VALUE">13</title>
-          </block>
-        </xml>
-
-        بعد ذلك، ارسم ملصقا باستخدام القطعة البرمجية:
-
-        <xml>
-          <block type="sticker">
-            <title name="VALUE">Bird</title>
-          </block>
-        </xml>
+        بعد ذلك، ارسم ملصقا باستخدام القطعة البرمجية "ارسم ملصقا".
 
         عندما تشعر بالرضى عمّا صنعت، اضغط زر "إنهاء":
 
@@ -1950,7 +1936,7 @@ ar-SA:
         ![expandable](https://images.code.org/6912d2144b90aa7087fe854742d1e8b9-image-1553096425394.png)
         ![expandable](https://images.code.org/8de9e1aa15fdfe30ffed763e0e1d6e04-image-1553096428531.png)
       courseC_artist_loops1b_2019: "غير اتجاه ملصقك باضافة أمر \"اتجه إلى\" لبرنامجك.
-        \n\n  \n\nاضغط \" إنهاء\" عندما تكون راضي عن ما صنعت\n\n![expandable](https://images.code.org/30fe9d37758abd27055d9a6e5a890680-image-1553097358155.png)\n![expandable](https://images.code.org/61feed00662019b99ac774322231f084-image-1553097362176.png)\n![expandable](https://images.code.org/fd123bb703ea4c630218a12eb5994053-image-1553097354066.png)"
+        \n\n  \n\nاضغط \" إنهاء\" عندما تكون راضيا عن ما صنعت\n\n![expandable](https://images.code.org/30fe9d37758abd27055d9a6e5a890680-image-1553097358155.png)\n![expandable](https://images.code.org/61feed00662019b99ac774322231f084-image-1553097362176.png)\n![expandable](https://images.code.org/fd123bb703ea4c630218a12eb5994053-image-1553097354066.png)"
       courseC_artist_loops2a: الآن، استخدم الحلقة لدوران الطائر بمقدار 12 مرة مع لف
         بدرجة 30.
       courseC_artist_loops2a_2018: الآن، استخدم الحلقة لدوران الطائر بمقدار 12 مرة
@@ -2314,7 +2300,7 @@ ar-SA:
       courseC_collector_prog3_2019: |-
         _"ترتيب القطع البرمجية مهم جدا."_
 
-        جميع القطع البرمجية التي تحتاجها موجودة في مساحة العمل لكنها ليست متصلة ببعضها. رتب هذه القطع لتجمع الجواهر وتنجز المرحلة.
+        جميع القطع البرمجية التي تحتاجها موجودة في مساحة العمل لكنها ليست متصلة ببعضها. ركب هذه القطع معا لتجمع الجواهر وتنجز المرحلة.
       courseC_collector_prog4: |-
         _" الترتيب مهم"_
 
@@ -2654,9 +2640,9 @@ ar-SA:
 
         الكود الموجود في مساحة العمل يحتوي على أكثر من خلل برمجي.. لتصحيحه، يجب عليك حذف بعض القطع البرمجية وإضافة أخرى.
 
-      courseC_maze_programming8_2019: _"لقد اختبأت السمكة المشاغبة مجددا! هلا ساعدتني في العثور عليها؟"_
+      courseC_maze_programming8_2019: _"لقد اختبأت السمكة المشاغبة مجددا.. هلا ساعدتني في العثور عليها؟"_
 
-      courseC_maze_programming8_predict1_2019: _"لقد اختبأت السمكة المشاغبة مجددا! هلا ساعدتني في العثور عليها؟"_
+      courseC_maze_programming8_predict1_2019: _"لقد اختبأت السمكة المشاغبة مجددا.. هلا ساعدتني في العثور عليها؟"_
 
       courseC_maze_programming9_2019: _"الآن، ساعدني على مفاجأة السمكة بأي طريقة تختارها."_
       ###
@@ -2808,7 +2794,7 @@ ar-SA:
 
         استخدم ماتعلمته لتجمع كل صناديق الكنز!
       courseC_starWars_loops9_2019: |-
-        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"ساعدني في رحلة جمع الكنز!"_
+        ![](https://drive.google.com/file/d/1DVk2_6JoGKK7spONuwYg8smeuYOOq9w-/view?usp=sharing) _"ساعدني في رحلة جمع الكنز"_
 
         استخدم كل ما تعلمته سابقا لتجمع كل صناديق الكنز!
 

@@ -7067,7 +7067,7 @@ ar-SA:
           عندما تصل الى حبة الذرة، التقطها باستخدام هذه القطعة البرمجية:
           <xml><block type="harvester_corn"/></xml>
       courseA_harvester_loops2_2019:
-        courseA_harvester_loops2_a: يجب أن يحتوي الكود على أربعة قطع برمجية من <xml><block type="maze_moveWest" limit="1"/> </xml> وأربعة أخرى من <xml><block type="harvester_corn"/></xml>.
+        courseA_harvester_loops2_a: يجب أن يحتوي الكود على أربعة قطع برمجية من W وأربعة أخرى من قطعة "التقط".
         courseA_harvester_loops2_b: اذا كنت لا تستطيع إيجاد الحل، جرب أن تقول الخطوات بصوت عالٍ.
       courseA_harvester_loops3_2019:
         courseA_harvester_loops3_a: |-
@@ -7099,7 +7099,7 @@ ar-SA:
           <xml> <block type="controls_repeat_simplified_dropdown">
               <title name="TIMES" config="2-10">6</title>
             </block></xml>
-        courseA_harvester_loops5a_b: إحدى حلقات التكرار ستكرر قطعة <xml><block type="maze_moveSouth" limit="1"/></xml>، بينما ستكرر الأخرى قطعة <xml><block type="maze_moveEast" limit="1"/></xml>.
+        courseA_harvester_loops5a_b: إحدى حلقات التكرار ستكرر قطعة S، بينما ستكرر الأخرى قطعة E.
         courseA_harvester_loops5a_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن تسلكه مرسوما باللون الأحمر.
       courseA_harvester_loops5b_2019:
         courseA_harvester_loops5b_a: اضغط زر "تشغيل ▶" وشاهد ما سيحدث!
@@ -7814,7 +7814,7 @@ ar-SA:
           تعمل!
       courseC_PlayLab_events5_2019:
         courseC_PlayLab_events5_a: تحتاج إلى النقر على القائمة المنسدلة في القطعة البرمجية "الممثل
-          يقول" لتجد النص "ماالجديد؟".
+          يقول" لتجد النص "مالجديد؟".
         courseC_PlayLab_events5_b: انقر على الاخطبوط أوكتافيا عند تشغيل الكود لتتأكد أنها
           تعمل!
       courseC_PlayLab_events6:
@@ -8149,39 +8149,7 @@ ar-SA:
         courseC_artist_loops3a_a: يجب عليك إضافة قطعة برمجية واحدة داخل حلقة التكرار، بعد الملصق
           الأول.
         courseC_artist_loops3a_b: |-
-          يمكنك استخدام أي ملصق يعجبك.. يجب أن يبدو الكود هكذا:
-
-          <xml>
-            <block type="when_run" deletable="false" movable="false">
-              <next>
-                <block type="controls_repeat">
-                  <title name="TIMES">???</title>
-                  <statement name="DO">
-                    <block type="jump_to">
-                      <title name="VALUE">13</title>
-                      <next>
-                        <block type="draw_turn_by_constant_dropdown">
-                          <title name="DIR">???</title>
-                          <title name="VALUE" config="1,2,5,10,12,20,30,45,60,90,120,180">???</title>
-                          <next>
-                            <block type="sticker">
-                              <title name="VALUE">Cat</title>
-                              <next>
-                                <block type="sticker">
-                                  <title name="VALUE">Dog</title>
-                                </block>
-                              </next>
-                            </block>
-                          </next>
-                        </block>
-                      </next>
-                    </block>
-                  </statement>
-                </block>
-              </next>
-            </block>
-          </xml>
-
+          يمكنك استخدام أي ملصق يعجبك.
 
       courseC_artist_loops4a:
         courseC_artist_loops4a_a: |-
@@ -8201,7 +8169,7 @@ ar-SA:
           </xml>تذكر أن تقوم بتغيير طول المسافة!
       courseC_artist_loops4a_2019:
         courseC_artist_loops4a_a: |-
-          استخدم هذه القطعة البرمجية من أجل القفز للأمام وتذكر أن تقوم بتغيير طول المسافة!:
+          استخدم هذه القطعة البرمجية من أجل القفز للأمام وتذكر أن تقوم بتغيير طول المسافة!
           <xml>
             <block type="jump_by_constant">
               <title name="DIR">jumpForward</title>
@@ -8209,45 +8177,7 @@ ar-SA:
             </block>
           </xml>
 
-        courseC_artist_loops4a_b: |-
-          يجب أن يبدو الكود هكذا:
-
-          <xml>
-            <block type="when_run" deletable="false" movable="false">
-              <next>
-                <block type="controls_repeat">
-                  <title name="TIMES">???</title>
-                  <statement name="DO">
-                    <block type="jump_to">
-                      <title name="VALUE">13</title>
-                      <next>
-                        <block type="draw_turn_by_constant_dropdown">
-                          <title name="DIR">???</title>
-                          <title name="VALUE" config="1,2,5,10,12,20,30,45,60,90,120,180">???</title>
-                          <next>
-                            <block type="sticker">
-                              <title name="VALUE">Cat</title>
-                              <next>
-                                <block type="jump_by_constant">
-                                  <title name="DIR">jumpForward</title>
-                                  <title name="VALUE">???</title>
-                                  <next>
-                                    <block type="sticker">
-                                      <title name="VALUE">Dog</title>
-                                    </block>
-                                  </next>
-                                </block>
-                              </next>
-                            </block>
-                          </next>
-                        </block>
-                      </next>
-                    </block>
-                  </statement>
-                </block>
-              </next>
-            </block>
-          </xml>
+        courseC_artist_loops4a_b: تأكد من وجود قطعة "القفز إلى المركز" داخل حلقة التكرار.
 
       courseC_artist_loops5a_2019:
         courseC_artist_loops5a_a: استخدم القائمة المنسدلة في القطعة البرمجية "ارسم ملصقا" لتغير
@@ -8590,7 +8520,7 @@ ar-SA:
         courseC_artist_prog7_d: |-
           يجب أن تقوم بما يلي:
 
-          - تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.
+          تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.. تحرك للأمام.. استدر يمينًا 45 درجة.
 
           كرر هذا النمط مرتين!
         courseC_artist_prog7_e: لا تخشَ ارتكاب الأخطاء! جرب إضافة القطع البرمجية
@@ -9373,7 +9303,7 @@ ar-SA:
       courseC_harvester_loops8_2019:
         courseC_harvester_loops8_a: هل يبدو نمط تدرج السلم مألوفا لك من المراحل السابقة؟
           استخدم نفس القطع البرمجية تذكر جمع المحاصيل في طريقك.
-        courseC_harvester_loops8_b: إذا أردت تبسيط الكود، يمكنك أن تضع حلقة تكرار داخل الحلقة الأخرى! هذه تسمى "حلقات التكرار المتداخلة"ؤ.
+        courseC_harvester_loops8_b: إذا أردت تبسيط الكود، يمكنك أن تضع حلقة تكرار داخل الحلقة الأخرى! هذه تسمى "حلقات التكرار المتداخلة".
       courseC_harvester_loops_challenge1a:
         courseC_harvester_loops_challenge1_a: هذا صعب بدون وظيفة كرر!
         courseC_harvester_loops_challenge1_b: يمكنك تكرار "تحريك إلى الامام" و " التقط
@@ -9550,9 +9480,8 @@ ar-SA:
         courseC_maze_debugging2_a: توجد الكثير من القطع البرمجية الثمينة في مساحة
           العمل. لا تلغها وتبدأ من جديد، بل فكر كيف يمكنك تعديلها!
         courseC_maze_debugging2_b: |-
-          -   هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -   هل ما زال يعمل بعد الخطوة الثانية؟
-          -   أين يحدث الخطأ؟
+          هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟ هل ما زال يعمل بعد الخطوة الثانية؟ أين يحدث الخطأ؟
+
         courseC_maze_debugging2_c: استخدم زر "جرب خطوة" لفحص الكود الذي كتبته سطرا بسطر. هل يمكنك معرفة أين يقع الخطا؟
 
       courseC_maze_debugging3_2019:
@@ -9824,9 +9753,8 @@ ar-SA:
           كرر العملية حتى يعمل البرنامج!
       courseC_maze_debugging7_2019:
         courseC_maze_debugging7_a: |-
-          -هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟
-          -هل ما زال يعمل بعد الخطوة الثانية؟
-          -أين يحدث الخطأ؟
+          -هل يعمل كل شيء على ما يرام بعد الخطوة الأولى؟ هل ما زال يعمل بعد الخطوة الثانية؟ أين يحدث الخطأ؟
+
         courseC_maze_debugging7_b: لا تنسَ استخدام زر "جرب خطوة" لتفحص الكود سطرا
           بعد سطر!
         courseC_maze_debugging7_c: |-
@@ -11345,8 +11273,8 @@ ar-SA:
         courseD_farmer_conditionals8_c: لاحظ أنك تحتاج إلى تكرار التعليمات البرمجية
           "عندما يكون المسار أمامك"، و"عندما يوجد ثقب" بمعدل ست مرات.
       courseD_farmer_while8_2019:
-        courseD_farmer_conditionals8_a: ستحتاج إلى استخدام أكثر من حلقة "طالما"
-          واحدة.
+        courseD_farmer_conditionals8_a: ستحتاج إلى استخدام أكثر من حلقة "طالما" واحدة.
+
         courseD_farmer_conditionals8_b: توجد حفرة في نهاية كل مسار، لذلك استخدم حلقة "طالما.. الطريق سالكا"
           قبل استخدام حلقة "طالما..يوجد هناك ثقب".
         courseD_farmer_conditionals8_c: لاحظ أنك تحتاج إلى تكرار القطع البرمجية
@@ -11420,8 +11348,8 @@ ar-SA:
         courseC_maze_programming4_a: يمكنك الدوران يميناً ويساراً من وجهة نظر طقطق،
           اذا كنت متجها إلى اليمين، فإن الاتجاه نحو اليمين سيجعلك تشير إلى أسفل.
         courseC_maze_programming4_b: لمتابعة المسار تحرك للأمام ثم استدر باتجاه معين،
-           ثم تحرك مجددًا واستدر الى الاتجاه المعاكس. تحرك للأمام مرةً أخرى للوصول
-          إلى السمكة.
+          ثم تحرك مجددًا واستدر الى الاتجاه المعاكس. تحرك للأمام مرةً أخرى للوصول إلى السمكة.
+
       courseD_maze_intro5a_2019:
         courseC_maze_programming5_a: جرب استخدام الزر "جرب خطوة" لتشغيل الكود
           الذي كتبته سطرا بعد سطر. هل يمكنك معرفة ما تحتاج لفعله لاحقاً؟

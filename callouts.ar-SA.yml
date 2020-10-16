@@ -208,6 +208,8 @@ ar-SA:
       course4_bee_fwp_challenge2:
         courseF_bee_fwp_challenge2_callout1: ستقوم الدالة بوظيفة رائعة حيال الذرة
           لكن ماذا عن أنواع الخضار الأخرى؟
+      courseA_maze_seq1_2019_callout:
+        courseA_maze_seq1_1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
       courseA_maze_ramp2_2019:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
           الإضافية لإنجاز المراحل الخاصة بك.
@@ -215,10 +217,10 @@ ar-SA:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
           الإضافية لإنجاز المراحل الخاصة بك.
       courseB_Scrat_ramp1_2018:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseB_Scrat_ramp1_2019:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseB_Scrat_ramp3a_2019:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
@@ -278,8 +280,8 @@ ar-SA:
         courseC_collector_prog1_1: هل ترى قطعا برمجية جديدة في صندوق الأدوات؟ لا تقلق,
           سنريك كيفية استخدامها في مراحل قادمة.
       courseC_collector_prog1_2019:
-        courseC_collector_prog1_1: هل ترى قطعا برمجية جديدة في صندوق الأدوات؟ لا تقلق,
-          سنريك كيفية استخدامها في مراحل قادمة.
+        courseC_collector_prog1_1: هل ترى قطعا برمجية جديدة في صندوق الأدوات؟ لا تقلق،
+          سنريك كيفية استخدامها في المراحل القادمة.
       courseC_collector_prog7:
         courseC_collector_prog7_1: يمكنك استخدام بعض القطع البرمجية الموجودة في صندوق
           الأدوات في حال احتجت إليها!
@@ -296,12 +298,12 @@ ar-SA:
         courseC_harvester_loops1_callout1: الرقم 4 في اليقطين يخبرك أن هناك أربع يقطينات
           يمكنك جمعها.
       courseC_harvester_loops1_2019:
-        courseC_harvester_loops1_callout1: الرقم 4 في اليقطين يخبرك أن هناك أربع يقطينات
-          يمكنك جمعها.
+        courseC_harvester_loops1_callout1: الرقم 4 عند حبة اليقطين يخبرك أن هناك أربع حبات من اليقطين يمكنك جمعها.
+
       courseC_maze_debugging5_2018:
         courseC_maze_debugging5_1: هذه البلوكات الرمادية مقفلة ولا يمكنك حذفها!
       courseC_maze_debugging5_2019:
-        courseC_maze_debugging5_1: هذه البلوكات مغلقة ولايمكن حذفها!
+        courseC_maze_debugging5_1: هذه القطع البرمجية مغلقة ولايمكن حذفها!
       courseC_maze_debugging9_2019:
         courseC_maze_debugging9_2019_1: اسحب البلوكات من صندوق الأدوات إلى مساحة العمل
           الخاصة بك.
@@ -312,7 +314,7 @@ ar-SA:
         grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
           برنامجك.
       courseC_maze_programming1_2019:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseC_maze_programming2:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
@@ -387,13 +389,13 @@ ar-SA:
         '': لا يوجد لدى المربعات البرمجية هذه أعداد. يمكنك استخدامها عدد أكبر من المرات
           كما تريد!
       courseD_maze_ramp1:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseD_maze_ramp1_2018:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseD_maze_ramp1_2019:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseD_maze_ramp2:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
@@ -446,7 +448,7 @@ ar-SA:
           التكرار عدد أكبر من المرات حسب ما تعطيها الأمر لفعل ذلك، ثم استمر في تشغيل
           بقية البرنامج.
       courseD_scrat_ramp1:
-        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تنفيذ" لبدء
+        grade2_CaringForNewPet_0_1: بعد توصيل كل القطع البرمجية، اضغط زر "تشغيل" لبدء
           برنامجك.
       courseD_scrat_ramp2:
         courseC_maze_programming2_1: هذا هو صندوق الأدوات، حيث ستجد كل القطع البرمجية
