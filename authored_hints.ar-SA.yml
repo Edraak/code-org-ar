@@ -4893,7 +4893,7 @@ ar-SA:
         courseF_artist_variables4_a: لن يكون الكود مختلفا كثيرا عن الذي كتبته في المرحلة السابقة، باستثناء أنك يجب أن تغير اتجاه الفنان حتى يقفز الى الأسفل ومن ثم تغيره مجددا ليرسم المثلث التالي.
         courseF_artist_variables4_b: |-
           يجب أن يبدو الكود هكذا:
-          ![](https://drive.google.com/file/d/1YPHNzSKcf3jhTkAhnIDyseqvRN_XTq7Y/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L19-L7.jpg)
         courseF_artist_variables4_c: |-
           هذا هو النمط الذي سيتبعه الفنان:
           ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
@@ -6868,20 +6868,20 @@ ar-SA:
         courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
         courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية
         courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
-          :![](https://drive.google.com/file/d/1Os_c2ee9Mzo8tMcZF6uJ5yJJ8C6HfCzx/view?usp=sharing)
+          :![](https://storage.googleapis.com/static.edraak.org/code-img/A-L6-L6.jpg)
       courseB_starWars_prog5_2018:
         courseB_starWars_prog5_a: يبدو أن نمط ترتيب القطع المعدنية في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
         courseB_starWars_prog5_b: سوف يلتقط BB-8 قطعة المعدن حينما يصلها
         courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتخذه لتجمع كل القطع المعدنية.
         courseB_starWars_prog5_da: شاهد ما سيحدث إذا كنت استخدمت طريقا يشبه تدرج السلم لإنجاز المرحلة
-          :![](https://drive.google.com/file/d/1Os_c2ee9Mzo8tMcZF6uJ5yJJ8C6HfCzx/view?usp=sharing)
+          :![](https://storage.googleapis.com/static.edraak.org/code-img/A-L6-L6.jpg)
       courseB_starWars_prog5_2019:
         courseB_starWars_prog5_a: يبدو أن نمط ترتيب صناديق الكنز في هذه المرحلة يشبه المرحلة السابقة.. بماذا يفيدك هذا؟
         courseB_starWars_prog5_b: سوف تلتقط الأميرة صندوق الكنز عندما تصل اليه.
         courseB_starWars_prog5_c: ارسم باصبعك على الشاشة الطريق الذي ستتبعه لتجمع كل صناديق الكنز.
         courseB_starWars_prog5_da: |-
           شاهد ما سيحدث إذا استخدمت نمط تدرج السلم لإنجاز هذه المرحلة:
-          ![](https://drive.google.com/file/d/1Os_c2ee9Mzo8tMcZF6uJ5yJJ8C6HfCzx/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/A-L6-L6.jpg)
       courseB_starWars_prog6:
         courseB_starWars_prog6_a: ترتيب القطع المعدنية يشبه السلم، استخدم خطوتين لكل اتجاه!
         courseB_starWars_prog6_b: |-
@@ -9100,7 +9100,7 @@ ar-SA:
       courseC_flappy_events1_2018:
         courseC_flappy_events1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       courseC_flappy_events1_2019:
-        courseC_flappy_events1_a: "![](https://drive.google.com/file/d/1zLRypVFUtXV7k2QY70nh2G7cS0vuEwhO/view?usp=sharing)"
+        courseC_flappy_events1_a: "![](https://storage.googleapis.com/static.edraak.org/code-img/C-L15-2.JPG)"
       courseC_flappy_events2:
         courseC_flappy_events2_a: 'البلوكة التي تحتاج إضافتها هي "تعيين سرعة". '
         courseC_flappy_events2_b: ألصق بلوكة "تعيين سرعة" إلى بلوكة "عند التشغيل"
@@ -9838,7 +9838,7 @@ ar-SA:
           ومن ثم اسحب القطعة البرمجية التي تريد حذفها إلى صندوق الادوات.
 
           أخيرا، أعد القطع البرمجية إلى مكانها.
-          ![](https://drive.google.com/file/d/1RFE6L3O6TxBNo4q17xyTh4tBpwyqCGxo/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L2-L4.jpg)
       courseC_maze_programming4_2019:
         courseC_maze_programming4_a: عندما تتحرك، تخيل أنك طقطق.. كيف ستكون اتجاهاتك حينها؟
           إذا استخدمت قطعة "اتجه الى اليمين" سوف يتجه طقطق الى الأسفل.
@@ -10023,7 +10023,7 @@ ar-SA:
         course_starWars_loops8_c: |-
           ألقي نظرة على هذا المسار.
 
-          ![](https://drive.google.com/file/d/1oRwf8XmQNzgNTz7SNlvA803prIbw7uS0/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L10.jpg)
       courseC_starWars_loops8_2018:
         course_starWars_loops8_a: حاول التفكير في هذه المشكلة عن طريق تجزيئها. خذ
           وقتك. لا تحتاج أن تحلها من المرة الاولى!
@@ -10032,7 +10032,7 @@ ar-SA:
         course_starWars_loops8_c: |-
           ألقي نظرة على هذا المسار.
 
-          ![](https://drive.google.com/file/d/1oRwf8XmQNzgNTz7SNlvA803prIbw7uS0/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L10.jpg)
       courseC_starWars_loops8_2019:
         course_starWars_loops8_a: حاول تجزيء المشكلة حتى تتمكن من حلها. خذ
           وقتك.. ليس من الضرورة أن تحلها من المرة الاولى!
@@ -10041,7 +10041,7 @@ ar-SA:
         course_starWars_loops8_c: |-
           ألقِ نظرة على هذا المسار.
 
-          ![](https://drive.google.com/file/d/1oRwf8XmQNzgNTz7SNlvA803prIbw7uS0/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L10.jpg)
       courseC_starWars_loops8_copy:
         course_starWars_loops8_a: حاول التفكير في هذه المشكلة عن طريق تجزيئها. خذ
           وقتك. لا تحتاج أن تحلها من المرة الاولى!
@@ -10050,25 +10050,25 @@ ar-SA:
         course_starWars_loops8_c: |-
           ألقِ نظرة على هذا الطريق المرسوم بالأحمر.
 
-          ![](https://drive.google.com/file/d/1oRwf8XmQNzgNTz7SNlvA803prIbw7uS0/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L10.jpg)
       courseC_starWars_loops9:
         course_starWars_loops9_b: يمكنك وضع أكثر من بلوكة داخل وظيفة "كرر".
         course_starWars_loops9_c: |-
           لا تحتاج الاتجاه لليسار لإنجاز هذه المرحلة. كل اتجاهاتك يمكن أن تكون لليمين.
 
-          ![](https://drive.google.com/file/d/1pRkx8eFQ0y5iBQkxrrv2Kr-y-SjIuAr5/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L11.jpg)
       courseC_starWars_loops9_2018:
         course_starWars_loops9_b: يمكنك وضع أكثر من بلوكة داخل وظيفة "كرر".
         course_starWars_loops9_c: |-
           لا تحتاج الاتجاه لليسار لإنجاز هذه المرحلة. كل اتجاهاتك يمكن أن تكون لليمين.
 
-          ![](https://drive.google.com/file/d/1pRkx8eFQ0y5iBQkxrrv2Kr-y-SjIuAr5/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L11.jpg)
       courseC_starWars_loops9_2019:
         course_starWars_loops9_b: يمكنك وضع أكثر من قطعة برمجية داخل حلقة "كرر".
         course_starWars_loops9_c: |-
           ألقِ نظرة على هذا الطريق المرسوم بالأحمر.
 
-          ![](https://drive.google.com/file/d/1pRkx8eFQ0y5iBQkxrrv2Kr-y-SjIuAr5/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L6-L11.jpg)
       courseD_artist_1_2018:
         courseD_artist_project1_a: استخدم القائمة المنسدلة في المربعات البرمجية "التفاف"
           لاختيار الزاوية التي تحتاجها!
@@ -11464,9 +11464,9 @@ ar-SA:
           أسفله إلى مساحة العمل، ثم اسحب على القطعة البرمجية الذي ترغب في حذفها وأعدها الى صندوق
           الأدوات. وفي النهاية، ضع القطع البرمجية الأخرى مرة أخرى في مكانها حيث
           كانت:
-          ![](https://drive.google.com/file/d/1RFE6L3O6TxBNo4q17xyTh4tBpwyqCGxo/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L2-L4.jpg)
       courseD_maze_ramp3_2018:
-        courseC_maze_programming3_a: "![](https://drive.google.com/file/d/1RFE6L3O6TxBNo4q17xyTh4tBpwyqCGxo/view?usp=sharing)لحذف
+        courseC_maze_programming3_a: "![](https://storage.googleapis.com/static.edraak.org/code-img/L2-L4.jpg)لحذف
           المربع البرمجي من منتصف التعليمات البرمجية الخاصة بك، اسحب كل المربعات البرمجية
           في الأسفل بعيداً إلى جهة اليمين، والسماح بوضعهم في مساحة العمل لفترة وجيزة.
           \ انقر على المربع البرمجي الذي ترغب في حذفه، ثم اسحبه مرة أخرى إلى مربع
@@ -11475,7 +11475,7 @@ ar-SA:
       courseD_maze_ramp3_2019:
         courseC_maze_programming3_a: |-
           لحذف القطعة البرمجية التي لا تحتاجها وتعيدها الى صندوق الأدوات، اتبع الخطوات التالية:
-          ![](https://drive.google.com/file/d/1RFE6L3O6TxBNo4q17xyTh4tBpwyqCGxo/view?usp=sharing)
+          ![](https://storage.googleapis.com/static.edraak.org/code-img/L2-L4.jpg)
 
       courseD_maze_ramp4:
         courseC_maze_programming4_a: يمكنك الالتفاف يمينًا أو يسارًا من وجهة نظر الطير.
@@ -12184,7 +12184,7 @@ ar-SA:
         courseC_maze_programming2_b: تأكد من أن كل المربعات البرمجية "تحرك إلى الأمام"
           الثلاث مرفقة بالمربع البرمجي "عند التشغيل".
       courseD_scrat_ramp3:
-        courseC_maze_programming3_a: "![](https://drive.google.com/file/d/1RFE6L3O6TxBNo4q17xyTh4tBpwyqCGxo/view?usp=sharing)لحذف
+        courseC_maze_programming3_a: "![](https://storage.googleapis.com/static.edraak.org/code-img/L2-L4.jpg)لحذف
           المربع البرمجي من منتصف التعليمات البرمجية الخاصة بك، اسحب كل المربعات البرمجية
           في الأسفل بعيداً إلى جهة اليمين، والسماح بوضعهم في مساحة العمل لفترة وجيزة.
           \ انقر على المربع البرمجي الذي ترغب في حذفه، ثم اسحبه مرة أخرى إلى مربع
