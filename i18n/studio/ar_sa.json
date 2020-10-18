@@ -697,7 +697,7 @@
   "setPosition": "انتقل إلى الموضع 1%\n",
   "setSprite": "تعيين",
   "setSpriteN": "تعيين الممثل {spriteIndex}",
-  "setSpritePosition": "اضبط الممثل 1% إلى الموضع 2%",
+  "setSpritePosition": "حرك الشخصية %1 الى الموقع %2 ",
   "setDroidN": "اضبط روبوت {spriteIndex}",
   "soccerboy": "فتى كرة القدم",
   "soccergirl": "فتاة كرة القدم",
