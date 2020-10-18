@@ -50,8 +50,8 @@ ar:
         if: قطعة اذا كان
         if_else: قطعة " اذا كان والا "
         loop_times: قطعة أكرر بعدد
-        loop_until: قطعة أكرر حتى
-        loop_while: قطعة " أكرر طالما "
+        loop_until: حلقة التكرار "حتى"
+        loop_while: حلقة التكرار "طالما"
         loop_for: قطعة " العداد "
         function: دوال
         parameters: الدوال والمعاملات
@@ -257,7 +257,7 @@ ar:
         farmer_intro: داخل المزارع
         flappy_intro: مقدمة flappy
         loop_times: قطعة أكرر بعدد
-        loop_until: قطعة أكرر حتى
+        loop_until: حلقة التكرار "حتى"
         if: قطعة اذا كان
         if_else: قطعة اذا / والا
         if_else_scrat: اذا / والا امنعه
@@ -277,11 +277,12 @@ ar:
         Unplug9: برمجة السباق
         Unplug10: الإنترنت
         Unplug11: الجلسة الختامية
+        CSF_maze_intro_k1_blocks: البرمجة باستخدام بلوكلي (القطع البرمجية)
         C1_happy_maps_unplugged: الخرائط السعيدة
         C1_moveitmoveit_unplugged: حركها , حركها
         C1_bigevent_unplugged: الحدث الكبير
         C1_getting_loopy: حصول التكرار
-        C1_pair_programming: البرمجة الزوجية
+        C1_pair_programming: البرمجة مع صديق
         C1_maze_intro_sequencing: مقدمة تسلسل المتاهة
         C1_maze_debugging: تصحيح أخطاء المتاهة
         C1_bee_level_intro: مستوى النحل - مقدمة
@@ -329,7 +330,7 @@ ar:
         C3_functional_suncatchers: وظيفية Suncatchers
         C3_songwriting_with_parameters: تأليف الأغاني مع المعلمات
         C4_intro: مقدمة
-        C4_loops_zombie: الحلقات
+        C4_loops_zombie: تكرار الحلقات البرمجية
         C4_bee_conditional: النحل الشرطية
         C4_variables_artist: المتغيرات-الفنان
         C4_variables_playlab: المتغيرات - مختبر اللعب
@@ -348,6 +349,7 @@ ar:
         C4_unplugged_parameters: تأليف الأغاني مع المعلمات
         C4_unplugged_binary: ثنائي
         CSF_my_robotic_friends: أصدقائي من الروبوت
+        CSF_debugging_k1_blocks: تصحيح الخلل البرمجي
         frozen_intro: تقديم ساعة من البرمجة
         frozen_loops: مقدمة للحلقات
         frozen_functions: تقديم للدوال
@@ -365,7 +367,7 @@ ar:
         csd_weblab_intro_3: مدخل لمختبر الويب - جزء 3
         csp_applab_functions: تقديم للدوال
         csp_applab_functions_parameters: الدوال والمعاملات
-        csp_applab_loops: الحلقات
+        csp_applab_loops: تكرار الحلقات البرمجية
         csp_concept_rgb: بعض المعلومات عن البكسل
         csp_cs_is_changing_everything: علوم الكمبيوتر تغير كل شيء
         csp_pixelation_color_1: برنامج بكسل الألوان - الجزء 1
@@ -450,16 +452,24 @@ ar:
         applab_intro_sounds: أصوات وصور - مختبر التطبيقات
         applab_intro_designmode: وضع التصميم - مختبر التطبيقات
         applab_intro_share: تقاسم تطبيقك - مختبر التطبيقات
-        CSF_skinOverview_Harvester: الحصادة
-        CSF_bb8_skinOverview_C-F: BB-8
-        CSF_bb8_skinOverview_K-1: BB-8
-        CSF_harvester_skinOverview_K-1: الحصادة
-        CSF_scrat_loops_K1: الحلقات في العصر الجليدي
-        CSF_scrat_loops_CF: الحلقات في العصر الجليدي
-        CSF_if_allskins: الكتلة البرمجية if
-        CSF_ifelse_allskins: استعمال الكتل البرمجية if/else
-        CSF_ifelseifelse_allskins: استعمال الكتل البرمجية if/else/else
-        CSF_loops_AB: الحلقات
+        CSF_skinOverview_Harvester: البرمجة مع الحصادة
+        CSF_bb8_skinOverview_C-F: البرمجة باستخدام بلوكلي (القطع البرمجية)
+        CSF_bb8_skinOverview_K-1: البرمجة باستخدام بلوكلي (القطع البرمجية)
+        CSF_harvester_skinOverview_K-1: البرمجة مع الحصادة
+        CSF_scrat_loops_K1: التكرار مع ابن بطوطة
+        CSF_scrat_loops_CF: التكرار مع ابن بطوطة
+        CSF_collector_k1_blocks: أساسيات البرمجة مع المجمع
+        CSF_collector_repeat_loops: تكرار الحلقات البرمجية
+        CSF_a_b_artist_loops: تكرار الحلقات البرمجية
+        CSF_maze_intro_text_blocks: البرمجة باستخدام بلوكلي (القطع البرمجية)
+        CSF_debugging_text_blocks: تصحيح الخلل البرمجي
+        CSF_collector_text_blocks: أساسيات البرمجة مع المجمع
+        CSF_bb8_loops_C-F: تكرار الحلقات البرمجية
+        CSF_create_functions: الوظائف
+        CSF_if_allskins: الجمل الشرطية "إذا"
+        CSF_ifelse_allskins: الجمل الشرطية "اذا.. وإلا"
+        CSF_ifelseifelse_allskins: الجمل الشرطية "اذا.. وإلا"
+        CSF_loops_AB: حلقات التكرار البرمجية
         csd_gamelab_booleans: تعبيرات منطقية
         csd_gamelab_conditional_statements: الأوامر الشرطية
         csd_gamelab_if_else: أوامر If/Else
