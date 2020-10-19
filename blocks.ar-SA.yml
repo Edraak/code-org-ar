@@ -979,7 +979,7 @@ ar:
       gamelab_addBehaviorSimple:
         text: الكائن {SPRITE} يبدأ {BEHAVIOR}
       gamelab_allSpritesWithAnimation:
-        text: "{حركة}"
+        text: "{ANIMATION}"
       gamelab_changePropBy:
         text: غيّر {SPRITE} {PROPERTY} بمقدار {VAL}
         options:
