@@ -8061,7 +8061,7 @@ ar-SA:
               <title name="VALUE">DEFAULT</title>
             </block>
           </xml>
-
+        courseC_artist_loop1_c: لا تنسَ أنه بإمكانك التحكم بسرعة حركة الفنان.
 
       courseC_artist_loops1a:
         courseC_artist_loops1a_a: |-
@@ -8169,7 +8169,7 @@ ar-SA:
             </block>
           </xml>
 
-        courseC_artist_loops4a_b: تأكد من وجود قطعة "القفز إلى المركز" داخل حلقة التكرار.
+        courseC_artist_loops4a_b: تأكد من وجود قطعة "انتقل الى الموقع وسط المنتصفلا تنسَ ان تضع القطعة البرمجية "اتجه الى" داخل حلقة التكرار.
 
       courseC_artist_loops5a_2019:
         courseC_artist_loops5a_a: استخدم القائمة المنسدلة في القطعة البرمجية "ارسم ملصقا" لتغير
@@ -8295,10 +8295,10 @@ ar-SA:
           اقفز إلى 200 فوق و200 للاسفل, اتجه للامام بمقدار 50 بكسل, و اتجه لليمين
           بمقدار 60 درجة.'
       courseC_artist_loopsPre1a_2019:
-        courseC_artist_loopsPre1a_a: لا تنسَ ان تضع القطعة البرمجية "اتجه" داخل حلقة التكرار.
+        courseC_artist_loopsPre1a_a: لا تنسَ ان تضع القطعة البرمجية "اتجه الى" داخل حلقة التكرار.
         courseC_artist_loopsPre1a_b: |-
           يجب أن تحتوي حلقة التكرار على ثلاث قطع برمجية:
-          اقفز إلى 200 فوق و200 للأسفل، اتجه للأمام بمقدار 50 بيكسل، واتجه لليمين
+          انتقل إلى 200 لأعلى و200 لأسفل، التقدم الى الأمام بمقدار 50 بيكسل، واتجه الى اليمين
           بمقدار 60 درجة.
       courseC_artist_loopsPrePre1a:
         courseC_artist_loopsPrePre1a_a: |-
