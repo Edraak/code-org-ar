@@ -6,7 +6,7 @@
   "collect": "اجمع",
   "collectiblePresent": "هناك بعض الجواهر",
   "collectorCollectTooltip": "اجمع عنصراً",
-  "collectorCollectedEverything": "تهانينا! لقد جمعت {count, plural, zero {} one {العنصر} two {all # عناصر} few {all # عناصر} many {all # عناصر} other {كل # العناصر}}!",
+  "collectorCollectedEverything": "تهانينا! لقد جمعت كل العناصر ال{count}!",
   "collectorCollectedNothing": "استمر في البرمجة! تحتاج أن تجمع أكبر قدر ممكن من العناصر.",
   "collectorCollectedSome": "عمل رائع! لقد جمعت {count, plural, zero {} one {1 عنصر} two {# عناصر} few {# عناصر} many {# عناصر} other {# عناصر}}!",
   "collectorCollectedNotEnough": "استمر في البرمجة! تحتاج أن تجمع على الأقل {goal, plural, zero {} one {1 عنصر} two {# عناصر} few {# عناصر} many {# عناصر} other {# عناصر}}.",
