@@ -331,7 +331,7 @@ ar-SA:
         لنجرب استخدام حدث برمجي مختلف هذه المرة!
 
         أضف حدثا يعمل بنقر مفتاح معين مرة واحدة باستخدام القطعة البرمجية:
-        <xml><block type=\"gamelab_keyPressed\" block-text=\"the keypress event block\"></block></xml>
+        <xml><block type="gamelab_keyPressed" block-text="the keypress event block"></block></xml>
 
         كيف سيعمل هذه الحدث البرمجي؟ عند نقر أي مفتاح.. سيتغير لون المخلوقات الفضائية. اختر أي مفتاح تفضله، لكن إن كنت تستعمل شاشة لمس فإننا ننصحك باستخدام مفاتيح أعلى، أسفل، يمين ويسار.
       Dance Party 6_2019: |-
@@ -757,6 +757,7 @@ ar-SA:
       #Express
       #Lesson 24: Swimming Fish in Sprite Lab
       Fish Tank 1-validated_2019: حاول أن تحزر.. ماذا تتوقع أن يحدث عند تشغيل هذا الكود؟
+      Fish Tank Predict_2019: حاول أن تحزر.. ماذا تتوقع أن يحدث عند تشغيل هذا الكود؟
       Fish Tank 2-validated_2019: |-
         هيا نصنع حوض سمك! يجب أن نغيّر النبات الصحراوي إلى أي نوع من السمك عن طريق الضغط على:
 
@@ -764,15 +765,17 @@ ar-SA:
 
         تأكد أن تختار نفس النوع من السمك باستخدام هذه القطعة:
 
-        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>.\n\nBe sure to also update this sprite's costume in <xml><block type=\"gamelab_addBehaviorSimple\" block-text=\"the add behavior block\"></block></xml>
+        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>.
+
+        تأكد من أن تستخدم زيا جديدا:
+        <xml><block type=\"gamelab_addBehaviorSimple\" block-text=\"the add behavior block\"></block></xml>
       Fish Tank 3-validated_2019: |-
         السمك يشعر بالدوار!
 
         عدّل سلوك السمك واجعله يسبح يميناً ويسارا.
       Fish Tank 4-validated_2019: |-
-        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية:
+        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية "عين لون الخلفية".
 
-        <xml><block type=\"gamelab_setBackground\" inline=\"true\" block-text=\"the set background color block\">\n    <value name=\"COLOR\">\n      <block type=\"colour_picker\">\n        <title name=\"COLOUR\">#0000ff</title>\n      </block>\n    </value>\n  </block></xml>
       Fish Tank 5-validated_2019: |-
         السمك مغامر ويحب مقابلة مخلوقات جديدة داخل البحر.
 

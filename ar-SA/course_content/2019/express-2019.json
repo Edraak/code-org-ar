@@ -2844,7 +2844,7 @@
   "https://studio.code.org/s/express-2019/stage/21/puzzle/6": {
     "dsls": {
       "content1": "Test Markdown Textbook Page",
-      "markdown": "# **You just learned \"variables\"!**\n\n### In order to use a variable, it needs a name and a value. The name doesn't change, but the value can. This way you can use the name of the variable as a placeholder wherever you want in your program! \n\n---\n\n## **Vocab to Know**\n\n### **Variable** - A placeholder for a piece of information that can change\n\n"
+      "markdown": "# **لقد أنهيت درس المتغيرات!"!**\n\n  حتى تستخدم المتغيرات، يجب أن يكون لها اسم وقيمة. لا يمكنك تغيير الاسم، لكن يمكنك تغيير القيمة. بهذه الطريقة، يمكنك ان تستخدم اسم المتغير كوعاء كلما احتجته في البرنامج \n\n---\n\n## **المفاهيم**\n\n### المتغير- وعاء لحفظ المعلومات التي تتغير\n\n"
     }
   },
   "https://studio.code.org/s/express-2019/stage/21/extras?level_name=courseF_artist_variables_challenge1_2019": {
@@ -3002,7 +3002,7 @@
   "https://studio.code.org/s/express-2019/stage/22/puzzle/14": {
     "dsls": {
       "content1": "Test Markdown Textbook Page",
-      "markdown": "# **You just learned \"for loops\"!**\n\n### **For loops are loops where you set the start, stop, and step values.**\n\n### This new kind of `repeat` loop gives you more control over when you loop starts, when it ends, and what your loop should increase by every time it runs.\n\n### More control means you can solve puzzles a lot faster! \n\n---\n\n## **Vocab to Know**\n\n### **For loop** - For loops are loops that have a predetermined beginning, end, and increment (step interval)\n\n"
+      "markdown": "# **لقد تعلمت عن التكرار المحدد!!**\n\n### **إن حلقة التكرار المحدد هي حلقة يمكنك أن تحدد فيها قيمة البداية والنهاية والزيادة.**\n\n### حلقة التكرار المحدد.. هي حلقة لها بدايات ونهايات محددة ومقدار زيادة\n\n \n\n---\n\n## **المفاهيم**\n\n### **إن هذا النوع الجديد من حلقات التكرار يمنحك القدرة على التحكم بمتى تبدأ الحلقة، ومتى تتوقف ومقدار الزيادة المتوقعة في كل مرة تعمل فيها الحلقة\n\n"
     }
   },
   "https://studio.code.org/s/express-2019/stage/22/extras?level_name=courseF_bee_for_challenge1_2019": {
