@@ -5024,13 +5024,12 @@ ar-SA:
         behavior hint: "حاول تعديل السلوك! \n\n-   في أي اتجاه يجب أن يتحرك الصاروخ؟"
       behaviors 3:
         behavior hint: "حاول تعديل السلوك! \n\n-   أي قيمة تتحكم بسرعة كل كائن؟"
-      behaviors 4:
+      behaviors 3a:
         behavior hint: "حاول تعديل السلوك! \n\n-   أي قيمة تتحكم بسرعة كل كائن؟"
       behaviors 5:
         target hint: يمكنك اختيار أي من السفن الفضائية الأربعة. أي منها يفضله رجل الفضاء؟
         behavior hint: عدل السلوك من أجل إنجاز المرحلة. رجل الفضاء يحتاج أن يتحرك في
           اتجاهين مختلفين لتكون نتيجة حركته قُطرية.
-
 
 
       comment_intro_maze_2018:
@@ -8061,7 +8060,6 @@ ar-SA:
               <title name="VALUE">DEFAULT</title>
             </block>
           </xml>
-        courseC_artist_loop1_c: لا تنسَ أنه بإمكانك التحكم بسرعة حركة الفنان.
 
       courseC_artist_loops1a:
         courseC_artist_loops1a_a: |-

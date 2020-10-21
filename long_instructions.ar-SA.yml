@@ -761,21 +761,21 @@ ar-SA:
       Fish Tank 2-validated_2019: |-
         هيا نصنع حوض سمك! يجب أن نغيّر النبات الصحراوي إلى أي نوع من السمك عن طريق الضغط على:
 
-        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>
+        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">tumbleweed</title></block></xml>
 
         تأكد أن تختار نفس النوع من السمك باستخدام هذه القطعة:
 
-        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>.
+        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">"tumbleweed"</title></block></xml>.
 
         تأكد من أن تستخدم زيا جديدا:
-        <xml><block type=\"gamelab_addBehaviorSimple\" block-text=\"the add behavior block\"></block></xml>
+        <xml><block type="gamelab_addBehaviorSimple" block-text="the add behavior block"></block></xml>
       Fish Tank 3-validated_2019: |-
         السمك يشعر بالدوار!
 
         عدّل سلوك السمك واجعله يسبح يميناً ويسارا.
       Fish Tank 4-validated_2019: |-
-        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية "عين لون الخلفية".
-
+        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية:
+        <xml><block type="gamelab_setBackground" inline="true" block-text="the set background color block">\n    <value name="COLOR">\n      <block type="colour_picker">\n        <title name="COLOUR">#0000ff</title>\n      </block>\n    </value>\n  </block></xml>
       Fish Tank 5-validated_2019: |-
         السمك مغامر ويحب مقابلة مخلوقات جديدة داخل البحر.
 
@@ -3760,19 +3760,16 @@ ar-SA:
       courseE_aboutme_3: |-
         ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)_\"\"
         قل شيئًا عن نفسك ، وتأكد من أنه آمن!
-        استخدم القطع البرمجية <xml><block type=\"gamelab_spriteClicked\" block-text=\"the when sprite clicked event block\"></block></xml> و <xml><block type=\"gamelab_printText\" block-text=\"the print text block\"></block></xml> من فئة "العالم" لتشارك معلومات عن نفسك عند نقر كائنك.
+        استخدم القطع البرمجية <xml><block type="gamelab_spriteClicked" block-text="the when sprite clicked event block"></block></xml> و <xml><block type="gamelab_printText" block-text="the print text block"></block></xml> من فئة "العالم" لتشارك معلومات عن نفسك عند نقر كائنك.
 
-        أمثلة على معلومات آمنة ومعلومات غير آمنة:
-        \n\n| آمنة            | غير آمنة                         |\n|
-        --------------- | -------------------------------- |\n| الإسم الأول     |
-        الإسم كاملاً                     |\n| الأشياء المفضلة | عنوان المنزل                     |\n|
-        آراء محترمة     | رقم التلفون أو البريد الإلكتروني |
+        من الأمثلة على المعلومات الآمنة.. اسمك الأول وأما المعلومات غير الآمنة.. عنوان المنزل.
+
       courseE_aboutme_4: |-
-        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"أضف كائنات جديدة الى ملصقك! لاتنسَ منحهم ملابس أيضا!"_
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"أضف كائنات جديدة الى ملصقك.. لاتنسَ منحهم ملابس أيضا!"_
 
         أضف على الأقل كائنين جديدين الى ملصقك. وأعطِ كل كائن زياّ مميزا!
       courseE_aboutme_5: |-
-        ![](https://images.code.org/0c3ec1da3493c3e10f5ec714ef1670e3-image-1557185359875.png) _"أخبر العالم أكثر عن نفسك من خلال الكائنات الجديدة الخاصة بك!"_
+        ![](https://images.code.org/0c3ec1da3493c3e10f5ec714ef1670e3-image-1557185359875.png) _"أخبر العالم أكثر عن نفسك من خلال الكائنات الجديدة الخاصة بك"_
 
         اجعل الكائنات الأخرى تطبع المعلومات عند نقرها.. تأكد من أن ما تشاركه آمن!
       courseE_aboutme_6: |-
