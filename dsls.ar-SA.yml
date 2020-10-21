@@ -2542,3 +2542,16 @@ ar-SA:
         markdown: '# التصرف في مختبر الحاسوب  <br/><br/>        <a href="https://docs.google.com/document/d/18KHX5NNlmXX1Eqt8u6LFRzto7PK4dIFNv-tr1F1joUQ/edit?usp=sharing"
           target="_new"><button>انتقل إلى خطة الدراسة</button> </a><br/><br/><a class="btn
           btn-large btn-primary next-stage submitButton">Continue</a>'
+      courseD_external_binary1_2018_2019:
+        markdown: |-
+            <h1>الرسم بنظام الرموز الثنائية</h1>
+            <h3> إن النظام ثنائي الرموز هو طريقة لتمثيل المعلومات باستخدام رمزين فقط.. في هذه الحالة ايقاف وتشغيل.
+            <br/>
+            هنا، سنقوم باستخدام الرقم "0" كرمز "للإيقاف" والرقم "1" كرمز "للتشغيل  .
+            <br/>
+            <table>
+            <tr><td><img src="https://images.code.org/50283881d577c17ac6f1d1648d8f361f-image-1483640342574.09.14.png" width="75px"/></td><td><img src="https://images.code.org/ba6f0a000b18f2dd87160e6255e8a71c-image-1483640355103.09.24.png" width="90px"/></td></tr>
+            <tr padding="0px"><td align="center"><b>0</b></td><td align="center"><b>1</b></td></tr>
+            </table><img src="https://images.code.org/934883837aa59bca1d5c1ded0e0ac675-image-1483640120036.51.06.png" float="left"/><h3> في هذه المرحلة، قمنا بتزويدك بشبكة من نقاط البيكسل التي يمكنك أن تستخدمها بتشغيل نقاط معينة.</h3>
+
+            ![ ](https://images.code.org/c53e00cde9acbae72d02fb9cc2a20e53-image-1483639858942.png)
