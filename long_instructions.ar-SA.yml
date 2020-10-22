@@ -774,8 +774,7 @@ ar-SA:
 
         عدّل سلوك السمك واجعله يسبح يميناً ويسارا.
       Fish Tank 4-validated_2019: |-
-        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية:
-        <xml><block type="gamelab_setBackground" inline="true" block-text="the set background color block">\n    <value name="COLOR">\n      <block type="colour_picker">\n        <title name="COLOUR">#0000ff</title>\n      </block>\n    </value>\n  </block></xml>
+        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية: "عين لون الخلفية".
       Fish Tank 5-validated_2019: |-
         السمك مغامر ويحب مقابلة مخلوقات جديدة داخل البحر.
 
@@ -1713,9 +1712,9 @@ ar-SA:
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
         ![صورة من صناديق الكنز](https://static.edraak.org/code-img/Treasure.JPG)'
       courseB_starWars_prog1_2019: |-
-          ![](https://static.edraak.org/code-img/Princess.JPG) _"يجب أن أحصل على صندوق الكنز"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"يجب أن أحصل على صندوق الكنز"_
 
-          استخدم القطع البرمجية المناسبة لتساعد الأميرة في الوصول الى صندوق الكنز الذي يبدو هكذا (https://static.edraak.org/code-img/Treasure.JPG)[]!
+        استخدم القطع البرمجية المناسبة لتساعد الأميرة في الوصول الى صندوق الكنز الذي يبدو هكذا: (https://static.edraak.org/code-img/Treasure.JPG)[]!
 
       courseB_starWars_prog2: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
@@ -3361,7 +3360,7 @@ ar-SA:
       courseD_harvester_nested_loops_challenge1_2019: _""أحتاج إلى بعض المساعدة في
         المزرعة! ساعدني كي أحصد هذا  محصول الذرة هذا باستخدام المربعات البرمجية الموجودة
         فقط في مربع أدواتك."_
-      courseD_maze_intro4_2019: تتبع المسار ووساعدني لأصل الى السمكة.
+      courseD_maze_intro4_2019: تتبع المسار وساعدني لأصل الى السمكة.
       courseD_maze_intro5a_2019: عد المربعات الموجودة على طول المسار بعناية!
       courseD_maze_intro5c_2019: انتبه من قطع الجليد المتشققة! ساعد طقطق ليصل إلى السمكة.
 
@@ -3561,11 +3560,11 @@ ar-SA:
       courseD_iceage_loops12_2019: شكرا لك صديقي! أنا أحب السوسنة السوداء أكثر من أي شيء في العالم! هل يمكنك مساعدتي في الحصول على واحدة أخيرة؟
       courseD_iceage_loops1_2019: احذر السقوط في الماء! ساعد ابن بطوطة في الوصول الى السوسنة السوداء.
       courseD_iceage_loops2_2019: |-
-        استخدم القطعة البرمجية:
+        استخدم القطعة البرمجية حتى يستطيع ابن بطوطة أن يصل الى السوسنة السوداء:
         <xml><block type="maze_turn" block-text="turn left">
            <title name="DIR">turnLeft</title>
          </block></xml>
-        حتى يستطيع ابن بطوطة أن يصل الى السوسنة السوداء!
+
 
       courseD_iceage_loops3_2019: |-
         هل تستطيع أن تجعل ابن بطوطة يصل الى السوسنة السوداء باستخدام القطعة البرمجية  <xml><block type="maze_moveForward" block-text="move forward"/></xml> مرة واحدة؟ استخدم حلقة التكرار:
@@ -3758,9 +3757,10 @@ ar-SA:
         4. اضغط زر "تشغيل ▶" لترى كيف يبدو الكائن الآن.
 
       courseE_aboutme_3: |-
-        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)_\"\"
-        قل شيئًا عن نفسك ، وتأكد من أنه آمن!
-        استخدم القطع البرمجية <xml><block type="gamelab_spriteClicked" block-text="the when sprite clicked event block"></block></xml> و <xml><block type="gamelab_printText" block-text="the print text block"></block></xml> من فئة "العالم" لتشارك معلومات عن نفسك عند نقر كائنك.
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)
+        قل شيئًا عن نفسك، وتأكد من أنه آمن. استخدم القطع البرمجية:
+        <xml><block type="gamelab_spriteClicked" block-text="the when sprite clicked event block"></block></xml>
+        و <xml><block type="gamelab_printText" block-text="the print text block"></block></xml> من فئة "العالم" لتشارك معلومات عن نفسك عند نقر كائنك.
 
         من الأمثلة على المعلومات الآمنة.. اسمك الأول وأما المعلومات غير الآمنة.. عنوان المنزل.
 

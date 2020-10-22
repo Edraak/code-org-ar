@@ -700,6 +700,8 @@ ar-SA:
         courseB_iceage_loops3_b: |-
           لتكرار الكود، استخدم حلقة التكرار وضع القطعة البرمجية التي تريد تكرارها داخلها.
 
+
+
       courseB_iceage_loops4_2019:
         courseB_iceage_loops4_a: جرب كتابة الخطوات التي سيسلكها ابن بطوطة للوصول الى السوسنة السوداء على ورقة. هل ترى نمطا معينا؟
         courseB_iceage_loops4_b: جرب تشغيل الكود الذي كتبته وشاهد ما سيحصل!
@@ -11797,12 +11799,12 @@ ar-SA:
         courseD_iceage_loops2_c: انظر الى الشاشة.. ستجد الطريق الذي يجب أن يسلكه ابن بطوطة مرسوما باللون الأحمر.
 
       courseD_iceage_loops3_2019:
-        courseD_iceage_loops3_a: |-
+        courseB_iceage_loops3_a: |-
           استخدم هذه القطعة البرمجية:
           <xml><block type="controls_repeat_dropdown">
              <title name="TIMES" config="2-10">5</title>
            </block></xml>
-        courseD_iceage_loops3_b: |-
+        courseB_iceage_loops3_b: |-
           لتكرار الكود، استخدم حلقة التكرار وضع القطعة البرمجية التي تريد تكرارها داخلها.
 
       courseD_iceage_loops4_2019:

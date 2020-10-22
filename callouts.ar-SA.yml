@@ -344,7 +344,7 @@ ar-SA:
         courseC_maze_programming4_1: هذا هو حد المربع البرمجي الخاص بك. وهو يخبرك
           بعدد القطع البرمجية التي تركت لديك من أجل استخدامها.
       courseC_maze_programming4_2019:
-        courseC_maze_programming4_1: هذا هو حد المربع البرمجي الخاص بك. وهو يخبرك
+        courseC_maze_programming4_1: هذا هو حد القطعة البرمجية الخاصة بك. وهو يخبرك
           بعدد القطع البرمجية التي تركت لديك من أجل استخدامها.
       courseC_maze_programming5:
         '': لا يوجد لدى القطع البرمجية هذه أعداد. يمكنك استخدامها عدد أكبر من المرات
@@ -482,7 +482,10 @@ ar-SA:
           في ساحة اللعب.
       courseE_farmer_functions13_2019:
         courseE_farmer_functions1a_1: لا نعرف ما هي هذه النبتة، ستتغير في كل مرة تشغل فيها المرحلة.
-
+      courseC19_playLab_EOC3_callout:
+        courseE_playLab_scaffold3_1: ساعد الممثل ليصل الى العلم حتى ينجز هذه المرحلة.
+      courseE_playLab_scaffold3_callout:
+        courseE_playLab_scaffold3_1: ساعد الممثل ليصل الى العلم حتى ينجز هذه المرحلة.
 
 
       courseF_artist_for1:
