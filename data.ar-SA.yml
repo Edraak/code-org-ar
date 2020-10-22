@@ -662,6 +662,9 @@ ar:
         CSF_ifelseifelse_allskins: استعمال الكتل البرمجية if/else/else
         CSF_loops_AB: الحلقات
         CSF_maze_intro_k1_blocks: البرمجة باستخدام بلوكلي
+        CSF_maze_intro_text_blocks: استوديو الكود
+        CSF_debugging_text_blocks: تصحيح الخلل البرمجي
+        CSF_debugging_k1_blocks: تصحيح الخلل البرمجي
         csd_gamelab_booleans: تعبيرات منطقية
         csd_gamelab_conditional_statements: الأوامر الشرطية
         csd_gamelab_if_else: أوامر If/Else
