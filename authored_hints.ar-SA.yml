@@ -8100,7 +8100,7 @@ ar-SA:
 
       courseC_artist_loops1b_2019:
         courseC_artist_loops1b_a: |-
-          هذه البلوكة الأولى التي سوف تحتاجها:
+          هذه هي القطعة البرمجية الأولى التي سوف تحتاجها:
 
           <xml>
             <block type="draw_turn_by_constant_dropdown">

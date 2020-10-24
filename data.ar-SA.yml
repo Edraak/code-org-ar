@@ -672,6 +672,8 @@ ar:
         CSF_Spritelab_MakeSprite_CDEF: كيف تنشئ العفريت داخل مختبر العفريت
         CDEF_Video_SpritesInAction: العفاريت تتحرك
         CSF_SpriteLab_SpritesInAction_CDEF: العفاريت تتحرك
+        CSF_SpriteLab_Intro_v2: مقدمة الى مختبر الكائنات
+        CSF_Spritelab_MakeSprite_v2: مختبر الكائنات
         CSF_StarWars_ProjectIntro: مدخل لمشروع حرب النجوم
         mc_2018_intro: 'Minecraft: مدخل للسفر المائي'
         MC_2018_loops: 'Minecraft: لسفر مائي تكرار إلى حين'
@@ -683,7 +685,7 @@ ar:
         elem_pd_2: المدرسة الابتدائية لعلوم الكمبيوتر - PD فيديو 2/2
         csd_pair_programming: البرمجة الزوجية
         csd_applab_parameters: الدوال والمعاملات
-        CSF_SpriteLab_SpritesInAction_v2: العفاريت تتحرك
+        CSF_SpriteLab_SpritesInAction_v2: حركة الكائنات
         hoc_dance_congrats_2019: حفلة الرقص 2019- الحفلة قيد التشغيل!
         hoc_dance_warmup_2019: حفلة الرقص- إحماء
         hoc_dance_events_2019: حفلة الرقص 2019- الأحداث
