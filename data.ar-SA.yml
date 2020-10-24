@@ -481,7 +481,7 @@ ar:
         C1_moveitmoveit_unplugged: حركها , حركها
         C1_bigevent_unplugged: الحدث الكبير
         C1_getting_loopy: حصول التكرار
-        C1_pair_programming: البرمجة الزوجية
+        C1_pair_programming: البرمجة مع صديق
         C1_maze_intro_sequencing: مقدمة تسلسل المتاهة
         C1_maze_debugging: تصحيح أخطاء المتاهة
         C1_bee_level_intro: مستوى النحل - مقدمة
@@ -652,8 +652,9 @@ ar:
         applab_intro_designmode: وضع التصميم - مختبر التطبيقات
         applab_intro_share: تقاسم تطبيقك - مختبر التطبيقات
         CSF_skinOverview_Harvester: الحصادة
-        CSF_bb8_skinOverview_C-F: BB-8
-        CSF_bb8_skinOverview_K-1: BB-8
+        CSF_bb8_skinOverview_C-F: استوديو الكود
+        CSF_bb8_skinOverview_K-1: استوديو الكود
+        CSF_bb8_loops_C-F: حلقات التكرار البرمجية
         CSF_harvester_skinOverview_K-1: الحصادة
         CSF_scrat_loops_K1: الحلقات في العصر الجليدي
         CSF_scrat_loops_CF: الحلقات في العصر الجليدي
@@ -661,6 +662,7 @@ ar:
         CSF_ifelse_allskins: استعمال الكتل البرمجية if/else
         CSF_ifelseifelse_allskins: استعمال الكتل البرمجية if/else/else
         CSF_loops_AB: الحلقات
+        CSF_collector_k1_blocks: حلقات التكرار البرمجية
         CSF_maze_intro_k1_blocks: البرمجة باستخدام بلوكلي
         CSF_maze_intro_text_blocks: استوديو الكود
         CSF_debugging_text_blocks: تصحيح الخلل البرمجي
@@ -683,7 +685,7 @@ ar:
         hoc_dance_congrats: حفلة الرقص - البداية!
         teaching_csf_how_it_works: 'تدريس أساسيات علوم الكمبيوتر: كيف تنجز الدورات'
         elem_pd_2: المدرسة الابتدائية لعلوم الكمبيوتر - PD فيديو 2/2
-        csd_pair_programming: البرمجة الزوجية
+        csd_pair_programming: البرمجة مع صديق
         csd_applab_parameters: الدوال والمعاملات
         CSF_SpriteLab_SpritesInAction_v2: حركة الكائنات
         hoc_dance_congrats_2019: حفلة الرقص 2019- الحفلة قيد التشغيل!
