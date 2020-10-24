@@ -299,7 +299,8 @@ ar-SA:
           يمكنك جمعها.
       courseC_harvester_loops1_2019:
         courseC_harvester_loops1_callout1: الرقم 4 عند حبة اليقطين يخبرك أن هناك أربع حبات من اليقطين يمكنك جمعها.
-
+      behaviors 1:
+        behaviors_edit: انقر هنا لترى كيف يعمل هذا السلوك.
       courseC_maze_debugging5_2018:
         courseC_maze_debugging5_1: هذه البلوكات الرمادية مقفلة ولا يمكنك حذفها!
       courseC_maze_debugging5_2019:
@@ -338,10 +339,10 @@ ar-SA:
           الأدوات من أجل حذفهاً.
         courseC_maze_programming3_3: هذي البلوكات مقفلة ولا يمكن حذفها.
       courseC_maze_programming4:
-        courseC_maze_programming4_1: هذا هو حد المربع البرمجي الخاص بك. وهو يخبرك
+        courseC_maze_programming4_1: هذا هو حد القطعة البرمجية الخاصة بك. وهو يخبرك
           بعدد القطع البرمجية التي تركت لديك من أجل استخدامها.
       courseC_maze_programming4_2018:
-        courseC_maze_programming4_1: هذا هو حد المربع البرمجي الخاص بك. وهو يخبرك
+        courseC_maze_programming4_1: هذا هو حد القطعة البرمجية الخاصة بك. وهو يخبرك
           بعدد القطع البرمجية التي تركت لديك من أجل استخدامها.
       courseC_maze_programming4_2019:
         courseC_maze_programming4_1: هذا هو حد القطعة البرمجية الخاصة بك. وهو يخبرك

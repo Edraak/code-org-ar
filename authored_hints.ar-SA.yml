@@ -8041,6 +8041,7 @@ ar-SA:
           </xml>
 
           استخدم أي نمط ترغب به!
+        courseC_artist_loop1_c: test
       courseC_artist_loop1_2018:
         courseC_artist_loop1_a: ليس عليك أن تحدث أي تغيرات في وظيفة كرر, فقط أضف بلوكة
           واحدة فوقها.
@@ -8052,6 +8053,8 @@ ar-SA:
           </xml>
 
           استخدم أي نمط ترغب به!
+        courseC_artist_loop1_c: test
+
       courseC_artist_loop1_2019:
         courseC_artist_loop1_a: ليس عليك أن تحدث أي تغيير في حلقة التكرار، فقط أضف قطعة برمجية
           واحدة فوقها.
