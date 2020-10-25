@@ -1689,7 +1689,7 @@
   "unhideUnitAndAssign": "",
   "unnamedFunction": "لديك متغير أو دالة دون اسم. لا تنسى أن تعطي كل شيء اسماً وصفياً.",
   "unplugged": "غير مربوطة",
-  "unpluggedActivity": "نشاط غير موصول",
+  "unpluggedActivity": "نشاط لا برمجي",
   "unpublish": "إلغاء النشر",
   "unpublishPending": "",
   "updateFirmware": "",
