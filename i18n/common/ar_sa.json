@@ -1519,7 +1519,7 @@
   "unhideUnitAndAssign": "إظهار الوحدة، ثم تعيينها",
   "unnamedFunction": "لديك متغير أو دالة دون اسم. لا تنسى أن تعطي كل شيء اسماً وصفياً.",
   "unplugged": "غير مربوطة",
-  "unpluggedActivity": "نشاط غير موصول",
+  "unpluggedActivity": "نشاط بلا كود",
   "unpublish": "إلغاء النشر",
   "unpublishPending": "جارٍ إلغاء النشر...",
   "updateFirmware": "تحديث البرامج الثابتة",
