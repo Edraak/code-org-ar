@@ -49,8 +49,8 @@ ar:
         if: قطعة اذا كان
         if_else: قطعة " اذا كان والا "
         loop_times: قطعة أكرر بعدد
-        loop_until: قطعة أكرر حتى
-        loop_while: قطعة " أكرر طالما "
+        loop_until: حلقة التكرار "حتى"
+        loop_while: حلقة التكرار "طالما"
         loop_for: قطعة " العداد "
         function: دوال
         parameters: الدوال والمعاملات
@@ -457,12 +457,12 @@ ar:
         farmer_intro: داخل المزارع
         flappy_intro: مقدمة flappy
         loop_times: قطعة أكرر بعدد
-        loop_until: قطعة أكرر حتى
+        loop_until: حلقة التكرار "حتى"
         if: قطعة اذا كان
         if_else: قطعة اذا / والا
         if_else_scrat: اذا / والا امنعه
         function: الدوال
-        loop_while: قطعة " أكرر طالما "
+        loop_while: حلقة التكرار "طالما"
         loop_for: قطعة " العداد "
         parameters: الدوال والمعاملات
         hoc_wrapup: انتهاء ساعة من البرمجة
@@ -533,9 +533,9 @@ ar:
         C4_bee_conditional: النحل الشرطية
         C4_variables_artist: المتغيرات-الفنان
         C4_variables_playlab: المتغيرات - مختبر اللعب
-        C4_for_loops: للحلقات
-        C4_for_loops_bee: للحلقات
-        C4_for_loops_no_bee: للحلقات
+        C4_for_loops: التكرار المحدد
+        C4_for_loops_bee: التكرار المحدد
+        C4_for_loops_no_bee: التكرار المحدد
         C4_math_artist: برمجة الفنان مع الرياضيات
         C4_function_edit: تغيير الدوال
         C4_function_create: إضافة الدوال
@@ -544,13 +544,13 @@ ar:
         C4_unplugged_algorithms: خوارزميات مع Tangrams
         C4_unplugged_madlibs: Mad Libs
         C4_unplugged_variables: المتغيرات في مغلفات
-        C4_unplugged_forloops: للحلقات
+        C4_unplugged_forloops: التكرار المحدد
         C4_unplugged_parameters: تأليف الأغاني مع المعلمات
         C4_unplugged_binary: ثنائي
         CSF_my_robotic_friends: أصدقائي من الروبوت
         CSF_create_functions: إنشاء الوظائف
         frozen_intro: تقديم ساعة من البرمجة
-        frozen_loops: مقدمة للحلقات
+        frozen_loops: مقدمة التكرار المحدد
         frozen_functions: تقديم للدوال
         playlab_intro: مقدمة لمختبر اللعب
         playlab_events: أحداث مختبر اللعب
@@ -656,12 +656,16 @@ ar:
         CSF_bb8_skinOverview_K-1: استوديو الكود
         CSF_bb8_loops_C-F: حلقات التكرار البرمجية
         CSF_harvester_skinOverview_K-1: الحصادة
-        CSF_scrat_loops_K1: الحلقات في العصر الجليدي
-        CSF_scrat_loops_CF: الحلقات في العصر الجليدي
-        CSF_if_allskins: الكتلة البرمجية if
-        CSF_ifelse_allskins: استعمال الكتل البرمجية if/else
-        CSF_ifelseifelse_allskins: استعمال الكتل البرمجية if/else/else
+        CSF_scrat_loops_K1: التكرار مع ابن بطوطة
+        CSF_scrat_loops_CF: التكرار مع ابن بطوطة
+        CSF_if_allskins: الجملة الشرطية "إذا"
+        CSF_ifelse_allskins: الجمل الشرطية "إذا.. وإلا"
+        CSF_ifelseifelse_allskins: الجمل الشرطية "إذا.. وإلا"
         CSF_loops_AB: الحلقات
+        CSF_collector_text_blocks: أساسيات البرمجة مع المجمع
+        CSF_collector_repeat_loops: تكرار الحلقات البرمجية
+        CSF_a_b_artist_loops: تكرار الحلقات البرمجية
+
         CSF_collector_k1_blocks: حلقات التكرار البرمجية
         CSF_maze_intro_k1_blocks: البرمجة باستخدام بلوكلي
         CSF_maze_intro_text_blocks: استوديو الكود
@@ -687,7 +691,7 @@ ar:
         elem_pd_2: المدرسة الابتدائية لعلوم الكمبيوتر - PD فيديو 2/2
         csd_pair_programming: البرمجة مع صديق
         csd_applab_parameters: الدوال والمعاملات
-        CSF_SpriteLab_SpritesInAction_v2: حركة الكائنات
+        CSF_SpriteLab_SpritesInAction_v2: الحركة في مختبر الكائنات
         hoc_dance_congrats_2019: حفلة الرقص 2019- الحفلة قيد التشغيل!
         hoc_dance_warmup_2019: حفلة الرقص- إحماء
         hoc_dance_events_2019: حفلة الرقص 2019- الأحداث
