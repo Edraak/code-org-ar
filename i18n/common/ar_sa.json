@@ -998,7 +998,7 @@
   "nPoints": "{numPoints, plural, one {1 point} other {# points}}",
   "numMatchCorrect": "# مطابقة صحيحة",
   "numMatch": "# مطابقة",
-  "numBlocksNeeded": "تهانينا! لقد أنجزت المرحلة {puzzleNumber}. (لكن كان بإمكانك استخدام {numBlocks, plural, one {1 قطعة برمجية} other {# قطع برمجية}}.) فقط",
+  "numBlocksNeeded": "تهانينا! لقد أنجزت المرحلة {puzzleNumber}. (لكن كان بإمكانك استخدام {numBlocks, plural, one {1 قطعة برمجية} other {# قطع برمجية}}) فقط.",
   "numBlocksUsedLabel": "قطع برمجية",
   "numLanguages": "{numLanguages} لغة",
   "numLinesOfCodeWritten": "لقد كتبت {numLines, plural, one {1 سطر} other {# أسطر}} من الكود!",

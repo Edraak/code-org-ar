@@ -502,7 +502,7 @@ ar-SA:
       Virtual Pet 5_simple: "The giraffe is too big!  \n\nAdd actions to each event so the giraffe gets smaller each time it touches another sprite.  \n"
       Virtual Pet 6: "A balanced diet is important! We have to feed the giraffe to get its strength back.  \n\nAdd an apple to the scene and have it return the giraffe back to regular size when the two sprites touch.  \n"
       Virtual Pet 6_2019: |-
-        استخدم <xml><block type=\"variables_set\" block-text=\"the set variable block\"><title name=\"VAR\">energy</title></block></xml> مع <xml><block type=\"math_change\" block-text=\"the change variable block\"><title name=\"VAR\">energy</title></block></xml> لتجعل تناول الطعام يتحكم بطاقة حيوانك الأليف. كلما كانت لديه طاقة أكبر، كلما أصبحت حركته أسرع.
+        استخدم <xml><block type="variables_set" block-text="the set variable block"><title name="VAR">energy</title></block></xml> مع <xml><block type="math_change" block-text="the change variable block"><title name="VAR">energy</title></block></xml> لتجعل تناول الطعام يتحكم بطاقة حيوانك الأليف. كلما كانت لديه طاقة أكبر، كلما أصبحت حركته أسرع.
 
         1. عليك تعيين قيمة المتغير "energy" لتكون 5 عندما يبدأ البرنامج.
 
@@ -513,7 +513,7 @@ ar-SA:
         4. عدل كل الاحداث البرمجية المرتبطة بالمفاتيح بحيث يتحرك حيوانك الأليف بمقدار "energy" بدلا من رقم محدد.
       Virtual Pet 6_simple: "The giraffe is hungry!\n\nAdd an apple and use an action to make the giraffe its normal size when the apple and giraffe touch.  \n"
       Virtual Pet 7_2019: |-
-        تستطيع أن تعرف مقدار طاقة حيوانك الأليف باستخدام <xml><block type=\"gamelab_printText\" block-text=\"the print block\"></block></xml> وهي قطعة جديدة موجودة في فئة "العالم"!
+        تستطيع أن تعرف مقدار طاقة حيوانك الأليف باستخدام <xml><block type="gamelab_printText" block-text="the print block"></block></xml> وهي قطعة جديدة موجودة في فئة "العالم"!
 
         أنشئ حدثا برمجيا يجعل قيمة المتغير "energy" تُطبع عندما يُنقر الحيوان الأليف.
       Virtual Pet 8_2019: |-
@@ -760,13 +760,9 @@ ar-SA:
       Fish Tank Predict_2019: حاول أن تحزر.. ماذا تتوقع أن يحدث عند تشغيل هذا الكود؟
       Fish Tank 2-validated_2019: |-
         هيا نصنع حوض سمك! يجب أن نغيّر النبات الصحراوي إلى أي نوع من السمك عن طريق الضغط على:
-
         <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">tumbleweed</title></block></xml>
-
         تأكد أن تختار نفس النوع من السمك باستخدام هذه القطعة:
-
-        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">"tumbleweed"</title></block></xml>.
-
+        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">"tumbleweed"</title></block></xml>
         تأكد من أن تستخدم زيا جديدا:
         <xml><block type="gamelab_addBehaviorSimple" block-text="the add behavior block"></block></xml>
       Fish Tank 3-validated_2019: |-
