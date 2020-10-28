@@ -57,44 +57,44 @@ Blockly.Msg.CONTROLS_IF_TOOLTIP_4 = "إذا كانت القيمة الأولى �
 Blockly.Msg.CONTROLS_REPEAT_HELPURL = "http://en.wikipedia.org/wiki/For_loop";
 Blockly.Msg.CONTROLS_REPEAT_INPUT_DO = "نفّذ";
 Blockly.Msg.CONTROLS_REPEAT_TITLE = "التكرار %1 مرات";
-Blockly.Msg.CONTROLS_REPEAT_TITLE_REPEAT = "كرر";
+Blockly.Msg.CONTROLS_REPEAT_TITLE_REPEAT = "التكرار";
 Blockly.Msg.CONTROLS_REPEAT_TITLE_TIMES = "مرات";
 Blockly.Msg.CONTROLS_REPEAT_TOOLTIP = "تنفيذ بعض الأوامر عدة مرات.";
 Blockly.Msg.CONTROLS_WHILEUNTIL_HELPURL = "http://code.google.com/p/blockly/wiki/Repeat";
 Blockly.Msg.CONTROLS_WHILEUNTIL_OPERATOR_UNTIL = "كرّر حتى";
-Blockly.Msg.CONTROLS_WHILEUNTIL_OPERATOR_WHILE = "التكرار ما دام";
+Blockly.Msg.CONTROLS_WHILEUNTIL_OPERATOR_WHILE = "التكرار طالما";
 Blockly.Msg.CONTROLS_WHILEUNTIL_TOOLTIP_UNTIL = "ما دامت القيمة تساوي \"خطأ\"، قم بتنفيذ بعض الأوامر.";
 Blockly.Msg.CONTROLS_WHILEUNTIL_TOOLTIP_WHILE = "ما دامت القيمة تساوي \"صحيح\"، قم بتنفيذ بعض الأوامر.";
 Blockly.Msg.DEFINE_HEADER_DEFINITION = "تعريف";
 Blockly.Msg.DEFINE_FUNCTION_DEFINE = "عرّف";
-Blockly.Msg.DEFINE_FUNCTION_FOR_EXAMPLE = "قم بتعريف الدالة أدناه ثم حاول مرة أخرى.";
+Blockly.Msg.DEFINE_FUNCTION_FOR_EXAMPLE = "قم بتعريف الوظيفة أدناه ثم حاول مرة أخرى.";
 Blockly.Msg.DELETE = "حذف";
-Blockly.Msg.DELETE_BLOCK = "حذف المربع البرمجي";
+Blockly.Msg.DELETE_BLOCK = "حذف القطعة البرمجية";
 Blockly.Msg.DELETE_PARAMETER = "حذف العامل...";
 Blockly.Msg.DELETE_PARAMETER_TITLE = "سيؤدي هذا إلى حذف كافة تواجدات العامل '%1'. هل أنت متأكد؟";
-Blockly.Msg.DELETE_X_BLOCKS = "حذف %1 مربعات برمجية";
-Blockly.Msg.DISABLE_BLOCK = "تعطيل المربع البرمجي";
+Blockly.Msg.DELETE_X_BLOCKS = "حذف %1 قطع برمجية";
+Blockly.Msg.DISABLE_BLOCK = "تعطيل القطعة البرمجية";
 Blockly.Msg.DUPLICATE_BLOCK = "نسخ";
-Blockly.Msg.ENABLE_BLOCK = "تفعيل المربع البرمجي";
+Blockly.Msg.ENABLE_BLOCK = "تفعيل القطعة البرمجية";
 Blockly.Msg.EXAMPLE = "مثال";
 Blockly.Msg.EXAMPLE_DESCRIPTION = "تعريف مثال مع السلوك المتوقع والفعلي";
-Blockly.Msg.EXPAND_ALL = "إظهار المربعات البرمجية";
-Blockly.Msg.EXPAND_BLOCK = "إظهار المربع البرمجي";
+Blockly.Msg.EXPAND_ALL = "إظهار القطعة البرمجية";
+Blockly.Msg.EXPAND_BLOCK = "إظهار القطعة البرمجية";
 Blockly.Msg.EXPECTED = "النتيجة";
 Blockly.Msg.EXTERNAL_INPUTS = "إدخالات خارجية";
-Blockly.Msg.FUNCTION_CREATE = "إنشاء دالة";
+Blockly.Msg.FUNCTION_CREATE = "إنشاء وظيفة";
 Blockly.Msg.FUNCTION_EDIT = "تعديل";
-Blockly.Msg.FUNCTION_NAME_LABEL = "اسم الدالة الخاصة بك:";
-Blockly.Msg.FUNCTION_DESCRIPTION_LABEL = "ما الوظيفة المفترض أن تقوم بها الدالة الخاص بك؟";
-Blockly.Msg.FUNCTION_PARAMETERS_LABEL = "ما العوامل التي تأخذها الدالة الخاص بك؟";
-Blockly.Msg.FUNCTION_HEADER = "دالة";
-Blockly.Msg.FUNCTIONAL_CREATE = "مربع برمجي جديد";
+Blockly.Msg.FUNCTION_NAME_LABEL = "اسم الوظيفة الخاصة بك:";
+Blockly.Msg.FUNCTION_DESCRIPTION_LABEL = "ما المهمة التي من المفترض أن تقوم بها الوظيفة الخاصة بك؟";
+Blockly.Msg.FUNCTION_PARAMETERS_LABEL = "ما العوامل التي تأخذها الوظيفة الخاصة بك؟";
+Blockly.Msg.FUNCTION_HEADER = "وظيفة";
+Blockly.Msg.FUNCTIONAL_CREATE = "قطعة برمجية جديد";
 Blockly.Msg.FUNCTIONAL_EDIT = "تعديل";
 Blockly.Msg.FUNCTIONAL_NAME_LABEL = "الاسم";
 Blockly.Msg.FUNCTIONAL_TYPE_LABEL = "اختيار النوع...";
 Blockly.Msg.FUNCTIONAL_DESCRIPTION_LABEL = "الوصف";
 Blockly.Msg.FUNCTIONAL_DOMAIN_LABEL = "المجال";
-Blockly.Msg.FUNCTIONAL_PROCEDURE_DEFINE_TOOLTIP = "تعريف دالة وظيفية";
+Blockly.Msg.FUNCTIONAL_PROCEDURE_DEFINE_TOOLTIP = "تعريف وظيفة";
 Blockly.Msg.FUNCTIONAL_RANGE_LABEL = "المدى";
 Blockly.Msg.FUNCTIONAL_VARIABLE_CREATE = "إنشاء متغير";
 Blockly.Msg.FUNCTIONAL_VARIABLE_HEADER = "المتغير";
@@ -377,5 +377,5 @@ Blockly.Msg.VARIABLES_GET_TOOLTIP = "إرجاع قيمة هذا المتغير."
 Blockly.Msg.VARIABLES_SET_CREATE_GET = "إنشاء 'الحصول على %1'";
 Blockly.Msg.VARIABLES_SET_HELPURL = "http://code.google.com/p/blockly/wiki/Variables#Set";
 Blockly.Msg.VARIABLES_SET_TAIL = "إلى";
-Blockly.Msg.VARIABLES_SET_TITLE = "تغير قيمة";
+Blockly.Msg.VARIABLES_SET_TITLE = "تغيير قيمة";
 Blockly.Msg.VARIABLES_SET_TOOLTIP = "تغير قيمة هذا المتغير ليتساوى مع القيمة المدخلة.";
