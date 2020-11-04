@@ -456,6 +456,7 @@ ar-SA:
         لجعل حيوانك الأليف يتحرك الى الشمال بينما تنقر المفتاح الأيمن، استخدم هذه القطع البرمجية:
 
         <xml><block type="gamelab_keyPressed" block-text="the while up key pressed event block"><title name="CONDITION">"while"</title><title name="KEY">"up"</title></block></xml> و <xml><block type="gamelab_moveInDirection" block-text="the move in direction action block"><title name="DIRECTION">"North"</title></block></xml>
+
         كرر الخطوات السابقة للاتجاهات (الجنوب، الشرق، الغرب) والمفاتيح (اليسار، الأعلى، الأسفل).
       Virtual Pet 3_simple: |
         The giraffe is too dirty!
@@ -1697,7 +1698,7 @@ ar-SA:
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
       courseB_starWars_prog11_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog11_2019: '![](https://static.edraak.org/code-img/Treasure.JPG)
+      courseB_starWars_prog11_2019: '![](https://static.edraak.org/code-img/Princess.JPG)
         _"أشكرك جدا صديقي .. هذه آخر صناديق سأجمعها.. هل تستطيع أن تساعدني؟"_'
       courseB_starWars_prog1_2018: '![Rey](https://static.edraak.org/code-img/Treasure.JPG)_"اذهب
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
@@ -3756,7 +3757,7 @@ ar-SA:
         من الأمثلة على المعلومات الآمنة.. اسمك الأول وأما المعلومات غير الآمنة.. عنوان المنزل.
 
       courseE_aboutme_4: |-
-        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"أضف كائنات جديدة الى ملصقك.. لاتنسَ منحهم ملابس أيضا!"_
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"أضف كائنات جديدة الى ملصقك.. لاتنسَ منحهم ملابس أيضا"_
 
         أضف على الأقل كائنين جديدين الى ملصقك. وأعطِ كل كائن زياّ مميزا!
       courseE_aboutme_5: |-
