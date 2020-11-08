@@ -740,7 +740,7 @@ ar-SA:
           <next>
           <block type="studio_saySpriteChoices">
               <title name="SPRITE">1</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </next>
           </block>
@@ -756,7 +756,7 @@ ar-SA:
           <next>
           <block type="studio_saySpriteChoices">
               <title name="SPRITE">1</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </next>
           </block>
@@ -7256,7 +7256,7 @@ ar-SA:
           هذه هي القطعة البرمجية التي ستجعل ديزي يقول شيئا ما:<xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
             </xml>
       courseB_playlab_events2_2020:
@@ -7265,7 +7265,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
             </xml>
       courseB_playlab_events2_2019:
@@ -7274,7 +7274,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
             </xml>
       courseB_playlab_events3:
@@ -7676,7 +7676,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </xml>
       courseC_PlayLab_events1_2018:
@@ -7686,7 +7686,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </xml>
       courseC_PlayLab_events1_2019:
@@ -7706,7 +7706,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </xml>
         courseC_PlayLab_events2_b: استخدم القائمة المنسدلة في بلوكة "يقول الممثل"
@@ -7718,7 +7718,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </xml>
         courseC_PlayLab_events2_b: استخدم القائمة المنسدلة في بلوكة "يقول الممثل"
@@ -7730,7 +7730,7 @@ ar-SA:
           <xml>
             <block type="studio_saySpriteChoices">
               <title name="SPRITE">0</title>
-              <title name="VALUE">Hi there.</title>
+              <title name="VALUE">مرحباً</title>
             </block>
           </xml>
         courseC_PlayLab_events2_b: استخدم القائمة المنسدلة في قطعة "يقول الممثل"
