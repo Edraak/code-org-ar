@@ -208,6 +208,10 @@ ar-SA:
       course4_bee_fwp_challenge2:
         courseF_bee_fwp_challenge2_callout1: ستقوم الدالة بوظيفة رائعة حيال الذرة
           لكن ماذا عن أنواع الخضار الأخرى؟
+      courseA_maze_seq1_callout:
+        courseA_maze_seq1_1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
+      courseA_maze_seq1_2018_callout:
+        courseA_maze_seq1_1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
       courseA_maze_seq1_2019_callout:
         courseA_maze_seq1_1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
       courseA_maze_ramp2_2019:
@@ -237,6 +241,12 @@ ar-SA:
       courseB_artist_loops5:
         courseB_artist_loops5_1:  هذا الرقم يعني أنه لا توجد المزيد من القطع البرمجية
            في صندوق الأدوات.
+      courseB_maze_seq1_callout:
+        courseB_maze_seq1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
+      courseB_maze_seq1_2018_callout:
+        courseB_maze_seq1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
+      courseB_maze_seq1_2019_callout:
+        courseB_maze_seq1: انقر صورة الضوء اذا احتجت الى تلميح يساعدك!
       courseB_maze_seq3:
         courseB_maze_seq3_1: القطع الرمادية مصنوعة من الحجارة ولا يمكن رميها بعيداً.
       courseB_playlab_events6:
