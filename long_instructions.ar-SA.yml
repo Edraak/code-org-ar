@@ -192,6 +192,117 @@ ar-SA:
         استخدم المرجان الأزرق والأحمر للبحث عن صندوق الكنز ![](https://images.code.org/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png).
 
 
+      #Course E
+      #Lesson 12: Fancy Shapes using Nested Loops
+      courseD_artist_nestedLoops1_2019: |-
+        لنبدأ مرحلة رسم الأشكال برسم مثلث!
+        يجب أن يكون طول كل جانب 100 بيكسل. ستحتاج أيضا الى أن تنعطف بزاوية قياسها 120 لكل زاوية خارجية.
+      courseD_artist_nestedLoops1a: الآن لف المثلث 6 مرات.بعد كل مثلث، ستحتاج إلى
+        الالتفاف بـ 60 درجة قبل رسم المثلث التالي.
+      courseD_artist_nestedLoops1a_2018: الآن لف المثلث 6 مرات.بعد كل مثلث، ستحتاج
+        إلى الالتفاف بـ 60 درجة قبل رسم المثلث التالي.
+      courseD_artist_nestedLoops1a_2019: قم الآن بتكرار رسم المثلث 6 مرات. بعد رسم كل مثلث، ستحتاج
+        إلى الالتفاف بـزاوية قياسها 60 درجة قبل رسم المثلث التالي.
+      courseD_artist_nestedLoops2: هذه المرة، أكمل اللغز باستخدام أقل عدد ممكن من
+        المربعات البرمجية.بعد كل مثلث، ستحتاج إلى الالتفاف بـ 60 درجة قبل رسم المثلث
+        التالي.أنظر مدى سهولة هذه الخطوة باستخدام الحلقات المتداخلة؟
+      courseD_artist_nestedLoops2_2018: هذه المرة، أكمل اللغز باستخدام أقل عدد ممكن
+        من المربعات البرمجية.بعد كل مثلث، ستحتاج إلى الالتفاف بـ 60 درجة قبل رسم المثلث
+        التالي.أنظر مدى سهولة هذه الخطوة باستخدام الحلقات المتداخلة؟
+      courseD_artist_nestedLoops2_2019: هذه المرة، أكمل المرحلة باستخدام أقل عدد ممكن
+        من القطع البرمجية. بعد رسم كل مثلث، ستحتاج إلى الالتفاف بـزاوية قياسها 60 درجة قبل رسم المثلث
+        التالي. لاحظ مدى سهولة هذه المرحلة باستخدام الحلقات المتداخلة.
+      courseD_artist_nestedLoops3_2019: استخدم مهاراتك الجديدة لرسم آخر صف من النوافذ في هذا المبنى بسرعة. مساحة كل نافذة هي 20 بيكسِل، والمسافة بين كل منها هي 20 بيكسل.
+      courseD_artist_nestedLoops4: عظيم! افعل نفس الشيء مع هذه الدوائر.- يتم عمل كل
+        دائرة بتحريك عدد 1 بيكسل قبل الاستدارة درجة واحة 360 مرة.- كل دائرة تبدأ
+        50 بيكسل من مكان انتهاء آخر دائرة.
+      courseD_artist_nestedLoops4_2018: عظيم! افعل نفس الشيء مع هذه الدوائر.- يتم
+        عمل كل دائرة بتحريك عدد 1 بيكسل قبل الاستدارة درجة واحة 360 مرة.- كل دائرة
+        تبدأ 50 بيكسل من مكان انتهاء آخر دائرة.
+      courseD_artist_nestedLoops4_2019: |-
+        عظيم! افعل نفس الشيء مع هذه الدوائر.
+        - ارسم كل دائرة بأن تتحرك 1 بيكسل قبل أن تستدير درجة واحدة، 360 مرة.
+        - كل دائرة تبدأ 50 بيكسل بعيدا عن المكان الذي انتهت فيه الدائرة التي قبلها.
+
+      courseD_artist_nestedLoops5: ما الذي يحدث إذا قمت باللف 90 درجة بين الدوائر؟(لتكوين
+        هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
+      courseD_artist_nestedLoops5_2018: ما الذي يحدث إذا قمت باللف 90 درجة بين الدوائر؟(لتكوين
+        هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
+      courseD_artist_nestedLoops5_2019: |-
+        ما الذي يحدث إذا قمت بالاستدارة 90 درجة بين الدوائر؟
+        (لرسم هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
+
+      courseD_artist_nestedLoops7: استخدم ما تعملته لعمل هذا الرسم.-   لكل جانب من
+        جوانب المربعات 100 بيكسل وزوايا 90 درجة\ -   يجب أن تلف بـ 60
+        درجة بين كل مربع. لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة
+        على 6 يساوي 60 درجة.-   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي
+      courseD_artist_nestedLoops7_2018: استخدم ما تعملته لعمل هذا الرسم.-   لكل جانب
+        من جوانب المربعات 100 بيكسل وزوايا 90 درجة\ -   يجب أن تلف بـ 60
+        درجة بين كل مربع. لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة
+        على 6 يساوي 60 درجة.-   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي
+      courseD_artist_nestedLoops7_2019: |-
+        استخدم ما تعلمته لعمل هذا الرسم.
+        -  طول كل جانب من جوانب المربعات 100 بيكسل وقياس زواياها 90 درجة.
+        -   يجب أن تستدير بزاوية قياسها 60 درجة بين كل مربع، لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة على 6 يساوي 60 درجة.
+        -   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي.
+
+      courseD_artist_nestedLoops8: باستخدام ما تعلمته في آخر بضعة ألغاز، قم ببناء
+        هذه الصورة من البداية.-   كل شكل سداسي به جوانب بـ 50 بيكسل و التفافات
+        بـ 60 درجة
+      courseD_artist_nestedLoops8_2018: باستخدام ما تعلمته في آخر بضعة ألغاز، قم ببناء
+        هذه الصورة من البداية.-   كل شكل سداسي به جوانب بـ 50 بيكسل و التفافات
+        بـ 60 درجة
+      courseD_artist_nestedLoops8_2019: |-
+        باستخدام ما تعلمته في آخر بضعة مراحل، قم برسم هذه الصورة من البداية.
+        -   كل شكل سداسي له جوانب طولها 50 بيكسل وزوايا قياسها 60 درجة.
+
+      courseD_artist_nestedLoops9: 'تحدي هل يمكنك معرفة كيفية عمل صورة كهذه؟-   كلا
+        الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب أن تقفز للأمام
+        بطول الجانب، وتلف 45 درجة.'
+      courseD_artist_nestedLoops9_2018: 'تحدي هل يمكنك معرفة كيفية عمل صورة كهذه؟-   كلا
+        الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب أن تقفز للأمام
+        بطول الجانب، وتلف 45 درجة.'
+      courseD_artist_nestedLoops9_2019: |-
+        تحدي الفنون.. هل يمكنك معرفة كيفية رسم صورة كهذه؟
+        -   كلا الشكلين له جوانب طولها 50 بيكسل.
+        -   بين كل زوجين من الأشكال، يجب أن تقفز الى الأمام بمقدار طول الجانب، وان تستدير 45 درجة.
+      courseD_artist_nestedLoops10_2019: خذ المربعات من المرحلة السابقة، لكن هذه المرة ارسم 7 منها فقط، ثم نظمها في صف.
+      courseD_artist_nestedLoops9_predict1: "تحدي هل يمكنك معرفة كيفية صنع صورة
+        مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
+      courseD_artist_nestedLoops9_predict1_2018: "تحدي هل يمكنك معرفة كيفية صنع
+        صورة مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
+      courseD_artist_nestedLoops9_predict1_2019: "تحدي هل يمكنك معرفة كيفية صنع
+        صورة مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
+      courseD_artist_nestedLoopsFP: الأن جاء دورك. خذ المهارات التي تعلمتها واصنع
+        شيئًا تحبه!هل تحتاج إلى فكرة؟ حاول صناعة واحد من هؤلاء:![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
+      courseD_artist_nestedLoopsFP_2018: الأن جاء دورك. خذ المهارات التي تعلمتها واصنع
+        شيئًا تحبه!هل تحتاج إلى فكرة؟ حاول صناعة واحد من هؤلاء:![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
+      courseD_artist_nestedLoopsFP_2019: |-
+        جاء دورك الآن. استخدم المهارات التي تعلمتها وارسم شيئًا تحبه! هل تحتاج إلى فكرة؟
+        :![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
+      courseD_artist_nestedLoops_challenge1: 'تحدي هل يمكنك معرفة كيفية عمل صورة
+        كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب
+        أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
+      courseD_artist_nestedLoops_challenge1_2018: 'تحدي هل يمكنك معرفة كيفية عمل
+        صورة كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال،
+        يجب أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
+      courseD_artist_nestedLoops_challenge1_2019: 'تحدي هل يمكنك معرفة كيفية عمل
+        صورة كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال،
+        يجب أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
+      courseD_artist_nestedLoops_challenge2: هذه التعليمات البرمجية مغلوط قليلاً!
+        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
+        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
+        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
+      courseD_artist_nestedLoops_challenge2_2018: هذه التعليمات البرمجية مغلوط قليلاً!
+        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
+        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
+        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
+      courseD_artist_nestedLoops_challenge2_2019: هذه التعليمات البرمجية مغلوط قليلاً!
+        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
+        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
+        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
+      #End of lesson 12
+
 
       #Express
       #Lesson 25: Alien Dance Party with Sprite Lab
@@ -220,8 +331,7 @@ ar-SA:
         لنجرب استخدام حدث برمجي مختلف هذه المرة!
 
         أضف حدثا يعمل بنقر مفتاح معين مرة واحدة باستخدام القطعة البرمجية:
-        <xml><block type=\"gamelab_keyPressed\" block-text=\"the keypress event block\"></block></xml>
-
+        <xml><block type="gamelab_keyPressed" block-text="the keypress event block"></block></xml>
         كيف سيعمل هذه الحدث البرمجي؟ عند نقر أي مفتاح.. سيتغير لون المخلوقات الفضائية. اختر أي مفتاح تفضله، لكن إن كنت تستعمل شاشة لمس فإننا ننصحك باستخدام مفاتيح أعلى، أسفل، يمين ويسار.
       Dance Party 6_2019: |-
         المخلوقات الفضائية أصبحت مشاكسه! دعنا نهدئها عن طريق رن الجرس.
@@ -266,13 +376,10 @@ ar-SA:
 
         عدل سلوك السيارة الآلية لتصبح أسرع من الرجل الآلي.
       behaviors 3a: |-
-        عدل السلوك "الدوران الى اليمين".
-
-        استخدم هذه القطعة البرمجية بدلا من قطعة "الزي":
+        عدل السلوك "الدوران الى اليمين". استخدم هذه القطعة البرمجية بدلا من قطعة "الزي":
         <xml><block type="sprite_parameter_get" block-text="this sprite"><title name="VAR">this sprite</title></block></xml>
 
         هذا سيجعل الكود يعمل لأي كائن مهما كان الزي الذي يستخدمه.
-
         صحح الخلل: اجعل كل النجوم تدور بنفس الاتجاه!
 
       behaviors 4: أي طريق ستقود القمر الصناعي الى المجرة؟ حاول أن تحزر!
@@ -391,7 +498,7 @@ ar-SA:
       Virtual Pet 5_simple: "The giraffe is too big!  \n\nAdd actions to each event so the giraffe gets smaller each time it touches another sprite.  \n"
       Virtual Pet 6: "A balanced diet is important! We have to feed the giraffe to get its strength back.  \n\nAdd an apple to the scene and have it return the giraffe back to regular size when the two sprites touch.  \n"
       Virtual Pet 6_2019: |-
-        استخدم <xml><block type=\"variables_set\" block-text=\"the set variable block\"><title name=\"VAR\">energy</title></block></xml> مع <xml><block type=\"math_change\" block-text=\"the change variable block\"><title name=\"VAR\">energy</title></block></xml> لتجعل تناول الطعام يتحكم بطاقة حيوانك الأليف. كلما كانت لديه طاقة أكبر، كلما أصبحت حركته أسرع.
+        استخدم <xml><block type="variables_set" block-text="the set variable block"><title name="VAR">energy</title></block></xml> مع <xml><block type="math_change" block-text="the change variable block"><title name="VAR">energy</title></block></xml> لتجعل تناول الطعام يتحكم بطاقة حيوانك الأليف. كلما كانت لديه طاقة أكبر، كلما أصبحت حركته أسرع.
 
         1. عليك تعيين قيمة المتغير "energy" لتكون 5 عندما يبدأ البرنامج.
 
@@ -402,7 +509,7 @@ ar-SA:
         4. عدل كل الاحداث البرمجية المرتبطة بالمفاتيح بحيث يتحرك حيوانك الأليف بمقدار "energy" بدلا من رقم محدد.
       Virtual Pet 6_simple: "The giraffe is hungry!\n\nAdd an apple and use an action to make the giraffe its normal size when the apple and giraffe touch.  \n"
       Virtual Pet 7_2019: |-
-        تستطيع أن تعرف مقدار طاقة حيوانك الأليف باستخدام <xml><block type=\"gamelab_printText\" block-text=\"the print block\"></block></xml> وهي قطعة جديدة موجودة في فئة "العالم"!
+        تستطيع أن تعرف مقدار طاقة حيوانك الأليف باستخدام <xml><block type="gamelab_printText" block-text="the print block"></block></xml> وهي قطعة جديدة موجودة في فئة "العالم"!
 
         أنشئ حدثا برمجيا يجعل قيمة المتغير "energy" تُطبع عندما يُنقر الحيوان الأليف.
       Virtual Pet 8_2019: |-
@@ -646,22 +753,20 @@ ar-SA:
       #Express
       #Lesson 24: Swimming Fish in Sprite Lab
       Fish Tank 1-validated_2019: حاول أن تحزر.. ماذا تتوقع أن يحدث عند تشغيل هذا الكود؟
+      Fish Tank Predict_2019: حاول أن تحزر.. ماذا تتوقع أن يحدث عند تشغيل هذا الكود؟
       Fish Tank 2-validated_2019: |-
         هيا نصنع حوض سمك! يجب أن نغيّر النبات الصحراوي إلى أي نوع من السمك عن طريق الضغط على:
-
-        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>
-
+        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">tumbleweed</title></block></xml>
         تأكد أن تختار نفس النوع من السمك باستخدام هذه القطعة:
-
-        <xml><block type=\"gamelab_allSpritesWithAnimation\" block-text=\"the sprite picker block\"><title name=\"ANIMATION\">\"tumbleweed\"</title></block></xml>.\n\nBe sure to also update this sprite's costume in <xml><block type=\"gamelab_addBehaviorSimple\" block-text=\"the add behavior block\"></block></xml>
+        <xml><block type="gamelab_allSpritesWithAnimation" block-text="the sprite picker block"><title name="ANIMATION">"tumbleweed"</title></block></xml>
+        تأكد من أن تستخدم زيا جديدا:
+        <xml><block type="gamelab_addBehaviorSimple" block-text="the add behavior block"></block></xml>
       Fish Tank 3-validated_2019: |-
         السمك يشعر بالدوار!
 
         عدّل سلوك السمك واجعله يسبح يميناً ويسارا.
       Fish Tank 4-validated_2019: |-
-        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية:
-
-        <xml><block type=\"gamelab_setBackground\" inline=\"true\" block-text=\"the set background color block\">\n    <value name=\"COLOR\">\n      <block type=\"colour_picker\">\n        <title name=\"COLOUR\">#0000ff</title>\n      </block>\n    </value>\n  </block></xml>
+        حوض السمك يحتاج الى الماء. لتغيير لون الخلفية الى أي لون تريده (ننصحك باللون الأزرق)، استخدم القطعة البرمجية: "عين لون الخلفية".
       Fish Tank 5-validated_2019: |-
         السمك مغامر ويحب مقابلة مخلوقات جديدة داخل البحر.
 
@@ -865,7 +970,7 @@ ar-SA:
       OPD-K5-variables-5: |-
         قبل أن تصبح الأشياء أكثر غموضاً، هل يمكنك إضافة متغير اسمه "length" وقيمته 50 الى الكود الموجود في مساحة العمل حتى نستخدمه في المراحل القادمة؟
 
-        ![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        ![expandable](https://static.edraak.org/code-img/L19-L6.jpg)
       OPD-K5-variables-6: اجعل الفنان يقفز إلى الأمام والأسفل بين المثلثات بمقدار قيمة المتغير "length" من البيكسل.
 
       Overworld Chop Tree: الخشب أحد الموارد شديدة الأهمية، حيث تتكون أشياء كثيرة
@@ -1235,6 +1340,11 @@ ar-SA:
           الحصول على 3 في الصف؟
       #End of courseB_artist_loops
 
+
+
+
+      #Course A
+      #Lesson 9. Loops with Laurel
       courseA_collector_loops1: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها واحصل
         على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول معرفة
         كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
@@ -1242,26 +1352,38 @@ ar-SA:
         بالحصول عليه كله.)
       courseA_collector_loops12_2018: _"يوريكا! احصل على الكنز بقدر ما تستطيع!"_/(لست
         ملزمًا بالحصول عليه كله.)
-      courseA_collector_loops12_2019: _"يوريكا! احصل على الكنز بقدر ما تستطيع!"_/(لست
-        ملزمًا بالحصول عليه كله.)
+
       courseA_collector_loops1_2018: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها
         واحصل على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول
         معرفة كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
-      courseA_collector_loops1_2019: "\"اللعب الحر هنا لوريل المغامِرة! حرّكها
-        واحصل على كنز بقدر استطاعتك! \n\nاسحب المربعات البرمجية إلى مساحة العمل وحاول
-        معرفة كيفية الحصول على الكنز. احصل على عنصر واحد على الأقل لتجاوز هذا المستوى.\""
-      courseA_collector_loops2: |-
-        "احصل على الأكوام الثلاث كلها! حرك لوريل إلى كل قطعة من قطع الكنز، ثم استخدم هذا المربع البرمجي:
-          <xml><block type="collector_collect"/></xml>"
-      courseA_collector_loops2_2019: 'اجمع الأكوام الثلاثة! حرّك لوريل إلى كل قطعة
+      courseA_collector_loops1_2019: |-
+        اللعب الحر.. هنا لوريل المغامِرة! حرّكها واحصل أكبر قدر ممكن من الجواهر!
+
+        اسحب القطع البرمجية إلى مساحة العمل وحاول معرفة كيفية الحصول على الجواهر. احصل على جوهرة واحدة على الأقل لتنجز هذه المرحلة.
+      courseA_collector_loops2_2019: |-
+        احصل على الجواهر الثلاث كلها! حرك لوريل إلى كل قطعة من الجواهر، ثم استخدم هذه القطعة البرمجية:
+        <xml><block type="collector_collect"/></xml>
+      courseA_collector_loops2: 'اجمع الأكوام الثلاثة! حرّك لوريل إلى كل قطعة
         من الكنز، ثم استخدم [0] قطعة التجميع البرمجية. '
       courseA_collector_loops3: كيف تستطيع لوريل الحصول على جميع كومات الكنز باستخدام
         مربع برمجي <xml><block type="maze_moveEast"/></xml> واحد؟
       courseA_collector_loops3_2018: كيف تستطيع لوريل الحصول على جميع كومات الكنز
         باستخدام مربع برمجي <xml><block type="maze_moveEast"/></xml> واحد؟
-      courseA_collector_loops3_2019: كيف تستطيع لوريل الحصول على جميع كومات الكنز
-        باستخدام مربع برمجي <xml><block type="maze_moveEast" block-text="move east"/></xml>
-        واحد؟
+      courseA_collector_loops3_2019: كيف تستطيع لوريل الحصول على كل الجواهر
+        باستخدام قطعة برمجية <xml><block type="maze_moveEast" block-text="move east"/></xml>
+        واحدة؟
+      courseA_collector_loops4_2019: عدل القطع البرمجية الموجودة في مساحة العمل حتى تتمكن لوريل من جمع كل الجواهر.
+      courseA_collector_loops5_2019: استخدم ما تعلمته حتى الآن لتساعد لوريل في جمع كل الجواهر!
+      courseA_collector_loops6_2019: ما هي القطع البرمجية التي يمكن أن تضيفها حتى تنجز هذه المرحلة؟
+      courseA_collector_loops7_2019: ما هي القطع البرمجية التي يمكن أن تضيفها حتى تجمع كل الجواهر؟
+      courseA_collector_loops8_2019: اكتب الكود الذي يجعلك تجمع كل هذه الجواهر!
+      courseA_collector_loops9_2019: التحدي.. لاحظ وجود نمط تدرج السلم.. اكتب الكود الذي يجعلك تجمع كل الكنز.
+      courseA_collector_loops10_2019: ساعد لوريل في جمع كل الجواهر الموجودة على طول هذا المسار.
+      courseA_collector_loops11_2019: ساعد لوريل في جمع كل الجواهر الموجودة في الكهف.
+      courseA_collector_loops12_2019: يوريكا! اجمع قدر ما تشاء من الجواهر!
+      #End
+
+
       courseA_collector_loops_challenge1: _"هل يمكنك مساعدتي لرؤية بعض الأخطاء؟" أعرف
         بأي طريق أرغب في الذهاب، لكنني لست متأكدًا من عدد الخطوات التي يجب أن أتخذ_
       courseA_collector_loops_challenge1_2018: _"هل يمكنك مساعدتي لرؤية بعض الأخطاء؟"
@@ -1273,26 +1395,22 @@ ar-SA:
       courseA_collector_preLoops7: |-
         "احصل على الأكوام الثلاث كلها! حرك لوريل إلى كل قطعة من قطع الكنز، ثم استخدم هذا المربع البرمجي:
           <xml><block type="collector_collect"/></xml>"
-      courseA_maze_ramp2_2019: قم بإرفاق كلا القطعتين البرمجيتين [0] إلى القطعة البرمجية
-        [1] لإنهاء الكود، ثم انقر فوق 'تشغيل ▶'.
-      courseA_maze_ramp3a_2019: امسك القطعة البرمجية [0] من صندوق الأدوات وأضفها أسفل
-        القطع الأخرى لأنهاء الكود البرمجي، ثم انقر فوق تشغيل ▶ .
 
       #Lesson 2: Sequencing with Scrat
       #start of courseB_Scrat_ramp
       courseB_Scrat_ramp1_2018: هذا ابن بطوطة؛ وهو رحالة عربي يحب السفر وقد زار اليوم مملكة الأردن!
          ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعة البرمجية <xml><block type="maze_moveEast"/></xml> وضعها اسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶  ▶"
       courseB_Scrat_ramp1_2019: هذا ابن بطوطة، رحالة عربي يحب السفر وقد زار اليوم مملكة الأردن!
-         ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعة البرمجية <xml><block type="maze_moveEast"/></xml> وضعها أسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶"
+        ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعة البرمجية <xml><block type="maze_moveEast"/></xml> وضعها أسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶".
       courseB_Scrat_ramp2_2018: ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعتين البرمجيتين <xml><block type="maze_moveEast"/></xml> وضعهما اسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶  ▶"
-      courseB_Scrat_ramp2_2019: ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعتين البرمجيتين <xml><block type="maze_moveEast"/></xml> وضعهما أسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶"
+      courseB_Scrat_ramp2_2019: ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعتين البرمجيتين <xml><block type="maze_moveEast"/></xml> وضعهما أسفل القطعة البرمجية <xml><block type="when_run"/></xml> ثم انقر زر "تشغيل ▶".
       courseB_Scrat_ramp3a_2018: ساعد ابن بطوطة ليصل الى السوسنة السوداء. اسحب القطعة البرمجية <xml><block type="maze_moveNorth"/></xml> من صندوق الأدوات وضعها أسفل القطع الأخرى ثم انقر زر "تشغيل ▶  ▶"
-      courseB_Scrat_ramp3a_2019: هل تستطيع مساعدة ابن بطوطة ليصل الى السوسنة السوداء؟ اسحب القطعة البرمجية <xml><block type="maze_moveNorth"/></xml> من صندوق الأدوات وضعها أسفل القطع الأخرى ثم انقر زر "تشغيل ▶"
+      courseB_Scrat_ramp3a_2019: هل تستطيع مساعدة ابن بطوطة ليصل الى السوسنة السوداء؟ اسحب القطعة البرمجية <xml><block type="maze_moveNorth"/></xml> من صندوق الأدوات وضعها أسفل القطع الأخرى ثم انقر زر "تشغيل ▶".
       courseB_Scrat_ramp3b_2018: |-
         القطعة البرمجية الأخيرة الموجودة في مساحة العمل لا حاجة لها!
 
         ساعد ابن بطوطة على التخلص منها وأعدها الى صندوق الأدوات.
-      courseB_Scrat_ramp3b_2019:    القطعة البرمجية الأخيرة الموجودة في مساحة العمل لا حاجة لها! ساعد ابن بطوطة على التخلص منها وأعدها الى صندوق الأدوات.
+      courseB_Scrat_ramp3b_2019: القطعة البرمجية الأخيرة الموجودة في مساحة العمل لا حاجة لها! ساعد ابن بطوطة على التخلص منها وأعدها الى صندوق الأدوات.
       courseB_Scrat_ramp4a_2018: ما هي القطعة البرمجية التي تحتاج أن تضيفها الى القطع الموجودة في مساحة العمل حتى تساعد ابن بطوطة ليصل الى السوسنة السوداء؟
       courseB_Scrat_ramp4a_2019: ما هي القطعة البرمجية التي تحتاج أن تضيفها الى القطع الموجودة في مساحة العمل حتى تساعد ابن بطوطة ليصل الى السوسنة السوداء؟
       courseB_Scrat_ramp5a_2018: حاول أن تساعد ابن بطوطة بمفردك!
@@ -1563,96 +1681,163 @@ ar-SA:
         عليها. جرب اللعب مع الكلب الآن، ثم ساعد الحيوانات الأخرى على الانضمام إلى
         اللعبة الممتعة. يمكنك الآن إضافة بعض الأصوات والحصول على بعض النقاط لإنشاء
         لعبة مطاردة الحيوانات![][0]
-      courseB_starWars_prog1: '![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"اذهب
+        -------------------
+
+      #Course A/ PreReader
+      #Lesson 6: Programming with Rey and BB-8!
+      courseB_starWars_prog1: |-
+        ![Rey](https://static.edraak.org/code-img/Treasure.JPG)_"اذهب
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
-        ![صورة من صناديق الكنز](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)'
-      courseB_starWars_prog10: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يبدو أن القطع المعدنية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
-      courseB_starWars_prog10_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يبدو أن القطع المعدنية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
-      courseB_starWars_prog10_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يبدو أن القطع المعدنية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
-      courseB_starWars_prog11: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![صورة من صناديق الكنز](https://static.edraak.org/code-img/Treasure.JPG)
+      courseB_starWars_prog10: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        \_"يبدو أن الصناديق الكنزية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
+      courseB_starWars_prog10_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        \_"يبدو أن الصناديق الكنزية قد بدأت تنفد! نأمل أن لا يحتاج الأميرة الى المزيد منها. ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟"'
+      courseB_starWars_prog10_2019: ما هي القطع البرمجية التي ستسخدمها لمساعدة الأميرة هذه المرة؟
+      courseB_starWars_prog11: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog11_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog11_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"الأميرة: أشكرك جدا صديقي .. هذه آخر قطع معدنية أحتاجها.. هل تستطيع أن تساعدني؟ لقد شارفت على الانتهاء من بناء سفينتي الفضائية بفضلك"_'
-      courseB_starWars_prog1_2018: '![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"اذهب
+      courseB_starWars_prog11_2019: '![](https://static.edraak.org/code-img/Princess.JPG)
+        _"أشكرك جدا صديقي .. هذه آخر صناديق سأجمعها.. هل تستطيع أن تساعدني؟"_'
+      courseB_starWars_prog1_2018: '![Rey](https://static.edraak.org/code-img/Treasure.JPG)_"اذهب
         واجمع  صناديق الكنز، الأميرة!"_احترس من الجدران والصناديق. تبدو صناديق الكنز كهذا:
-        ![صورة من صناديق الكنز](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)'
-      courseB_starWars_prog1_2019: '![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"
-        " الأميرة رجل آلي ذكي جدا، لكنه لا يملك حس الاتجاه!
-         استخدم القطع البرمجية المناسبة لتساعده على الوصول الى قطعة المعدن (صورتها) وجمعها.
-        "
-        ![صورة من صناديق الكنز](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)'
-      courseB_starWars_prog2: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"هل تستطيع برمجة الأميرة ليجمع كل قطع المعدن؟."_'
-      courseB_starWars_prog2_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"هل تستطيع برمجة الأميرة ليجمع كل قطع المعدن؟."_'
-      courseB_starWars_prog2_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"هل تستطيع برمجة الأميرة ليجمع كل قطع المعدن؟."_'
-      courseB_starWars_prog3: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"واصل التقدم وساعد الأميرة في جمع المزيد من القطع المعدنية"_'
-      courseB_starWars_prog3_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"واصل التقدم وساعد الأميرة في جمع المزيد من القطع المعدنية"_'
-      courseB_starWars_prog3_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"واصل التقدم وساعد الأميرة في جمع المزيد من القطع المعدنية"_'
-      courseB_starWars_prog4: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"أنت حتما تستطيع مساعدة الأميرة في جمع القطع المعدنية ! أليس كذلك؟!!"_'
-      courseB_starWars_prog4_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"أنت حتما تستطيع مساعدة الأميرة في جمع القطع المعدنية ! أليس كذلك؟!!"_'
-      courseB_starWars_prog4_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"أنت حتما تستطيع مساعدة الأميرة في جمع القطع المعدنية ! أليس كذلك؟!!"_'
-      courseB_starWars_prog5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه القطع المعدنية"'
-      courseB_starWars_prog5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه القطع المعدنية"'
-      courseB_starWars_prog5_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه القطع المعدنية"'
-      courseB_starWars_prog6: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"رائع! هذا عدد كبير من القطع المعدنية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من القطع المعدنية بسهولة!!"_'
-      courseB_starWars_prog6_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"رائع! هذا عدد كبير من القطع المعدنية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من القطع المعدنية بسهولة!!"_'
-      courseB_starWars_prog6_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"رائع! هذا عدد كبير من القطع المعدنية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من القطع المعدنية بسهولة!!"_'
-      courseB_starWars_prog7: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة اصبح مُولَعاً بجمع القطع المعدنية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
-      courseB_starWars_prog7_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة اصبح مُولَعاً بجمع القطع المعدنية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
-      courseB_starWars_prog7_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة اصبح مُولَعاً بجمع القطع المعدنية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
-      courseB_starWars_prog8: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه القطع المعدنية؟.. خليك قدها!.'
-      courseB_starWars_prog8_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه القطع المعدنية؟.. خليك قدها!.'
-      courseB_starWars_prog8_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه القطع المعدنية؟.. خليك قدها!.'
-      courseB_starWars_prog9: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه القطع المعدنية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
-      courseB_starWars_prog9_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه القطع المعدنية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
-      courseB_starWars_prog9_2019: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه القطع المعدنية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
+        ![صورة من صناديق الكنز](https://static.edraak.org/code-img/Treasure.JPG)'
+      courseB_starWars_prog1_2019: |-
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"يجب أن أحصل على صندوق الكنز"_
+
+        استخدم القطع البرمجية المناسبة لتساعد الأميرة في الوصول الى صندوق الكنز.
+
+      courseB_starWars_prog2: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
+      courseB_starWars_prog2_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"هل تستطيع برمجة الأميرة ليجمع كل صناديق الكنز؟."_'
+      courseB_starWars_prog2_2019: ![](https://static.edraak.org/code-img/Princess.JPG) _"يجب أن أجمع كل صناديق الكنز"_
+
+      courseB_starWars_prog3: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"واصل التقدم وساعد الأميرة في جمع المزيد من الصناديق الكنزية"_'
+      courseB_starWars_prog3_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"واصل التقدم وساعد الأميرة في جمع المزيد من الصناديق الكنزية"_'
+      courseB_starWars_prog3_2019: ![](https://static.edraak.org/code-img/Princess.JPG) _"يجب أن أواصل التقدم لأجمع المزيد من صناديق الكنز"_
+
+      courseB_starWars_prog4: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"أنت حتما تستطيع مساعدة الأميرة في جمع الصناديق الكنزية ! أليس كذلك؟!!"_'
+      courseB_starWars_prog4_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"أنت حتما تستطيع مساعدة الأميرة في جمع الصناديق الكنزية ! أليس كذلك؟!!"_'
+      courseB_starWars_prog4_2019: أنت حتما تستطيع مساعدة الأميرة في جمع صناديق الكنز! أليس كذلك؟!!
+
+      courseB_starWars_prog5: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه الصناديق الكنزية"'
+      courseB_starWars_prog5_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        \_"يوماً ما ستصنع رجلا آليا بمفردك  مثل الأميرة ؟.. لا شك في ذلك! بذكائك ومثابرتك تستطيع فعل كل شيء، فاننت الآن تساعد الأميرة ليجمع كل هذه الصناديق الكنزية"'
+      courseB_starWars_prog5_2019: '![](https://static.edraak.org/code-img/Princess.JPG) _"هل تستطيع مساعدتي لجمع كل هذه الصناديق؟"_'
+
+      courseB_starWars_prog6: '![](https://static.edraak.org/code-img/Treasure.JPG)
+                                     _"رائع! هذا عدد كبير من الصناديق الكنزية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من الصناديق الكنزية بسهولة!!"_'
+      courseB_starWars_prog6_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"رائع! هذا عدد كبير من الصناديق الكنزية! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من الصناديق الكنزية بسهولة!!"_'
+      courseB_starWars_prog6_2019: رائع! هذا عدد كبير من صناديق الكنز! يبدو أنك والأميرة اصبحتما الفريق الخارق الذي يستطيع جمع أي كمية من صناديق الكنز بسهولة!
+
+      courseB_starWars_prog7: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"يبدو أن الأميرة اصبح مُولَعاً بجمع الصناديق الكنزية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
+      courseB_starWars_prog7_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"يبدو أن الأميرة اصبح مُولَعاً بجمع الصناديق الكنزية! ساعده حتى ينتهي من جمعها كلها لتعرف ماذا سيفعل بكل هذه القطع"_'
+      courseB_starWars_prog7_2019: '![](https://static.edraak.org/code-img/Princess.JPG)
+        _"واو.. المزيد من صناديق الكنز.. هيا لنجمعها كلها."_'
+      courseB_starWars_prog8: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
+      courseB_starWars_prog8_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"تحدي الرجل الآلي.. هل تستطيع برمجة الأميرة ليجمع كل هذه الصناديق الكنزية؟.. خليك قدها!.'
+      courseB_starWars_prog8_2019: '![](https://static.edraak.org/code-img/Princess.JPG)
+        _"تحدي الكنز.. هل تستطيع مساعدتي في جمع كل هذه الصناديق من الكنز؟.. خليك قدها."_'
+      courseB_starWars_prog9: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه الصناديق الكنزية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
+      courseB_starWars_prog9_2018: '![](https://static.edraak.org/code-img/Treasure.JPG)
+        _"يبدو أن الأميرة ينوي بناء سفينة فضاء عملاقة من كل هذه الصناديق الكنزية! هل يمكن أن يصطحبك معه لتساعده؟ جرّب وخلينا نشوف!"_'
+      courseB_starWars_prog9_2019: هل يمكنك مساعدة الأميرة مجددا؟ جرّب وخلينا نشوف!
+      #End_of_CourseA_Lesson6
+
+
+
+      #Course B
+      #Lesson 3: Sequencing with Angry Birds
+      coursea_maze_ramp1_2019: ليصل طقطق الى السمكة، ركب القطع البرمجية <xml><block type="maze_moveEast" block-text="move east"/></xml> مع قطعة <xml><block type="when_run" block-text="when run"/></xml> ثم اضغط زر "تشغيل ▶".
+      courseA_maze_ramp2_2019: قم بتركيب كلا القطعتين البرمجيتين <xml><block type="maze_moveEast" block-text="move east"/></xml> مع القطعة البرمجية <xml><block type="when_run" block-text="when run"/></xml> لإنهاء الكود، ثم اضغط زر "تشغيل ▶".
+      courseA_maze_ramp3a_2019: اسحب القطعة البرمجية <xml><block type="maze_moveNorth" block-text="move north"/></xml> من صندوق الأدوات وأضفها أسفل
+        القطع الأخرى لأنهاء الكود، ثم اضغط زر "تشغيل ▶".
+      courseA_maze_ramp3b_2019: هناك قطعة برمجية لا حاجة لها في نهاية الكود الموجود في مساحة العمل. أعدها الى صندوق الأدوات لتتخلص منها.
+      courseA_maze_ramp4a_2019: أي قطعة برمجية يجب أن تضيف الى الكود الموجود في مساحة العمل حتى تنجز هذه المرحلة؟
+      courseA_maze_ramp5a_2019: جرب أن تنجز هذه المرحلة على طريقتك الخاصة!
+      #End_of_CourseB_Lesson3
+
+
+      #Course B
+      #Lesson 7: Loops with the Harvester
+      courseA_harvester_loops1_2019: ساعد الحصادة في جمع كل الذرة!
+      courseA_harvester_loops2_2019: يجب أن تجمع الحصادة كل الذرة. هل ترى نمطا معينا؟
+      courseA_harvester_loops3_2019: هل يمكنك أن تجمع كل الذرة باستخدام قطعة <xml><block type="maze_moveWest" block-text="move west"></block></xml> مرة واحدة فقط؟
+      courseA_harvester_loops4_2019: |-
+        _"أحتاج مساعدتك لأعرف أين الخطأ"_
+
+        هل تستطيع مساعدة الحصادة لتصحيح الخلل البرمجي في الكود الموجود في مساحة العمل؟
+      courseA_harvester_loops5_2019: هل يمكنك جمع الذرة الموجودة في نهاية المسار أيضا؟ جرب ودعنا نرى ما سيحدث!
+      courseA_harvester_loops5a_2019: انظر الى كل هذه الذرة! هل تستطيع أن تجمعها كلها بنفسك؟
+      courseA_harvester_loops5b_2019: هل يمكنك تعديل القطع البرمجية الموجودة في مساحة العمل حتى تجمع كل الذرة؟
+      courseA_harvester_loops6_2019: لتنجز هذه المرحلة، تحتاج الى قطعة <xml><block type="maze_moveWest" block-text="move west"></block></xml> وقطعة <xml><block type="maze_moveNorth" block-text="move north"></block></xml>.
+      courseA_harvester_loops7_2019: جرب أن تنجز هذه المرحلة بنفسك!
+      courseA_harvester_loops9_2019: تحدي الذرة.. هل يمكنك أن تجد طريقة لجمع كل هذه الذرة؟
+      courseA_harvester_loops10_2019: ساعد الحصادة لتجمع خمس حبات من الذرة الموجودة في الحقل.
+      courseA_harvester_loops11_2019: أي قطع برمجية ستسخدم لتجمع كل الذرة هذه المرة؟
+      #End_of_CourseB_Lesson7
+
+
+
+      #CourseA
+      #Lesson 5: Programming with Scrat
+      courseB_maze_seq1_2019: |-
+        جرب اللعب بالقطع البرمجية وشاهد ما سيحدث.
+        ساعد ابن بطوطة في الوصول الى السوسنة السوداء لتنجز هذه المرحلة.
+      courseB_maze_seq4_2019: استخدم قطعتين برمجيتين لجعل ابن بطوطة يتحرك حتى يصل الى السوسنة السوداء.
+      courseB_maze_seq5_2019: هذه المرحلة تحتاج الى تركيزك!
+      courseB_maze_seq6_2019: تحرك باتجاه معين، ثم اتجاه آخر حتى تصل الى السوسنة السوداء.
+      courseB_maze_seq7_2019: انظر الى الكود الموجود في مساحة العمل وفكر ماذا يجب أن تضيف حتى يصل ابن بطوطة الى السوسنة السوداء.
+      courseB_maze_seq8_2019: حان دورك! ماذا يجب أن تفعل حتى يصل ابن بطوطة الى السوسنة السوداء؟
+      courseB_maze_seq9_2019: تحدي الأذكياء.. تفادي الصخور حتى تستطيع الوصول الى السوسنة السوداء بأمان.
+      courseB_maze_seq10_2019: قم بتصحيح الخلل البرمجي الموجود في الكود حتى تستطيع إنجاز هذه المرحلة.
+      courseB_maze_seq11_2019: اللعبة بيدك الآن! افعل ما يلزم حتى يصل ابن بطوطة الى السوسنة السوداء!
+      courseB_maze_seq12_2019: هدفك واضح، وهو السوسنة السوداء.. افعل ما تشاء حتى تصل إليها!
+      #End_of_CourseA_Lesson5
+
+
+      #Course C
+      #Lesson 18: End of Course Project
+      courseC19_playLab_EOC1: |-
+        إن كمية المعلومات التي تعلمتها مذهلة!.. لنصنع لعبة جديدة خطوة بعد الأخرى.
+        باستخدام قطع برمجية جديدة من صندوق أدواتك، اختر خلفية جديدة ثم اختر ممثلاً لينضم إلى لعبتك.
       courseC19_playLab_EOC2: |-
-        استخدم القطع البرمجية لتجعل لاعبك يتحرك عندما تضغط زر الأسهم.
+        استخدم القطع البرمجية المناسبة لتجعل لاعبك يتحرك عندما تضغط الأسهم.
 
-        حرك اللاعب إلى الهدف لتكمل اللغز.
+        حرك اللاعب إلى الهدف لتتمكن من إنجاز المرحلة.
       courseC19_playLab_EOC3: |-
-        لنضيف شخصيات أخرى إلى لعبتك!
+        لنضف شخصيات أخرى إلى لعبتك!
 
-        استخدم مربع برمجي "ممثل معد" لإضافة شخصيات أخرى ثم حرك الهدف لتكملة اللغز.
+        استخدم القطعة البرمجية "ممثل معد" لإضافة شخصيات أخرى ثم حرك اللاعب إلى الهدف لتتمكن من إنجاز المرحلة.
       courseC19_playLab_EOC4: |-
-        تعدد الممثلين وجعل الممثل يتحرك هي بداية موفقة لتنشىء لعبة، لكن يجب عليك أن تفعل أكثر من ذلك لتصبح أشبه بلعبة حقيقية. لنضيف نقاط!
+        تعدد الممثلين وجعل الممثل يتحرك هي بداية موفقة لتنشىء لعبة، لكن يجب عليك أن تفعل أكثر من ذلك لتصبح لعبة حقيقية. لنضف النقاط!
 
-        استخدم بلوكة الأحداث مثل "عندما الممثل يلمس" لتغير النقاط أو الفوز في لعبة. سجل 5 نقاط أو فز في اللعبة لتنهي اللغز.
-      courseC19_playLab_EOC5: احسنت! لديك كل المهارات لتنشىء لعبة حقيقة. الآن اقض
-        بعض من الوقت لتتأكد من أن لعبتك تعمل بالطريقةالتي ترغبها. عند الانتهاء اضغط
-        على "انتهاء"!
-      courseC19_playLab_EOC6: لقد انهيت اللعبة! الآن يمكنك أن تلعبنها أو تشاركها مع
+        استخدم قطعة الأحداث مثل "عندما الممثل يلمس" لتغير النقاط أو تفوز في لعبة. سجل 5 نقاط أو فز في اللعبة لتتمكن من إنجاز المرحلة.
+      courseC19_playLab_EOC5: احسنت! لديك كل المهارات اللازمة لتنشىء لعبة حقيقية. الآن اقضِ
+        بعض الوقت لتتأكد من أن لعبتك تعمل بالطريقة التي ترغبها. عند الانتهاء اضغط
+        زر "انتهاء"!
+      courseC19_playLab_EOC6: لقد أنهيت اللعبة! الآن يمكنك أن تلعبها أو تشاركها مع
         أصدقائك أو زملائك في الدراسة.
-      courseC_PlayLab_events6_2019: الآن، اكتب برنامج لتجعل طقطق يتحرك باستخدام
-        مفاتيح الاعلى/ الأسفل/ اليسار/اليمين لتصل إلى كل الأهداف!
+      #End of Course C:Lesson 18
+
+
+      #Course C
+      #Lesson 16: Play Lab Events
+      courseC_PlayLab_events6_2019: الآن، اكتب كودا يجعل البطريق وادلز يتحرك باستخدام
+        مفاتيح (الاعلى، الأسفل، اليسار،اليمين) ليصل إلى كل الأعلام!
       courseC_PlayLab_events7: |-
         بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بكسل للأبد.
 
@@ -1662,7 +1847,7 @@ ar-SA:
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events7_2019: |-
-        بلوكة  "التكرارللأبد" تسمح لك بتشغيل الكود البرمجي مرارا إلى الأبد. استخدم هذه البلوكة لتحرك الديناصور (الممثل 2) للأعلى والأسفل بمقدار 400 بكسل للأبد.
+        إن حلقة "التكرار للأبد" تسمح لك بتشغيل الكود باستمرار الى الأبد دون توقف. استخدم هذه القطعة لتحرك الديناصور تشومب (الممثل 2) للأعلى والأسفل بمقدار 400 بيكسل للأبد.
 
         ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events8: |-
@@ -1678,13 +1863,11 @@ ar-SA:
 
         ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
       courseC_PlayLab_events8_2019: |-
-        هل يمكنك جعل طقطق (المثل 1) يشغل صوت "ضرب" ويقول " Ouch" عندما يصطدم بالتمساح؟
-
-        عندما تنتهي شغل اللعبة لتجعلها تحدث.
+        هل يمكنك جعل البطريق وادلز (الممثل 1) يشغل صوت "ضرب" ويقول "Ouch" عندما يصطدم (بالممثل 2) تشومب؟ عندما تنتهي شغل اللعبة وشاهد ما سيحدث.
 
         ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
-      courseC_PlayLab_eventsA_embed_2019: لنلعب لعبة. سجل 5 نقاط عن طريق تحريك طقطق
-        إلى الأخطبوط!
+      courseC_PlayLab_eventsA_embed_2019: لنلعب لعبة.. حرك البطريق باتجاه الأخطبوط لتحرز نقطة. سجل 5 نقاط لتفوز!
+
       courseC_PlayLab_events_challenge1: |-
         استخدم بلوكة جديدة لتجعل طقطق تلقائيا يعود للبدايةعندما يصتطدم بالديناصور وعندما يحقق نقاط. هذا سيجعل لعبتك أكثر تحديا ومتعة!
 
@@ -1715,8 +1898,6 @@ ar-SA:
 
         لنضف بعض اللمسات الفنية قبل بدء حلقة التكرار، لفعل ذلك.. سنستخدم القطعة البرمجية:
 
-        <xml><block type=\"draw_line_style_pattern\" block-text=\"set pattern\"> <title name=\"VALUE\">DEFAULT</title></block></xml>
-
         <xml>
         <block type="draw_line_style_pattern">
             <title name="VALUE">DEFAULT</title>
@@ -1737,21 +1918,9 @@ ar-SA:
       courseC_artist_loops1a_2019: |-
         وقت اللعب الحر، لنبني شيئاً أكبر خطوة بخطوة!
 
-        انقل الفنان حتى يقف في مركز منطقة اللعب باستخدام القطعة:
+        انقل الفنان حتى يقف في مركز منطقة اللعب باستخدام القطعة "القفز الى الأمام".
 
-        <xml>
-          <block type="jump_to">
-            <title name="VALUE">13</title>
-          </block>
-        </xml>
-
-        بعد ذلك، ارسم ملصقا باستخدام القطعة البرمجية:
-
-        <xml>
-          <block type="sticker">
-            <title name="VALUE">Bird</title>
-          </block>
-        </xml>
+        بعد ذلك، ارسم ملصقا باستخدام القطعة البرمجية "ارسم ملصقا".
 
         عندما تشعر بالرضى عمّا صنعت، اضغط زر "إنهاء":
 
@@ -1759,7 +1928,7 @@ ar-SA:
         ![expandable](https://images.code.org/6912d2144b90aa7087fe854742d1e8b9-image-1553096425394.png)
         ![expandable](https://images.code.org/8de9e1aa15fdfe30ffed763e0e1d6e04-image-1553096428531.png)
       courseC_artist_loops1b_2019: "غير اتجاه ملصقك باضافة أمر \"اتجه إلى\" لبرنامجك.
-        \n\n  \n\nاضغط \" إنهاء\" عندما تكون راضي عن ما صنعت\n\n![expandable](https://images.code.org/30fe9d37758abd27055d9a6e5a890680-image-1553097358155.png)\n![expandable](https://images.code.org/61feed00662019b99ac774322231f084-image-1553097362176.png)\n![expandable](https://images.code.org/fd123bb703ea4c630218a12eb5994053-image-1553097354066.png)"
+        \n\n  \n\nاضغط \" إنهاء\" عندما تكون راضيا عن ما صنعت\n\n![expandable](https://images.code.org/30fe9d37758abd27055d9a6e5a890680-image-1553097358155.png)\n![expandable](https://images.code.org/61feed00662019b99ac774322231f084-image-1553097362176.png)\n![expandable](https://images.code.org/fd123bb703ea4c630218a12eb5994053-image-1553097354066.png)"
       courseC_artist_loops2a: الآن، استخدم الحلقة لدوران الطائر بمقدار 12 مرة مع لف
         بدرجة 30.
       courseC_artist_loops2a_2018: الآن، استخدم الحلقة لدوران الطائر بمقدار 12 مرة
@@ -1796,7 +1965,7 @@ ar-SA:
 
         ![expandable](https://images.code.org/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
       courseC_artist_loops4a_2019: |-
-        عدل برنامجك بحيث يمكنك القفز إلى الأمام بعد رسم الملصق الأول وقبل رسم الثاني. في هذه المرحلة، يجب عليك أن تتأكد من وجود قطعة "القفز إلى المركز" داخل حلقة التكرار، لتبقى في المنتصف.
+        عدل برنامجك بحيث يمكنك القفز إلى الأمام بعد رسم الملصق الأول وقبل رسم الثاني. في هذه المرحلة، يجب عليك أن تتأكد من وجود قطعة "انتقل الى الموقع وسط المنتصف" داخل حلقة التكرار، لتبقى في المنتصف.
 
         عندما تشعر بالرضى عمّا صنعت، اضغط زر "إنهاء":
 
@@ -1930,7 +2099,7 @@ ar-SA:
         -   لاحظ أننا أضفنا الالتفاف بزاوية 60 درجة في نهاية حلقة التكرار حتى نحصل على التفافة كاملة.
 
       courseC_artist_loopsPrePre1a_2019: |-
-        يجب أن يكون الفنان في مركز منطقة اللعب!\n
+        يجب أن يكون الفنان في مركز منطقة اللعب!
 
         حتى تحرك الفنان الى المكان المناسب لإنجاز المرحلة، استخدم القطعة البرمجية:
 
@@ -1963,7 +2132,7 @@ ar-SA:
 
         العب بالمربعات البرمجية في مربع الأدوات لترى ماذا تفعل!
       courseC_artist_prog1_2019: |-
-        _"مرحبًا، أنا فنان.. يمكنك كتابة كود يجعلني أرسم أي شيء!"_
+        _"مرحبًا، أنا فنان.. يمكنك كتابة كود يجعلني أرسم أي شيء."_
 
         اسحب القطع البرمجية من صندوق الأدوات الى مساحة العمل لترى ماذا تفعل!
       courseC_artist_prog2: |-
@@ -1977,7 +2146,7 @@ ar-SA:
         اسحب المربعات البرمجية على الشاشة لتمكين الفنان من رسم فوق الخطوط الرمادية في الصورة./
         (كل خط يبلغ طوله 100 بيكسل)
       courseC_artist_prog2_2019: |-
-        _"لنرسم قفصا لوحشي اللطيف!"_
+        _"لنرسم قفصا لوحشي اللطيف."_
 
         اسحب القطع البرمجية من صندوق الأدوات الى مساحة العمل ليتمكن الفنان من الرسم فوق الخطوط الرمادية الظاهرة في الصورة.
         كل خط يبلغ طوله 100 بيكسل.
@@ -1994,7 +2163,7 @@ ar-SA:
 
         طول كل جانب من جوانب المربع الداخلي هو 100 بيكسل وجميع الزوايا 90 درجة.
       courseC_artist_prog4_2019: |-
-        _"أوه لا! لقد هرب حيوان ستارلا الفضائي الأليف! لنساعد رائدة الفضاء!"_
+        _"أوه لا.. لقد هرب حيوان ستارلا الفضائي الأليف.. لنساعد رائدة الفضاء."_
 
         أكمل رسم صاروخ ستارلا حتى تتمكن من مطاردة حيوانها الأليف.
         يبلغ طول كل جانب من جوانب المثلث 100 بيكسل وزوايا المثلث الخارجية 120 درجة.
@@ -2042,10 +2211,10 @@ ar-SA:
         هل يمكنك أن تعرف كيف ترسم المخطط؟/
         (الجوانب الطويلة قياسها 150 بيكسل والجوانب القصيرة قياسها 75 بيكسل)
       courseC_artist_prog7_2019: |-
-        تحدي الأذكياء، هذه البطاقة مميزة جدا!
+        تحدي الأذكياء.. هذه البطاقة مميزة جدا!
 
         هل يمكنك أن ترسمها؟
-        الجوانب الطويلة قياسها 150 بيكسل والجوانب القصيرة قياسها 75 بيكسل.
+        الجوانب الطويلة طولها 150 بيكسل والجوانب القصيرة طولها 75 بيكسل.
       courseC_artist_prog8: |-
         رقعة أخرى. هذا مثلث لـ Pi./
         (كل جانب هو 150 بيكسل)
@@ -2123,7 +2292,7 @@ ar-SA:
       courseC_collector_prog3_2019: |-
         _"ترتيب القطع البرمجية مهم جدا."_
 
-        جميع القطع البرمجية التي تحتاجها موجودة في مساحة العمل لكنها ليست متصلة ببعضها. رتب هذه القطع لتجمع الجواهر وتنجز المرحلة.
+        جميع القطع البرمجية التي تحتاجها موجودة في مساحة العمل لكنها ليست متصلة ببعضها. ركب هذه القطع معا لتجمع الجواهر وتنجز المرحلة.
       courseC_collector_prog4: |-
         _" الترتيب مهم"_
 
@@ -2175,7 +2344,7 @@ ar-SA:
       courseC_collector_prog8_2019: _"استمر بالعمل الرائع وساعدني في جمع المزيد من الجواهر."_
       courseC_collector_prog9: _"لنجمع كل المجوهرات!"_
       courseC_collector_prog9_2018: _"لنجمع كل المجوهرات!"_
-      courseC_collector_prog9_2019: _"لنقم بجمع كل الجواهر.. هيا بنا!"_
+      courseC_collector_prog9_2019: _"لنقم بجمع كل الجواهر.. هيا بنا."_
       courseC_collector_progA: ساعد لوريل لتجمع كل الجواهر!
       courseC_collector_prog_challenge2: يوجد هناك 20 قطعة منالمجوهرات في الكهف. اجمع
         على الأقل 10من المجوهرات لتنهي هذا التحدي!
@@ -2188,18 +2357,16 @@ ar-SA:
 
       courseC_data wizard: إضغط زر التشغيل ▶ . الساحر سيجعل الحيوانات تظهر. عد الحيوانات.
         ماذا لاحظت؟
+
+
+
+      #Course C
+      #Lesson 15: Build a Flappy Game
       courseC_flappy_events1: |-
         ألصق بلوكة "رفرف بمقدار عادي" إلى حدث "عند النقر"، ومن ثم اضغط على "تشغيل ▶ ".
 
-          
-
         انقر داخل منطقة اللعب لتحرك فلابي إلى الهدف.
       courseC_flappy_events10: |-
-        أنشئ لعبة فلابي الخاصة بك!
-
-        يمكنك تغيير الرسومات و قواعد اللعبة... حتى الجاذبية!
-         عند الانتهاء، انقر فوق "إنهاء" لمشاركة العمل مع رفقائك على هواتفهم.
-      courseC_flappy_events10_2018: |-
         أنشئ لعبة فلابي الخاصة بك!
 
         يمكنك تغيير الرسومات و قواعد اللعبة... حتى الجاذبية!
@@ -2208,17 +2375,20 @@ ar-SA:
         أنشئ لعبة فلابي الخاصة بك!
 
         يمكنك تغيير الرسومات و قواعد اللعبة... حتى الجاذبية!
+        عند الانتهاء، اضغط زر "إنهاء" لمشاركة اللعبة مع رفقائك على هواتفهم.
+      courseC_flappy_events10_2018: |-
+        أنشئ لعبة فلابي الخاصة بك!
+
+        يمكنك تغيير الرسومات و قواعد اللعبة... حتى الجاذبية!
          عند الانتهاء، انقر فوق "إنهاء" لمشاركة العمل مع رفقائك على هواتفهم.
       courseC_flappy_events1_2018: |-
         ألصق بلوكة "رفرف بمقدار عادي" إلى حدث "عند النقر"، ومن ثم اضغط على "تشغيل ▶ ".
 
-          
+
 
         انقر داخل منطقة اللعب لتحرك فلابي إلى الهدف.
       courseC_flappy_events1_2019: |-
-        ألصق بلوكة "رفرف بمقدار عادي" إلى حدث "عند النقر"، ومن ثم اضغط على "تشغيل ▶ ".
-
-          
+        ركب القطعة البرمجية "رفرف بمقدار عادي" مع الحدث البرمجي "عند النقر"، ومن ثم اضغط زر "تشغيل ▶ ".
 
         انقر داخل منطقة اللعب لتحرك فلابي إلى الهدف.
       courseC_flappy_events2: |-
@@ -2230,28 +2400,26 @@ ar-SA:
 
         جرب إضافة بلوكة لتعيين سرعة المرحلة عندما يتم الضغط على "تشغيل ▶".
       courseC_flappy_events2_2019: |-
-        حدث "عند التشغيل" يسمح لك بتشغيل البرنامج عند تشغيل اللعبة.
+        إن حدث "عند التشغيل" البرمجي يسمح لك بتشغيل الكود عند ضغط زر "تشغيل ▶".
 
-        جرب إضافة بلوكة لتعيين سرعة المرحلة عندما يتم الضغط على "تشغيل ▶".
+        جرب إضافة قطعة برمجية لتعيين سرعة سير المرحلة عندما يتم الضغط على زر "تشغيل ▶".
       courseC_flappy_events3: |-
         الآن أضفنا الأرض.
         ألصق بلوكة "إنهاء اللعبة" إلى حدث "عند الارتطام بالأرض".
 
-          
+
 
         شغل اللعبة واجعل الطائر يرتطم بالأرض لتتخطى المرحلة.
       courseC_flappy_events3_2018: |-
         الآن أضفنا الأرض.
         ألصق بلوكة "إنهاء اللعبة" إلى حدث "عند الارتطام بالأرض".
 
-          
+
 
         شغل اللعبة واجعل الطائر يرتطم بالأرض لتتخطى المرحلة.
       courseC_flappy_events3_2019: |-
-        الآن أضفنا الأرض.
-        ألصق بلوكة "إنهاء اللعبة" إلى حدث "عند الارتطام بالأرض".
-
-          
+        لقد قمنا بإضافة أرضية للعبة.
+        ركب قطعة "إنهاء اللعبة" إلى الحدث البرمجي "عند الارتطام بالأرض".
 
         شغل اللعبة واجعل الطائر يرتطم بالأرض لتتخطى المرحلة.
       courseC_flappy_events4: |-
@@ -2263,9 +2431,9 @@ ar-SA:
 
         ألصق بلوكة " عند الارتطام بعقبة" لتجعل اللعبة تنتهي عندما يرتطم فلابي بأول مجموعة من الأنابيب.
       courseC_flappy_events4_2019: |-
-        فلابي سيحلق بين العقبات إلا إذا كتبت أمرايجعله يرتطم.
+        سيحلق فلابي بين العقبات إلا إذا كتبت كودا يجعله يرتطم بها.
 
-        ألصق بلوكة " عند الارتطام بعقبة" لتجعل اللعبة تنتهي عندما يرتطم فلابي بأول مجموعة من الأنابيب.
+        ركب قطعة برمجية بالحدث البرمجي "عند الارتطام بعقبة" لتجعل اللعبة تنتهي عندما يرتطم فلابي بأول مجموعة من الأنابيب.
       courseC_flappy_events5: |-
         لقد أضفنا لوحة نقاط لتجمع النقاط عندما يتخطى فلابي العقبات.
 
@@ -2275,26 +2443,26 @@ ar-SA:
 
         اضف بلوكة لحدث "عند اجتياز عقبة" لتسجل نقطة، ومن ثم اضغط على "تشغيل ▶" ليحلق فلابي بين أول مجموعة أنابيب.
       courseC_flappy_events5_2019: |-
-        لقد أضفنا لوحة نقاط لتجمع النقاط عندما يتخطى فلابي العقبات.
+        لقد أضفنا لوحة نقاط لتجميع النقاط التي ستكسبها كلما تخطى فلابي العقبات.
 
-        اضف بلوكة لحدث "عند اجتياز عقبة" لتسجل نقطة، ومن ثم اضغط على "تشغيل ▶" ليحلق فلابي بين أول مجموعة أنابيب.
+        أضف قطعة برمجية لحدث "عند اجتياز عقبة" لتسجل نقطة، ومن ثم اضغط زر "تشغيل ▶" ليحلق فلابي بين أول مجموعة أنابيب.
       courseC_flappy_events6: |-
         اضغظ على السهم السفلي داخل بلوكة "رفرف بمقدار عادي" لتختار قوة رفرة أخرى.
 
         جرب ما إذا كنت تستطيع تحقيق نقطة بعد جعل فلابي يرفرف بمقداركبير أو صغير في كل مرة تنقر على الفأرة.
-      courseC_flappy_events6_2018: |-
-        اضغظ على السهم السفلي داخل بلوكة "رفرف بمقدار عادي" لتختار قوة رفرة أخرى.
-
-        جرب ما إذا كنت تستطيع تحقيق نقطة بعد جعل فلابي يرفرف بمقداركبير أو صغير في كل مرة تنقر على الفأرة.
       courseC_flappy_events6_2019: |-
+        اضغظ على السهم السفلي داخل قطعة "رفرف بمقدار عادي" لتختار قوة رفرفة مختلفة.
+
+        جرب لترى إذا كنت لا تزال تستطيع تحقيق نقطة بعد جعل فلابي يرفرف بمقدار أكبر أو أصغر في كل مرة تنقر فيها الماوس.
+      courseC_flappy_events6_2018: |-
         اضغظ على السهم السفلي داخل بلوكة "رفرف بمقدار عادي" لتختار قوة رفرة أخرى.
 
         جرب ما إذا كنت تستطيع تحقيق نقطة بعد جعل فلابي يرفرف بمقداركبير أو صغير في كل مرة تنقر على الفأرة.
       courseC_flappy_events7: التالي، حاول تغيير المشهد بإلصاق البلوكة بحدث "عند التشغيل".
       courseC_flappy_events7_2018: التالي، حاول تغيير المشهد بإلصاق البلوكة بحدث "عند
         التشغيل".
-      courseC_flappy_events7_2019: التالي، حاول تغيير المشهد بإلصاق البلوكة بحدث "عند
-        التشغيل ".
+      courseC_flappy_events7_2019: حاول تغيير مشهد اللعبة بتركيب قطعة برمجية مع حدث "عند التشغيل".
+
       courseC_flappy_events8: |-
         يمكنك تعيين الخلفية تحت أي من الأحداث، ليس فقط عند تشغيل  اللعبة.
 
@@ -2304,81 +2472,92 @@ ar-SA:
 
         جرب تعيين مشهد عشوائي عندما تحدث أحداث أخرى.. مثال، عند اجتياز العقبة.
       courseC_flappy_events8_2019: |-
-        يمكنك تعيين الخلفية تحت أي من الأحداث، ليس فقط عند تشغيل اللعبة.
+        يمكنك تعيين مشهد اللعبة تحت أي حدث برمجي، وليس فقط عند تشغيل اللعبة.
 
-        جرب تعيين مشهد عشوائي عندما تحدث أحداث أخرى.. مثال، عند اجتياز العقبة.
-      courseC_flappy_events9: لتخلط الامور، بدل إنهاء اللعبة عندما يرتطم فلابي بعقبة،
-        جرب تعيين الدرجة 0.
+        جرب تعيين مشهد عشوائي عندما تحدث أحداث برمجية أخرى.. مثلا، عند اجتياز عقبة ما.
+      courseC_flappy_events9_2019: لجعل الأمور أكثر تحديا، بدل إنهاء اللعبة عندما يرتطم فلابي بعقبة، جرب إعادة مجموع النقاط الى 0.
+
       courseC_flappy_events9_2018: لتخلط الامور، بدل إنهاء اللعبة عندما يرتطم فلابي
         بعقبة، جرب تعيين الدرجة 0.
-      courseC_flappy_events9_2019: لتخلط الامور، بدل إنهاء اللعبة عندما يرتطم فلابي
+      courseC_flappy_events9: لتخلط الامور، بدل إنهاء اللعبة عندما يرتطم فلابي
         بعقبة، جرب تعيين الدرجة 0.
+      #End of Lesson 15
+
+
+
+
+      #Course C
+      #Lesson 11: Harvesting Crops with Loops
       courseC_harvester_loops1: |-
         دالة تكرر تستخدم لتكرار أكثر من حركة.
 
         استخدم دالة كرر لتجمع كل الأربع قرعات.
-      courseC_harvester_loops10: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops10_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops10_2019: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops11: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops11_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops11_2019: اجمع كل الذرة واليقطينات.
+      courseC_harvester_loops10: اجمع كل الذرة والقرع.
+      courseC_harvester_loops10_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops10_2019: اجمع كل حبات الذرة والقرع.
+      courseC_harvester_loops11: اجمع كل الذرة والقرع.
+      courseC_harvester_loops11_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops11_2019: اجمع كل حبات الذرة والقرع.
+      courseC_harvester_loops1_2019: |-
+        يمكنك استخدام حلقات التكرار لتكرر أي نوع من القطع البرمجية.
+
+        استخدم حلقة التكرار لتجمع أربع حبات من القرع.
       courseC_harvester_loops1_2018: |-
         دالة تكرر تستخدم لتكرار أكثر من حركة.
 
         استخدم دالة كرر لتجمع كل الأربع قرعات.
-      courseC_harvester_loops1_2019: |-
-        دالة تكرر تستخدم لتكرار أكثر من حركة.
-
-        استخدم دالة كرر لتجمع كل الأربع قرعات.
-      courseC_harvester_loops2: هل يمكنك جمع دالتين كرر لتتوجه إلى اليقطينات ومن ثم
+      courseC_harvester_loops2: هل يمكنك جمع دالتين كرر لتتوجه إلى القرع ومن ثم
         تجمعهم كلهم؟
-      courseC_harvester_loops2_2018: هل يمكنك جمع دالتين كرر لتتوجه إلى اليقطينات
+      courseC_harvester_loops2_2018: هل يمكنك جمع دالتين كرر لتتوجه إلى القرع
         ومن ثم تجمعهم كلهم؟
-      courseC_harvester_loops2_2019: هل يمكنك جمع دالتين كرر لتتوجه إلى اليقطينات
-        ومن ثم تجمعهم كلهم؟
-      courseC_harvester_loops3: اجمع كل اليقطين.
-      courseC_harvester_loops3_2018: اجمع كل اليقطين.
-      courseC_harvester_loops3_2019: اجمع كل اليقطين.
+      courseC_harvester_loops2_2019: هل يمكنك استخدام حلقتي تكرار معا لتتوجه إلى حبات القرع
+        ومن ثم تجمعها كلها عندما تصلها؟
+      courseC_harvester_loops3: اجمع كل القرع.
+      courseC_harvester_loops3_2018: اجمع كل القرع.
+      courseC_harvester_loops3_2019: هل تستطيع مساعدة الحصادة لتجمع كل حبات القرع؟
       courseC_harvester_loops4: |-
         الآن، يوجد ذرة تنبت أيضا!
 
-        اجمع كل الذرة وكل اليقطينات.
+        اجمع كل الذرة وكل القرع.
       courseC_harvester_loops4_2018: |-
         الآن، يوجد ذرة تنبت أيضا!
 
-        اجمع كل الذرة وكل اليقطينات.
+        اجمع كل الذرة وكل القرع.
       courseC_harvester_loops4_2019: |-
-        الآن، يوجد ذرة تنبت أيضا!
+        واو! توجد الآن ذرة في الحقل أيضا!
 
-        اجمع كل الذرة وكل اليقطينات.
-      courseC_harvester_loops5: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops5_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops5_2019: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops6: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops6_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops6_2019: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops7: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops7_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops7_2019: اجمع كل الذرة واليقطينات.
+        اجمع كل حبات الذرة والقرع.
+      courseC_harvester_loops5: اجمع كل الذرة والقرع.
+      courseC_harvester_loops5_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops5_2019: اجمع كل حبات الذرة والقرع الموجودة في المزرعة.
+      courseC_harvester_loops6: اجمع كل الذرة والقرع.
+      courseC_harvester_loops6_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops6_2019: اجمع كل حبات الذرة والقرع الموجودة في المزرعة.
+      courseC_harvester_loops7: اجمع كل الذرة والقرع.
+      courseC_harvester_loops7_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops7_2019: هل تستطيع مساعدة الحصادة لتجمع كل حبات الذرة والقرع؟
       courseC_harvester_loops8: |-
-        تحدي اجمع كل الذرة واليقطين.
+        تحدي اجمع كل الذرة والقرع.
 
         يمكن إكمال هذا التحدي بأي طريقة ترغبها، لكنها سوف تستهلك الكثير من العمل او الكثير من التفكير!
       courseC_harvester_loops8_2018: |-
-        تحدي اجمع كل الذرة واليقطين.
+        تحدي اجمع كل الذرة والقرع.
 
         يمكن إكمال هذا التحدي بأي طريقة ترغبها، لكنها سوف تستهلك الكثير من العمل او الكثير من التفكير!
       courseC_harvester_loops8_2019: |-
-        تحدي اجمع كل الذرة واليقطين.
+        تحدي المحاصيل.. اجمع كل الذرة والقرع.
 
-        يمكن إكمال هذا التحدي بأي طريقة ترغبها، لكنها سوف تستهلك الكثير من العمل او الكثير من التفكير!
-      courseC_harvester_loops9: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops9_2018: اجمع كل الذرة واليقطينات.
-      courseC_harvester_loops9_2019: اجمع كل الذرة واليقطينات.
+        يمكنك إكمال هذا التحدي بأي طريقة ترغبها، لكنها سوف تستهلك الكثير من العمل أو الكثير من التفكير!.. فكر جيدا!
+      courseC_harvester_loops9: اجمع كل الذرة والقرع.
+      courseC_harvester_loops9_2018: اجمع كل الذرة والقرع.
+      courseC_harvester_loops9_2019: اجمع كل حبات الذرة والقرع.
       courseC_harvester_loops_challenge2: اجمع كل الخس. تجنب الأشجار والحقول!
       courseC_harvester_loops_challenge2_2018: اجمع كل الخس. تجنب الأشجار والحقول!
       courseC_harvester_loops_challenge2_2019: اجمع كل الخس. تجنب الأشجار والحقول!
+      #End of Course C Lesson 11
+
+
+
 
       #Express
       #Lesson 3: Debugging with Scrat
@@ -2431,7 +2610,7 @@ ar-SA:
          مرة أخرى من صندوق الأدوات وركب جميع القطع الموجودة في مساحة العمل معا.
 
       courseC_maze_programming3_2019: |-
-        _"يبدو أن هذه السمكة ستتعبني!"_
+        _"يبدو أن هذه السمكة ستتعبني."_
 
         يوجد قطعة برمجية واحدة لا حاجة لها وستجعل طقطق يصطدم بالجليد.
         افصلها عن القطع البرمجية الأخرى وأعدها إلى صندوق الادوات.
@@ -2444,20 +2623,20 @@ ar-SA:
         احذر قطع الجليد المتشققة!
 
       courseC_maze_programming6_2019: |-
-        _"أنا جائع! ركز وساعدني في العثور على السمكة المشاغبة قبل أن أغضب!"_
+        _"أنا جائع.. ركز وساعدني في العثور على السمكة المشاغبة قبل أن أغضب."_
 
         ساعد طقطق في الوصول إلى السمكة وتفادى قطع الجليد المتشققة حتى لا يسقط في الماء!
 
       courseC_maze_programming7_2019: |-
-        _" تحدي الأذكياء، أنه وقت التركيز!"_
+        _" تحدي الأذكياء، أنه وقت التركيز."_
 
         الكود الموجود في مساحة العمل يحتوي على أكثر من خلل برمجي.. لتصحيحه، يجب عليك حذف بعض القطع البرمجية وإضافة أخرى.
 
-      courseC_maze_programming8_2019: _"لقد اختبأت السمكة المشاغبة مجددا! هلا ساعدتني في العثور عليها؟"_
+      courseC_maze_programming8_2019: _"لقد اختبأت السمكة المشاغبة مجددا.. هلا ساعدتني في العثور عليها؟"_
 
-      courseC_maze_programming8_predict1_2019: _"لقد اختبأت السمكة المشاغبة مجددا! هلا ساعدتني في العثور عليها؟"_
+      courseC_maze_programming8_predict1_2019: _"لقد اختبأت السمكة المشاغبة مجددا.. هلا ساعدتني في العثور عليها؟"_
 
-      courseC_maze_programming9_2019: _"الآن، ساعدني على مفاجأة السمكة بأي طريقة تختارها!"_
+      courseC_maze_programming9_2019: _"الآن، ساعدني على مفاجأة السمكة بأي طريقة تختارها."_
       ###
       courseC_maze_programming_challenge1_2019: 'السمكة مختبئة، والهدف هو الوصول إليها.'
       courseC_maze_programming_challenge2: في بعض الأحيان توجد أكثر من طريقة لحل المشكلة.
@@ -2472,261 +2651,147 @@ ar-SA:
       #ُExpress
       #Lesson 6: Loops with Rey and الأميرة
       courseC_starWars_loops1_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _".ساعدني لأجمع كل صناديق الكنز"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"ساعدني لأجمع كل صناديق الكنز"_
 
         استخدم نفس القطعة البرمجية 5 مرات لتساعد الأميرة على جمع كل صناديق الكنز. صندوق الكنز يلمع هكذا:
-        ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        ![](https://static.edraak.org/code-img/Treasure.JPG)
       courseC_starWars_loops10_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"سنجمع كل الكنز!"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"سنجمع كل الكنز"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops10_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://static.edraak.org/code-img/Treasure.JPG)
          _"استمر الأميرة!"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops10: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://static.edraak.org/code-img/Treasure.JPG)
          _"استمر الأميرة!"_
 
         أنت تقوم بعمل رائع! استمر!
       courseC_starWars_loops11: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة!"_
 
         انت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops11_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة!"_
 
         انت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops11_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"لقد وصلنا الى مجموعة الكنز الأخيرة."_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"لقد وصلنا الى مجموعة الكنز الأخيرة"_
 
         أنت على وشك الوصول! هذه المرة، اختر أي مسار ترغب به!
       courseC_starWars_loops1_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _" اذهب واجمع صناديق الكنز الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _" اذهب واجمع صناديق الكنز الأميرة!"_
 
-        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://static.edraak.org/code-img/Treasure.JPG)
       courseC_starWars_loops1: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _" اذهب واجمع صناديق الكنز الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _" اذهب واجمع صناديق الكنز الأميرة!"_
 
-        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+        استخدم 5 من البلوكة نفسها لتجمع صناديق الكنز. صناديق الكنز تلمع كهذه: ![](https://static.edraak.org/code-img/Treasure.JPG)
       courseC_starWars_loops2: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops2_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops2_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هيا بنا نجمع الكنز"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"هيا بنا نجمع الكنز"_
 
         لتجمع كل صناديق الكنز، أنشئ حلقة تكرار تستخدم فيها قطعة برمجية واحدة.
       courseC_starWars_loops2_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Go الأميرة!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"Go الأميرة!"_
 
         لتجمع كل صناديق الكنز، انشئ دالة تكرارية تستخدم فيها بلوكة واحدة داخل بلوكة "كرر".
       courseC_starWars_loops4: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة يجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
       courseC_starWars_loops4_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة تجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
       courseC_starWars_loops4_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _".يا لها من كنوز رائعة"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"يا لها من كنوز رائعة"_
 
         في هذه المرحلة، يمكنك استخدام اثنتين من حلقة "كرر" لتساعدك في جعل الأميرة تجمع كل صناديق الكنز بأقل عدد ممكن من القطع البرمجية!
       courseC_starWars_loops4_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         في هذا اللغز، يمكنك استخدام اثنان من بلوكة "كرر" لتساعدك في جعل الأميرة يجمع كل صناديق الكنز بأقل عدد من القطع البرمجية!
-      courseC_starWars_loops5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"Go الأميرة!"_'
-      courseC_starWars_loops5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-        _"Go الأميرة!"_'
-      courseC_starWars_loops5_2019: _"لنجمع كل الكنز!"_
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
-      courseC_starWars_loops5_copy: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5_2019: '![](https://static.edraak.org/code-img/Princess.JPG)
+        _"لنجمع كل الكنز"_'
+      courseC_starWars_loops5_2018: _"لنجمع كل الكنز"_ (https://static.edraak.org/code-img/Princess.JPG)[]!
+
+      courseC_starWars_loops5_copy: '![](https://static.edraak.org/code-img/Treasure.JPG)
         _"Go الأميرة!"_'
       courseC_starWars_loops6: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops6_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"هل يمكنك جمعها كلها؟"_
 
         يمكنك أن تضع أكثر من حلقة برمجية داخل حلقة التكرار! هل يمكنك استخدام حلقة "كرر" لاختصار الكود الموجود في مساحة العمل؟
       courseC_starWars_loops6_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops6_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هل يمكنك جمعها كلها؟"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"هل يمكنك جمعها كلها؟"_
 
         الدوال التكرارية تستخدم أيضا أكثر من بلوكة داخلها! هل يمكنك استخدام "كرر" لهذه الخطوات؟
       courseC_starWars_loops7: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops7_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops7_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكننا فعل هذا."_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"يمكننا فعل هذا"_
 
         هل يمكنك جمع كل صناديق الكنز باستخدام حلقة "كرر" واحدة؟ حاول برمجتها كاملة وابحث عن الكود المتكرر ثم ضعه داخل حلقة "كرر".
       courseC_starWars_loops7_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"يمكنك فعلها!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"يمكنك فعلها!"_
 
         هل يمكنك حمع كل صناديق الكنز باستخدام دالة كرر واحدة؟ حاول برمجتها كاملة وابحث عن الكود البرمجي المتكرر وضعها داخل دالة كرر.
       courseC_starWars_loops8: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"هيا نواصل رحلة جمع الكنز."_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"هيا نواصل رحلة جمع الكنز"_
 
         تحدي الأذكياء،  استخدم الأفكار التي تعلمتها من المراحل السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops8_copy: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر، الأميرة."_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر، الأميرة."_
 
         تحدي اجمع الافكار من الالغاز السابقة لتكمل هذه المرحلة.
       courseC_starWars_loops9: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر!"_
 
         استخدم ماتعلمته لتجمع كل صناديق الكنز!
       courseC_starWars_loops9_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"استمر!"_
+        ![](https://static.edraak.org/code-img/Treasure.JPG) _"استمر!"_
 
         استخدم ماتعلمته لتجمع كل صناديق الكنز!
       courseC_starWars_loops9_2019: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"ساعدني في رحلة جمع الكنز!"_
+        ![](https://static.edraak.org/code-img/Princess.JPG) _"ساعدني في رحلة جمع الكنز"_
 
         استخدم كل ما تعلمته سابقا لتجمع كل صناديق الكنز!
-      courseD_artist_binary1: لقد زودناك بشبكة "بيكسلات" التي يمكنك أن تستعرضها وتنتج
-        تصميمات عن طريق تفعيل بعض المربعات فقط.استخدم المربعات البرمجية أدناه لتمكين
-        الفنان من رسم "01010101" في النظام الثنائي في الطابور الأول.
-      courseD_artist_binary1_2018: لقد زودناك بشبكة "بيكسلات" التي يمكنك أن تستعرضها
-        وتنتج تصميمات عن طريق تفعيل بعض المربعات فقط.استخدم المربعات البرمجية أدناه
-        لتمكين الفنان من رسم "01010101" في النظام الثنائي في الطابور الأول.
-      courseD_artist_binary1_2019: لقد زودناك بشبكة "بيكسلات" التي يمكنك أن تستعرضها
-        وتنتج تصميمات عن طريق تفعيل بعض المربعات فقط.استخدم المربعات البرمجية أدناه
-        لتمكين الفنان من رسم "01010101" في النظام الثنائي في الطابور الأول.
-      courseD_artist_binary2: هنا دالة التي تأخذ سلسلة ثنائية مؤلفة من 1 و 0 وتزود
-        الفنان بالتعليمات لاتباعها من اليسار لليمين، ومن الأعلى للأسفل.\ \ \يقوم
-        الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0. \ \
-        \شغل هذه التعليمات البرمجية لتشاهد استخدام الفنان للنظام الثنائي لرسم هذا
-        النمط.
-      courseD_artist_binary2_2018: هنا دالة التي تأخذ سلسلة ثنائية مؤلفة من 1 و 0
-        وتزود الفنان بالتعليمات لاتباعها من اليسار لليمين، ومن الأعلى للأسفل.\ \
-        \يقوم الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0.
-        \ \ \شغل هذه التعليمات البرمجية لتشاهد استخدام الفنان للنظام الثنائي
-        لرسم هذا النمط.
-      courseD_artist_binary2_2019: هنا دالة التي تأخذ سلسلة ثنائية مؤلفة من 1 و 0
-        وتزود الفنان بالتعليمات لاتباعها من اليسار لليمين، ومن الأعلى للأسفل.\ \
-        \يقوم الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0.
-        \ \ \شغل هذه التعليمات البرمجية لتشاهد استخدام الفنان للنظام الثنائي
-        لرسم هذا النمط.
-      courseD_artist_nestedLoops1a: الآن لف المثلث 6 مرات.بعد كل مثلث، ستحتاج إلى
-        الالتفاف بـ 60 درجة قبل رسم المثلث التالي.
-      courseD_artist_nestedLoops1a_2018: الآن لف المثلث 6 مرات.بعد كل مثلث، ستحتاج
-        إلى الالتفاف بـ 60 درجة قبل رسم المثلث التالي.
-      courseD_artist_nestedLoops1a_2019: الآن لف المثلث 6 مرات.بعد كل مثلث، ستحتاج
-        إلى الالتفاف بـ 60 درجة قبل رسم المثلث التالي.
-      courseD_artist_nestedLoops2: هذه المرة، أكمل اللغز باستخدام أقل عدد ممكن من
-        المربعات البرمجية.بعد كل مثلث، ستحتاج إلى الالتفاف بـ 60 درجة قبل رسم المثلث
-        التالي.أنظر مدى سهولة هذه الخطوة باستخدام الحلقات المتداخلة؟
-      courseD_artist_nestedLoops2_2018: هذه المرة، أكمل اللغز باستخدام أقل عدد ممكن
-        من المربعات البرمجية.بعد كل مثلث، ستحتاج إلى الالتفاف بـ 60 درجة قبل رسم المثلث
-        التالي.أنظر مدى سهولة هذه الخطوة باستخدام الحلقات المتداخلة؟
-      courseD_artist_nestedLoops2_2019: هذه المرة، أكمل اللغز باستخدام أقل عدد ممكن
-        من المربعات البرمجية.بعد كل مثلث، ستحتاج إلى الالتفاف بـ 60 درجة قبل رسم المثلث
-        التالي.أنظر مدى سهولة هذه الخطوة باستخدام الحلقات المتداخلة؟
-      courseD_artist_nestedLoops4: عظيم! افعل نفس الشيء مع هذه الدوائر.- يتم عمل كل
-        دائرة بتحريك عدد 1 بيكسل قبل الاستدارة درجة واحة 360 مرة.- كل دائرة تبدأ
-        50 بيكسل من مكان انتهاء آخر دائرة.
-      courseD_artist_nestedLoops4_2018: عظيم! افعل نفس الشيء مع هذه الدوائر.- يتم
-        عمل كل دائرة بتحريك عدد 1 بيكسل قبل الاستدارة درجة واحة 360 مرة.- كل دائرة
-        تبدأ 50 بيكسل من مكان انتهاء آخر دائرة.
-      courseD_artist_nestedLoops4_2019: عظيم! افعل نفس الشيء مع هذه الدوائر.- يتم
-        عمل كل دائرة بتحريك عدد 1 بيكسل قبل الاستدارة درجة واحة 360 مرة.- كل دائرة
-        تبدأ 50 بيكسل من مكان انتهاء آخر دائرة.
-      courseD_artist_nestedLoops5: ما الذي يحدث إذا قمت باللف 90 درجة بين الدوائر؟(لتكوين
-        هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
-      courseD_artist_nestedLoops5_2018: ما الذي يحدث إذا قمت باللف 90 درجة بين الدوائر؟(لتكوين
-        هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
-      courseD_artist_nestedLoops5_2019: ما الذي يحدث إذا قمت باللف 90 درجة بين الدوائر؟(لتكوين
-        هذه الصورة، لا زلت بحاجة للقفز 50 بيكسل بين الدوائر)
-      courseD_artist_nestedLoops7: استخدم ما تعملته لعمل هذا الرسم.-   لكل جانب من
-        جوانب المربعات 100 بيكسل وزوايا 90 درجة\ -   يجب أن تلف بـ 60
-        درجة بين كل مربع. لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة
-        على 6 يساوي 60 درجة.-   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي
-      courseD_artist_nestedLoops7_2018: استخدم ما تعملته لعمل هذا الرسم.-   لكل جانب
-        من جوانب المربعات 100 بيكسل وزوايا 90 درجة\ -   يجب أن تلف بـ 60
-        درجة بين كل مربع. لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة
-        على 6 يساوي 60 درجة.-   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي
-      courseD_artist_nestedLoops7_2019: استخدم ما تعملته لعمل هذا الرسم.-   لكل جانب
-        من جوانب المربعات 100 بيكسل وزوايا 90 درجة\ -   يجب أن تلف بـ 60
-        درجة بين كل مربع. لماذا؟ لأن هنالك 6 مربعات، و 360 درجة (لفة كاملة) مقسمة
-        على 6 يساوي 60 درجة.-   تأكد من القفز 50 بيكسل للوصول إلى المربع التالي
-      courseD_artist_nestedLoops8: باستخدام ما تعلمته في آخر بضعة ألغاز، قم ببناء
-        هذه الصورة من البداية.-   كل شكل سداسي به جوانب بـ 50 بيكسل و التفافات
-        بـ 60 درجة
-      courseD_artist_nestedLoops8_2018: باستخدام ما تعلمته في آخر بضعة ألغاز، قم ببناء
-        هذه الصورة من البداية.-   كل شكل سداسي به جوانب بـ 50 بيكسل و التفافات
-        بـ 60 درجة
-      courseD_artist_nestedLoops8_2019: باستخدام ما تعلمته في آخر بضعة ألغاز، قم ببناء
-        هذه الصورة من البداية.-   كل شكل سداسي به جوانب بـ 50 بيكسل و التفافات
-        بـ 60 درجة
-      courseD_artist_nestedLoops9: 'تحدي هل يمكنك معرفة كيفية عمل صورة كهذه؟-   كلا
-        الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب أن تقفز للأمام
-        بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops9_2018: 'تحدي هل يمكنك معرفة كيفية عمل صورة كهذه؟-   كلا
-        الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب أن تقفز للأمام
-        بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops9_2019: 'تحدي هل يمكنك معرفة كيفية عمل صورة كهذه؟-   كلا
-        الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب أن تقفز للأمام
-        بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops9_predict1: "تحدي هل يمكنك معرفة كيفية صنع صورة
-        مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
-      courseD_artist_nestedLoops9_predict1_2018: "تحدي هل يمكنك معرفة كيفية صنع
-        صورة مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
-      courseD_artist_nestedLoops9_predict1_2019: "تحدي هل يمكنك معرفة كيفية صنع
-        صورة مثل هذه؟-   لكلا الشكلين جوانب قياس 50 بيكسل"
-      courseD_artist_nestedLoopsFP: الأن جاء دورك. خذ المهارات التي تعلمتها واصنع
-        شيئًا تحبه!هل تحتاج إلى فكرة؟ حاول صناعة واحد من هؤلاء:![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
-      courseD_artist_nestedLoopsFP_2018: الأن جاء دورك. خذ المهارات التي تعلمتها واصنع
-        شيئًا تحبه!هل تحتاج إلى فكرة؟ حاول صناعة واحد من هؤلاء:![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
-      courseD_artist_nestedLoopsFP_2019: الأن جاء دورك. خذ المهارات التي تعلمتها واصنع
-        شيئًا تحبه!هل تحتاج إلى فكرة؟ حاول صناعة واحد من هؤلاء:![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
-      courseD_artist_nestedLoops_challenge1: 'تحدي هل يمكنك معرفة كيفية عمل صورة
-        كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال، يجب
-        أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops_challenge1_2018: 'تحدي هل يمكنك معرفة كيفية عمل
-        صورة كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال،
-        يجب أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops_challenge1_2019: 'تحدي هل يمكنك معرفة كيفية عمل
-        صورة كهذه؟-   كلا الشكلين له \\جوانب قياس 50 بيكسل"-   بين كل زوجي أشكال،
-        يجب أن تقفز للأمام بطول الجانب، وتلف 45 درجة.'
-      courseD_artist_nestedLoops_challenge2: هذه التعليمات البرمجية مغلوط قليلاً!
-        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
-        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
-        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
-      courseD_artist_nestedLoops_challenge2_2018: هذه التعليمات البرمجية مغلوط قليلاً!
-        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
-        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
-        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
-      courseD_artist_nestedLoops_challenge2_2019: هذه التعليمات البرمجية مغلوط قليلاً!
-        هل يمكنك إصلاحها لرسم الشكل الصحيح في مساحة العمل؟-   الحلقة الداخلية الأولى
-        يجب أن تصنع شكلا ثماني الأضلاع.-   الحلقة الداخلية الثنانية يجب أن تصنع شكلا
-        سداسي الأضلاع-   الحلقة الداخلية الثالثة يجب أن تصنع مربعًا
+
+
+
       courseD_artist_project1: "![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _“أنا إلسا ملكة آريندل، ساعدني على رسم الشكل.”_قم برسم شكل صغير يتراوح عرضه
         ما بين \\20 و50\\\\ بكسل. قد يكون الرسم على أي شكل ترغبه.  <hr/>يمكنك أن
@@ -3025,7 +3090,7 @@ ar-SA:
       courseD_bee_nestedLoops1_2019: |-
         _"سيكون هذا الأمر رائعاً يا نحُول."_
 
-        ساعد نحُول على تجميع رحيق العسل.
+        ساعد نحُول على جمع رحيق العسل.
 
       courseD_bee_nestedLoops1_2018: _"سيكون هذا الأمر رائعاً أيتها "النحلة!"_ساعد
         النحلة على تجميع رحيق العسل.
@@ -3040,18 +3105,18 @@ ar-SA:
       courseD_bee_nestedLoops1a_2019: |-
         _"سيكون هذا الأمر رائعاً يا نحُول."_
 
-        ساعد نحُول على تجميع رحيق العسل.
+        ساعد نحُول على جمع رحيق العسل.
       courseD_bee_nestedLoops2: في هذه المرة، ساعد النحل على تجميع كل رحيق العسل باستخدام
         بعض المربعات البرمجية بقدر الإمكان.
       courseD_bee_nestedLoops2_2018: في هذه المرة، ساعد النحل على تجميع كل رحيق العسل
         باستخدام بعض المربعات البرمجية بقدر الإمكان.
-      courseD_bee_nestedLoops2_2019: هذه المرة، ساعد نحول على تجميع كل رحيق العسل
+      courseD_bee_nestedLoops2_2019: هذه المرة، ساعد نحول على جمع كل رحيق العسل
         باستخدام أقل عدد ممكن من القطع البرمجية.
       courseD_bee_nestedLoops2_predict1: في هذه المرة، ساعد النحل على تجميع كل رحيق
         العسل باستخدام بعض المربعات البرمجية بقدر الإمكان.
       courseD_bee_nestedLoops2_predict1_2018: في هذه المرة، ساعد النحل على تجميع كل
         رحيق العسل باستخدام بعض المربعات البرمجية بقدر الإمكان.
-      courseD_bee_nestedLoops2_predict1_2019: هذه المرة، ساعد نحول على تجميع كل رحيق العسل
+      courseD_bee_nestedLoops2_predict1_2019: هذه المرة، ساعد نحول على جمع كل رحيق العسل
         باستخدام أقل عدد ممكن من القطع البرمجية.
       courseD_bee_nestedLoops7: "التحدي: تعرف على كيفية الاستفادة من كل رحيق العسل
         باستخدام المربعات البرمجية المتاحة فقط."
@@ -3072,49 +3137,7 @@ ar-SA:
       courseD_bee_nestedLoops9_predict2: صنع كل العسل.
       courseD_bee_nestedLoops9_predict2_2018: صنع كل العسل.
       courseD_bee_nestedLoops9_predict2_2019: صنع كل العسل.
-      courseD_collector_debugging1: '"أوه لا! أرى مشكلة."\_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.'
-      courseD_collector_debugging10_predict1: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح
-        التعليمات البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging1a_2018: '"أوه لا! أرى مشكلة."\_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.'
-      courseD_collector_debugging1a_2019: '"أوه لا! أرى مشكلة."\_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.'
-      courseD_collector_debugging2: _"يمكنك القيام بهذا!"_
-      courseD_collector_debugging2a_2018: _"يمكنك القيام بهذا!"_
-      courseD_collector_debugging2a_2019: _"يمكنك القيام بهذا!"_
-      courseD_collector_debugging3: _"يمكنك القيام بهذا!"_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.
-      courseD_collector_debugging3a_2018: _"يمكنك القيام بهذا!"_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.
-      courseD_collector_debugging3a_2019: _"يمكنك القيام بهذا!"_قم بتصحيح الخطأ(الأخطاء)
-        لجمع كل الكنز.
-      courseD_collector_debugging4: _"لا تُصب بالإحباط. يمكنك القيام بهذا!"_
-      courseD_collector_debugging4a_2018: _"لا تُصب بالإحباط. يمكنك القيام بهذا!"_
-      courseD_collector_debugging4a_2019: _"لا تُصب بالإحباط. يمكنك القيام بهذا!"_
-      courseD_collector_debugging5: _"هذا الأمر يجنني!"_كل الأوامر التي تحتاج إليها
-        موجودة هنا بالفعل...الآن استخدم مهارات تصحيح الأخطاء لمعرفة كيفية حل هذا اللغز.
-      courseD_collector_debugging5a_2018: _"هذا الأمر يجنني!"_كل الأوامر التي تحتاج
-        إليها موجودة هنا بالفعل...الآن استخدم مهارات تصحيح الأخطاء لمعرفة كيفية حل
-        هذا اللغز.
-      courseD_collector_debugging5a_2019: _"هذا الأمر يجنني!"_كل الأوامر التي تحتاج
-        إليها موجودة هنا بالفعل...الآن استخدم مهارات تصحيح الأخطاء لمعرفة كيفية حل
-        هذا اللغز.
-      courseD_collector_debugging6: "تحدي: كل المربعات البرمجية التي تحتاج إليها
-        موجودة هنا بالفعل...استخدم مهارات تصحيح الأخطاء الخاصة بك لتصحيح الأخطاء وجمع
-        كل الكنز."
-      courseD_collector_debugging8: _"يا لهه من كنز وفير!"_ساعد لوريل في تصحيح التعليمات
-        البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging8a_2018: _"يا لهه من كنز وفير!"_ساعد لوريل في تصحيح
-        التعليمات البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging8a_2019: _"يا لهه من كنز وفير!"_ساعد لوريل في تصحيح
-        التعليمات البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging9: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح التعليمات
-        البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging9a_2018: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح التعليمات
-        البرمجية للحصول على كل الكنز.
-      courseD_collector_debugging9a_2019: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح التعليمات
-        البرمجية للحصول على كل الكنز.
+
       courseD_collector_nested_loops_challenge2: _"دعونا نبحث عن الكنز - باستخدام
         الحلقات!"_ ساعد الحصادة من أجل الوصول إلى كومتي الكنز باستخدام المربعات البرمجية
         الموجودة فقط في مربع الأدوات الخاص بك. يمكن تجميع كل الكومات البالغ عددها
@@ -3175,7 +3198,7 @@ ar-SA:
       courseD_farmer_condLoops4_2019: |-
         _"واو.. لدي محصول رائع من الخس."_
 
-        ترغب الحصادة في التقاط كل شيء من حديقة الخس الخاصة بها. كل نبتة عليها قطعة واحدة أو أكثر من الخس.
+        ترغب الحصادة في التقاط كل شيء من حديقة الخس الخاصة بها. كل نبتة عليها قطعة واحدة أو أكثر من الخس،
         لذلك سوف تحتاج الحصادة إلى مواصلة الحصاد طالما يوجد محصول خس ينمو.
         تذكر.. هذه الحديقة ينمو فيها الخس فقط!
       courseD_farmer_condLoops5_2019: |-
@@ -3270,16 +3293,16 @@ ar-SA:
       courseD_farmer_while1_2019: |-
          _"مرحباً.. أنا مزارعة نشيطة وأحتاج مساعدتك في تمهيد الحقل في مزرعتي حتى تصبح جاهزة للزراعة."_
 
-         استخدم القطعة البرمجية "إزالة 1" للتخلص من كومة التراب.
+         استخدم القطعة البرمجية "إزالة التراب" للتخلص من كومة التراب.
 
-      courseD_farmer_while2_2019: تحرك حتى تصل الى الحفرة ثم املأها مستخدما المجرفة ست مرات. استخدم القطعة البرمجية "تعبئة 1".
+      courseD_farmer_while2_2019: تحرك حتى تصل الى الحفرة ثم املأها مستخدما المجرفة ست مرات. استخدم القطعة البرمجية "تعبئة حفرة".
 
       courseD_farmer_while3: _"حرك كومة التراب واخبرني بعدد المجرفات من أجل إزالتها."_استخدم
         بعض المربعات البرمجية بقدر الإمكان لحل هذا اللغز.
       courseD_farmer_while3_2018: _"حرك كومة التراب واخبرني بعدد المجرفات من أجل
         إزالتها."_استخدم بعض المربعات البرمجية بقدر الإمكان لحل هذا اللغز.
       courseD_farmer_while3_2019: |-
-        حرك المزارعة حتى تصل الى كومة التراب ثم أخبرها كم مرة يجب أن تستخدم القطعة البرمجية "إزالة 1" حتى تتخلص من الكومة.
+        حرك المزارعة حتى تصل الى كومة التراب ثم أخبرها كم مرة يجب أن تستخدم القطعة البرمجية "إزالة التراب" حتى تتخلص من الكومة.
 
         استخدم أقل عدد ممكن من القطع البرمجية لإنجاز هذه المرحلة.
       courseD_farmer_while4: _"أنا لا أعلم ما مقدار التراب في هذه الكومة!"_ساعد المزارع
@@ -3287,7 +3310,7 @@ ar-SA:
       courseD_farmer_while4_2018: _"أنا لا أعلم ما مقدار التراب في هذه الكومة!"_ساعد
         المزارع لإزالة الكومة بأكملها باستخدام الحلقة "أثناء".
       courseD_farmer_while4_2019: |-
-        _"أنا لا أعلم كم مرة يجب أن أستخدم القطعة البرمجية "إزالة 1" حتى أتخلص من كل كومة التراب"_
+        _"أنا لا أعلم كم مرة يجب أن أستخدم القطعة البرمجية "إزالة التراب" حتى أتخلص من كل كومة التراب."_
 
         ساعد المزارعة لإزالة الكومة بأكملها باستخدام حلقة "طالما".
       courseD_farmer_while4_predict1: _"أنا لا أعلم ما مقدار التراب في هذه الكومة!"_ساعد
@@ -3329,9 +3352,9 @@ ar-SA:
       courseD_harvester_nested_loops_challenge1_2019: _""أحتاج إلى بعض المساعدة في
         المزرعة! ساعدني كي أحصد هذا  محصول الذرة هذا باستخدام المربعات البرمجية الموجودة
         فقط في مربع أدواتك."_
-      courseD_maze_intro4_2019: '\-"تتبع المسار وأوصلني إلى الخنزير."- '
-      courseD_maze_intro5a_2019: احصي الفراغات في الشبكة بعناية!
-      courseD_maze_intro5c_2019: انتبه من المتفجرات! ساعد ريد ليصل إلى الخنزير.
+      courseD_maze_intro4_2019: تتبع المسار وساعدني لأصل الى السمكة.
+      courseD_maze_intro5a_2019: عد المربعات الموجودة على طول المسار بعناية!
+      courseD_maze_intro5c_2019: انتبه من قطع الجليد المتشققة! ساعد طقطق ليصل إلى السمكة.
 
       #Express
       #Lesson 8: Nested Loops in Maze- Bee-Zombie
@@ -3340,7 +3363,7 @@ ar-SA:
       courseD_maze_nestedLoops3_2018: _"الزومبي جائع!"_ساعد الزومبي كي يصل إلى زهرة
         عباد الشمس باستخدام عدد أقل من المربعات البرمجية بقدر الإمكان.
       courseD_maze_nestedLoops3_2019: |-
-        _"الزومبي جائع جدا!"_
+        _"الزومبي جائع جدا."_
 
         ساعد الزومبي كي يصل إلى زهرة عباد الشمس باستخدام أقل عدد ممكن من القطع البرمجية.
 
@@ -3352,25 +3375,28 @@ ar-SA:
       courseD_maze_nestedLoops6_2018: _"يجب أن يأكل زهرة عباد الشمس!"_ساعد الزومبي
         في الوصول إلى زهرة عباد الشمس باستخدام المربعات البرمجية المتاحة.
       courseD_maze_nestedLoops6_2019: |-
-       _"يجب.. أن آااكل.. زهرة.. عباد الشمس!"_
+        _"يجب.. أن آااكل.. زهرة.. عباد الشمس."_
 
         ساعد الزومبي في الوصول إلى زهرة عباد الشمس باستخدام القطع البرمجية المتاحة.
 
+
+
+      #Course D
+      #Lesson 2. Introduction to Online Puzzles
       courseD_maze_ramp1: لصنع اللغز، اسحب جميع القطع البرمجية واضغط على "تشغيل ▶" ليمكنك
         رؤيتها!
       courseD_maze_ramp1_2018: لصنع اللغز، اسحب جميع القطع البرمجية واضغط على "تشغيل ▶" ليمكنك
         رؤيتها!
-      courseD_maze_ramp1_2019: لصنع اللغز، اسحب جميع القطع البرمجية واضغط على "تشغيل ▶" ليمكنك
-        رؤيتها!
+      courseD_maze_ramp1_2019: لإنجاز هذه المرحلة، ركب جميع القطع البرمجية الموجودة في مساحة العمل معا واضغط زر "تشغيل ▶" لترى ما سيحدث!
       courseD_maze_ramp2: اسحب المربع البرمجي الإضافي  "تحرك إلى الأمام" خارج مربع
         الأدوات، ثم قم بإرفاق كل المربعات البرمجية بخانة "عند التشغيل" لإنهاء التعليمات
         البرمجية الخاصة بك.
       courseD_maze_ramp2_2018: اسحب المربع البرمجي الإضافي  "تحرك إلى الأمام" خارج
         مربع الأدوات، ثم قم بإرفاق كل المربعات البرمجية بخانة "عند التشغيل" لإنهاء
         التعليمات البرمجية الخاصة بك.
-      courseD_maze_ramp2_2019: اسحب المربع البرمجي الإضافي  "تحرك إلى الأمام" خارج
-        مربع الأدوات، ثم قم بإرفاق كل المربعات البرمجية بخانة "عند التشغيل" لإنهاء
-        التعليمات البرمجية الخاصة بك.
+      courseD_maze_ramp2_2019: اسحب القطعة البرمجية "تحريك إلى الأمام" من
+        صندوق الأدوات الى مساحة العمل، ثم ركب جميع القطع مع قطعة "عند التشغيل" لإنهاء
+        الكود الخاص بك.
       courseD_maze_ramp3: |-
         \_ هذا الخنزير يبعثر ريشي."\_
 
@@ -3380,13 +3406,13 @@ ar-SA:
 
         يوجد مربع برمجي أضافي واحد الذي سيتسبب في تحطم الطير. قم برميه بعيدًا عن طريق سحبه وإعادته إلى مربع الأدوات.
       courseD_maze_ramp3_2019: |-
-        ساعد الطائر للوصول إلى الخنزير. يوجد هناك قطعة برمجية واحدة زرقاء 'تحرّك للأمام' اضافية.
-        ارمي القطعة البرمجية الاضافية عن طريق ازالتها من القطع الأخرى وسحبها مرّةً أخرى إلى صندوق الأدوات.
+        ساعد طقطق للوصول إلى السمكة. هناك قطعة برمجية زرقاء واحدة من "تحريك الى الأمام" لا حاجة لها.
+        تخلص من هذه القطعة البرمجية الإضافية عن طريق إزالتها من الكود وإعادتها إلى صندوق الأدوات.
       courseD_maze_ramp4: "\"قم بتعقب المسار لتقودني إلى الخنزير الغبي. \n\nتجنب الـ
         TNT وإلا فالأرياش ستطير!"
       courseD_maze_ramp4_2018: "\"قم بتعقب المسار لتقودني إلى الخنزير الغبي. \n\nتجنب
         الـ TNT وإلا فالأرياش ستطير!"
-      courseD_maze_ramp4_2019: '_"تتبع المسار وساعدني للوصول إلى ثمرة البلوط"_ '
+      courseD_maze_ramp4_2019: تتبع المسار وساعدني في الوصول إلى السوسنة السوداء!
       courseD_maze_ramp5: |-
         _"اتبع هذا المسار لتوصيلي إلى الخنزير!"_
 
@@ -3396,30 +3422,212 @@ ar-SA:
 
         تجنب الأ TNT.
       courseD_maze_ramp5_2019: |-
-        _"اتبع هذا المسار لتوصيلي إلى الخنزير!"_
+        _"تتبع المسار وساعدني للوصول إلى السمكة."_
 
-        تجنب الأ TNT.
+        تجنب قطع الجليد المتشققة.
       courseD_maze_ramp5a: انتبه إلى التسلسل وانظر إذا كنت قادرًا على معرفة كيفية
         الوصول إلى ذلك الخنزير!
       courseD_maze_ramp5a_2018: انتبه إلى التسلسل وانظر إذا كنت قادرًا على معرفة كيفية
         الوصول إلى ذلك الخنزير!
-      courseD_maze_ramp5a_2019: احصي الفراغات في الشبكة بعناية!
+      courseD_maze_ramp5a_2019: عد المربعات التي يجب أن يقطعها ابن بطوطة حتى يصل الى السوسنة السوداء!
       courseD_maze_ramp5b: '"التحدي" تصفح هذه المتاهة لمساعدة الطير على الوصول إلى
         الخنزير!'
       courseD_maze_ramp5b_2018: '"التحدي" تصفح هذه المتاهة لمساعدة الطير على الوصول
         إلى الخنزير!'
-      courseD_maze_ramp5b_2019: '"التحدي" تصفح هذه المتاهة لمساعدة الطير على الوصول
-        إلى الخنزير!'
+      courseD_maze_ramp5b_2019: تحدي المتاهة.. تجول في المتاهة لتساعد طقطق على الوصول
+        إلى السمكة!
       courseD_maze_ramp5c: ساعد الطير للوصول إلى الخنزير!
       courseD_maze_ramp5c_2018: ساعد الطير للوصول إلى الخنزير!
-      courseD_maze_ramp5c_2019: ساعد سكرات للوصول إلى ثمة البلوط.
+      courseD_maze_ramp5c_2019: احترس من الصخور! ساعد ابن بطوطة للوصول إلى السوسنة السوداء.
       courseD_maze_ramp5d: ساعد الطائر بالوصول إلى الخنزير.
       courseD_maze_ramp5d_2018: ساعد الطائر بالوصول إلى الخنزير.
-      courseD_maze_ramp5d_2019: ساعد الطائر بالوصول إلى الخنزير.
+      courseD_maze_ramp5d_2019: ساعد طقطق في الوصول إلى السمكة.
       courseD_maze_ramp6: _"اهدأ وساعدني على العثور على الخنزير السيء. وإلا سوف أغضب!"_إذا
         كنت تملك العديد من نفس المربع البرمجي في طابور، حاول استخدام حلقة "تكرارية"
         بدلاً من ذلك. هذا يعمل نفس الشيء بأقل من تعليمات برمجية.
       courseD_maze_ramp7: _"حان وقت الغضب!"_  استخدم ما تعلمته لأخذ الطير إلى الخنزير!
+      #End of course D lesson 2
+
+
+
+      #Course D
+      #Lesson 4: Debugging with the Collector
+      courseD_collector_debugging1: '"أوه لا! أرى مشكلة."\_قم بتصحيح الخطأ(الأخطاء)
+        لجمع كل الكنز.'
+      courseD_collector_debugging10_predict1: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح
+        التعليمات البرمجية للحصول على كل الكنز.
+      courseD_collector_debugging1a_2018: '"أوه لا! أرى مشكلة."\_قم بتصحيح الخطأ(الأخطاء)
+        لجمع كل الكنز.'
+      courseD_collector_debugging1a_2019: |-
+        _"أوه لا.. هنالك مشكلة."_
+
+        قم بتصحيح الخلل البرمجي لتتمكن من جمع كل الجواهر.
+      courseD_collector_debugging2: _"يمكنك القيام بهذا!"_
+      courseD_collector_debugging2a_2018: _"يمكنك القيام بهذا!"_
+      courseD_collector_debugging2a_2019: |-
+        _"يمكنك القيام بهذا.. هيا بنا نجمع كل هذه الجواهر"_
+
+        قم بتصحيح الخلل البرمجي لتتمكن من جمع كل الجواهر.
+      courseD_collector_debugging3: _"يمكنك القيام بهذا!"_قم بتصحيح الخطأ(الأخطاء)
+        لجمع كل الكنز.
+      courseD_collector_debugging3a_2018: _"يمكنك القيام بهذا!"_قم بتصحيح الخطأ(الأخطاء)
+        لجمع كل الكنز.
+      courseD_collector_debugging3a_2019: |-
+        _"لا تستسلم بسهولة.. يمكنك أن تفعلها"_
+
+        قم بتصحيح الخلل البرمجي لتتمكن من جمع كل الجواهر.
+
+      courseD_collector_debugging4: _"لا تُصب بالإحباط.. يمكنك القيام بهذا"_
+      courseD_collector_debugging4a_2018: _"لا تُصب بالإحباط. يمكنك القيام بهذا!"_
+      courseD_collector_debugging4a_2019: _"لا تُصب بالإحباط أبدا.. يمكنك القيام بهذا."_
+      courseD_collector_debugging5: _"هذا الأمر يجنني!"_كل الأوامر التي تحتاج إليها
+        موجودة هنا بالفعل...الآن استخدم مهارات تصحيح الأخطاء لمعرفة كيفية حل هذا اللغز.
+      courseD_collector_debugging5a_2018: _"هذا الأمر يجنني!"_كل الأوامر التي تحتاج
+        إليها موجودة هنا بالفعل...الآن استخدم مهارات تصحيح الأخطاء لمعرفة كيفية حل
+        هذا اللغز.
+      courseD_collector_debugging5a_2019: |-
+        _"هذه المرحلة محيرة جدا"_
+
+        كل القطع البرمجية التي تحتاج إليها موجودة بالفعل...استخدم مهارات تصحيح الخلل البرمجي لمعرفة كيفية إنجاز هذه المرحلة.
+      courseD_collector_debugging6a_2019: تحدي الجواهر.. استخدم الكود الموجود في مساحة العمل حتى تجمع 6 قطع من الجواهر على الأقل!
+      courseD_collector_debugging6: "تحدي: كل المربعات البرمجية التي تحتاج إليها
+        موجودة هنا بالفعل...استخدم مهارات تصحيح الأخطاء الخاصة بك لتصحيح الأخطاء وجمع
+        كل الكنز."
+      courseD_collector_debugging8: _"يا لهه من كنز وفير!"_ساعد لوريل في تصحيح التعليمات
+        البرمجية للحصول على كل الكنز.
+      courseD_collector_debugging8a_2018: _"يا لهه من كنز وفير!"_ساعد لوريل في تصحيح
+        التعليمات البرمجية للحصول على كل الكنز.
+      courseD_collector_debugging8a_2019: |-
+        _"يا له من كنز وفير"_
+
+        ساعد لوريل في تصحيح الخلل البرمجي للحصول على كل الجواهر.
+      courseD_collector_debugging9: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح التعليمات
+        البرمجية للحصول على كل الكنز.
+      courseD_collector_debugging9a_2018: _"أنها جزيرة كنز!"_ساعد لوريل في تصحيح التعليمات
+        البرمجية للحصول على كل الكنز.
+      courseD_collector_debugging9a_2019: |-
+        _"إنها جزيرة الكنز"_
+
+        ساعد لوريل في تصحيح الخلل البرمجي للحصول على كل الجواهر.
+      #End of Lesson 4: Debugging with Laurel
+
+
+
+
+      #Course D
+      #Lesson 5: Events in Bounce
+      courseD_bounce_events10s_2019: |-
+        إن السلة الآن في آخر الملعب.
+        أضف قطعة "تحصيل نقطة" الى الحدث "عندما تكون الكرة في الهدف" وقطعة "سجل نقطة الخصم" الى الحدث "عندما لا تضرب الكرة اليد" لتصنع لعبة ممتعة.
+
+        كم نقطة تستطيع أن تسجل قبل أن يسجل خصمك الضعف؟
+
+      courseD_bounce_events11s_2019: |-
+        أنت ملك الكرة الآن!
+        أضف قطعة "ارمِ كرة جديدة" عند كل حدث ستحتاج الى كرة جديدة عنده.
+        ---
+        كم نقطة تستطيع أن تسجل قبل أن يسجل خصمك الضعف؟
+      courseD_bounce_events12s_2019: |-
+        حان الوقت لتصنع لعبتك الخاصة الآن!
+        تستطيع أن تتحكم بكل المرئيات والقواعد. عند الانتهاء، اضغط زر "إنهاء" حتى يتمكن أصدقاؤك من تجربة لعبتك!
+      courseD_bounce_events1s_2019: |-
+        لنحرز بعض الأهداف!
+        أضف قطعة برمجية واحدة الى الحدث البرمجي "عند الضغط على السهم الأيسر" ثم اضغط زر "تشغيل ▶". اضغط المفتاح الأيسر عدة مرات حتى تصل الى السلة.
+      courseD_bounce_events2s_2019: أضف الآن قطعة برمجية واحدة الى الحدث البرمجي "عند الضغط على السهم الأيمن" حتى تستطيع اليد أن تصل الى السلتين.
+      courseD_bounce_events5s_2019: سنرسل كرة سلة طائرة باتجاه اليد! أضف قطعة برمجية الى الحدث "عندما تضرب الكرة اليد" لتتأكد أن الكرة ستصل الى السلة.
+      courseD_bounce_events6s_2019: إن السلة الآن في آخر الملعب! أضف قطعة برمجية تجعل الكرة ترتد عندما تضرب الجدار حتى تتمكن من إنجاز هذه المرحلة.
+      courseD_bounce_events7s_2019: |-
+        أضف قطعا برمجية صوتية لتجعل الشبكة تصدر صوت حفيف عندما تضرب الكرة السلة، وصوت صفارة عندما لا تصرب الكرة اليد.
+        العب بالكرة حتى تصيب الهدف!
+      #End of Course D-Lesson 5
+
+
+
+
+      #Couse D
+      #Lesson 8: Loops in Ice Age
+      courseD_iceage_loops10_2019: تحدي الاذكياء.. طريق ابن بطوطة الى السوسنة السوداء محفوف بالمخاطر! ما هي القطع البرمجية التي ستستخدمها لمساعدته هذه المرة؟!
+      courseD_iceage_loops11_2019: إن شغف ابن بطوطة بالسوسنة السوداء لا حدود له! ساعده في الحصول على المزيد واحذر الصخور!
+      courseD_iceage_loops11_forVideo: إن شغف ابن بطوطة بالسوسنة السوداء لا حدود له! ساعده في الحصول على المزيد واحذر السقوط في الماء!
+      courseD_iceage_loops12_2019: شكرا لك صديقي! أنا أحب السوسنة السوداء أكثر من أي شيء في العالم! هل يمكنك مساعدتي في الحصول على واحدة أخيرة؟
+      courseD_iceage_loops1_2019: احذر السقوط في الماء! ساعد ابن بطوطة في الوصول الى السوسنة السوداء.
+      courseD_iceage_loops2_2019: |-
+        استخدم القطعة البرمجية حتى يستطيع ابن بطوطة أن يصل الى السوسنة السوداء:
+        <xml><block type="maze_turn" block-text="turn left">
+           <title name="DIR">turnLeft</title>
+         </block></xml>
+
+
+      courseD_iceage_loops3_2019: |-
+        هل تستطيع أن تجعل ابن بطوطة يصل الى السوسنة السوداء باستخدام القطعة البرمجية  <xml><block type="maze_moveForward" block-text="move forward"/></xml> مرة واحدة؟ استخدم حلقة التكرار:
+        <xml><block type="controls_repeat_dropdown">
+           <title name="TIMES" config="2-10">5</title>
+         </block></xml>
+      courseD_iceage_loops4_2019: تحتاج أن تضيف قطعة برمجية واحدة حتى يتمكن ابن بطوطة من الوصول الى السوسنة السوداء! ما هي يا ترى؟
+      courseD_iceage_loops5_2019: |-
+        هل تستطيع أن تضيف حلقة تكرار واحدة:
+
+        <xml><block type="controls_repeat_dropdown">
+           <title name="TIMES" config="2-10">؟؟</title>
+         </block></xml>
+        حتى يصل ابن بطوطة الى السوسنة السوداء؟
+      courseD_iceage_loops6_2019: |-
+        هل ستساعد حلقة التكرار ابن بطوطة في الوصول الى السوسنة السوداء بشكل أسرع؟
+
+        <xml><block type="controls_repeat_dropdown">
+           <title name="TIMES" config="2-10">5</title>
+         </block></xml>
+      courseD_iceage_loops7_2019: ابن بطوطة مستعد لخوض المغامرات حتى يحصل على السوسنة السوداء! هل يمكنك مساعدته في الوصول اليها دون أن يسقط في الماء؟!
+      courseD_iceage_loops8_2019: هل يمكنك تعديل القطع البرمجية الموجودة في مساحة العمل حتى تمنع ابن بطوطة من السقوط في الماء؟
+      courseD_iceage_loops9_2019: يبدو أن ابن بطوطة لا يعلم أنك تستطيع مساعدته في الوصول الى السوسنة السوداء حتى وإن كانت بعيدة جدا! .. أنت حتما تستطيع ذلك! استخدم حلقة التكرار لجعل المهمة سهلة!
+      #End of Course D- Loops in Ice Age
+
+
+
+      #Course D
+      #Lesson 16: Binary Images with Artist
+      courseD_artist_binary1: لقد زودناك بشبكة "بيكسلات" التي يمكنك أن تستعرضها وتنتج
+        تصميمات عن طريق تفعيل بعض المربعات فقط.استخدم المربعات البرمجية أدناه لتمكين
+        الفنان من رسم "01010101" في النظام الثنائي في الطابور الأول.
+      courseD_artist_binary1_2018: لقد زودناك بشبكة "بيكسلات" التي يمكنك أن تستعرضها
+        وتنتج تصميمات عن طريق تفعيل بعض المربعات فقط.استخدم المربعات البرمجية أدناه
+        لتمكين الفنان من رسم "01010101" في النظام الثنائي في الطابور الأول.
+      courseD_artist_binary1_2019: لقد زودناك بشبكة من نقاط البيكسل التي يمكنك أن تجوبها
+        وتنتج تصميمات عن طريق تفعيل بعض المربعات. استخدم القطع البرمجية الموجودة في صندوق الأدوات
+        لتمكن الفنان من رسم "01010101" باستخدام نظام الرموز الثنائية (1/0) في الصف الأول.
+      courseD_artist_binary2: هنا دالة التي تأخذ سلسلة ثنائية مؤلفة من 1 و 0 وتزود
+        الفنان بالتعليمات لاتباعها من اليسار لليمين، ومن الأعلى للأسفل.\ \ \يقوم
+        الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0. \ \
+        \شغل هذه التعليمات البرمجية لتشاهد استخدام الفنان للنظام الثنائي لرسم هذا
+        النمط.
+      courseD_artist_binary2_2018: هنا دالة التي تأخذ سلسلة ثنائية مؤلفة من 1 و 0
+        وتزود الفنان بالتعليمات لاتباعها من اليسار لليمين، ومن الأعلى للأسفل.\ \
+        \يقوم الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0.
+        \ \ \شغل هذه التعليمات البرمجية لتشاهد استخدام الفنان للنظام الثنائي
+        لرسم هذا النمط.
+      courseD_artist_binary2_2019: |-
+        إليك وظيفة تأخذ سلسلة رموز ثنائية مؤلفة من 1 و 0 وتزود الفنان بالتعليمات التي يجب أن يتبعها من اليسار لليمين، ومن الأعلى للأسفل.
+
+        سيقوم الفنان بملء المربعات عندما يرى رقم 1 ويهمل المربع عندما يرى الرقم 0.
+
+        شغل الكود لتشاهد استخدام الفنان لنظام الرموز الثنائي لرسم هذا النمط.
+      #added
+      courseD_artist_binary3_2019: أي من سلاسل الرموز الثنائية الموجودة في صندوق العمل يمكنك تكرارها 8 مرات لرسم هذه الصورة؟
+      courseD_artist_binary4_2019: هل يمكنك أن ترسم هذا النمط عن طريق تكرار ثلاث خانات من الرموز الثائية (0 و 1) فقط؟
+      courseD_artist_binary5_2019: كل سلسلة من الرموز الثنائية الموجودة في مساحة العمل تمثل صفا واحدًا من هذه الصورة. هل يمكنك إعادة ترتيبها بحيث ترسم وجهًا باسمًا بدلا من وجه عابس؟
+      courseD_artist_binary6_2019: أي سلسلة رموز ثنائية مكونة من 6 خانات، عند تكرارها 11 مرة، سوف ترسم هذه الصورة؟
+      courseD_artist_binary7_2019: ما هي أقصر سلسلة رموز ثنائية يمكنك تكرارها لرسم هذه الصورة؟
+      courseD_artist_binary8_2019: أكمل الكود لإنشاء هذا الرسم.
+      courseD_artist_binary9_2019: |-
+        إليك لوح رسم عالي الدقة للرسم عليه حجمه 16 بيِكسِل × 16 بيكسِل!
+        انظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
+      courseD_artist_binary10_2019: |-
+        إليك لوح رسم عالي الدقة للرسم عليه حجمه 16 بيِكسِل × 16 بيكسِل!
+        انظر ماذا يحدث عندما نبدع في استخدام البِت (bit)!
+      #End of Lesson 16
+
+
+
 
       #Express
       #Lesson 14: Maze Until Loops
@@ -3522,41 +3730,57 @@ ar-SA:
       courseD_scrat_ramp5: تجنب الثلوج المكسرة!
       courseD_scrat_ramp6: ساعد الطائر سكرات بالوصول إلى البلوط باستخدام الحلقة!
       courseD_scrat_ramp8: "تحدي: استخدم ما تعلمته لحصول سكرات على جوزة البلوط!"
-      courseE_aboutme_1: "![](https://images.code.org/93e1c04857ff781bb5c4cc76b15ed563-image-1557179820861.png)
-        _\"مرحبا بالعالم! اسمي ريكي ، وإليك بعض الأشياء التي أود مشاركتها عني!\"_\n\nلعبة
-        حرّة: ريكي تستخدم مختبر العفاريت ليصنع _ملصق تفاعلي_ عن نفسها يمكّنها من
-        مشاركته على الانترنت. \n\nريكي قدمت لك إذناً لترى ملصقها. ويمكنك تعديل أكوادها
-        أيضاً! \n\nإلعب بملصق ريكي واكتب أكواداً لبعض الوقت، ثم انقر على إنهاء."
-      courseE_aboutme_2: "![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)
-        _\"هنا ريكي! سأساعدك في صنع ملصق رائع. أولاً، انقر على علامة التبويب Costumes!\"_\n\n1.
-        \ انقر على علامة التبويبCostumes في أعلى يسار الشاشة (بجانب علامة التبويب
-        Code). \n2.  أعدّل زيّ البداية، أو أضف زيّ جديد يعجبك. \n3.  استبدل زيّ
-        المخلوق الفضائي بزيّ خاص بك في الكود البرمجي بالأسفل.\n4.  انقر Run لترى
-        المظهر الجديد للمخلوق الفضائي!"
-      courseE_aboutme_3: "![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)_\"\"قل
-        شيئًا عن نفسك ، وتأكد من أنه آمن!\"_\n\nاستخدم <xml><block type=\"gamelab_spriteClicked\"
-        block-text=\"the when sprite clicked event block\"></block></xml> و <xml><block
-        type=\"gamelab_printText\" block-text=\"the print text block\"></block></xml>
-        (في فئة القطعة البرمجية`World`) لتشارك معلوماتك عند النقر على المخلوق الفضائي!
-        \n\nتأكد من أن المعلومات التي تشاركها آمنة.\n\n  \n\n#### أمثلة على
-        معلومات آمنة ومعلومات غير آمنة\n\n| آمنة            | غير آمنة                         |\n|
-        --------------- | -------------------------------- |\n| الإسم الأول     |
-        الإسم كاملاً                     |\n| الأشياء المفضلة | عنوان المنزل                     |\n|
-        آراء محترمة     | رقم التلفون أو البريد الإلكتروني |"
+
+      #Course E
+      #Lesson 9: About Me with Sprite Lab
+      courseE_aboutme_1: |-
+        ![](https://images.code.org/93e1c04857ff781bb5c4cc76b15ed563-image-1557179820861.png)
+        مرحبا أيها العالم الرائع! اسمي ريكي، وهذه بعض الأشياء التي أود مشاركتها عني!
+        اللعب الحر.. تستخدم ريكي مختبر الكائنات لتصنع "ملصقا تفاعليا" عن نفسها يمكنها مشاركته على الانترنت.
+
+        لقد سمحت لك ريكي أن ترى ملصقها وتعدل الكود الذي كتبته أيضاً!
+        استكشف ملصق ريكي وجرب الكود الخاص بها لبعض الوقت، ثم اضغط زر "إنهاء".
+      courseE_aboutme_2: |-
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)
+        أنا ريكي! سأساعدك في صنع ملصق رائع. أولاً، انقر علامة التبويب "الأزياء".
+        1. انقر علامة التبويب "الأزياء" في أعلى يسار الشاشة بجانب علامة تبويب "البرمجة".
+        2. عدل زي البداية أو أضف أي زي جديد تفضله.
+        3. عدل زي الكائن ليصبح الزي الذي اخترته أو أضفته في الكود الموجود في مساحة العمل.
+        4. اضغط زر "تشغيل ▶" لترى كيف يبدو الكائن الآن.
+
+      courseE_aboutme_3: |-
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png)
+        قل شيئًا عن نفسك، وتأكد من أنه آمن. استخدم القطع البرمجية من فئة "العالم" لتشارك معلومات عن نفسك عند نقر كائنك:
+        <xml><block type="gamelab_spriteClicked" block-text="the when sprite clicked event block"></block></xml>
+        و <xml><block type="gamelab_printText" block-text="the print text block"></block></xml>
+
+        من الأمثلة على المعلومات الآمنة.. اسمك الأول وأما المعلومات غير الآمنة.. عنوان المنزل.
+
       courseE_aboutme_4: |-
-        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"اضافة مخلوقات فضائية في الملصق الخاص بك! لاتنسَ منحهم ملابس!"_
+        ![](https://images.code.org/2bae4bc7c7d59fac0cd4b1370d3c4a11-image-1557179992653.png) _"أضف كائنات جديدة الى ملصقك.. لاتنسَ منحهم ملابس أيضا"_
 
-        اضف على الأقل اثنان مخلوقات فضائية في الملصق الخاص بك. اعطِ كل مخلوق زيّ مميز!
+        أضف على الأقل كائنين جديدين الى ملصقك. وأعطِ كل كائن زياّ مميزا!
       courseE_aboutme_5: |-
-        ![](https://images.code.org/0c3ec1da3493c3e10f5ec714ef1670e3-image-1557185359875.png) _"أخبر العالم أكثر عن نفسك من خلال المخلوقات الفضائية الجديدة الخاصة بك!"_
+        ![](https://images.code.org/0c3ec1da3493c3e10f5ec714ef1670e3-image-1557185359875.png) _"أخبر العالم أكثر عن نفسك من خلال الكائنات الجديدة الخاصة بك"_
 
-        اجعل المخلوقات الفضائية الأخرى تطبع المعلومات عند النقر عليها. تأكد من أن ماتشاركه آمن!
-      courseE_aboutme_6: "![](https://images.code.org/4e9c4465463d0c061b2b47b23d5817ca-image-1557185863600.png)
-        _\"وااو! ملصقك أصبح تقريباً رائع مثل ملصقي! تقريباً. \U0001F609\"_\n\nمن يملك
-        العالم؟ إنه لك! \n\nامضِ قدماً! فيما يلي بعض الأفكار لجعل ملصقك يبدوا أفضل:\n\n\\-اضف
-        خلفية! اختر خلفية تناسب الملصق.\n\\-اضف سلوكيات! اجعل كل مخلوق فضائي يتفاعل
-        بشكل مختلف عند النقر عليه.\n\\-اضف أحداث أكثر! استخدم القطع البرمجية الأخرى
-        في فئة\\`Events."
+        اجعل الكائنات الأخرى تطبع المعلومات عند نقرها.. تأكد من أن ما تشاركه آمن!
+      courseE_aboutme_6: |-
+        ![](https://images.code.org/4e9c4465463d0c061b2b47b23d5817ca-image-1557185863600.png)
+        "وااو! لقد أصبح ملصقك رائعا ومثل ملصقي تقريباً!
+        لمن هذا العالم الافتراضي؟ إنه لك!
+        واصل إبداعك.. إليك بعض الأفكار لجعل ملصقك يبدوا أفضل:
+        - أضف خلفية! اختر خلفية تناسب ملصقك.
+        -أضف سلوكيات مختلفة! اجعل كل كائن يتفاعل بطريقة مختلفة عند نقره.
+        -أضف أحداث أكثر! استخدم القطع البرمجية الأخرى في فئة "الأحداث".
+      #End of Lesson
+
+
+
+
+
+
+
+
       courseE_artist_concept1: "قم بإنشاء هذه الصورة ثانية. \n\n-   الأشكال السداسية
         لها جوانب قياس 50 بيكسل\n-   المسافة الفاصلة بين الأشكال السداسية 100 بيكسل\n-
         \  سمك قلم الأشكال السداسية هو 1 بيكسل، 4 بيكسل و 8 بيكسل."
@@ -3627,7 +3851,7 @@ ar-SA:
 
         قمنا بتحريك المربعات البرمجية اللازمة لرسم مربع في الدالة يسمى "ارسم مربعًا". هذه المرة، استخدم دالة "ارسم مربعًا" لإنشاء النظارات.
 
-      courseE_artist_functions2_2019: إليك وظيفة جديدة "ارسم مربعا"، استخدمها لإنهاء رسم النظارة. انتبه أن المربعات تبعد 75 بيكسل عن بعضها.
+      courseE_artist_functions2_2019: إليك وظيفة جديدة "رسم مربع"، استخدمها لإنهاء رسم النظارة. انتبه أن المربعات تبعد 75 بيكسل عن بعضها.
 
 
       courseE_artist_functions2_copy: |-
@@ -3650,9 +3874,7 @@ ar-SA:
         اكتب وظيفة لرسم هذه النجمة.
 
 
-        -يبلغ طول كل ذراع في النجمة 25 بيكسل.
-        -يجب أن تستدير بزاوية مقدارها 45 درجة حتى تستطيع رسم 8 أذرع.
-        -لا بأس أن تعيد رسم الذراع ذهابا وإيابا.
+        يبلغ طول كل ذراع في النجمة 25 بيكسل.. يجب أن تستدير بزاوية مقدارها 45 درجة حتى تستطيع رسم 8 أذرع.. لا بأس أن تعيد رسم الذراع ذهابا وإيابا.
 
       courseE_artist_functions4: |-
         بما أنك تستطيع الآن رسم نجمة، حاول رسم أربع نجمات!
@@ -3661,11 +3883,9 @@ ar-SA:
         -   لف 45 درجة بين الفروع
         -   اقفز 100 بيكسل بين كل نجمة وأخرى
       courseE_artist_functions4_2019: |-
-        متى يمكن أن يكون رسم ثلاث نجوم أصعب من رسم أربع نجوم؟.. عندما تحتاج أن تقفز فوق القمر أيضا!
+        متى يمكن أن يكون رسم ثلاث نجوم أصعب من رسم أربع نجوم؟.. عندما تحتاج أن تقفز فوق القمر أيضا! لإنجاز هذه المرحلة، كل ما عليك فعله هو رسم النجوم الثلاثة.
 
-        لإنجاز هذه المرحلة، كل ما عليك فعله هو رسم النجوم الثلاثة.
-
-        إن مقدار القفزة بين النجمة الأولى والثانية هي 200 بيكسل.
+        إن مقدار القفزة بين النجمة الأولى والثانية هي 200 بيكسل،
         ومقدار القفزة بين النجمة الثانية والثالثة هي 100 بيكسل.
       courseE_artist_functions5: |-
         متى يكون رسم ثلاث نجمات أصعب من رسم 4 نجمات؟ عندما تكون ملزمًا بالقفز فوق القمر!
@@ -3675,7 +3895,7 @@ ar-SA:
         متى يمكن أن يكون رسم ثلاث نجوم أصعب من رسم أربع نجوم؟ عندما تكون ملزمًا بالقفز فوق القمر أيضا!
 
         لإنجاز هذه المرحلة، كل ما عليك فعله هو رسم النجوم الثلاثة.
-        ---
+
         إن مقدار القفزة بين النجمة الأولى والثانية هي 200 بيكسل.
         ومقدار القفزة بين النجمة الثانية الثالثة هي 100 بيكسل.
 
@@ -3684,10 +3904,8 @@ ar-SA:
 
         اصنع هذه النافذة برسم مربع، ثم لف 90 درجة قبل رسم أخرى، وهكذا دواليك.
       courseE_artist_functions7_2019: |-
-        إن رسم هذه النوافذ كل على حدى سيكون مرهقا.
+        إن رسم هذه النوافذ كل على حدى سيكون مرهقا. حاول إنجاز هذه المرحلة عن طريق كتابة وظيفة "ارسم نافذة" واستدعائها خمس مرات. انتبه الى الباب أثناء ذلك.
 
-        حاول إنجاز هذه المرحلة عن طريق كتابة وظيفة "ارسم نافذة" واستدعائها خمس مرات. انتبه الى الباب أثناء ذلك.
-        ---
         - كل نافذة مصنوعة من أربع مربعات طول جانب كل منها 25 بيكسل.
         -   النوافذ العلوية تبعد 100 بيكسل عن بعضها البعض.
         -   النوافذ السفلية تقع تحت المجموعة العلوية على مسافة 150 بيكسل.
@@ -3698,8 +3916,8 @@ ar-SA:
       courseE_artist_functions8b_2019: |-
         _"أنا زومبي.. أشعررر.. بالدوااار."_
 
-        استدعِ وظيفة "ارسم مربعا" داخل وظيفة "ارسم خطا من المربعات" لتجعل الحل أسهل!
-        ---
+        استدعِ وظيفة "رسم مربع" داخل وظيفة "ارسم خطا من المربعات" لتجعل الحل أسهل!
+
         - تبعد المربعات 50 بيكسل عن بعضها.
       courseE_artist_functions8c_2019: أضف وظيفة ترسم هذه المجموعة المتداخلة من المربعات باستخدام وظيفة "ارسم خطا من المربعات".
       courseE_artist_functions8: |-
@@ -3849,9 +4067,7 @@ ar-SA:
       courseE_farmer_functions2ba_2019: |-
         _"أشعر بنشاط كبير."_
 
-        توجد أكثر من حبة قرع في المربع الواحد. انظر الى تعريف كل وظيفة لتعرف كيف تستخدمها.
-
-        كل برعم سيكبر إلى حبة ذرة واحدة أو لا شيء.
+        توجد أكثر من حبة قرع في المربع الواحد. انظر الى تعريف كل وظيفة لتعرف كيف تستخدمها. كل برعم سيكبر إلى حبة ذرة واحدة أو لا شيء.
       courseE_farmer_functions3c_2019: |-
         رائع! جرب أن تستخدم الوظيفة على مسار أطول هذه المرة.
       courseE_farmer_functions3c1_2019: |-
@@ -3889,6 +4105,12 @@ ar-SA:
         مما يعني أنك ستستخدم التعليمات البرمجية لكي تتصفح أكثر من مرة للوصول إلى المكان
         الذي ترغب في الذهاب إليه. \n\nهل يمكنك أن تعرف ما تحتاج عمله؟"
       courseE_farmer_functions9b: أمعن النظر في هذه المرحلة. هل يمكنك معرفة النمط؟
+
+
+
+
+      #Course E
+      #Lesson 4: Conditionals with the Farmer
       courseE_farmer_ramp11a: "يا لعجبي! هذه الكومة كبيرة جدًا يصعب التكهن عن مقدار
         التراب الذي تحتويه.\n\n  \n\nلقد أضفنا مربعًا برمجيًا جديدًا إلى مربع الأدوات
         يسمى مربع برمجي \"طالما هنالك كومة\". استخدم هذا المربع لإزالة التراب بينما
@@ -3897,37 +4119,41 @@ ar-SA:
         مقدار التراب الذي تحتويه.\n\n  \n\nلقد أضفنا مربعًا برمجيًا جديدًا إلى
         مربع الأدوات يسمى مربع برمجي \"طالما هنالك كومة\". استخدم هذا المربع لإزالة
         التراب بينما لا زال هناك بعض التراب للغَرْف. "
-      courseE_farmer_ramp11a_2019: "يا لعجبي! هذه الكومة كبيرة جدًا يصعب التكهن عن
-        مقدار التراب الذي تحتويه.\n\n  \n\nلقد أضفنا مربعًا برمجيًا جديدًا إلى
-        مربع الأدوات يسمى مربع برمجي \"طالما هنالك كومة\". استخدم هذا المربع لإزالة
-        التراب بينما لا زال هناك بعض التراب للغَرْف. "
+      courseE_farmer_ramp11a_2019: |-
+        يا لعجبي! هذه الكومة كبيرة جدًا لدرجة أنه يصعب التكهن بكمية التراب الذي تحتويه.
+
+        لقد أضفنا قطعة برمجية جديدًة إلى صندوق الأدوات تسمى "التكرار طالما توجد كومة".
+        استخدم هذه القطعة لإزالة التراب بينما لا زال هناك بعض التراب للغَرْف.
+
       courseE_farmer_ramp11b: لنحاول ذلك مجدداً، لكن هذه المرة بأكوام أكثر!
       courseE_farmer_ramp11b_2018: لنحاول ذلك مجدداً، لكن هذه المرة بأكوام أكثر!
-      courseE_farmer_ramp11b_2019: لنحاول ذلك مجدداً، لكن هذه المرة بأكوام أكثر!
+      courseE_farmer_ramp11b_2019: لنحاول ذلك مجدداً، لكن بأكوام أكثر هذه المرة!
       courseE_farmer_ramp12_forswap: إجمع كل الخس.
       courseE_farmer_ramp12_forswap_2018: إجمع كل الخس.
-      courseE_farmer_ramp12_forswap_2019: إجمع كل الخس.
+      courseE_farmer_ramp12_forswap_2019: استخدم الحلقات المتداخلة لجمع كل الخس وإنجاز هذه المرحلة.
       courseE_farmer_ramp12b: يجب على المزارع الآن جمع كل المحصول . إستخدم `طالما
         يوجد خس` داخل حلقة `كرر` لجمع كافة محصول الخس!
       courseE_farmer_ramp12b_2018: يجب على المزارع الآن جمع كل المحصول . إستخدم `طالما
         يوجد خس` داخل حلقة `كرر` لجمع كافة محصول الخس!
-      courseE_farmer_ramp12b_2019: يجب على المزارع الآن جمع كل المحصول . إستخدم `طالما
-        يوجد خس` داخل حلقة `كرر` لجمع كافة محصول الخس!
+      courseE_farmer_ramp12b_2019: يجب على المزارعة الآن جمع كل محصول الخس. إستخدم حلقة "التكرار طالما يوجد خس"
+        بوضعها داخل حلقة "التكرار" لجمع كل محصول الخس!
       courseE_farmer_ramp12c: "الخس موجود الآن فقط في نهاية المسار./\nانتقل بالمسار
         حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه. "
       courseE_farmer_ramp12c_2018: "الخس موجود الآن فقط في نهاية المسار./\nانتقل بالمسار
         حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه. "
-      courseE_farmer_ramp12c_2019: "الخس موجود الآن فقط في نهاية المسار./\nانتقل بالمسار
-        حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه. "
+      courseE_farmer_ramp12c_2019: |-
+        الخس موجود الآن في نهاية المسار فقط.
+        اتبع المسار حتى تصل إلى حبة الخس، ثم اجمعه كله.
+
       courseE_farmer_ramp12d: |-
-        الخس موجود الآن فقط في نهاية المسار./
-        انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
+        الخس موجود الآن في نهاية المسار فقط.
+        اتبع المسار حتى تصل إلى حبة الخس، ثم اجمعه كله.
       courseE_farmer_ramp12d_2018: |-
         الخس موجود الآن فقط في نهاية المسار./
         انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
       courseE_farmer_ramp12d_2019: |-
-        الخس موجود الآن فقط في نهاية المسار./
-        انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
+        الخس منتشر في أرجاء الحديقة.
+        اتبع كل مسار حتى تصل إلى حبة الخس، ثم قم بجمعها كلها حتى تنتهي.
       courseE_farmer_ramp12e: |-
         الخس موجود الآن فقط في نهاية المسار./
         انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
@@ -3935,14 +4161,26 @@ ar-SA:
         الخس موجود الآن فقط في نهاية المسار./
         انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
       courseE_farmer_ramp12e_2019: |-
-        الخس موجود الآن فقط في نهاية المسار./
-        انتقل بالمسار حتى تصل إلى رأس خس، ثم استمر لإلتقاطه بينما بقي قليلاً منه.
+        الخس منتشر في أرجاء الحديقة.
+        اتبع كل مسار حتى تصل إلى حبة الخس، ثم قم بجمعها كلها حتى تنتهي.
+      courseE_farmer_ramp12f_2019:
+        تحدي الأذكياء.. الطريقة الوحيدة لجمع كل المحصول هي بالتحرك الى الأمام حتى تصل الى الخس، ثم أن تنعطف يسارا "إذا" كان هنالك طريق الى اليسار وإلا انعطف الى اليمين.
       courseE_farmer_ramp12g: تحرك للأمام حتى تصل إلى الخس، ثم لف يسارًا إذا كان
         هناك مسارًا إلى اليسار. وإلا، لف لليمين.
       courseE_farmer_ramp12g_2018: تحرك للأمام حتى تصل إلى الخس، ثم لف يسارًا إذا
         كان هناك مسارًا إلى اليسار. وإلا، لف لليمين.
-      courseE_farmer_ramp12g_2019: تحرك للأمام حتى تصل إلى الخس، ثم لف يسارًا إذا
-        كان هناك مسارًا إلى اليسار. وإلا، لف لليمين.
+      courseE_farmer_ramp12g_2019: تحرك الى الأمام حتى تصل إلى الخس، ثم انعطف يسارًا "إذا" كان هناك طريق إلى اليسار. وإلا، انعطف لليمين.
+      #End of lesson 4
+
+
+
+
+
+
+
+
+
+
       courseE_playLab_challenge1: "_السناجب مرعوبة لمشاهدة أن الديناصور قدم
         إلى المدينة! هل يستطيع الفارس الشجاع المحافظة عليهم من الذعر؟_\n\nالقواعد:\n\n1.
         \ _لمس السناجب يكسبك نقاط._\n2.  _لمس الديناصور يأخذ منك نقاط_\n\nهنا لعبة
@@ -3960,7 +4198,7 @@ ar-SA:
       courseE_playLab_scaffold3: |-
         لنضيف شخصيات أخرى إلى لعبتك!
 
-        استخدم مربع برمجي "ممثل معد" لإضافة شخصيات أخرى ثم حرك الهدف لتكملة اللغز.
+        استخدم مربع برمجي "تعيين الممثل" لإضافة شخصيات أخرى ثم حرك الهدف لتكملة اللغز.
       courseE_playLab_scaffold4: |-
         وجود شخصيات عديدة وتحريك الممثلين بداية عظيمة للعبة، لكننا نحتاج المزيد لنجعل هذا العمل يبدو كلعبة حقيقية. لنقوم بإضافة العلامات!
 
@@ -4040,7 +4278,7 @@ ar-SA:
         إصدار أولي" للحصول على المركز المتلاشي.(تم إنشاء نمط الشكل السداسي هذا باستخدام
         دوران 60 درجة.)'
       courseF_artist_for9_2019: |-
-        الإلهام.. استخدم متغير "counter" داخل القطعة البرمجية "تعيين alpha" لرسم شكل مركزه باهت.
+        الإلهام.. استخدم متغير "counter" داخل القطعة البرمجية "تغيير الشفافية لقيمة" لرسم شكل مركزه باهت.
 
         لقد تم رسم هذا النمط من الأشكال السداسية باستخدام زاوية دوران قياسها 60 درجة.
 
@@ -4160,13 +4398,13 @@ ar-SA:
         بجانب بعضها البعض. يمكنك أن تضع الكود الذي كتبته في المرحلة السابقة داخل الحلقة الجديدة.
 
       courseF_artist_variables3: قبل أن تصبح الأشياء أكثر غموضاً، يمكنك تحريك طول
-        يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://static.edraak.org/code-img/L19-L6.jpg)
       courseF_artist_variables3_2018: قبل أن تصبح الأشياء أكثر غموضاً، يمكنك تحريك
-        طول يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        طول يبلغ 50  في المتغير، لذا نحن يمكنا استخدامه في الألغاز القادمة القليلة؟![expandable](https://static.edraak.org/code-img/L19-L6.jpg)
       courseF_artist_variables3_2019: |-
         قبل أن تصبح الأشياء أكثر غموضاً، هل يمكنك إضافة متغير اسمه "length" وقيمته 50 الى الكود الموجود في مساحة العمل حتى نستخدمه في المراحل القادمة؟
 
-        ![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)
+        ![expandable](https://static.edraak.org/code-img/L19-L6.jpg)
       courseF_artist_variables4: استخدم الآن متغير "الطول" من أجل جعل الفنان يقفز
         إلى الأمام، وخفضه حسب عدد نقاط بسكل "الطول" ما بين المثلثات.
       courseF_artist_variables4_2018: استخدم الآن متغير "الطول" من أجل جعل الفنان
@@ -4195,7 +4433,7 @@ ar-SA:
       courseF_artist_variables7_2019: دعونا نبدأ هذا المستوى برسم مثلث بحيث يكون طول كل جانب
         150 بيكسل. تأكد من استخدام المتغير "length" وحلقة التكرار.
       courseF_artist_variables8_2019: |-
-        أعد كتابة الكود لرسم المثلث من المرحلة الأخيرة، لكن هذه المرة استخدم القطعة البرمجية "تعيين length الى" من أجل إعادة تعيين قيمة المتغير "length" الى "length أكثر من 10" في نهاية كل حلقة تكرار. يبلغ طول كل جانب من المثلث 150 بيكسل.
+        أعد كتابة الكود لرسم المثلث من المرحلة الأخيرة، لكن هذه المرة استخدم القطعة البرمجية "تغيير قيمة length الى" من أجل إعادة تعيين قيمة المتغير "length" الى "length أكثر من 10" في نهاية كل حلقة تكرار. يبلغ طول كل جانب من المثلث 150 بيكسل.
         <xml>
         <block type="variables_set" inline="false">
                                 <title name="VAR">length</title>
@@ -4384,14 +4622,14 @@ ar-SA:
         شيء لا يصدقه عقل!توجد بعض الإجراءات القليلة التي سترغب في "تكرار" أوقات "العداد".
       courseF_bee_for_challenge1_2018: يمكنك استخدام "الحلقة لـ" لتجميع كل رحيق العسل.
         شيء لا يصدقه عقل!توجد بعض الإجراءات القليلة التي سترغب في "تكرار" أوقات "العداد".
-      courseF_bee_for_challenge1_2019: يمكنك استخدام "الحلقة لـ" لتجميع كل رحيق العسل.
-        شيء لا يصدقه عقل!توجد بعض الإجراءات القليلة التي سترغب في "تكرار" أوقات "العداد".
+      courseF_bee_for_challenge1_2019: يمكنك استخدام حلقة "التكرار المحدد" لجمع كل رحيق العسل.
+        سترغب باستخدام بعض القطع البرمجية من فئة "الإجراءات" مع حلقة التكرار والمتغير counter.
       courseF_bee_for_challenge2: قم بحل هذا اللغز بأقل عدد ممكن من المربعات البرمجية
         بقدر الإمكان
       courseF_bee_for_challenge2_2018: قم بحل هذا اللغز بأقل عدد ممكن من المربعات
         البرمجية بقدر الإمكان
-      courseF_bee_for_challenge2_2019: قم بحل هذا اللغز بأقل عدد ممكن من المربعات
-        البرمجية بقدر الإمكان
+      courseF_bee_for_challenge2_2019: قم بحل هذه المرحلة بأقل عدد ممكن من القطع
+        البرمجية.
       #End_of_Express_Lesson22
 
 
@@ -4622,52 +4860,75 @@ ar-SA:
         إلى اللون العشوائي ما بين كل حركة.
       ramp_artist_loops2_2018: اضف بعض الجمال من خلال تكرار هذه الخطوة خمس مرات، وانتقل
         إلى اللون العشوائي ما بين كل حركة.
-      ramp_artist_loops2_2019: اضف بعض الجمال من خلال تكرار هذه الخطوة خمس مرات، وانتقل
+      ramp_artist_loops2_2019: أضف بعض الجمال من خلال تكرار هذه الخطوة خمس مرات، وانتقل
         إلى اللون العشوائي ما بين كل حركة.
       ramp_artist_loops3: قم برسم السطر الملون عدد 5 مرات مرة أخرى، هذا المرة باستخدام
         الحلقة "تكرار".
       ramp_artist_loops3_2018: قم برسم السطر الملون عدد 5 مرات مرة أخرى، هذا المرة
         باستخدام الحلقة "تكرار".
-      ramp_artist_loops3_2019: قم برسم السطر الملون عدد 5 مرات مرة أخرى، هذا المرة
-        باستخدام الحلقة "تكرار".
+      ramp_artist_loops3_2019: قم برسم السطر الملون 5 مرات مرة أخرى، هذه المرة
+        باستخدام حلقة "التكرار".
       ramp_artist_loops4: ماذا يحدث عند قيامك بإضافة دوران لليمين مقداره 72 درجة بعد
         وضع كل شيء  آخر داخل حلقتك؟
       ramp_artist_loops4_2018: ماذا يحدث عند قيامك بإضافة دوران لليمين مقداره 72 درجة
         بعد وضع كل شيء  آخر داخل حلقتك؟
-      ramp_artist_loops4_2019: يمكنك انشاء هذه النجمة من خلال جمل تكرارية متسلسلة
-        من القطع البرمجية "تحرك للأمام" و "انعطف يمينًا بمقدار 144 درجة".
+      ramp_artist_loops4_2019: يمكنك رسم هذه النجمة من خلال الاستخدام المتسلسل للقطع البرمجية "التقدم الى الأمام" و "اتجه الى اليمين" بمقدار 144 درجة.
       ramp_artist_loops5: تتأكد الحلقات من جعل كتابة التعليمات البرمجية أكثر سهولة!!استخدم
         الحلقات لرسم هذا السلم.-   يبلغ طول كل سلم 50 بكسل وارتفاعه 50 بكسل-   ستحتاج
         إلى الدوران بمقدار 90 درجة في كل اتجاه
       ramp_artist_loops5_2018: تتأكد الحلقات من جعل كتابة التعليمات البرمجية أكثر
         سهولة!!استخدم الحلقات لرسم هذا السلم.-   يبلغ طول كل سلم 50 بكسل وارتفاعه
         50 بكسل-   ستحتاج إلى الدوران بمقدار 90 درجة في كل اتجاه
-      ramp_artist_loops5_2019: تتأكد الحلقات من جعل كتابة التعليمات البرمجية أكثر
-        سهولة!!استخدم الحلقات لرسم هذا السلم.-   يبلغ طول كل سلم 50 بكسل وارتفاعه
-        50 بكسل-   ستحتاج إلى الدوران بمقدار 90 درجة في كل اتجاه
+      ramp_artist_loops5_2019: |-
+        إن استخدام حلقات التكرار يجعل كتابة الكود أكثر سهولة!! استخدم حلقات التكرار لرسم هذا السلم:
+        - يبلغ طول كل درجة 50 بيكسل وارتفاعها 50 بيكسل أيضا.
+        - ستحتاج إلى الدوران بمقدار 90 درجة في كل اتجاه.
+
       ramp_artist_loops6: هذا السلم بحجم أكبر بكثير، لكن ذلك سيستغرق نفس عدد التعليمات
         البرمجية كاللغز السابق! قم بتثبيت هذه الحلقة لإكمال اللغز.
       ramp_artist_loops6_2018: هذا السلم بحجم أكبر بكثير، لكن ذلك سيستغرق نفس عدد
         التعليمات البرمجية كاللغز السابق! قم بتثبيت هذه الحلقة لإكمال اللغز.
-      ramp_artist_loops6_2019: هذا السلم بحجم أكبر بكثير، لكن ذلك سيستغرق نفس عدد
-        التعليمات البرمجية كاللغز السابق! قم بتثبيت هذه الحلقة لإكمال اللغز.
+
+      ramp_artist_loops6_2019: حجم هذا السلم أكبر بكثير من المرحلة السابقة، لكنك ستحتاج نفس العدد من
+        القطع البرمجية! قم بتصحيح الخلل في حلقة التكرار الموجودة في مساحة العمل لتنجز هذه المرحلة.
+
       ramp_artist_loops7: ابحث عن هذا النمط واجعل هذه التعليمات البرمجية أكثر قصراً
         باستخدام الحلقات!
       ramp_artist_loops7_2018: ابحث عن هذا النمط واجعل هذه التعليمات البرمجية أكثر
         قصراً باستخدام الحلقات!
-      ramp_artist_loops7_2019: ابحث عن هذا النمط واجعل هذه التعليمات البرمجية أكثر
-        قصراً باستخدام الحلقات!
+      ramp_artist_loops7_2019: ابحث عن هذا النمط واجعل هذا الكود أقصر باستخدام حلقات التكرار!
       ramp_artist_loops8: "تحدي:  ابحث عن النمط واجعل هذه التعليمات البرمجية أكثر
         قصراً باستخدام الحلقات!"
       ramp_artist_loops8_2018: "تحدي:  ابحث عن النمط واجعل هذه التعليمات البرمجية
         أكثر قصراً باستخدام الحلقات!"
-      ramp_artist_loops8_2019: "تحدي:  ابحث عن النمط واجعل هذه التعليمات البرمجية
-        أكثر قصراً باستخدام الحلقات!"
+      ramp_artist_loops8_2019: "تحدي.. ابحث عن النمط واجعل هذا الكود أقصر باستخدام حلقات التكرار!"
       ramp_artist_loops9: قم بحل هذا اللغز عن طريق رسم مربع بجوانب مقدارها 200 بكسل.
       ramp_artist_loops9_2018: قم بحل هذا اللغز عن طريق رسم مربع بجوانب مقدارها 200
         بكسل.
-      ramp_artist_loops9_2019: قم بحل هذا اللغز عن طريق رسم مربع بجوانب مقدارها 200
-        بكسل.
+      ramp_artist_loops9_2019: قم بإنجاز هذه المرحلة عن طريق رسم مربع بجوانب أطوالها 200
+        بيكسل.
+
+
+
+
+      #Course F
+      #Simulating Experiments
+      simstarter: |-
+        # جمع البيانات
+
+        شغل هذه المحاكاة 5 مرات. في كل مرة، استخدم دليل نشاط جمع البيانات لتسجيل:
+        - كم تفاحة جمع الفيل؟
+        - كم تفاحة جمع فرس النهر؟
+        - كم الوقت الذي استغرقه جمع كل التفاح؟
+
+      simconfig: |-
+        # عدل وتوقع
+
+        اختر أحد المتغيرات التي تتحكم بهذه المحاكاة، قم بتعديله وتوقع كيف سيؤثر ذلك على النتيجة.
+        بعد أن تدون توقعك، شغل المحاكاة 5 مرات وسجل ملاحاظاتك. هل كان توقعك صحيحا؟
+
+
+
 
       #Artist-Hour of Code
       #Start of Standalone Artist

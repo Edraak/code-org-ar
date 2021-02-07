@@ -89,7 +89,7 @@ ar:
   courses_page:
     title_student: تعلّم على كود استوديو
     title_teacher: تعليم علوم الكمبيوتر
-  unplugged_activity: نشاط غير موصول
+  unplugged_activity: نشاط غير برمجي
   of: من
   more: أكثر
   less: أقل
@@ -1265,3 +1265,6 @@ ar:
       على اطلاع بتقدُّم ابنك ومشاريعه!"
     link_your_email: اربط بريدك الإلكتروني
     not_now: ليس الآن
+  page_not_found_header: '٤٠٤'
+  page_not_found_description: 'لم نجد الصفحة التي تود الوصول إليها.'
+  page_not_found_button: 'إنتقل للصفحة الرئيسية'

@@ -81,7 +81,7 @@ ar:
   courses_page:
     title_student: "تعلّم على كود استوديو"
     title_teacher: "تعليم علوم الكمبيوتر"
-  unplugged_activity: 'نشاط غير موصول'
+  unplugged_activity: 'مقالة تعليمية'
   of: "من"
   more: "أكثر"
   less: "أقل"
@@ -1036,3 +1036,6 @@ ar:
     logout: 'تسجيل الخروج'
     yes: 'نعم'
   copy: 'نسخ'
+  page_not_found_header: '٤٠٤'
+  page_not_found_description: 'لم نجد الصفحة التي تود الوصول إليها.'
+  page_not_found_button: 'إنتقل للصفحة الرئيسية'
